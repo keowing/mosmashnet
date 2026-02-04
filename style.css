@@ -38,6 +38,10 @@
 --grey5: #717171;
 --grey6: #8b8b8b;
 
+/** Purple **/
+--purple1: #6b51cf;
+--purple: #a78ff7;
+
 /** Success colors */
 --success1: #22946e;
 --success2: #47d5a6;
@@ -191,10 +195,10 @@ p {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 400px;
-	height: 250px;
-	min-width: 400px;
-	min-height: 250px;
+	width: 350px;
+	height: 200px;
+	min-width: 350px;
+	min-height: 200px;
 	background-color: var(--grey2);
 	margin: 20px;
 	transition: 0.3s;
