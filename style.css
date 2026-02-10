@@ -427,12 +427,12 @@ footer {
 }
 
 .t-card {
-  background: var(--grey1);
+  background: var(--grey2);
   border-radius: 12px;
   overflow: hidden;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
   text-decoration: none;
-  color: var(--lgrey4);
+  color: var(--grey6);
   display: flex;
   flex-direction: column;
   height: 100%;
