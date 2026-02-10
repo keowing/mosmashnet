@@ -437,6 +437,7 @@ footer {
   flex-direction: column;
   height: 100%;
   object-fit: cover;
+  text-decoration: none;
 }
 
 .t-card:hover {
@@ -464,6 +465,7 @@ footer {
   line-height: 1.4;
   font-weight: 700;
   color: white;
+  text-decoration: none;
 }
 
 .t-detail {
@@ -473,6 +475,7 @@ footer {
   display: flex;
   align-items: center;
   gap: 8px;
+  text-decoration: none;
 }
 
 .t-entrants {
@@ -481,4 +484,5 @@ footer {
   font-weight: 600;
   color: white;
   font-size: 0.95rem;
+  text-decoration: none;
 }
