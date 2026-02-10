@@ -46,81 +46,110 @@
 
 <center>
 <h3>Upcoming Events</h3>
-<div class="fpcontain2">
-
-
-
-<a class="carda" a href="#" onClick="window.open('https://slcl.events.mylibrary.digital/event?id=242266', '_blank')">
-	<div class="cardb">
-		<img src="https://images.start.gg/images/tournament/865889/image-af4c6f92c6122f917b4365560865b7f6.png" class="cardbimg">
-		<h4>Learn to Read #5</h4>
-		<img src="images/pin24.png" class="pin"><p>St. Louis, MO | 2/7<p>
-	</div>
-</a>
-
-<a class="carda" a href="#" onClick="window.open('https://www.start.gg/tournament/mad-smash-february-monthly-2026/details', '_blank')">
-	<div class="cardb">
-		<img src="https://images.start.gg/images/tournament/877339/image-056adc9737635368a5c7f8d5c077c2da.png" class="cardbimg">
-		<h4>MAD Smash</h4>
-		<img src="images/pin24.png" class="pin"><p>St. Louis, MO | 2/21<p>
-	</div>
-</a>
-
-<a class="carda" a href="#" onClick="window.open('https://www.start.gg/tournament/pubstomp-2-2/details', '_blank')">
-	<div class="cardb">
-		<img src="https://images.start.gg/images/tournament/868719/image-03fc916384bf39a165536a1230cba41c.jpg" class="cardbimg">
-		<h4>PUBSTOMP #2</h4>
-		<img src="images/pin24.png" class="pin"><p>Cape Girardeau, MO | 2/22<p>
-	</div>
-</a>
-
-<a class="carda" a href="#" onClick="window.open('https://www.start.gg/tournament/wheak-hit-into-sweet-spot-x/details', '_blank')">
-	<div class="cardb">
-		<img src="https://images.start.gg/images/tournament/845924/image-42d91e63926adc4f6228331f25aac8c2.jpg" class="cardbimg">
-		<h4>Wheak Hit</h4>
-		<img src="images/pin24.png" class="pin"><p>Lawrence, KS | 3/7<p>
-	</div>
-</a>
-
-<a class="carda" a href="#" onClick="window.open('https://www.start.gg/tournament/sweet-spot-x/details', '_blank')">
-	<div class="cardb">
-		<img src="https://images.start.gg/images/tournament/860958/image-74682cf286373fea6ff0feef55ece8d7.png" class="cardbimg2">
-		<h4>Sweet Spot X</h4>
-		<img src="images/pin24.png" class="pin"><p>Lawrence, KS | 3/14-15<p>
-	</div>
-</a>
-
-
-
-
-<!-- COPY PASTE EXAMPLE -->
-
-<!-- <a class="carda" a href="#" onClick="window.open('STARTGG LINK HERE', '_blank')">
-	<div class="cardb">
-		<img src="STARTGG PFP COPY IMAGE LINK HERE" class="cardbimg">
-		<h4>TOURNAMENT NAME</h4>
-		<img src="images/pin24.png" class="pin"><p>City, MO | 1/1<p>
-	</div>
-</a> -->
-
-
 </center>
+<div id="tournament-container" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    <p>Loading tournaments...</p>
 </div>
+<p id="last-updated" style="font-size: 0.8rem; color: #999; text-align: center; margin-top: 20px;"></p>
 
-<br>
-<hr>
-<br>
+
+<script>
+async function loadTournaments() {
+  const container = document.getElementById('tournament-container');
+  console.log("Starting loadTournaments...");
+
+  try {
+    // Try to fetch the file
+    const response = await fetch('tournaments.json');
+    
+    if (!response.ok) {
+      throw new Error(`Could not find tournaments.json (Status: ${response.status})`);
+    }
+
+    const result = await response.json();
+    console.log("JSON loaded successfully:", result);
+
+    if (result.updatedAt) {
+      const date = new Date(result.updatedAt).toLocaleString();
+      document.getElementById('last-updated').innerText = `Last sync: ${date}`;
+    }
+
+    // Pass the data to the display function
+    displayTournaments(result.data); 
+
+  } catch (error) {
+    console.error("Critical Error:", error);
+    container.innerHTML = `<p style="color:red">Error: ${error.message}<br>Check if tournaments.json exists in your GitHub repo.</p>`;
+  }
+}
+
+function displayTournaments(tournamentData) {
+    const container = document.getElementById('tournament-container');
+    console.log("Processing tournament data...");
+
+    if (!tournamentData) {
+        container.innerHTML = "<p>Data structure is empty.</p>";
+        return;
+    }
+
+    let allNodes = [];
+    Object.keys(tournamentData).forEach(region => {
+        if (tournamentData[region] && tournamentData[region].nodes) {
+            allNodes = allNodes.concat(tournamentData[region].nodes);
+        }
+    });
+
+    console.log("Total tournaments found before filtering:", allNodes.length);
+
+    // BROADENED FILTER: Check for 'Ultimate' AND 'Singles' in the same event
+    const filtered = allNodes.filter(t => 
+        t.events?.some(e => {
+            const name = e.name.toLowerCase();
+            return (name.includes('ultimate') && name.includes('singles')) || 
+                   name.includes('ssbu singles') || 
+                   name.includes('smash ultimate');
+        })
+    );
+
+    console.log("Tournaments after filtering:", filtered.length);
+
+    // Deduplicate
+    const unique = Array.from(new Map(filtered.map(item => [item.id, item])).values());
+    unique.sort((a, b) => a.startAt - b.startAt);
+
+    if (unique.length === 0) {
+        container.innerHTML = "<p>No upcoming tournaments match the 'Ultimate Singles' filter.</p>";
+        return;
+    }
+
+    // Build the HTML
+    container.innerHTML = unique.map(t => {
+        const dateStr = new Date(t.startAt * 1000).toLocaleDateString("en-US", {
+            weekday: 'short', month: 'short', day: 'numeric'
+        });
+
+        const imgObj = t.images.find(i => i.type === 'banner') || t.images.find(i => i.type === 'profile');
+        const imgUrl = imgObj ? imgObj.url : 'https://placehold.co/400x200?text=No+Image';
+
+        // Get entrant count
+        const eventObj = t.events.find(e => e.name.toLowerCase().includes('singles')) || t.events[0];
+        const entrants = eventObj ? eventObj.numEntrants : t.numAttendees;
+
+        return `
+            <a href="https://start.gg/${t.slug}" target="_blank" class="t-card">
+                <img src="${imgUrl}" alt="${t.name}" height="150px">
+                <div class="t-info">
+                    <h3 class="t-name">${t.name}</h3>
+                    <div class="t-meta">📅 ${dateStr}</div>
+                    <div class="t-meta">📍 ${t.city}, ${t.addrState}</div>
+                    <span class="t-entrants">👥 ${entrants || 0} Entrants</span>
+                </div>
+            </a>
+        `;
+    }).join('');
+}
+
+// Execute
+loadTournaments();
+</script>
 </body>
-<footer>
-<center>
-
-<div class="carde" a href="#" onClick="window.open('https://smashcals.com/', '_blank')"><h2>Smash Cal</h2></div>
-<p>All upcoming brackets, regardless of location + support for multiple games.</p>
-</center>
-</footer>
-
-<br><br>
-
-
-</HTML>
-
