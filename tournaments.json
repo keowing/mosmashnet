@@ -1,12 +1,41 @@
 {
-  "updatedAt": "2026-02-11T14:27:49.000Z",
+  "updatedAt": "2026-02-11T20:32:58.020Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 2/11/26",
+          "id": 879887,
+          "numAttendees": 2,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1770854400,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-2-11-26",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/879887/image-a9d313a38739dc6dd22fbc00ba857700.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/879887/image-161713457b86d44b0b04c87cbeb2854a.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "2XKO",
+              "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
           "name": "PHAZE ➠ FUSION 53",
           "id": 879655,
-          "numAttendees": 22,
+          "numAttendees": 24,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1770856200,
@@ -24,11 +53,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 20
+              "numEntrants": 21
             },
             {
               "name": "2XKO",
               "numEntrants": 3
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #522",
+          "id": 880140,
+          "numAttendees": 6,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1770858000,
+          "slug": "tournament/smash-cafe-522",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/880140/image-ddb5e52c89ba7b22e35d66bebdace66a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/880140/image-2f24b98f486a7c0653d8fa04a2e10d0d.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 6
+            },
+            {
+              "name": "Smash 64 Singles",
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Redemption",
