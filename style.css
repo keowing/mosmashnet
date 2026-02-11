@@ -522,6 +522,7 @@ footer {
   height: 100%;
   object-fit: cover;
   text-decoration: none;
+  width: 300px;
 }
 
 .r-card:hover {
@@ -596,18 +597,51 @@ footer {
     cursor: pointer;
 }
 
-/* Container for the search and filters */
+/* The main bar */
 .filter-ui {
-    background-color: var(--grey1);
-    padding: 20px;
+    background-color: var(--grey2);
+    padding: 15px 25px;
     margin: 20px 5%;
     border-radius: 20px;
-    display: flex;
-    flex-wrap: wrap;
+    
+    /* This keeps everything in one line */
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; /* Allows wrapping on small phone screens */
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start; /* Aligns items to the left */
     gap: 20px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+/* Prevents the individual groups from taking up 100% width */
+.filter-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    width: auto; /* IMPORTANT: prevents stretching */
+}
+
+/* Ensure inputs don't grow too large */
+#search-bar {
+    min-width: 200px;
+    flex: 1; /* Allows search to grow slightly to fill space */
+    max-width: 400px;
+}
+
+.filter-ui select {
+    width: auto;
+    min-width: 150px;
+}
+
+/* Individual checkbox labels - strictly horizontal */
+.filter-group label {
+    display: flex;
+    align-items: center;
+    white-space: nowrap; /* Prevents text from breaking into two lines */
+    gap: 6px;
+    cursor: pointer;
+	color: var(--grey6)
 }
 
 /* Style for the search input and dropdowns */
@@ -626,28 +660,6 @@ footer {
 .filter-ui input[type="text"]:focus, 
 .filter-ui select:focus {
     border-color: var(--teal1);
-}
-
-/* Group for the checkboxes */
-.filter-group {
-    display: flex;
-    gap: 15px;
-    align-items: center;
-    color: var(--white2);
-}
-
-/* Individual checkbox labels */
-.filter-group label {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    cursor: pointer;
-    font-size: 0.9rem;
-    transition: color 0.2s;
-}
-
-.filter-group label:hover {
-    color: var(--teal2);
 }
 
 /* The Clear All button */
