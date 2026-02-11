@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-02-11T02:00:00.755Z",
+  "updatedAt": "2026-02-11T05:30:13.078Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Smash @ Mizzou 177",
           "id": 879446,
-          "numAttendees": 29,
+          "numAttendees": 30,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1770775200,
@@ -23,31 +23,31 @@
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 17
+              "name": "Ultimate Redemption",
+              "numEntrants": 6
             },
             {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 8
+              "name": "Rivals II",
+              "numEntrants": 3
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 17
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
               "numEntrants": 10
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            },
-            {
-              "name": "Rivals II",
-              "numEntrants": 3
+              "name": "Guilty Gear Strive",
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 53",
           "id": 879655,
-          "numAttendees": 18,
+          "numAttendees": 21,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1770856200,
@@ -65,7 +65,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 18
             },
             {
               "name": "2XKO",
@@ -80,7 +80,7 @@
         {
           "name": "URSA MINOR 73",
           "id": 879633,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1770944400,
@@ -98,7 +98,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
@@ -138,7 +138,7 @@
         {
           "name": "Feather Weights: 1st Bout!",
           "id": 872093,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -152,7 +152,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 16
             }
           ]
         },
