@@ -1,53 +1,12 @@
 {
-  "updatedAt": "2026-02-11T05:30:13.078Z",
+  "updatedAt": "2026-02-11T14:27:49.000Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 177",
-          "id": 879446,
-          "numAttendees": 30,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1770775200,
-          "slug": "tournament/smash-mizzou-177",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/879446/image-4ae33da2a0ead7ac8dda0ddf9920c93a.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/879446/image-2507ed3f9ae280877fb9c9ad116a78f9.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            },
-            {
-              "name": "Rivals II",
-              "numEntrants": 3
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 10
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 53",
           "id": 879655,
-          "numAttendees": 21,
+          "numAttendees": 22,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1770856200,
@@ -65,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 20
             },
             {
               "name": "2XKO",
