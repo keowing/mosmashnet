@@ -1,0 +1,431 @@
+[
+    {
+        "resource": "Midwest Unified Ruleset",
+        "link": "https://mosmash.net/images/ruleset.png",
+        "image": "https://mosmash.net/images/ruleset.png",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": true,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "start.gg",
+        "link": "https://start.gg",
+        "image": "https://pbs.twimg.com/profile_images/1642581573944897537/YDVCEWv5_400x400.png",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": true,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "Supermajor",
+        "link": "https://www.supermajor.gg/",
+        "image": "https://www.supermajor.gg/app-icon-cropped.png",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": true,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "SmashTube",
+        "link": "https://smash-tube.com/en/",
+        "image": "https://smash-tube.com/images/smash_tube_en1.svg",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": true,
+            "forTOs": false,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Ultimate Frame Data",
+        "link": "https://ultimateframedata.com/smash",
+        "image": "https://pbs.twimg.com/profile_images/1193596734372556800/HN4mqSeu_400x400.jpg",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": true,
+            "forTOs": false,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "Smashbase",
+        "link": "https://www.smashbase.gg/",
+        "image": "https://www.smashbase.gg/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogowithcaption.0fe9063d.png&w=640&q=75",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": true,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "OBS",
+        "link": "https://obsproject.com/",
+        "image": "https://obsproject.com/assets/images/new_icon_small-r.png",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": true,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    },
+    {
+        "resource": "Top8er",
+        "link": "https://www.top8er.com/",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "TO Guide (Cagt)",
+        "link": "https://cagt.gg/2022/01/28/offlineto/",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    },
+    {
+        "resource": "SmashWiki",
+        "link": "https://www.ssbwiki.com/",
+        "image": "https://ssb.wiki.gallery/images/b/bc/Wiki.png",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": false,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "SSBU Calculator",
+        "link": "https://rubendal.github.io/SSBU-Calculator/index.html",
+        "image": "images/resources/kocalc.png",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": false,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Dumped Scripts",
+        "link": "https://github.com/WuBoytH/SSBU-Dumped-Scripts/tree/main/smashline",
+        "image": "",
+        "complexity": "Advanced",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": false,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Dragdown Wiki",
+        "link": "https://dragdown.wiki/wiki/Super_Smash_Bros._Ultimate",
+        "image": "https://static.wikitide.net/dragdownwiki/thumb/7/76/Dd_outline_full.png/300px-Dd_outline_full.png",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": false,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "parry.gg",
+        "link": "https://parry.gg",
+        "image": "https://pbs.twimg.com/profile_images/2019617545712816128/dvi5FXHv_400x400.jpg",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "Smash Cals",
+        "link": "https://smashcals.com/",
+        "image": "https://smashcals.com/static/favicon.svg",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "Stage Comparison Tool",
+        "link": "https://www.tournameta.com/stage-comparison/",
+        "image": "images/resources/tournameta.png",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Ruleset Generator",
+        "link": "https://bans.page/create.html",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Ruleset Generator Alt",
+        "link": "https://smashustagepicker.web.app/",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Tournament Tierer",
+        "link": "https://kenniky.github.io/web_ultrank_scorer.html",
+        "image": "images/resources/ultrank.jpg",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Printable Rulesets",
+        "link": "https://mosmash.net/images/printruleset.pdf",
+        "image": "https://mosmash.net/images/ruleset.png",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "UltRank Methodology",
+        "link": "https://docs.google.com/document/d/1dC5oJaRfXITqlVMG8w6uZ1KGVjWxshbNqQzRD6zSXE8/edit?usp=sharing",
+        "image": "images/resources/ultrank.jpg",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "UltRank TTS",
+        "link": "https://docs.google.com/spreadsheets/d/1LX5PVwahUPKmInwVPWra_f5ha0J1-5U-aAFAAESgc0U/edit?usp=sharing",
+        "image": "images/resources/ultrank.jpg",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Result Maker",
+        "link": "https://ss1.xrea.com/nyokkissb.s1007.xrea.com/trial/",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
+        }
+    },
+    {
+        "resource": "Top X Seeding Graphic",
+        "link": "https://docs.google.com/spreadsheets/d/1F_PZ1kzFVAE-xNXVeK27D1aXOCQP5nE9B9OCp8asFhE/edit?usp=sharing",
+        "image": "",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "StartKit.gg",
+        "link": "https://startkit.gg/about",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "Payout Calculator",
+        "link": "https://docs.google.com/spreadsheets/d/1srUw6on1UKGOaNwAHyG1Ql_N38ukZYN1w_IO6RjfdNg/edit?usp=sharing",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
+        "resource": "Bo5 Guide (Cagt)",
+        "link": "https://cagt.gg/2023/11/03/bo5/",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    },
+    {
+        "resource": "OBS Vertical Plugin",
+        "link": "https://obsproject.com/forum/resources/aitum-vertical.1715/",
+        "image": "",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    },
+    {
+        "resource": "Ult Stream tool",
+        "link": "https://github.com/pokerobybeto/Ultimate-Stream-Tool",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": true
+        }
+    },
+    {
+        "resource": "Tournament Stream Helper",
+        "link": "https://github.com/joaorb64/TournamentStreamHelper",
+        "image": "",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": true,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    },
+    {
+        "resource": "AutoVod",
+        "link": "https://autovod.net/",
+        "image": "",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    },
+    {
+        "resource": "SMART",
+        "link": "https://skpeter.github.io/smart-user-guide/",
+        "image": "https://skpeter.github.io/smart-user-guide/img/icon.png",
+        "complexity": "Intermediate",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    },
+    {
+        "resource": "SmartCV",
+        "link": "https://github.com/skpeter/SmartCV-SSBU",
+        "image": "https://skpeter.github.io/smart-user-guide/img/icon.png",
+        "complexity": "Advanced",
+        "tags": {
+            "fav": false,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": true
+        }
+    }
+]

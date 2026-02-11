@@ -486,3 +486,188 @@ footer {
   font-size: 0.95rem;
   text-decoration: none;
 }
+
+.t-complex {
+  font-size: 0.9rem;
+  color: var(--info2);
+  margin: 4px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  padding:4px;
+  border: 1px solid var(--teal1);
+  border-radius: 5px;
+}
+
+#resource-container {
+  display: grid;
+  /* Adjusts from 1 column on mobile to many on desktop */
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+  gap: 25px;
+  padding: 20px 0;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.r-card {
+  background: var(--grey2);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-decoration: none;
+  color: var(--grey6);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  object-fit: cover;
+  text-decoration: none;
+}
+
+.r-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* Ensure the images in resource cards fill correctly */
+.r-card img {
+    width: 100%;
+    height: 160px; /* Consistent height for all images */
+    object-fit: cover; /* Crops image to fill without stretching */
+    display: block;
+    border-bottom: 2px solid var(--grey3); /* Subtle separator */
+}
+
+/* Update the info section to match your theme */
+.r-card .t-info {
+    padding: 20px;
+    background: var(--grey2);
+    border: none !important; /* Overriding inline styles if necessary */
+    flex-grow: 1;
+}
+
+.r-card h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.2rem;
+    color: var(--white); /* Match your header colors */
+}
+
+.r-card strong {
+    color: var(--teal3); /* Highlights labels (Level, Target) with your teal */
+}
+
+
+/* Style for the filter bar container */
+.filter-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    background: var(--grey2);
+    border-radius: 12px;
+    margin: 20px 5%;
+}
+
+/* The Clear All Button */
+.clear-btn {
+    padding: 8px 16px;
+    background: var(--danger1); /* Using your red theme color */
+    color: var(--white);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+    transition: background 0.3s;
+}
+
+.clear-btn:hover {
+    background: var(--danger2);
+}
+
+/* Custom Checkbox Styling */
+.filter-checkbox-wrapper {
+    color: var(--white2);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+/* Container for the search and filters */
+.filter-ui {
+    background-color: var(--grey1);
+    padding: 20px;
+    margin: 20px 5%;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+/* Style for the search input and dropdowns */
+.filter-ui input[type="text"], 
+.filter-ui select {
+    background: var(--grey3);
+    border: 1px solid var(--grey4);
+    color: var(--white);
+    padding: 10px 15px;
+    border-radius: 10px;
+    outline: none;
+    font-family: 'Quicksand', sans-serif;
+    transition: border-color 0.3s;
+}
+
+.filter-ui input[type="text"]:focus, 
+.filter-ui select:focus {
+    border-color: var(--teal1);
+}
+
+/* Group for the checkboxes */
+.filter-group {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    color: var(--white2);
+}
+
+/* Individual checkbox labels */
+.filter-group label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: color 0.2s;
+}
+
+.filter-group label:hover {
+    color: var(--teal2);
+}
+
+/* The Clear All button */
+.clear-btn {
+    background-color: var(--danger1);
+    color: var(--white);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Quicksand';
+    transition: 0.3s;
+}
+
+.clear-btn:hover {
+    background-color: var(--danger2);
+    transform: scale(1.05);
+}
+
+option {
+	font-family: Quicksand;
+}

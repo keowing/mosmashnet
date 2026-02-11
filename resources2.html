@@ -1,0 +1,193 @@
+<HTML>
+
+<head>
+<link rel="stylesheet" href="style.css">
+<link rel='shortcut icon' type='image/x-icon' href='images/favicon.ico' />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- HTML Meta Tags -->
+<title>Resources - MOSmash</title>
+<meta name="description" content="MO Smash Ultimate resource hub. Powered by [ON\OFF]">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://mosmash.net/resources">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Resources - MOSmash">
+<meta property="og:description" content="MO Smash Ultimate resource hub. Powered by [ON\OFF]">
+<meta property="og:image" content="https://mosmash.net/images/linkpreview.png">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://mosmash.net/resources">
+<meta name="twitter:title" content="Resources - MOSmash">
+<meta name="twitter:description" content="MO Smash Ultimate resource hub. Powered by [ON\OFF]">
+<meta name="twitter:image" content="https://mosmash.net/images/linkpreview.png">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Liter&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<center><a href="index.html"><image src="images/mosmashpng.png" width="350px"></a></center>
+
+<div class="navbar">
+<center>
+<button class="navbutton" onclick="location.href='upcomingevents.html'"><h4>Upcoming Events</h4></button>
+<button class="navbutton" onclick="location.href='resources.html'"><h4>Resources</h4></button>
+<button class="navbutton" onclick="location.href='statepr.html'"><h4>State PR</h4></button>
+<button class="navbutton" onclick="location.href='regionalpr.html'"><h4>Regional PRs</h4></button>
+</center>
+</div>
+
+<div class="filter-ui">
+    <input type="text" id="search-bar" placeholder="Search resources...">
+
+    <select id="complexity-filter">
+        <option value="all">All Levels</option>
+        <option value="Beginner">Beginner</option>
+        <option value="Intermediate">Intermediate</option>
+        <option value="Advanced">Advanced</option>
+    </select>
+
+    <div class="filter-group">
+        <label><input type="checkbox" class="filter-checkbox" value="fav"> Favorites</label>
+        <label><input type="checkbox" class="filter-checkbox" value="ssbuOnly"> SSBU Only</label>
+        <label><input type="checkbox" class="filter-checkbox" value="forTOs"> For TOs</label>
+        <label><input type="checkbox" class="filter-checkbox" value="production"> Production</label>
+    </div>
+
+    <button class="clear-btn" onclick="clearAllFilters()">Clear All</button>
+</div>
+
+
+<div id="resource-container"></div>
+
+<script>
+let resourceData = [];
+
+/**
+ * Initializes the application once the HTML is fully loaded
+ */
+async function init() {
+    try {
+        const response = await fetch('resources.json');
+        if (!response.ok) throw new Error("Could not fetch resources.json");
+        
+        resourceData = await response.json();
+        
+        // Setup UI Listeners
+        const searchBar = document.getElementById('search-bar');
+        const compFilter = document.getElementById('complexity-filter');
+        const checkboxes = document.querySelectorAll('.filter-checkbox');
+
+        if(searchBar) searchBar.addEventListener('input', applyFilters);
+        if(compFilter) compFilter.addEventListener('change', applyFilters);
+        checkboxes.forEach(box => box.addEventListener('change', applyFilters));
+
+        // Initial render
+        applyFilters(); 
+    } catch (err) { 
+        console.error("Critical Load Error:", err); 
+    }
+}
+
+/**
+ * Filters and sorts the data based on UI state
+ */
+function applyFilters() {
+    const searchTerm = document.getElementById('search-bar')?.value.toLowerCase() || "";
+    const complexityTerm = document.getElementById('complexity-filter')?.value || "all";
+    
+    // Get array of active filter keys
+    const activeFilters = Array.from(document.querySelectorAll('.filter-checkbox:checked'))
+                               .map(cb => cb.value);
+
+    const filtered = resourceData.filter(item => {
+        // 1. Search Logic (Check name)
+        const matchesSearch = item.resource.toLowerCase().includes(searchTerm);
+        
+        // 2. Multi-Filter Logic (Must match ALL selected checkboxes)
+        const matchesTags = activeFilters.every(tag => item.tags[tag] === true);
+        
+        // 3. Complexity Logic
+        const matchesComplexity = (complexityTerm === 'all' || item.complexity === complexityTerm);
+
+        return matchesSearch && matchesTags && matchesComplexity;
+    });
+
+    // 4. Sorting: Favorites first, then Alphabetical
+    filtered.sort((a, b) => (b.tags.fav - a.tags.fav) || a.resource.localeCompare(b.resource));
+
+    displayResources(filtered);
+}
+
+/**
+ * Renders the filtered list to the screen
+ */
+function displayResources(data) {
+    const container = document.getElementById('resource-container');
+    if (!container) return;
+
+    container.innerHTML = data.length ? "" : "<p style='padding:20px;'>No resources match these criteria.</p>";
+
+    data.forEach(item => {
+        const card = document.createElement('a');
+        card.href = item.link;
+        card.target = "_blank";
+        card.className = 'r-card';
+
+        const bannerColor = item.tags.fav ? '#6b51cf' : '#22946e';
+        
+        // Image logic: Use external URL or local path. Fallback to placeholder.
+        const bannerHTML = item.image 
+            ? `<img src="${item.image}" alt="${item.resource}" style="width:100%; height:140px; object-fit:cover; border-radius: 8px 8px 0 0; display: block;">`
+            : `<div class="t-banner" style="background: ${bannerColor}; display:flex; align-items:center; justify-content:center; height:140px; border-radius: 8px 8px 0 0;">
+                   <span style="font-size: 3rem; opacity: 0.2; color: white;">${item.resource[0]}</span>
+               </div>`;
+
+        card.innerHTML = `
+            ${bannerHTML}
+            <div class="t-info" style="padding: 15px; border-top: none; border-radius: 0 0 8px 8px;">
+                <h4 style="margin: 0 0 10px 0; color: var(--white);">${item.tags.fav ? '⭐ ' : ''}${item.resource}</h4>
+                <div style="font-size: 0.85rem; color: #555;">
+                    <div style="margin-bottom: 5px;">${item.complexity}</div>
+                </div>
+            </div>
+        `;
+        
+        container.appendChild(card);
+    });
+}
+
+function getAudience(tags) {
+    let labels = [];
+    if (tags.forPlayers) labels.push("Players");
+    if (tags.forTOs) labels.push("TOs");
+    if (tags.production) labels.push("Stream");
+    return labels.length ? labels.join(' | ') : "General";
+}
+
+function clearAllFilters() {
+    document.getElementById('search-bar').value = "";
+    document.getElementById('complexity-filter').value = "all";
+    document.querySelectorAll('.filter-checkbox').forEach(box => box.checked = false);
+    applyFilters();
+}
+
+// WAITS FOR DOM TO BE READY BEFORE STARTING
+document.addEventListener('DOMContentLoaded', init);
+</script>
+
+
+<br><br>
+
+
+
+
+</body>
+</HTML>
+
