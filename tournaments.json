@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-02-11T20:53:31.160Z",
+  "updatedAt": "2026-02-12T01:53:01.983Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 2/11/26",
           "id": 879887,
-          "numAttendees": 2,
+          "numAttendees": 9,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1770854400,
@@ -23,19 +23,19 @@
           ],
           "events": [
             {
-              "name": "2XKO",
-              "numEntrants": 2
+              "name": "Ultimate Singles",
+              "numEntrants": 7
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 2
+              "name": "The Real 2XKO",
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 53",
           "id": 879655,
-          "numAttendees": 24,
+          "numAttendees": 27,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1770856200,
@@ -53,22 +53,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 3
+              "numEntrants": 24
             },
             {
               "name": "Ultimate Redemption",
               "numEntrants": 0
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Smash Cafe #522",
           "id": 880140,
-          "numAttendees": 6,
+          "numAttendees": 15,
           "city": "Independence",
           "addrState": "MO",
           "startAt": 1770858000,
@@ -86,7 +86,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 15
             },
             {
               "name": "Smash 64 Singles",
@@ -300,6 +300,31 @@
     },
     "KansasCityKS": {
       "nodes": [
+        {
+          "name": "Ascend the Spire #69",
+          "id": 880434,
+          "numAttendees": 0,
+          "city": "Leavenworth",
+          "addrState": "KS",
+          "startAt": 1770933600,
+          "slug": "tournament/ascend-the-spire-69-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/880434/image-5ceba6ea03be2f915dde06ac29ea194d.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/880434/image-3f22cecf4699987b6f82fb23f4e1472f.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
         {
           "name": "Wheak Hit into Sweet Spot X!",
           "id": 845924,
