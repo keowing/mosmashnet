@@ -1,107 +1,12 @@
 {
-  "updatedAt": "2026-02-12T01:53:01.983Z",
+  "updatedAt": "2026-02-13T00:56:11.837Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 2/11/26",
-          "id": 879887,
-          "numAttendees": 9,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1770854400,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-2-11-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/879887/image-a9d313a38739dc6dd22fbc00ba857700.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/879887/image-161713457b86d44b0b04c87cbeb2854a.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "The Real 2XKO",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 53",
-          "id": 879655,
-          "numAttendees": 27,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1770856200,
-          "slug": "tournament/phaze-fusion-53",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/879655/image-25a94437f9fe4d2b4531b68d69de5c69.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/879655/image-ddce7e2cbc1af05cb65c2055a0a59782.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 24
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #522",
-          "id": 880140,
-          "numAttendees": 15,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1770858000,
-          "slug": "tournament/smash-cafe-522",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/880140/image-ddb5e52c89ba7b22e35d66bebdace66a.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/880140/image-2f24b98f486a7c0653d8fa04a2e10d0d.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 15
-            },
-            {
-              "name": "Smash 64 Singles",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 73",
           "id": 879633,
-          "numAttendees": 10,
+          "numAttendees": 22,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1770944400,
@@ -119,7 +24,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 22
+            }
+          ]
+        },
+        {
+          "name": "Strike! 45",
+          "id": 880681,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1771029000,
+          "slug": "tournament/strike-45",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/880681/image-ede919ca9b2fceef0839874c2ab88594.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/880681/image-b412a47b41b6944d379fe6a3b2d4a77b.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Randoms",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
             }
           ]
         },
@@ -303,7 +241,7 @@
         {
           "name": "Ascend the Spire #69",
           "id": 880434,
-          "numAttendees": 0,
+          "numAttendees": 6,
           "city": "Leavenworth",
           "addrState": "KS",
           "startAt": 1770933600,
@@ -321,7 +259,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 0
+              "numEntrants": 6
             }
           ]
         },
@@ -361,7 +299,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 108,
+          "numAttendees": 111,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -379,11 +317,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 79
+              "numEntrants": 81
             },
             {
               "name": "Melee Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Doubles",
@@ -399,7 +337,7 @@
             },
             {
               "name": "Brawl Doubles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Brawl Singles",
