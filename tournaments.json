@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-02-14T00:33:06.855Z",
+  "updatedAt": "2026-02-14T01:04:25.088Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Strike! 45",
           "id": 880681,
-          "numAttendees": 16,
+          "numAttendees": 20,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1771029000,
@@ -23,16 +23,16 @@
           ],
           "events": [
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 20
+            },
+            {
               "name": "Randoms",
               "numEntrants": 5
             },
             {
               "name": "Ultimate Redemption",
               "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 16
             }
           ]
         },
