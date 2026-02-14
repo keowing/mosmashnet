@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-02-13T01:55:30.969Z",
+  "updatedAt": "2026-02-14T00:33:06.855Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 73",
-          "id": 879633,
-          "numAttendees": 22,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1770944400,
-          "slug": "tournament/ursa-minor-73",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/879633/image-828fa9863a88535be592d4c1ea6abe1e.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/879633/image-b7e7ae9ea74b4a38c66d5c4cef9bf579.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 22
-            }
-          ]
-        },
-        {
           "name": "Strike! 45",
           "id": 880681,
-          "numAttendees": 1,
+          "numAttendees": 16,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1771029000,
@@ -49,7 +24,7 @@
           "events": [
             {
               "name": "Randoms",
-              "numEntrants": 1
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Redemption",
@@ -57,7 +32,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 16
             }
           ]
         },
@@ -180,7 +155,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -198,7 +173,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "SSBM Singles",
@@ -239,31 +214,6 @@
     "KansasCityKS": {
       "nodes": [
         {
-          "name": "Ascend the Spire #69",
-          "id": 880434,
-          "numAttendees": 6,
-          "city": "Leavenworth",
-          "addrState": "KS",
-          "startAt": 1770933600,
-          "slug": "tournament/ascend-the-spire-69-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/880434/image-5ceba6ea03be2f915dde06ac29ea194d.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/880434/image-3f22cecf4699987b6f82fb23f4e1472f.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "Wheak Hit into Sweet Spot X!",
           "id": 845924,
           "numAttendees": 7,
@@ -299,7 +249,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 111,
+          "numAttendees": 113,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -317,7 +267,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 81
+              "numEntrants": 83
             },
             {
               "name": "Melee Singles",
@@ -325,7 +275,7 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Melee Doubles",
@@ -341,7 +291,7 @@
             },
             {
               "name": "Brawl Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Melee Redemption",
@@ -353,7 +303,7 @@
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 18
+              "numEntrants": 19
             }
           ]
         }
