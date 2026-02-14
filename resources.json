@@ -221,19 +221,6 @@
         }
     },
     {
-        "resource": "Ruleset Generator Alt",
-        "link": "https://smashustagepicker.web.app/",
-        "image": "",
-        "complexity": "Beginner",
-        "tags": {
-            "fav": false,
-            "forPlayers": false,
-            "forTOs": true,
-            "ssbuOnly": true,
-            "production": false
-        }
-    },
-    {
         "resource": "Tournament Tierer",
         "link": "https://kenniky.github.io/web_ultrank_scorer.html",
         "image": "images/resources/ultrank.jpg",
@@ -426,6 +413,19 @@
             "forTOs": true,
             "ssbuOnly": false,
             "production": true
+        }
+    },
+    {
+        "resource": "Stage Strike App",
+        "link": "https://www.smashprova.crespialemany.com/",
+        "image": "https://www.smashprova.crespialemany.com/imgs/background.webp",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": false,
+            "forPlayers": true,
+            "forTOs": true,
+            "ssbuOnly": true,
+            "production": false
         }
     }
 ]
