@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T01:51:05.757Z",
+  "updatedAt": "2026-02-16T03:23:39.909Z",
   "data": {
     "Missouri": {
       "nodes": [
@@ -25,6 +25,43 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 54",
+          "id": 881545,
+          "numAttendees": 3,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1771461000,
+          "slug": "tournament/phaze-fusion-54",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/881545/image-1aa665d3efe6a11d04ec62fc1805c38f.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/881545/image-6cd3dbdaefe9bb64e6bed259c1e4cf49.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            },
+            {
+              "name": "Ultimate Doubles",
+              "numEntrants": 0
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -85,7 +122,7 @@
         {
           "name": "★PUBSTOMP #2★",
           "id": 868719,
-          "numAttendees": 11,
+          "numAttendees": 10,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1771794000,
@@ -103,11 +140,11 @@
           "events": [
             {
               "name": "GIANT SMASH 1v1",
-              "numEntrants": 6
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 11
+              "numEntrants": 10
             },
             {
               "name": "Redemption Bracket",
@@ -230,7 +267,7 @@
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 6
             }
           ]
         },
