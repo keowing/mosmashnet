@@ -1,8 +1,33 @@
 {
-  "updatedAt": "2026-02-15T01:55:00.795Z",
+  "updatedAt": "2026-02-16T01:51:05.757Z",
   "data": {
     "Missouri": {
       "nodes": [
+        {
+          "name": "The Bair House #27",
+          "id": 881497,
+          "numAttendees": 4,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1771290000,
+          "slug": "tournament/the-bair-house-27",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/881497/image-0cbab319eae1af09ceca87a5a4fb15f3.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/881497/image-e4343617b84e7ad2187d150d7598bfc4.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
         {
           "name": "MAD Smash February Monthly 2026",
           "id": 877339,
@@ -39,7 +64,7 @@
         {
           "name": "Feather Weights: 1st Bout!",
           "id": 872093,
-          "numAttendees": 17,
+          "numAttendees": 19,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -53,7 +78,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 19
             }
           ]
         },
@@ -183,7 +208,7 @@
         {
           "name": "Rock Chalk Jab Lock 193",
           "id": 881110,
-          "numAttendees": 2,
+          "numAttendees": 13,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1771203600,
@@ -201,7 +226,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 13
             },
             {
               "name": "Redemption Bracket",
@@ -271,7 +296,7 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Melee Doubles",
