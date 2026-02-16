@@ -416,12 +416,25 @@
         }
     },
     {
+        "resource": "Tournament License Application",
+        "link": "https://app.smartsheet.com/b/form/4338162fe6fb4004b8a4135deadb5981",
+        "image": "",
+        "complexity": "Beginner",
+        "tags": {
+            "fav": true,
+            "forPlayers": false,
+            "forTOs": true,
+            "ssbuOnly": false,
+            "production": false
+        }
+    },
+    {
         "resource": "Stage Strike App",
         "link": "https://www.smashprova.crespialemany.com/",
         "image": "https://www.smashprova.crespialemany.com/imgs/background.webp",
         "complexity": "Beginner",
         "tags": {
-            "fav": false,
+            "fav": true,
             "forPlayers": true,
             "forTOs": true,
             "ssbuOnly": true,
