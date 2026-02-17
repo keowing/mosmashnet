@@ -1,91 +1,12 @@
 {
-  "updatedAt": "2026-02-17T01:49:08.138Z",
+  "updatedAt": "2026-02-17T18:04:50.673Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #27",
-          "id": 881497,
-          "numAttendees": 12,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1771290000,
-          "slug": "tournament/the-bair-house-27",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/881497/image-0cbab319eae1af09ceca87a5a4fb15f3.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/881497/image-e4343617b84e7ad2187d150d7598bfc4.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Gold Rush #77",
-          "id": 881787,
-          "numAttendees": 16,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1771290000,
-          "slug": "tournament/gold-rush-77",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/881787/image-00925b22404b16f3d96307c17156ac12.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 15
-            },
-            {
-              "name": "Guilty Gear: Strive",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #31",
-          "id": 881769,
-          "numAttendees": 13,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1771290000,
-          "slug": "tournament/royale-with-cheese-31",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/881769/image-fc196d77aca5a07402306c537272278a.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 1
-            },
-            {
-              "name": "Smash 64 Singles",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "Smash @ Mizzou 178",
           "id": 881771,
-          "numAttendees": 7,
+          "numAttendees": 18,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1771372800,
@@ -103,30 +24,30 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "HDR",
-              "numEntrants": 3
+              "numEntrants": 13
             },
             {
               "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 2
+              "numEntrants": 7
             },
             {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 2
+              "name": "HDR",
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 1
+              "numEntrants": 6
+            },
+            {
+              "name": "Under Night In-Birth II Sys:Celes",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 54",
           "id": 881545,
-          "numAttendees": 13,
+          "numAttendees": 17,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1771461000,
@@ -144,7 +65,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 16
             },
             {
               "name": "Ultimate Doubles",
@@ -163,7 +84,7 @@
         {
           "name": "URSA MINOR 74",
           "id": 881855,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1771549200,
@@ -181,14 +102,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "MAD Smash February Monthly 2026",
           "id": 877339,
-          "numAttendees": 3,
+          "numAttendees": 5,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -205,12 +126,12 @@
           ],
           "events": [
             {
-              "name": "Squad Strike @ MAD",
-              "numEntrants": 3
+              "name": "Ultimate Singles",
+              "numEntrants": 5
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 3
+              "name": "Squad Strike @ MAD",
+              "numEntrants": 4
             },
             {
               "name": "Redemption Bracket",
@@ -242,7 +163,7 @@
         {
           "name": "★PUBSTOMP #2★",
           "id": 868719,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1771794000,
@@ -260,11 +181,11 @@
           "events": [
             {
               "name": "GIANT SMASH 1v1",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "Redemption Bracket",
