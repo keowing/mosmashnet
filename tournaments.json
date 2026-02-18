@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-02-17T18:04:50.673Z",
+  "updatedAt": "2026-02-18T01:53:10.304Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Smash @ Mizzou 178",
           "id": 881771,
-          "numAttendees": 18,
+          "numAttendees": 32,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1771372800,
@@ -24,30 +24,55 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 7
-            },
-            {
-              "name": "HDR",
-              "numEntrants": 7
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
+              "numEntrants": 17
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 4
+              "numEntrants": 14
+            },
+            {
+              "name": "HDR",
+              "numEntrants": 6
+            },
+            {
+              "name": "Granblue Fantasy Versus: Rising",
+              "numEntrants": 13
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 7
+            }
+          ]
+        },
+        {
+          "name": "1000 Freakyvilles and the Tree of Clues",
+          "id": 882377,
+          "numAttendees": 10,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1771373100,
+          "slug": "tournament/1000-freakyvilles-and-the-tree-of-clues",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/882377/image-39f79ae7da6b483dd2b480bd6a09cd8c.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/882377/image-ced0031b206aadfd1715524a7361208d.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 10
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 54",
           "id": 881545,
-          "numAttendees": 17,
+          "numAttendees": 24,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1771461000,
@@ -65,11 +90,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 23
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "2XKO",
@@ -109,7 +134,7 @@
         {
           "name": "MAD Smash February Monthly 2026",
           "id": 877339,
-          "numAttendees": 5,
+          "numAttendees": 7,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -127,11 +152,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 7
             },
             {
               "name": "Squad Strike @ MAD",
-              "numEntrants": 4
+              "numEntrants": 6
             },
             {
               "name": "Redemption Bracket",
@@ -163,7 +188,7 @@
         {
           "name": "★PUBSTOMP #2★",
           "id": 868719,
-          "numAttendees": 12,
+          "numAttendees": 13,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1771794000,
@@ -185,7 +210,7 @@
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 12
+              "numEntrants": 13
             },
             {
               "name": "Redemption Bracket",
