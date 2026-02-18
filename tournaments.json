@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T01:53:10.304Z",
+  "updatedAt": "2026-02-18T02:24:12.024Z",
   "data": {
     "Missouri": {
       "nodes": [
@@ -27,20 +27,20 @@
               "numEntrants": 17
             },
             {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 14
+              "name": "Granblue Fantasy Versus: Rising",
+              "numEntrants": 11
             },
             {
               "name": "HDR",
               "numEntrants": 6
             },
             {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 13
+              "name": "Ultimate Redemption",
+              "numEntrants": 6
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 7
+              "name": "Under Night In-Birth II Sys:Celes",
+              "numEntrants": 14
             }
           ]
         },
@@ -72,7 +72,7 @@
         {
           "name": "PHAZE ➠ FUSION 54",
           "id": 881545,
-          "numAttendees": 24,
+          "numAttendees": 26,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1771461000,
@@ -90,7 +90,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 23
+              "numEntrants": 25
             },
             {
               "name": "Ultimate Doubles",
@@ -98,7 +98,7 @@
             },
             {
               "name": "2XKO",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
