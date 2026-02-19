@@ -1,111 +1,8 @@
 {
-  "updatedAt": "2026-02-19T01:51:55.174Z",
+  "updatedAt": "2026-02-19T15:36:08.713Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 2/18/26",
-          "id": 882557,
-          "numAttendees": 16,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1771459200,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-2-18-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/882557/image-029219f3b021e35bb0918e31b1cff355.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/882557/image-018d2faf6de0a1ec97e9a27cb934c83b.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "GGST",
-              "numEntrants": 9
-            },
-            {
-              "name": "GanonDegenerate's Birthday Brawl",
-              "numEntrants": 13
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 54",
-          "id": 881545,
-          "numAttendees": 37,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1771461000,
-          "slug": "tournament/phaze-fusion-54",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/881545/image-1aa665d3efe6a11d04ec62fc1805c38f.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/881545/image-6cd3dbdaefe9bb64e6bed259c1e4cf49.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 34
-            },
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 6
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #523",
-          "id": 882590,
-          "numAttendees": 9,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1771462800,
-          "slug": "tournament/smash-cafe-523",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/882590/image-a79e074c8061e5f43f655650eac87b11.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/882590/image-b24414860732c09bb92b79383ccd004e.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Smash 64 Singles",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
         {
           "name": "URSA MINOR 74",
           "id": 881855,
@@ -167,7 +64,7 @@
         {
           "name": "Feather Weights: 1st Bout!",
           "id": 872093,
-          "numAttendees": 25,
+          "numAttendees": 26,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -181,14 +78,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 26
             }
           ]
         },
         {
           "name": "★PUBSTOMP #2★",
           "id": 868719,
-          "numAttendees": 22,
+          "numAttendees": 24,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1771794000,
@@ -210,7 +107,7 @@
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 21
+              "numEntrants": 23
             },
             {
               "name": "Redemption Bracket",
@@ -344,7 +241,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 130,
+          "numAttendees": 131,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -362,7 +259,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 98
+              "numEntrants": 99
             },
             {
               "name": "Melee Singles",
