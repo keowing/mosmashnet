@@ -1,78 +1,45 @@
 {
-  "updatedAt": "2026-02-18T02:24:12.024Z",
+  "updatedAt": "2026-02-19T01:51:55.174Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 178",
-          "id": 881771,
-          "numAttendees": 32,
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 2/18/26",
+          "id": 882557,
+          "numAttendees": 16,
           "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1771372800,
-          "slug": "tournament/smash-mizzou-178",
+          "startAt": 1771459200,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-2-18-26",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/881771/image-4e2ddeadd97f324f2b83954b1e78c1d1.png",
+              "url": "https://images.start.gg/images/tournament/882557/image-029219f3b021e35bb0918e31b1cff355.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/881771/image-8d0093934c43c0801685c1f8fb0c5a7f.png",
+              "url": "https://images.start.gg/images/tournament/882557/image-018d2faf6de0a1ec97e9a27cb934c83b.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Granblue Fantasy Versus: Rising",
               "numEntrants": 11
             },
             {
-              "name": "HDR",
-              "numEntrants": 6
+              "name": "GGST",
+              "numEntrants": 9
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            },
-            {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
-          "name": "1000 Freakyvilles and the Tree of Clues",
-          "id": 882377,
-          "numAttendees": 10,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1771373100,
-          "slug": "tournament/1000-freakyvilles-and-the-tree-of-clues",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/882377/image-39f79ae7da6b483dd2b480bd6a09cd8c.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/882377/image-ced0031b206aadfd1715524a7361208d.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
+              "name": "GanonDegenerate's Birthday Brawl",
+              "numEntrants": 13
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 54",
           "id": 881545,
-          "numAttendees": 26,
+          "numAttendees": 37,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1771461000,
@@ -90,11 +57,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 34
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 3
+              "numEntrants": 6
             },
             {
               "name": "2XKO",
@@ -107,9 +74,42 @@
           ]
         },
         {
+          "name": "Smash Cafe #523",
+          "id": 882590,
+          "numAttendees": 9,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1771462800,
+          "slug": "tournament/smash-cafe-523",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/882590/image-a79e074c8061e5f43f655650eac87b11.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/882590/image-b24414860732c09bb92b79383ccd004e.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Smash 64 Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "URSA MINOR 74",
           "id": 881855,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1771549200,
@@ -127,14 +127,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "MAD Smash February Monthly 2026",
           "id": 877339,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -152,11 +152,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Squad Strike @ MAD",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Redemption Bracket",
@@ -167,7 +167,7 @@
         {
           "name": "Feather Weights: 1st Bout!",
           "id": 872093,
-          "numAttendees": 20,
+          "numAttendees": 25,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -181,14 +181,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 20
+              "numEntrants": 25
             }
           ]
         },
         {
           "name": "★PUBSTOMP #2★",
           "id": 868719,
-          "numAttendees": 13,
+          "numAttendees": 22,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1771794000,
@@ -206,11 +206,11 @@
           "events": [
             {
               "name": "GIANT SMASH 1v1",
-              "numEntrants": 7
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 13
+              "numEntrants": 21
             },
             {
               "name": "Redemption Bracket",
@@ -250,7 +250,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 16,
+          "numAttendees": 19,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -268,19 +268,19 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 12
+              "numEntrants": 14
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 3
+              "numEntrants": 4
+            },
+            {
+              "name": "Bumper Doubles",
+              "numEntrants": 1
             },
             {
               "name": "Guilty Gear -Strive-",
               "numEntrants": 1
-            },
-            {
-              "name": "Bumper Doubles",
-              "numEntrants": 0
             },
             {
               "name": "SSBM Doubles",
@@ -344,7 +344,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 120,
+          "numAttendees": 130,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -362,7 +362,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 88
+              "numEntrants": 98
             },
             {
               "name": "Melee Singles",
