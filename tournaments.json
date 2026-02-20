@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-02-19T15:36:08.713Z",
+  "updatedAt": "2026-02-20T01:47:50.627Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "URSA MINOR 74",
           "id": 881855,
-          "numAttendees": 7,
+          "numAttendees": 12,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1771549200,
@@ -24,14 +24,47 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 12
+            }
+          ]
+        },
+        {
+          "name": "Strike! 46",
+          "id": 883008,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1771633800,
+          "slug": "tournament/strike-46",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/883008/image-a4115cb0853eb1bef2ff9d259f7111e0.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/883008/image-6301c0b302cb9c4905d782a5d0297d7c.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Randoms",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "MAD Smash February Monthly 2026",
           "id": 877339,
-          "numAttendees": 8,
+          "numAttendees": 16,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -49,11 +82,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 16
             },
             {
               "name": "Squad Strike @ MAD",
-              "numEntrants": 7
+              "numEntrants": 11
             },
             {
               "name": "Redemption Bracket",
@@ -64,7 +97,7 @@
         {
           "name": "Feather Weights: 1st Bout!",
           "id": 872093,
-          "numAttendees": 26,
+          "numAttendees": 32,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1771711200,
@@ -78,7 +111,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 26
+              "numEntrants": 32
             }
           ]
         },
@@ -206,9 +239,38 @@
     "KansasCityKS": {
       "nodes": [
         {
+          "name": "Ascend the Spire #70",
+          "id": 882998,
+          "numAttendees": 5,
+          "city": "Leavenworth",
+          "addrState": "KS",
+          "startAt": 1771538400,
+          "slug": "tournament/ascend-the-spire-70",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/882998/image-44a9a3c62d94411b91b07232ad18e774.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/882998/image-9a938c3af20ff2d3f675596a4264d8c3.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "RoA2 Singles",
+              "numEntrants": 4
+            },
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
           "name": "Wheak Hit into Sweet Spot X!",
           "id": 845924,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1772902800,
@@ -225,12 +287,12 @@
           ],
           "events": [
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 8
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
+              "name": "Redemption Bracket",
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Doubles",
@@ -241,7 +303,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 131,
+          "numAttendees": 138,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -259,11 +321,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 99
+              "numEntrants": 103
             },
             {
               "name": "Melee Singles",
-              "numEntrants": 12
+              "numEntrants": 13
             },
             {
               "name": "Ultimate Doubles",
@@ -283,7 +345,7 @@
             },
             {
               "name": "Brawl Singles",
-              "numEntrants": 12
+              "numEntrants": 14
             },
             {
               "name": "Melee Redemption",
@@ -291,11 +353,11 @@
             },
             {
               "name": "Rivals II Doubles",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 21
+              "numEntrants": 23
             }
           ]
         }
