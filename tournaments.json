@@ -1,66 +1,12 @@
 {
-  "updatedAt": "2026-02-22T01:50:32.808Z",
+  "updatedAt": "2026-02-23T01:51:29.471Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "MAD Smash February Monthly 2026",
-          "id": 877339,
-          "numAttendees": 41,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1771711200,
-          "slug": "tournament/mad-smash-february-monthly-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/877339/image-056adc9737635368a5c7f8d5c077c2da.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/877339/image-f0c399a3a7f484d7247bda7b828eaa96.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 40
-            },
-            {
-              "name": "Squad Strike @ MAD",
-              "numEntrants": 28
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Feather Weights: 1st Bout!",
-          "id": 872093,
-          "numAttendees": 46,
-          "city": "Liberty",
-          "addrState": "MO",
-          "startAt": 1771711200,
-          "slug": "tournament/feather-weights-1st-bout",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/872093/image-72241e76724d4b8c7dd6f5e8c1d20343.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 46
-            }
-          ]
-        },
-        {
           "name": "★PUBSTOMP #2★",
           "id": 868719,
-          "numAttendees": 27,
+          "numAttendees": 39,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1771794000,
@@ -77,23 +23,23 @@
           ],
           "events": [
             {
-              "name": "GIANT SMASH 1v1",
-              "numEntrants": 11
-            },
-            {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 26
+              "numEntrants": 36
             },
             {
               "name": "Redemption Bracket",
               "numEntrants": 0
+            },
+            {
+              "name": "GIANT SMASH 1v1",
+              "numEntrants": 20
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 55",
           "id": 883535,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1772065800,
@@ -110,16 +56,16 @@
           ],
           "events": [
             {
+              "name": "HDR Singles",
+              "numEntrants": 1
+            },
+            {
               "name": "Ultimate Singles",
               "numEntrants": 1
             },
             {
-              "name": "HDR Singles",
-              "numEntrants": 0
-            },
-            {
               "name": "2XKO",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Redemption",
@@ -218,9 +164,38 @@
     "KansasCityKS": {
       "nodes": [
         {
+          "name": "Rock Chalk Jab Lock 194",
+          "id": 883852,
+          "numAttendees": 19,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1771808400,
+          "slug": "tournament/rock-chalk-jab-lock-194",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/883852/image-c35ac34309c878a9cccf276e13d2af95.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/883852/image-5a6e79427089a878464b168af91faea7.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 19
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Wheak Hit into Sweet Spot X!",
           "id": 845924,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1772902800,
@@ -238,7 +213,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Redemption Bracket",
@@ -279,7 +254,7 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 12
+              "numEntrants": 13
             },
             {
               "name": "Melee Doubles",
@@ -307,7 +282,7 @@
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 24
+              "numEntrants": 25
             }
           ]
         }
