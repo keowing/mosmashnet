@@ -1,82 +1,41 @@
 {
-  "updatedAt": "2026-02-25T01:51:29.540Z",
+  "updatedAt": "2026-02-26T01:47:00.558Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Freakyville: WAY too Wet to Smash💦 | Flash Flood Practice",
-          "id": 884852,
-          "numAttendees": 22,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1771981200,
-          "slug": "tournament/freakyville-way-too-wet-to-smash-flash-flood-practice",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/884852/image-0dca81aab7ba6842facb173c829674ad.jpg",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/884852/image-9fd5ac46da520a412dd5833177b7e929.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Freaky Ultimate Singles",
-              "numEntrants": 21
-            },
-            {
-              "name": "Redemption",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 179",
-          "id": 884388,
-          "numAttendees": 25,
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 2/25/26",
+          "id": 885194,
+          "numAttendees": 11,
           "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1771984800,
-          "slug": "tournament/smash-mizzou-179",
+          "startAt": 1772064000,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-2-25-26",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/884388/image-e45197b705d39fc850b0af0989310c04.png",
+              "url": "https://images.start.gg/images/tournament/885194/image-0b0f3960f6b1f39eebf329914926cab2.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/884388/image-6768d2a3b8f31c8fc83e5973fdb1b9ed.png",
+              "url": "https://images.start.gg/images/tournament/885194/image-20a68be76a48e186e0ab7e48b3edb5af.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 10
             },
             {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 12
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 8
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            },
-            {
-              "name": "Rivals I",
-              "numEntrants": 3
+              "name": "Arcus Chroma",
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 55",
           "id": 883535,
-          "numAttendees": 20,
+          "numAttendees": 40,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1772065800,
@@ -94,15 +53,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 34
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 6
+              "numEntrants": 14
             },
             {
               "name": "2XKO",
-              "numEntrants": 3
+              "numEntrants": 4
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #524",
+          "id": 885209,
+          "numAttendees": 11,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1772067600,
+          "slug": "tournament/smash-cafe-524",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/885209/image-d22c0715a951ca5111a5af28c6ff0a69.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/885209/image-f372a90c9d616cc29e2e8925dfc63e53.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Redemption",
@@ -113,7 +101,7 @@
         {
           "name": "URSA MINOR 75",
           "id": 884820,
-          "numAttendees": 7,
+          "numAttendees": 10,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1772154000,
@@ -131,7 +119,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 10
             }
           ]
         },
@@ -167,7 +155,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 31,
+          "numAttendees": 34,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -185,19 +173,19 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 18
+              "numEntrants": 21
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 12
+              "numEntrants": 13
             },
             {
               "name": "Bumper Doubles",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "SSBM Doubles",
@@ -261,7 +249,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 152,
+          "numAttendees": 160,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -279,14 +267,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 113
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 15
+              "numEntrants": 119
             },
             {
               "name": "Ultimate Doubles",
+              "numEntrants": 16
+            },
+            {
+              "name": "Melee Singles",
               "numEntrants": 15
             },
             {
@@ -311,7 +299,7 @@
             },
             {
               "name": "Rivals II Doubles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Rivals II Singles",
