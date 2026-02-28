@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-02-27T01:45:46.185Z",
+  "updatedAt": "2026-02-28T01:27:23.456Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 75",
-          "id": 884820,
-          "numAttendees": 20,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1772154000,
-          "slug": "tournament/ursa-minor-75",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/884820/image-9bedda8eaf543e1b5115ef707aae0349.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/884820/image-656a09434404f6b6b325018da98da953.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            }
-          ]
-        },
-        {
           "name": "Strike! 47",
           "id": 885609,
-          "numAttendees": 0,
+          "numAttendees": 13,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1772238600,
@@ -49,14 +24,14 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 6
             },
             {
               "name": "Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Ultimate Redemption",
               "numEntrants": 0
             }
           ]
@@ -64,10 +39,10 @@
         {
           "name": "Smoothies & Smash #10",
           "id": 876330,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "St. Peters",
           "addrState": "MO",
-          "startAt": 1772497800,
+          "startAt": 1773099000,
           "slug": "tournament/smoothies-smash-10",
           "images": [
             {
@@ -81,11 +56,11 @@
           ],
           "events": [
             {
-              "name": "Super Smash Bros. Ultimate Beginner Bracket",
-              "numEntrants": 0
+              "name": "Super Smash Bros. Ultimate Singles",
+              "numEntrants": 1
             },
             {
-              "name": "Super Smash Bros. Ultimate Singles",
+              "name": "Super Smash Bros. Ultimate Beginner Bracket",
               "numEntrants": 0
             }
           ]
@@ -93,7 +68,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 34,
+          "numAttendees": 35,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -115,7 +90,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 13
+              "numEntrants": 14
             },
             {
               "name": "Bumper Doubles",
@@ -152,31 +127,6 @@
     "KansasCityKS": {
       "nodes": [
         {
-          "name": "Ascend the Spire #71",
-          "id": 885658,
-          "numAttendees": 5,
-          "city": "Leavenworth",
-          "addrState": "KS",
-          "startAt": 1772143200,
-          "slug": "tournament/ascend-the-spire-71",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/885658/image-049e7fb291322d111ff426b472ce9e0e.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/885658/image-5f537a7b4362b4fe102d2fe0aa7232c2.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "Wheak Hit into Sweet Spot X!",
           "id": 845924,
           "numAttendees": 13,
@@ -208,7 +158,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 164,
+          "numAttendees": 168,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -226,7 +176,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 122
+              "numEntrants": 123
             },
             {
               "name": "Ultimate Doubles",
@@ -258,11 +208,11 @@
             },
             {
               "name": "Rivals II Doubles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 31
+              "numEntrants": 34
             }
           ]
         }
