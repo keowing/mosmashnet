@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-03-01T01:57:15.384Z",
+  "updatedAt": "2026-03-02T01:48:45.935Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Smoothies & Smash #10",
           "id": 876330,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "St. Peters",
           "addrState": "MO",
           "startAt": 1773099000,
@@ -24,7 +24,7 @@
           "events": [
             {
               "name": "Super Smash Bros. Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Super Smash Bros. Ultimate Beginner Bracket",
@@ -35,7 +35,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 37,
+          "numAttendees": 38,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -53,7 +53,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 23
+              "numEntrants": 24
             },
             {
               "name": "SSBM Singles",
@@ -96,7 +96,7 @@
         {
           "name": "Rock Chalk Jab Lock 195",
           "id": 886206,
-          "numAttendees": 1,
+          "numAttendees": 9,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1772413200,
@@ -114,7 +114,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 9
             },
             {
               "name": "Redemption Bracket",
@@ -154,7 +154,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 173,
+          "numAttendees": 183,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -172,11 +172,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 128
+              "numEntrants": 137
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 17
+              "numEntrants": 20
             },
             {
               "name": "Melee Singles",
@@ -204,11 +204,11 @@
             },
             {
               "name": "Rivals II Doubles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 35
+              "numEntrants": 36
             }
           ]
         }
