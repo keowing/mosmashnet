@@ -1,69 +1,41 @@
 {
-  "updatedAt": "2026-03-04T01:45:03.931Z",
+  "updatedAt": "2026-03-05T01:47:49.701Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Super Freaky Bros....IN 3D!",
-          "id": 887653,
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 3/4/26",
+          "id": 887836,
           "numAttendees": 11,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1772587800,
-          "slug": "tournament/super-freaky-bros-in-3d",
-          "images": [],
-          "events": [
-            {
-              "name": "Freaky Ultimate Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "Super Smash @ Mizzou 2",
-          "id": 886739,
-          "numAttendees": 24,
           "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1772589600,
-          "slug": "tournament/super-smash-mizzou-2",
+          "startAt": 1772668800,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-4-26",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/886739/image-b66f7ad101a16318ecaa01e496fe8681.png",
+              "url": "https://images.start.gg/images/tournament/887836/image-e193cd0a07c78192b7a75a45d1c5c064.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/886739/image-87eea47e1336a8254e3e87720498f34b.png",
+              "url": "https://images.start.gg/images/tournament/887836/image-cf284d25c86f2cf27ff47fa127f996c1.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 6
             },
             {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 13
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 10
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 7
-            },
-            {
-              "name": "HDR Singles",
-              "numEntrants": 3
+              "name": "Gang Beasts",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 56",
           "id": 887123,
-          "numAttendees": 17,
+          "numAttendees": 30,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1772670600,
@@ -81,15 +53,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 27
             },
             {
               "name": "Tekken 8",
-              "numEntrants": 5
+              "numEntrants": 7
             },
             {
               "name": "2XKO",
               "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #525",
+          "id": 887837,
+          "numAttendees": 13,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1772672400,
+          "slug": "tournament/smash-cafe-525",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/887837/image-5c0d345184c8d7229fdd45f9993f4ede.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/887837/image-7974d0403f70b21583b6e88b8f619bba.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 13
             },
             {
               "name": "Ultimate Redemption",
@@ -185,6 +186,56 @@
           ]
         },
         {
+          "name": "Feather Weights: 2nd Bout!",
+          "id": 887866,
+          "numAttendees": 7,
+          "city": "Liberty",
+          "addrState": "MO",
+          "startAt": 1774117800,
+          "slug": "tournament/feather-weights-2nd-bout",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/887866/image-0f05038d8b3852a0f849b747d2c33501.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Heavyweight Crews",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup: Going on 30",
+          "id": 888057,
+          "numAttendees": 0,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1774607400,
+          "slug": "tournament/kachow-kup-going-on-30",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/888057/image-0ac6566d5f03666e237ae4b3b56a36c3.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/888057/image-d6181c7bd3788c763c48b404bb6ab8e5.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
           "numAttendees": 41,
@@ -248,7 +299,7 @@
         {
           "name": "Wheak Hit into Sweet Spot X!",
           "id": 845924,
-          "numAttendees": 16,
+          "numAttendees": 15,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1772902800,
@@ -266,7 +317,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 13
             },
             {
               "name": "Ultimate Doubles",
@@ -277,7 +328,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 207,
+          "numAttendees": 217,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -295,11 +346,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 157
+              "numEntrants": 167
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 21
+              "numEntrants": 22
             },
             {
               "name": "Melee Singles",
@@ -315,11 +366,11 @@
             },
             {
               "name": "Brawl Doubles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Brawl Singles",
-              "numEntrants": 17
+              "numEntrants": 18
             },
             {
               "name": "Melee Redemption",
@@ -331,7 +382,7 @@
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 37
+              "numEntrants": 39
             }
           ]
         }
