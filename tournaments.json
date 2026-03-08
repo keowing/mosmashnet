@@ -1,74 +1,37 @@
 {
-  "updatedAt": "2026-03-07T01:41:34.296Z",
+  "updatedAt": "2026-03-08T01:48:50.851Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash Casuals #58",
-          "id": 888727,
-          "numAttendees": 15,
-          "city": "Rolla",
+          "name": "SLCL Learn to Read #6",
+          "id": 888231,
+          "numAttendees": 48,
+          "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1772841600,
-          "slug": "tournament/smash-casuals-58",
+          "startAt": 1772906400,
+          "slug": "tournament/slcl-learn-to-read-6",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/888727/image-a2acbce799d691e4e4eca38daa77f582.png",
+              "url": "https://images.start.gg/images/tournament/888231/image-d115437f67b02070b0b265e030306889.png",
               "type": "profile"
             }
           ],
           "events": [
             {
-              "name": "Dodgebomb!",
-              "numEntrants": 7
+              "name": "Learn to Read 6 Singles",
+              "numEntrants": 39
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "Strike! 48",
-          "id": 888258,
-          "numAttendees": 4,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1772843400,
-          "slug": "tournament/strike-48",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/888258/image-b65234f9bee730e927f333ae127a7977.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/888258/image-80cc44d879b73a4d9cc5f9334de24b19.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Squid Bracket",
-              "numEntrants": 1
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 4
+              "name": "High Dynamic Range",
+              "numEntrants": 13
             }
           ]
         },
         {
           "name": "Smoothies & Smash #10",
           "id": 876330,
-          "numAttendees": 3,
+          "numAttendees": 5,
           "city": "St. Peters",
           "addrState": "MO",
           "startAt": 1773099000,
@@ -86,7 +49,7 @@
           "events": [
             {
               "name": "Super Smash Bros. Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 5
             },
             {
               "name": "Super Smash Bros. Ultimate Beginner Bracket",
@@ -130,7 +93,7 @@
         {
           "name": "Feather Weights: 2nd Bout!",
           "id": 887866,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1774117800,
@@ -144,7 +107,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Heavyweight Crews",
@@ -241,7 +204,7 @@
         {
           "name": "Wheak Hit into Sweet Spot X!",
           "id": 845924,
-          "numAttendees": 20,
+          "numAttendees": 21,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1772902800,
@@ -259,11 +222,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 19
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 9
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 3
+              "numEntrants": 6
             }
           ]
         },
@@ -319,7 +286,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 233,
+          "numAttendees": 247,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -337,15 +304,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 180
+              "numEntrants": 190
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 26
+              "numEntrants": 27
             },
             {
               "name": "Melee Singles",
-              "numEntrants": 18
+              "numEntrants": 20
             },
             {
               "name": "Melee Doubles",
@@ -357,11 +324,11 @@
             },
             {
               "name": "Brawl Doubles",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Brawl Singles",
-              "numEntrants": 19
+              "numEntrants": 20
             },
             {
               "name": "Melee Redemption",
@@ -373,7 +340,7 @@
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 40
+              "numEntrants": 41
             }
           ]
         }
