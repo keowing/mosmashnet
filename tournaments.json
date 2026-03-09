@@ -1,33 +1,8 @@
 {
-  "updatedAt": "2026-03-08T01:48:50.851Z",
+  "updatedAt": "2026-03-09T01:50:24.248Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "SLCL Learn to Read #6",
-          "id": 888231,
-          "numAttendees": 48,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1772906400,
-          "slug": "tournament/slcl-learn-to-read-6",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/888231/image-d115437f67b02070b0b265e030306889.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Learn to Read 6 Singles",
-              "numEntrants": 39
-            },
-            {
-              "name": "High Dynamic Range",
-              "numEntrants": 13
-            }
-          ]
-        },
         {
           "name": "Smoothies & Smash #10",
           "id": 876330,
@@ -60,7 +35,7 @@
         {
           "name": "MAD Smash March Monthly 2026",
           "id": 887495,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1773522000,
@@ -77,15 +52,15 @@
           ],
           "events": [
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
               "name": "Doubles @ MAD Smash",
               "numEntrants": 0
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
               "numEntrants": 0
             }
           ]
@@ -118,7 +93,7 @@
         {
           "name": "Kachow Kup: Going on 30",
           "id": 888057,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1774607400,
@@ -136,14 +111,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 42,
+          "numAttendees": 45,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -161,18 +136,18 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 27
+              "numEntrants": 28
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 15
-            },
-            {
-              "name": "Bumper Doubles",
-              "numEntrants": 3
+              "numEntrants": 17
             },
             {
               "name": "Guilty Gear -Strive-",
+              "numEntrants": 4
+            },
+            {
+              "name": "Bumper Doubles",
               "numEntrants": 3
             },
             {
@@ -201,39 +176,6 @@
     },
     "KansasCityKS": {
       "nodes": [
-        {
-          "name": "Wheak Hit into Sweet Spot X!",
-          "id": 845924,
-          "numAttendees": 21,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1772902800,
-          "slug": "tournament/wheak-hit-into-sweet-spot-x",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/845924/image-43aa2ee742ccd51133e01c430f8a517f.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/845924/image-42d91e63926adc4f6228331f25aac8c2.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 6
-            }
-          ]
-        },
         {
           "name": "Naka-Kon 2026",
           "id": 769232,
@@ -286,7 +228,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 247,
+          "numAttendees": 257,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -304,11 +246,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 190
+              "numEntrants": 200
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 27
+              "numEntrants": 30
             },
             {
               "name": "Melee Singles",
@@ -324,7 +266,7 @@
             },
             {
               "name": "Brawl Doubles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Brawl Singles",
