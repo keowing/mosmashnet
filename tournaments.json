@@ -1,120 +1,119 @@
 {
-  "updatedAt": "2026-03-10T01:43:13.155Z",
+  "updatedAt": "2026-03-11T01:43:19.209Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smoothies & Smash #10",
-          "id": 876330,
-          "numAttendees": 13,
-          "city": "St. Peters",
+          "name": "Smash @ Mizzou 180",
+          "id": 890103,
+          "numAttendees": 24,
+          "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1773099000,
-          "slug": "tournament/smoothies-smash-10",
+          "startAt": 1773183600,
+          "slug": "tournament/smash-mizzou-180",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/876330/image-4fe33b773e90d74dde72d24916cf61db.png",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/890103/image-5b257baf04a0c4e37e57a4fd84b5a386.png",
+              "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/876330/image-3412c3a83a6ee855ed531a60ffbf4510.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/890103/image-6aa109b0782dc8b235d69234037c255b.png",
+              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Super Smash Bros. Ultimate Singles",
+              "name": "Granblue Fantasy Versus: Rising",
               "numEntrants": 13
             },
             {
-              "name": "Super Smash Bros. Ultimate Beginner Bracket",
+              "name": "VSAV",
+              "numEntrants": 13
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 3
+            },
+            {
+              "name": "Rivals 2",
+              "numEntrants": 2
+            },
+            {
+              "name": "Uni II",
+              "numEntrants": 14
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 57",
+          "id": 889899,
+          "numAttendees": 19,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1773271800,
+          "slug": "tournament/phaze-fusion-57",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/889899/image-adf0c89bd2e3f378eb012c486da53e16.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/889899/image-de83dc8b118ca542b9b5e5bb0708ed70.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 19
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
               "numEntrants": 0
             }
           ]
         },
         {
-          "name": "The Bair House #30",
-          "id": 889437,
-          "numAttendees": 12,
-          "city": "Springfield",
+          "name": "Strike! 50 - Sweet Spot X Pre-Local!",
+          "id": 890028,
+          "numAttendees": 29,
+          "city": "Kansas City",
           "addrState": "MO",
-          "startAt": 1773100800,
-          "slug": "tournament/the-bair-house-30",
+          "startAt": 1773444600,
+          "slug": "tournament/strike-50-sweet-spot-x-pre-local",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/889437/image-7772be4936c385f0ebf2b051667a5424.jpg",
+              "url": "https://images.start.gg/images/tournament/890028/image-b26f1c407d986f7ae1c6605bada156cb.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/890028/image-0fb15abd2206663a2f8fdb790075590a.png",
               "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/889437/image-ec1d51e534ba15fe12a5994c06e6333b.png",
-              "type": "profile"
             }
           ],
           "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Gold Rush #80",
-          "id": 889552,
-          "numAttendees": 12,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1773100800,
-          "slug": "tournament/gold-rush-80",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/889552/image-a22729045e7db9e15a72543804f0d5a7.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 12
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #34",
-          "id": 889609,
-          "numAttendees": 15,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1773100800,
-          "slug": "tournament/royale-with-cheese-34",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/889609/image-87d9ba84d392ec73fe775daa938d6953.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 5
+              "numEntrants": 29
             }
           ]
         },
         {
           "name": "MAD Smash March Monthly 2026",
           "id": 887495,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1773522000,
@@ -132,7 +131,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Doubles @ MAD Smash",
@@ -147,7 +146,7 @@
         {
           "name": "Feather Weights: 2nd Bout!",
           "id": 887866,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1774117800,
@@ -161,7 +160,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Heavyweight Crews",
@@ -197,7 +196,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 46,
+          "numAttendees": 49,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -215,7 +214,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 28
+              "numEntrants": 31
             },
             {
               "name": "SSBM Singles",
@@ -223,7 +222,7 @@
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Bumper Doubles",
@@ -307,7 +306,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 291,
+          "numAttendees": 301,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -325,11 +324,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 225
+              "numEntrants": 232
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 40
+              "numEntrants": 42
             },
             {
               "name": "Melee Singles",
@@ -357,11 +356,11 @@
             },
             {
               "name": "Rivals II Doubles",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 44
+              "numEntrants": 45
             }
           ]
         }
