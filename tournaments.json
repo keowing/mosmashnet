@@ -1,57 +1,41 @@
 {
-  "updatedAt": "2026-03-11T01:43:19.209Z",
+  "updatedAt": "2026-03-12T01:44:29.804Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 180",
-          "id": 890103,
-          "numAttendees": 24,
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 3/11/26",
+          "id": 890370,
+          "numAttendees": 11,
           "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1773183600,
-          "slug": "tournament/smash-mizzou-180",
+          "startAt": 1773270000,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-11-26",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/890103/image-5b257baf04a0c4e37e57a4fd84b5a386.png",
+              "url": "https://images.start.gg/images/tournament/890370/image-ad902797a2a483c07d81fd845d8c61c6.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/890103/image-6aa109b0782dc8b235d69234037c255b.png",
+              "url": "https://images.start.gg/images/tournament/890370/image-1b97ed6da0ed021e224cbd88742ab199.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 13
-            },
-            {
-              "name": "VSAV",
-              "numEntrants": 13
-            },
-            {
-              "name": "Ultimate Singles",
+              "name": "GBvsR",
               "numEntrants": 9
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 3
-            },
-            {
-              "name": "Rivals 2",
-              "numEntrants": 2
-            },
-            {
-              "name": "Uni II",
-              "numEntrants": 14
+              "name": "Ultimate Singles",
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 57",
           "id": 889899,
-          "numAttendees": 19,
+          "numAttendees": 32,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1773271800,
@@ -69,22 +53,76 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 32
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 8
             },
             {
               "name": "2XKO",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #526",
+          "id": 890249,
+          "numAttendees": 14,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1773273600,
+          "slug": "tournament/smash-cafe-526",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/890249/image-e3b0a8e3192b94acd0964a21fcdc522d.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/890249/image-d38ab691df7a1f5b083692b85b01f829.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 14
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "URSA MINOR 77",
+          "id": 890264,
+          "numAttendees": 8,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1773360000,
+          "slug": "tournament/ursa-minor-77",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/890264/image-9afb8a202eea78956bfea72be984cc16.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/890264/image-558948db4427099878038c82c0656366.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Strike! 50 - Sweet Spot X Pre-Local!",
           "id": 890028,
-          "numAttendees": 29,
+          "numAttendees": 33,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1773444600,
@@ -106,14 +144,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 29
+              "numEntrants": 33
             }
           ]
         },
         {
           "name": "MAD Smash March Monthly 2026",
           "id": 887495,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1773522000,
@@ -131,7 +169,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Doubles @ MAD Smash",
@@ -196,7 +234,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 49,
+          "numAttendees": 50,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -214,7 +252,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 31
+              "numEntrants": 32
             },
             {
               "name": "SSBM Singles",
@@ -231,6 +269,35 @@
             {
               "name": "SSBM Doubles",
               "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "KCGameOn99: FINAL DESTINATION",
+          "id": 890079,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1775883600,
+          "slug": "tournament/kcgameon99-final-destination",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/890079/image-7f556e3707e331786e903c3b13636ffb.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/890079/image-b1e9cc42006e14e6071af7b34a743926.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Doubles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
@@ -328,7 +395,7 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 42
+              "numEntrants": 45
             },
             {
               "name": "Melee Singles",
@@ -336,7 +403,7 @@
             },
             {
               "name": "Melee Doubles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Ladder",
