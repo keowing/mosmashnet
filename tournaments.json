@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-03-12T01:44:29.804Z",
+  "updatedAt": "2026-03-13T01:47:09.431Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 3/11/26",
-          "id": 890370,
-          "numAttendees": 11,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1773270000,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-11-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/890370/image-ad902797a2a483c07d81fd845d8c61c6.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/890370/image-1b97ed6da0ed021e224cbd88742ab199.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "GBvsR",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 57",
-          "id": 889899,
-          "numAttendees": 32,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1773271800,
-          "slug": "tournament/phaze-fusion-57",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/889899/image-adf0c89bd2e3f378eb012c486da53e16.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/889899/image-de83dc8b118ca542b9b5e5bb0708ed70.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 32
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #526",
-          "id": 890249,
-          "numAttendees": 14,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1773273600,
-          "slug": "tournament/smash-cafe-526",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/890249/image-e3b0a8e3192b94acd0964a21fcdc522d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/890249/image-d38ab691df7a1f5b083692b85b01f829.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 77",
           "id": 890264,
-          "numAttendees": 8,
+          "numAttendees": 22,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1773360000,
@@ -115,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 22
             }
           ]
         },
         {
           "name": "Strike! 50 - Sweet Spot X Pre-Local!",
           "id": 890028,
-          "numAttendees": 33,
+          "numAttendees": 49,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1773444600,
@@ -144,14 +53,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 33
+              "numEntrants": 50
             }
           ]
         },
         {
           "name": "MAD Smash March Monthly 2026",
           "id": 887495,
-          "numAttendees": 4,
+          "numAttendees": 9,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1773522000,
@@ -169,7 +78,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 9
             },
             {
               "name": "Doubles @ MAD Smash",
@@ -232,9 +141,34 @@
           ]
         },
         {
+          "name": "Crowder Esports Super Smash Bros Tournament",
+          "id": 888661,
+          "numAttendees": 1,
+          "city": "Joplin",
+          "addrState": "MO",
+          "startAt": 1774710000,
+          "slug": "tournament/crowder-esports-super-smash-bros-tournament",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/888661/image-3ce3b2bd30c7085cce5e79be2565e68d.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/888661/image-b63821ab378a264a9cdd3af8f36b46fd.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Crowder Esports Spring Smash Singles Tournament ($10 Entry)",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 50,
+          "numAttendees": 52,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -252,7 +186,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 32
+              "numEntrants": 34
             },
             {
               "name": "SSBM Singles",
@@ -324,7 +258,7 @@
         {
           "name": "Naka-Kon 2026",
           "id": 769232,
-          "numAttendees": null,
+          "numAttendees": 7,
           "city": "Overland Park",
           "addrState": "KS",
           "startAt": 1773378000,
@@ -342,38 +276,54 @@
           "events": [
             {
               "name": "2XKO Mixed Mode Throwdown",
-              "numEntrants": null
-            },
-            {
-              "name": "Marvel Rivals Penalty Shot Shootout",
-              "numEntrants": null
+              "numEntrants": 3
             },
             {
               "name": "UNI 2 Slam Dunk Contest",
-              "numEntrants": null
-            },
-            {
-              "name": "Gulity Gear Striving and Surviving Smackdown",
-              "numEntrants": null
+              "numEntrants": 1
             },
             {
               "name": "Monster Hunter Time Trial Sporting Event",
-              "numEntrants": null
+              "numEntrants": 0
+            },
+            {
+              "name": "Marvel Rivals Penalty Shot Shootout",
+              "numEntrants": 0
+            },
+            {
+              "name": "Gulity Gear Striving and Surviving Smackdown",
+              "numEntrants": 5
+            },
+            {
+              "name": "Naka's King of the Shell",
+              "numEntrants": 0
+            },
+            {
+              "name": "Naka's Street Fighter 6 Rumble Royale",
+              "numEntrants": 0
+            },
+            {
+              "name": "Naka's Super Smash Brothers Ultimate Rumble",
+              "numEntrants": 1
+            },
+            {
+              "name": "Naka's Tekken 8 Showdown",
+              "numEntrants": 0
             },
             {
               "name": "Dragon Ball Fighter Z Soccer Shootout",
-              "numEntrants": null
+              "numEntrants": 0
             },
             {
               "name": "Rock, Paper, Scissors",
-              "numEntrants": null
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 301,
+          "numAttendees": 303,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -391,11 +341,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 232
+              "numEntrants": 235
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 45
+              "numEntrants": 48
             },
             {
               "name": "Melee Singles",
@@ -411,11 +361,15 @@
             },
             {
               "name": "Brawl Doubles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
-              "name": "Brawl Singles",
-              "numEntrants": 22
+              "name": "Brawl Singles - Blue",
+              "numEntrants": 24
+            },
+            {
+              "name": "Brawl Singles - Crimson",
+              "numEntrants": 24
             },
             {
               "name": "Melee Redemption",
