@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-03-13T01:47:09.431Z",
+  "updatedAt": "2026-03-14T01:44:57.722Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 77",
-          "id": 890264,
-          "numAttendees": 22,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1773360000,
-          "slug": "tournament/ursa-minor-77",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/890264/image-9afb8a202eea78956bfea72be984cc16.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/890264/image-558948db4427099878038c82c0656366.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 22
-            }
-          ]
-        },
-        {
           "name": "Strike! 50 - Sweet Spot X Pre-Local!",
           "id": 890028,
-          "numAttendees": 49,
+          "numAttendees": 66,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1773444600,
@@ -48,19 +23,19 @@
           ],
           "events": [
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 64
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 50
+              "name": "Ultimate Redemption",
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "MAD Smash March Monthly 2026",
           "id": 887495,
-          "numAttendees": 9,
+          "numAttendees": 13,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1773522000,
@@ -78,11 +53,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 13
             },
             {
               "name": "Doubles @ MAD Smash",
-              "numEntrants": 0
+              "numEntrants": 2
             },
             {
               "name": "Redemption Bracket",
@@ -168,7 +143,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 52,
+          "numAttendees": 54,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -190,7 +165,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 18
+              "numEntrants": 20
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -256,74 +231,9 @@
     "KansasCityKS": {
       "nodes": [
         {
-          "name": "Naka-Kon 2026",
-          "id": 769232,
-          "numAttendees": 7,
-          "city": "Overland Park",
-          "addrState": "KS",
-          "startAt": 1773378000,
-          "slug": "tournament/naka-kon-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/769232/image-bb06d02b5b57da9ffc84fb2e3670efe4.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/769232/image-076620658de13d07e0ec2ffa5c72edfc.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "2XKO Mixed Mode Throwdown",
-              "numEntrants": 3
-            },
-            {
-              "name": "UNI 2 Slam Dunk Contest",
-              "numEntrants": 1
-            },
-            {
-              "name": "Monster Hunter Time Trial Sporting Event",
-              "numEntrants": 0
-            },
-            {
-              "name": "Marvel Rivals Penalty Shot Shootout",
-              "numEntrants": 0
-            },
-            {
-              "name": "Gulity Gear Striving and Surviving Smackdown",
-              "numEntrants": 5
-            },
-            {
-              "name": "Naka's King of the Shell",
-              "numEntrants": 0
-            },
-            {
-              "name": "Naka's Street Fighter 6 Rumble Royale",
-              "numEntrants": 0
-            },
-            {
-              "name": "Naka's Super Smash Brothers Ultimate Rumble",
-              "numEntrants": 1
-            },
-            {
-              "name": "Naka's Tekken 8 Showdown",
-              "numEntrants": 0
-            },
-            {
-              "name": "Dragon Ball Fighter Z Soccer Shootout",
-              "numEntrants": 0
-            },
-            {
-              "name": "Rock, Paper, Scissors",
-              "numEntrants": 1
-            }
-          ]
-        },
-        {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 303,
+          "numAttendees": 308,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -381,7 +291,7 @@
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 45
+              "numEntrants": 46
             }
           ]
         }
