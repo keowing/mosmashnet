@@ -1,41 +1,12 @@
 {
-  "updatedAt": "2026-03-14T01:44:57.722Z",
+  "updatedAt": "2026-03-15T02:00:25.541Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 50 - Sweet Spot X Pre-Local!",
-          "id": 890028,
-          "numAttendees": 66,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1773444600,
-          "slug": "tournament/strike-50-sweet-spot-x-pre-local",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/890028/image-b26f1c407d986f7ae1c6605bada156cb.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/890028/image-0fb15abd2206663a2f8fdb790075590a.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 64
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
           "name": "MAD Smash March Monthly 2026",
           "id": 887495,
-          "numAttendees": 13,
+          "numAttendees": 19,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1773522000,
@@ -52,16 +23,20 @@
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
+              "name": "Redemption Bracket",
+              "numEntrants": 8
             },
             {
               "name": "Doubles @ MAD Smash",
-              "numEntrants": 2
+              "numEntrants": 1
             },
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 19
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 11
             }
           ]
         },
@@ -93,7 +68,7 @@
         {
           "name": "Kachow Kup: Going on 30",
           "id": 888057,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1774607400,
@@ -111,7 +86,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
@@ -143,7 +118,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 54,
+          "numAttendees": 55,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -165,7 +140,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 20
+              "numEntrants": 21
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -233,7 +208,7 @@
         {
           "name": "Sweet Spot X",
           "id": 860958,
-          "numAttendees": 308,
+          "numAttendees": 309,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1773500400,
@@ -255,11 +230,11 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 48
+              "numEntrants": 51
             },
             {
-              "name": "Melee Singles",
-              "numEntrants": 23
+              "name": "Brawl Singles - Crimson",
+              "numEntrants": 25
             },
             {
               "name": "Melee Doubles",
@@ -270,28 +245,28 @@
               "numEntrants": 0
             },
             {
-              "name": "Brawl Doubles",
-              "numEntrants": 8
-            },
-            {
-              "name": "Brawl Singles - Blue",
-              "numEntrants": 24
-            },
-            {
-              "name": "Brawl Singles - Crimson",
-              "numEntrants": 24
-            },
-            {
               "name": "Melee Redemption",
               "numEntrants": 0
             },
             {
               "name": "Rivals II Doubles",
-              "numEntrants": 12
+              "numEntrants": 14
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 46
+              "numEntrants": 47
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 23
+            },
+            {
+              "name": "Brawl Doubles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Brawl Singles - Blue",
+              "numEntrants": 25
             }
           ]
         }
