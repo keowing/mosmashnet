@@ -1,49 +1,12 @@
 {
-  "updatedAt": "2026-03-15T02:00:25.541Z",
+  "updatedAt": "2026-03-16T02:01:59.728Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "MAD Smash March Monthly 2026",
-          "id": 887495,
-          "numAttendees": 19,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1773522000,
-          "slug": "tournament/mad-smash-march-monthly-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/887495/image-5958c23922889c10fd85e7d304be22cb.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/887495/image-3de1c9483724fe9299621a65c04a4d65.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 8
-            },
-            {
-              "name": "Doubles @ MAD Smash",
-              "numEntrants": 1
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
           "name": "Feather Weights: 2nd Bout!",
           "id": 887866,
-          "numAttendees": 10,
+          "numAttendees": 13,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1774117800,
@@ -57,7 +20,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 13
             },
             {
               "name": "Heavyweight Crews",
@@ -157,13 +120,13 @@
           ]
         },
         {
-          "name": "KCGameOn99: FINAL DESTINATION",
+          "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
           "id": 890079,
           "numAttendees": 0,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1775883600,
-          "slug": "tournament/kcgameon99-final-destination",
+          "slug": "tournament/kcgameon99-final-destination-150-pot-bonus",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/890079/image-7f556e3707e331786e903c3b13636ffb.png",
@@ -204,73 +167,7 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Sweet Spot X",
-          "id": 860958,
-          "numAttendees": 309,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1773500400,
-          "slug": "tournament/sweet-spot-x",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/860958/image-74682cf286373fea6ff0feef55ece8d7.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/860958/image-308c9093b67a5c6e29286680036f012c.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 235
-            },
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 51
-            },
-            {
-              "name": "Brawl Singles - Crimson",
-              "numEntrants": 25
-            },
-            {
-              "name": "Melee Doubles",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Ladder",
-              "numEntrants": 0
-            },
-            {
-              "name": "Melee Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Rivals II Doubles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Rivals II Singles",
-              "numEntrants": 47
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 23
-            },
-            {
-              "name": "Brawl Doubles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Brawl Singles - Blue",
-              "numEntrants": 25
-            }
-          ]
-        }
-      ]
+      "nodes": []
     }
   }
 }
