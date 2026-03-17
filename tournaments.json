@@ -1,12 +1,66 @@
 {
-  "updatedAt": "2026-03-16T02:01:59.728Z",
+  "updatedAt": "2026-03-17T01:49:27.639Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Gold Rush #81",
+          "id": 892075,
+          "numAttendees": 16,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1773705600,
+          "slug": "tournament/gold-rush-81",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/892075/image-1f4256a653943ce8e24574d7618cba79.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 16
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 7
+            }
+          ]
+        },
+        {
+          "name": "Royale with Cheese #35",
+          "id": 892031,
+          "numAttendees": 16,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1773705600,
+          "slug": "tournament/royale-with-cheese-35",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/892031/image-1058c806439f232c78af375890f8fbc8.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 15
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Feather Weights: 2nd Bout!",
           "id": 887866,
-          "numAttendees": 13,
+          "numAttendees": 14,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1774117800,
@@ -20,7 +74,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 14
             },
             {
               "name": "Heavyweight Crews",
@@ -81,7 +135,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 55,
+          "numAttendees": 57,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -99,7 +153,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 34
+              "numEntrants": 36
             },
             {
               "name": "SSBM Singles",
@@ -111,7 +165,7 @@
             },
             {
               "name": "Bumper Doubles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "SSBM Doubles",
@@ -145,6 +199,31 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Marcus Monthly #14 (For Real This Time)",
+          "id": 892015,
+          "numAttendees": 14,
+          "city": "Des Peres",
+          "addrState": "MO",
+          "startAt": 1777838400,
+          "slug": "tournament/marcus-monthly-14-for-real-this-time",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/892015/image-6a300b04f7339ef56b415e3275e94d22.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/892015/image-4eabdad63f1d06c82be05cfaec8fe2ab.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 14
             }
           ]
         },
