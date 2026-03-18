@@ -1,58 +1,78 @@
 {
-  "updatedAt": "2026-03-17T01:49:27.639Z",
+  "updatedAt": "2026-03-18T01:53:35.219Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gold Rush #81",
-          "id": 892075,
-          "numAttendees": 16,
-          "city": "Rolla",
+          "name": "Smash @ Mizzou 181",
+          "id": 892353,
+          "numAttendees": 17,
+          "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1773705600,
-          "slug": "tournament/gold-rush-81",
+          "startAt": 1773795600,
+          "slug": "tournament/smash-mizzou-181",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/892075/image-1f4256a653943ce8e24574d7618cba79.png",
+              "url": "https://images.start.gg/images/tournament/892353/image-739693c06b82f75e890ca902c5a02232.png",
               "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/892353/image-ee2caf227e5c39b3e8e3048e15263634.png",
+              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 16
+              "name": "Street Fighter 6",
+              "numEntrants": 9
             },
             {
-              "name": "Street Fighter 6",
-              "numEntrants": 7
+              "name": "Ultimate Singles",
+              "numEntrants": 6
+            },
+            {
+              "name": "Rivals 2",
+              "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 2
+            },
+            {
+              "name": "Granblue Fantasy Versus: Rising",
+              "numEntrants": 11
             }
           ]
         },
         {
-          "name": "Royale with Cheese #35",
-          "id": 892031,
-          "numAttendees": 16,
-          "city": "Lee's Summit",
+          "name": "PHAZE ➠ FUSION 58",
+          "id": 892234,
+          "numAttendees": 26,
+          "city": "Florissant",
           "addrState": "MO",
-          "startAt": 1773705600,
-          "slug": "tournament/royale-with-cheese-35",
+          "startAt": 1773876600,
+          "slug": "tournament/phaze-fusion-58",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/892031/image-1058c806439f232c78af375890f8fbc8.png",
+              "url": "https://images.start.gg/images/tournament/892234/image-9e97a58c1f2ea8965fccfa379becf65a.png",
               "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/892234/image-7799bcf8f5d71636a245f60c0bc1ca2c.jpg",
+              "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 26
             },
             {
-              "name": "Remix Singles",
-              "numEntrants": 9
+              "name": "2XKO",
+              "numEntrants": 0
             },
             {
-              "name": "Redemption Bracket",
+              "name": "Ultimate Redemption",
               "numEntrants": 0
             }
           ]
@@ -135,7 +155,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 57,
+          "numAttendees": 64,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -153,19 +173,19 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 36
+              "numEntrants": 43
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 21
+              "numEntrants": 22
+            },
+            {
+              "name": "Bumper Doubles",
+              "numEntrants": 5
             },
             {
               "name": "Guilty Gear -Strive-",
               "numEntrants": 5
-            },
-            {
-              "name": "Bumper Doubles",
-              "numEntrants": 4
             },
             {
               "name": "SSBM Doubles",
@@ -205,7 +225,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 14,
+          "numAttendees": 16,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -223,7 +243,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 16
             }
           ]
         },
