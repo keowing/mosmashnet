@@ -1,99 +1,8 @@
 {
-  "updatedAt": "2026-03-19T01:54:35.242Z",
+  "updatedAt": "2026-03-20T01:49:09.531Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 3/18/26",
-          "id": 892687,
-          "numAttendees": 10,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1773874800,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-18-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/892687/image-9c945926e62008137c6675b1041dcde8.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/892687/image-7dcd3263d51263593d96652961a12a7d.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "SF6",
-              "numEntrants": 6
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 58",
-          "id": 892234,
-          "numAttendees": 39,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1773876600,
-          "slug": "tournament/phaze-fusion-58",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/892234/image-9e97a58c1f2ea8965fccfa379becf65a.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/892234/image-7799bcf8f5d71636a245f60c0bc1ca2c.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 38
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 13
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #527",
-          "id": 892697,
-          "numAttendees": 18,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1773878400,
-          "slug": "tournament/smash-cafe-527",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/892697/image-7a269caa0c8a27d5180eeee96588b50a.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/892697/image-48f58bda53bae3bb684563d6bf4ba1cc.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 2
-            }
-          ]
-        },
         {
           "name": "Strike! 49",
           "id": 892711,
@@ -130,7 +39,7 @@
         {
           "name": "Feather Weights: 2nd Bout!",
           "id": 887866,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1774117800,
@@ -144,7 +53,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 16
             },
             {
               "name": "Heavyweight Crews",
@@ -205,7 +114,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 65,
+          "numAttendees": 66,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -223,7 +132,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 43
+              "numEntrants": 44
             },
             {
               "name": "SSBM Singles",
@@ -332,7 +241,33 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Ascend the Spire #72",
+          "id": 893050,
+          "numAttendees": 5,
+          "city": "Leavenworth",
+          "addrState": "KS",
+          "startAt": 1773954000,
+          "slug": "tournament/ascend-the-spire-72",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/893050/image-f96466b5ff9a18deef73fb43dfb15eec.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/893050/image-6a2d029c239a9b3b74824ba6fa20da03.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 5
+            }
+          ]
+        }
+      ]
     }
   }
 }
