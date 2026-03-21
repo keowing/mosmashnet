@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-03-20T01:49:09.531Z",
+  "updatedAt": "2026-03-21T01:43:06.385Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Strike! 49",
           "id": 892711,
-          "numAttendees": 2,
+          "numAttendees": 20,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1774049400,
@@ -23,23 +23,23 @@
           ],
           "events": [
             {
-              "name": "Squad Strike",
-              "numEntrants": 2
+              "name": "Ultimate Singles",
+              "numEntrants": 20
             },
             {
               "name": "Ultimate Redemption",
               "numEntrants": 0
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 2
+              "name": "Squad Strike",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Feather Weights: 2nd Bout!",
           "id": 887866,
-          "numAttendees": 16,
+          "numAttendees": 19,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1774117800,
@@ -53,7 +53,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 19
             },
             {
               "name": "Heavyweight Crews",
@@ -114,7 +114,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 66,
+          "numAttendees": 69,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -132,18 +132,18 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 44
+              "numEntrants": 47
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 23
-            },
-            {
-              "name": "Bumper Doubles",
-              "numEntrants": 5
+              "numEntrants": 24
             },
             {
               "name": "Guilty Gear -Strive-",
+              "numEntrants": 6
+            },
+            {
+              "name": "Bumper Doubles",
               "numEntrants": 5
             },
             {
@@ -155,7 +155,7 @@
         {
           "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
           "id": 890079,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1775883600,
@@ -177,7 +177,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
@@ -241,33 +241,7 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Ascend the Spire #72",
-          "id": 893050,
-          "numAttendees": 5,
-          "city": "Leavenworth",
-          "addrState": "KS",
-          "startAt": 1773954000,
-          "slug": "tournament/ascend-the-spire-72",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/893050/image-f96466b5ff9a18deef73fb43dfb15eec.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/893050/image-6a2d029c239a9b3b74824ba6fa20da03.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 5
-            }
-          ]
-        }
-      ]
+      "nodes": []
     }
   }
 }
