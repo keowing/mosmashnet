@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-03-21T01:43:06.385Z",
+  "updatedAt": "2026-03-22T01:54:10.664Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 49",
-          "id": 892711,
-          "numAttendees": 20,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1774049400,
-          "slug": "tournament/strike-49",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/892711/image-d3e474625616d5693b16745e6400c254.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/892711/image-ee51f0fddabe383ba66ac97c278df6aa.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
           "name": "Feather Weights: 2nd Bout!",
           "id": 887866,
-          "numAttendees": 19,
+          "numAttendees": 17,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1774117800,
@@ -48,16 +15,20 @@
             {
               "url": "https://images.start.gg/images/tournament/887866/image-0f05038d8b3852a0f849b747d2c33501.png",
               "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/887866/image-8173337a0e655be7596152c592d1df0e.png",
+              "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 17
             },
             {
-              "name": "Heavyweight Crews",
-              "numEntrants": 0
+              "name": "Redemption",
+              "numEntrants": 4
             }
           ]
         },
@@ -114,7 +85,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 69,
+          "numAttendees": 72,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -132,19 +103,19 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 47
+              "numEntrants": 50
             },
             {
               "name": "SSBM Singles",
               "numEntrants": 24
             },
             {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 6
+              "name": "Bumper Doubles",
+              "numEntrants": 7
             },
             {
-              "name": "Bumper Doubles",
-              "numEntrants": 5
+              "name": "Guilty Gear -Strive-",
+              "numEntrants": 6
             },
             {
               "name": "SSBM Doubles",
@@ -200,7 +171,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 16,
+          "numAttendees": 18,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -218,7 +189,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 18
             }
           ]
         },
@@ -241,7 +212,37 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 196",
+          "id": 893653,
+          "numAttendees": 1,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1774224000,
+          "slug": "tournament/rock-chalk-jab-lock-196",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/893653/image-b0c0fb2b201fce7f2d293cc6b02a6e52.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/893653/image-a08c2916085d63fe0f0e27f52082dca4.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
     }
   }
 }
