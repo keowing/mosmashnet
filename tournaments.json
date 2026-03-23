@@ -1,41 +1,66 @@
 {
-  "updatedAt": "2026-03-22T01:54:10.664Z",
+  "updatedAt": "2026-03-23T01:55:19.446Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Feather Weights: 2nd Bout!",
-          "id": 887866,
-          "numAttendees": 17,
-          "city": "Liberty",
+          "name": "The Bair House #31",
+          "id": 894046,
+          "numAttendees": 2,
+          "city": "Springfield",
           "addrState": "MO",
-          "startAt": 1774117800,
-          "slug": "tournament/feather-weights-2nd-bout",
+          "startAt": 1774310400,
+          "slug": "tournament/the-bair-house-31-1",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/887866/image-0f05038d8b3852a0f849b747d2c33501.png",
+              "url": "https://images.start.gg/images/tournament/894046/image-cb410841f583b34f41b0524ac1556227.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/894046/image-69d175de69dbdfc77859973d8f58b7ec.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 3/25/26",
+          "id": 893997,
+          "numAttendees": 4,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1774479600,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-25-26",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/893997/image-1e0a922de2846b38e5a512ae5ecdfa37.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/887866/image-8173337a0e655be7596152c592d1df0e.png",
+              "url": "https://images.start.gg/images/tournament/893997/image-054c39ef98250b0b1d39b68a4a0cad2c.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 4
             },
             {
-              "name": "Redemption",
-              "numEntrants": 4
+              "name": "Guilty Gear -Strive-",
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "Kachow Kup: Going on 30",
           "id": 888057,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1774607400,
@@ -53,14 +78,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "Crowder Esports Super Smash Bros Tournament",
           "id": 888661,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Joplin",
           "addrState": "MO",
           "startAt": 1774710000,
@@ -78,14 +103,14 @@
           "events": [
             {
               "name": "Crowder Esports Spring Smash Singles Tournament ($10 Entry)",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 72,
+          "numAttendees": 75,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -103,7 +128,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 50
+              "numEntrants": 53
             },
             {
               "name": "SSBM Singles",
@@ -171,7 +196,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 18,
+          "numAttendees": 19,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -189,7 +214,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 19
             }
           ]
         },
@@ -216,7 +241,7 @@
         {
           "name": "Rock Chalk Jab Lock 196",
           "id": 893653,
-          "numAttendees": 1,
+          "numAttendees": 13,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1774224000,
@@ -234,7 +259,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 13
             },
             {
               "name": "Redemption Bracket",
