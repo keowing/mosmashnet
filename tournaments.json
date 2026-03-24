@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-03-23T01:55:19.446Z",
+  "updatedAt": "2026-03-24T01:47:10.405Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "The Bair House #31",
           "id": 894046,
-          "numAttendees": 2,
+          "numAttendees": 12,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1774310400,
@@ -24,7 +24,36 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 12
+            }
+          ]
+        },
+        {
+          "name": "Royale with Cheese #36",
+          "id": 894197,
+          "numAttendees": 20,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1774310400,
+          "slug": "tournament/royale-with-cheese-36",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/894197/image-1aa5907e1732087e26e57ffe4280323b.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 18
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 7
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 6
             }
           ]
         },
@@ -58,9 +87,71 @@
           ]
         },
         {
+          "name": "PHAZE ➠ FUSION 59",
+          "id": 894135,
+          "numAttendees": 6,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1774481400,
+          "slug": "tournament/phaze-fusion-59",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/894135/image-40bfeaaf12818fff7ea103e1d088c172.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/894135/image-431f5b2e41d120caacc51b1ff8b9d711.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 6
+            },
+            {
+              "name": "Kung Fu Panda Singles",
+              "numEntrants": 3
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "URSA MINOR 78",
+          "id": 894324,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1774569600,
+          "slug": "tournament/ursa-minor-78",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/894324/image-86876294f0b073ac3fe6962b87d20471.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/894324/image-80f8d537d15ec76b5435a5edbac41fe3.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "Kachow Kup: Going on 30",
           "id": 888057,
-          "numAttendees": 5,
+          "numAttendees": 7,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1774607400,
@@ -78,7 +169,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 7
             }
           ]
         },
@@ -110,7 +201,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 75,
+          "numAttendees": 77,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -128,7 +219,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 53
+              "numEntrants": 55
             },
             {
               "name": "SSBM Singles",
@@ -151,7 +242,7 @@
         {
           "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
           "id": 890079,
-          "numAttendees": 2,
+          "numAttendees": 8,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1775883600,
@@ -169,11 +260,11 @@
           "events": [
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 8
             }
           ]
         },
@@ -196,7 +287,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 19,
+          "numAttendees": 20,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -214,7 +305,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 20
             }
           ]
         },
@@ -237,37 +328,7 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Rock Chalk Jab Lock 196",
-          "id": 893653,
-          "numAttendees": 13,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1774224000,
-          "slug": "tournament/rock-chalk-jab-lock-196",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/893653/image-b0c0fb2b201fce7f2d293cc6b02a6e52.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/893653/image-a08c2916085d63fe0f0e27f52082dca4.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            }
-          ]
-        }
-      ]
+      "nodes": []
     }
   }
 }
