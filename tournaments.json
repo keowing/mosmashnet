@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-03-25T01:52:40.170Z",
+  "updatedAt": "2026-03-26T01:59:12.668Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Freakyville 3.0 You Can (Not) Freak",
-          "id": 894908,
-          "numAttendees": 11,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1774396800,
-          "slug": "tournament/freakyville-3-0-you-can-not-freak",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/894908/image-8f78efa50602d769d0a8f958d3891864.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/894908/image-9cafe25ad31944b8424e1e1cb88c8dfc.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
           "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 3/25/26",
           "id": 893997,
-          "numAttendees": 4,
+          "numAttendees": 19,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1774479600,
@@ -49,18 +24,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 14
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 1
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 59",
           "id": 894135,
-          "numAttendees": 19,
+          "numAttendees": 38,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1774481400,
@@ -78,15 +53,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 38
             },
             {
               "name": "Kung Fu Panda Singles",
-              "numEntrants": 6
+              "numEntrants": 7
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 2
             },
             {
               "name": "2XKO",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe 528",
+          "id": 895187,
+          "numAttendees": 8,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1774483200,
+          "slug": "tournament/smash-cafe-528",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/895187/image-f531041af0dd316387fb593ed792b2b0.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/895187/image-0b0b3cd2253f6715d36903c523e5882a.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Redemption",
@@ -97,7 +101,7 @@
         {
           "name": "URSA MINOR 78",
           "id": 894324,
-          "numAttendees": 3,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1774569600,
@@ -115,14 +119,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Kachow Kup: Going on 30",
           "id": 888057,
-          "numAttendees": 7,
+          "numAttendees": 9,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1774607400,
@@ -140,14 +144,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Crowder Esports Super Smash Bros Tournament",
           "id": 888661,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Joplin",
           "addrState": "MO",
           "startAt": 1774710000,
@@ -165,14 +169,14 @@
           "events": [
             {
               "name": "Crowder Esports Spring Smash Singles Tournament ($10 Entry)",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 77,
+          "numAttendees": 78,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -194,7 +198,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 24
+              "numEntrants": 25
             },
             {
               "name": "Bumper Doubles",
@@ -258,25 +262,25 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 8,
+          "numAttendees": 12,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
           "slug": "tournament/valley-of-flowers-ii",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/892573/image-50dc779fd17ba90ed4aab9ec1e9b57f4.png",
-              "type": "profile"
-            },
-            {
               "url": "https://images.start.gg/images/tournament/892573/image-36f83184a9523e46580f95e09ff8b6a0.jpg",
               "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/892573/image-ef0f82f1032b825a811309ad6fde758c.png",
+              "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 12
             },
             {
               "name": "Redemption Bracket",
@@ -328,7 +332,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 17,
+          "numAttendees": 24,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -350,7 +354,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 17
             }
           ]
         }
