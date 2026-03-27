@@ -1,107 +1,12 @@
 {
-  "updatedAt": "2026-03-26T01:59:12.668Z",
+  "updatedAt": "2026-03-27T01:59:52.185Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 3/25/26",
-          "id": 893997,
-          "numAttendees": 19,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1774479600,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-3-25-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/893997/image-1e0a922de2846b38e5a512ae5ecdfa37.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/893997/image-054c39ef98250b0b1d39b68a4a0cad2c.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 59",
-          "id": 894135,
-          "numAttendees": 38,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1774481400,
-          "slug": "tournament/phaze-fusion-59",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/894135/image-40bfeaaf12818fff7ea103e1d088c172.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/894135/image-431f5b2e41d120caacc51b1ff8b9d711.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 38
-            },
-            {
-              "name": "Kung Fu Panda Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 2
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe 528",
-          "id": 895187,
-          "numAttendees": 8,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1774483200,
-          "slug": "tournament/smash-cafe-528",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/895187/image-f531041af0dd316387fb593ed792b2b0.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/895187/image-0b0b3cd2253f6715d36903c523e5882a.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 8
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 78",
           "id": 894324,
-          "numAttendees": 9,
+          "numAttendees": 19,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1774569600,
@@ -119,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 19
             }
           ]
         },
         {
           "name": "Kachow Kup: Going on 30",
           "id": 888057,
-          "numAttendees": 9,
+          "numAttendees": 11,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1774607400,
@@ -144,7 +49,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 11
+            }
+          ]
+        },
+        {
+          "name": "Strike! 51",
+          "id": 895529,
+          "numAttendees": 2,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1774654200,
+          "slug": "tournament/strike-51",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/895529/image-416dded9a617f42334bac22ed6a49841.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/895529/image-f480eae769a70099f550d8b5ad8ea75d.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
             }
           ]
         },
@@ -176,7 +114,7 @@
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 78,
+          "numAttendees": 80,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -194,11 +132,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 55
+              "numEntrants": 57
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 25
+              "numEntrants": 26
             },
             {
               "name": "Bumper Doubles",
@@ -262,7 +200,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -280,7 +218,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 14
             },
             {
               "name": "Redemption Bracket",
