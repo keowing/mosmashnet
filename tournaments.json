@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-03-27T01:59:52.185Z",
+  "updatedAt": "2026-03-28T01:51:19.522Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 78",
-          "id": 894324,
-          "numAttendees": 19,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1774569600,
-          "slug": "tournament/ursa-minor-78",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/894324/image-86876294f0b073ac3fe6962b87d20471.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/894324/image-80f8d537d15ec76b5435a5edbac41fe3.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            }
-          ]
-        },
-        {
           "name": "Kachow Kup: Going on 30",
           "id": 888057,
-          "numAttendees": 11,
+          "numAttendees": 13,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1774607400,
@@ -49,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 13
             }
           ]
         },
         {
           "name": "Strike! 51",
           "id": 895529,
-          "numAttendees": 2,
+          "numAttendees": 12,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1774654200,
@@ -73,23 +48,23 @@
           ],
           "events": [
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 10
+            },
+            {
               "name": "Squad Strike",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Redemption",
               "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 2
             }
           ]
         },
         {
           "name": "Crowder Esports Super Smash Bros Tournament",
           "id": 888661,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Joplin",
           "addrState": "MO",
           "startAt": 1774710000,
@@ -107,14 +82,14 @@
           "events": [
             {
               "name": "Crowder Esports Spring Smash Singles Tournament ($10 Entry)",
-              "numEntrants": 4
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 80,
+          "numAttendees": 81,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -132,7 +107,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 57
+              "numEntrants": 58
             },
             {
               "name": "SSBM Singles",
@@ -140,7 +115,7 @@
             },
             {
               "name": "Bumper Doubles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -200,7 +175,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 14,
+          "numAttendees": 19,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -218,11 +193,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 19
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
