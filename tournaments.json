@@ -1,70 +1,12 @@
 {
-  "updatedAt": "2026-03-28T01:51:19.522Z",
+  "updatedAt": "2026-03-29T02:02:27.437Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Kachow Kup: Going on 30",
-          "id": 888057,
-          "numAttendees": 13,
-          "city": "Ste. Genevieve",
-          "addrState": "MO",
-          "startAt": 1774607400,
-          "slug": "tournament/kachow-kup-going-on-30",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/888057/image-0ac6566d5f03666e237ae4b3b56a36c3.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/888057/image-d6181c7bd3788c763c48b404bb6ab8e5.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            }
-          ]
-        },
-        {
-          "name": "Strike! 51",
-          "id": 895529,
-          "numAttendees": 12,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1774654200,
-          "slug": "tournament/strike-51",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/895529/image-416dded9a617f42334bac22ed6a49841.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/895529/image-f480eae769a70099f550d8b5ad8ea75d.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 3
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "Crowder Esports Super Smash Bros Tournament",
           "id": 888661,
-          "numAttendees": 6,
+          "numAttendees": 10,
           "city": "Joplin",
           "addrState": "MO",
           "startAt": 1774710000,
@@ -82,14 +24,14 @@
           "events": [
             {
               "name": "Crowder Esports Spring Smash Singles Tournament ($10 Entry)",
-              "numEntrants": 6
+              "numEntrants": 10
             }
           ]
         },
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 81,
+          "numAttendees": 83,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -107,7 +49,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 58
+              "numEntrants": 60
             },
             {
               "name": "SSBM Singles",
@@ -157,6 +99,35 @@
           ]
         },
         {
+          "name": "ADIT IX",
+          "id": 885027,
+          "numAttendees": 23,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1777132800,
+          "slug": "tournament/adit-ix",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/885027/image-a7166566c84bf649260bc1e28203bf36.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/885027/image-8d4f202dc7c042414a2f40da445a2a64.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 23
+            },
+            {
+              "name": "Animal Crossing Fun",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
           "name": "Berserker Bash: April Fools Tag Team Throwdown!",
           "id": 892664,
           "numAttendees": 1,
@@ -175,7 +146,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 19,
+          "numAttendees": 20,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -193,7 +164,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 20
             },
             {
               "name": "Redemption Bracket",
@@ -274,7 +245,37 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 197",
+          "id": 896221,
+          "numAttendees": 2,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1774828800,
+          "slug": "tournament/rock-chalk-jab-lock-197",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/896221/image-e402914fe52f8dded18f9bc35af7ba55.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/896221/image-38ff6c3fbb292e83fd15538ebe14611a.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
     }
   }
 }
