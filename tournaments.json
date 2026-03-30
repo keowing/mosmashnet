@@ -1,37 +1,74 @@
 {
-  "updatedAt": "2026-03-29T02:02:27.437Z",
+  "updatedAt": "2026-03-30T02:04:58.409Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Crowder Esports Super Smash Bros Tournament",
-          "id": 888661,
-          "numAttendees": 10,
-          "city": "Joplin",
+          "name": "The Bair House #32",
+          "id": 896655,
+          "numAttendees": 1,
+          "city": "Springfield",
           "addrState": "MO",
-          "startAt": 1774710000,
-          "slug": "tournament/crowder-esports-super-smash-bros-tournament",
+          "startAt": 1774915200,
+          "slug": "tournament/the-bair-house-32",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/888661/image-3ce3b2bd30c7085cce5e79be2565e68d.jpg",
+              "url": "https://images.start.gg/images/tournament/896655/image-53d8f94164bf1d84187de54c13c9183e.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/896655/image-8a9e6699cecb763e779b6634c3165830.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 60",
+          "id": 896629,
+          "numAttendees": 5,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1775086200,
+          "slug": "tournament/phaze-fusion-60",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/896629/image-d3e32a6de00c42e861247d0e482a104b.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/888661/image-b63821ab378a264a9cdd3af8f36b46fd.jpg",
+              "url": "https://images.start.gg/images/tournament/896629/image-e16961aaef3f2d8ed1533fae5c564b79.jpg",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Crowder Esports Spring Smash Singles Tournament ($10 Entry)",
-              "numEntrants": 10
+              "name": "Ultimate Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "Tekken 8",
+              "numEntrants": 0
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 83,
+          "numAttendees": 88,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -49,23 +86,23 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 60
+              "numEntrants": 65
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 26
+              "numEntrants": 25
             },
             {
               "name": "Bumper Doubles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "SSBM Doubles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -101,7 +138,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 23,
+          "numAttendees": 24,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -119,11 +156,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 23
+              "numEntrants": 24
             },
             {
               "name": "Animal Crossing Fun",
-              "numEntrants": 2
+              "numEntrants": 4
             }
           ]
         },
@@ -146,7 +183,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 20,
+          "numAttendees": 21,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -164,7 +201,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 20
+              "numEntrants": 21
             },
             {
               "name": "Redemption Bracket",
@@ -249,7 +286,7 @@
         {
           "name": "Rock Chalk Jab Lock 197",
           "id": 896221,
-          "numAttendees": 2,
+          "numAttendees": 26,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1774828800,
@@ -267,11 +304,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 26
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 12
             }
           ]
         }
