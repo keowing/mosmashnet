@@ -1,95 +1,53 @@
 {
-  "updatedAt": "2026-03-31T02:01:04.539Z",
+  "updatedAt": "2026-04-01T02:09:13.779Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gold Rush #82 (RollaOut 6 pre-prelocal)",
-          "id": 896919,
-          "numAttendees": 20,
-          "city": "Rolla",
+          "name": "Smash @ Mizzou 182",
+          "id": 897373,
+          "numAttendees": 27,
+          "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1774915200,
-          "slug": "tournament/gold-rush-82-rollaout-6-pre-prelocal",
+          "startAt": 1775005200,
+          "slug": "tournament/smash-mizzou-182",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/896919/image-a76c946d91b96453ab70ba0c41537ae4.png",
+              "url": "https://images.start.gg/images/tournament/897373/image-4e6adf34e95691a668bba2519b6bbfdb.png",
               "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 15
             },
             {
-              "name": "Melee Singles",
-              "numEntrants": 8
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #37",
-          "id": 896972,
-          "numAttendees": 16,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1774915200,
-          "slug": "tournament/royale-with-cheese-37",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/896972/image-ada98b84c98417906f591d68401ff63e.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 6
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "The Bair House #32",
-          "id": 896655,
-          "numAttendees": 3,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1774915200,
-          "slug": "tournament/the-bair-house-32",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/896655/image-53d8f94164bf1d84187de54c13c9183e.jpg",
+              "url": "https://images.start.gg/images/tournament/897373/image-c9c43cddf0226b4489274ed438554120.png",
               "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/896655/image-8a9e6699cecb763e779b6634c3165830.png",
-              "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 13
+            },
+            {
+              "name": "Uni 2",
+              "numEntrants": 13
+            },
+            {
+              "name": "Rivals 2",
+              "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 2
+            },
+            {
+              "name": "Guilty Gear: Strive",
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 60",
           "id": 896629,
-          "numAttendees": 5,
+          "numAttendees": 15,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1775086200,
@@ -107,11 +65,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 15
             },
             {
               "name": "Tekken 8",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "2XKO",
@@ -124,9 +82,34 @@
           ]
         },
         {
+          "name": "URSA MINOR 79",
+          "id": 897461,
+          "numAttendees": 7,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1775174400,
+          "slug": "tournament/ursa-minor-79",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/897461/image-ae885c93925805c5311a3637c1e9a955.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/897461/image-c1067eb069890f5ecc931f8a3147a1ac.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
+            }
+          ]
+        },
+        {
           "name": "RollaIn 6: Reeling in a Highlight",
           "id": 896800,
-          "numAttendees": null,
+          "numAttendees": 12,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775259000,
@@ -137,12 +120,29 @@
               "type": "profile"
             }
           ],
-          "events": []
+          "events": [
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 9
+            },
+            {
+              "name": "Bumper Doubles!",
+              "numEntrants": 1
+            },
+            {
+              "name": "Guilty Gear: Strive",
+              "numEntrants": 1
+            },
+            {
+              "name": "SSBM Singles",
+              "numEntrants": 5
+            }
+          ]
         },
         {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 90,
+          "numAttendees": 93,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -160,19 +160,19 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 65
+              "numEntrants": 66
             },
             {
               "name": "SSBM Singles",
               "numEntrants": 26
             },
             {
-              "name": "Bumper Doubles",
-              "numEntrants": 9
+              "name": "Guilty Gear -Strive-",
+              "numEntrants": 10
             },
             {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 8
+              "name": "Bumper Doubles",
+              "numEntrants": 9
             },
             {
               "name": "SSBM Doubles",
@@ -237,7 +237,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 24,
+          "numAttendees": 25,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -255,7 +255,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 25
             },
             {
               "name": "Animal Crossing Fun",
