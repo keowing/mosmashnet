@@ -1,78 +1,12 @@
 {
-  "updatedAt": "2026-04-02T01:56:53.714Z",
+  "updatedAt": "2026-04-03T01:58:22.993Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 60",
-          "id": 896629,
-          "numAttendees": 32,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1775086200,
-          "slug": "tournament/phaze-fusion-60",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/896629/image-d3e32a6de00c42e861247d0e482a104b.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/896629/image-e16961aaef3f2d8ed1533fae5c564b79.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 28
-            },
-            {
-              "name": "Tekken 8",
-              "numEntrants": 6
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 1
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #529: April Fools Extravaganza",
-          "id": 897787,
-          "numAttendees": 9,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1775088000,
-          "slug": "tournament/smash-cafe-529-april-fools-extravaganza",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/897787/image-5a9c336946a2114b143fea584ba93dac.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/897787/image-14c3d5275ef5100baec83fc81353db1d.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 79",
           "id": 897461,
-          "numAttendees": 8,
+          "numAttendees": 16,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1775174400,
@@ -90,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 16
             }
           ]
         },
         {
           "name": "RollaIn 6: Reeling in a Highlight",
           "id": 896800,
-          "numAttendees": 13,
+          "numAttendees": 16,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775259000,
@@ -111,19 +45,52 @@
           "events": [
             {
               "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 10
+              "numEntrants": 13
             },
             {
               "name": "Bumper Doubles!",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Guilty Gear: Strive",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "SSBM Singles",
               "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "Strike! 52",
+          "id": 898157,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1775259000,
+          "slug": "tournament/strike-52",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/898157/image-7c0cc824065c9c51ac0e3a3db3464081.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/898157/image-93c6a7457d5b988c9ab8362207259fbb.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squid Bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
@@ -148,15 +115,15 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 65
+              "numEntrants": 66
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 30
+              "numEntrants": 29
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "Bumper Doubles",
@@ -164,7 +131,7 @@
             },
             {
               "name": "SSBM Doubles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
@@ -225,7 +192,7 @@
         {
           "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
           "id": 897507,
-          "numAttendees": 25,
+          "numAttendees": 27,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776537000,
@@ -243,7 +210,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 27
             }
           ]
         },
@@ -273,9 +240,42 @@
           ]
         },
         {
+          "name": "MAD Smash April Monthly 2026 ft. HDR",
+          "id": 898268,
+          "numAttendees": 5,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1776544200,
+          "slug": "tournament/mad-smash-april-monthly-2026-ft-hdr",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/898268/image-88350ada806072bb8e4030b6a598e4dc.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/898268/image-a7d499377bcfeea47725b34e7956a885.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "HDR @ MAD",
+              "numEntrants": 2
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 4
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 25,
+          "numAttendees": 26,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -293,7 +293,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 26
             },
             {
               "name": "Animal Crossing Fun",
@@ -304,7 +304,7 @@
         {
           "name": "Berserker Bash: April Fools Tag Team Throwdown!",
           "id": 892664,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777179600,
@@ -313,14 +313,14 @@
           "events": [
             {
               "name": "Berserker Bash: April Fools Tag Team Throwdown!",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "PUBSTOMP #3 BI-MONHTLY",
           "id": 897579,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1777230000,
@@ -338,11 +338,11 @@
           "events": [
             {
               "name": "Casual Squad Strike",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Redemption Bracket",
@@ -428,7 +428,33 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Ascend the Spire #73",
+          "id": 898043,
+          "numAttendees": 5,
+          "city": "Leavenworth",
+          "addrState": "KS",
+          "startAt": 1775163600,
+          "slug": "tournament/ascend-the-spire-73",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/898043/image-be2e2f283001e4b757a4787ef6983312.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/898043/image-c952adcc4a39b37a53c33b3a9bdb534c.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 5
+            }
+          ]
+        }
+      ]
     }
   }
 }
