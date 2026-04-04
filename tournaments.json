@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-04-03T01:58:22.993Z",
+  "updatedAt": "2026-04-04T01:51:24.271Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 79",
-          "id": 897461,
-          "numAttendees": 16,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1775174400,
-          "slug": "tournament/ursa-minor-79",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/897461/image-ae885c93925805c5311a3637c1e9a955.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/897461/image-c1067eb069890f5ecc931f8a3147a1ac.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
           "name": "RollaIn 6: Reeling in a Highlight",
           "id": 896800,
-          "numAttendees": 16,
+          "numAttendees": 24,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775259000,
@@ -45,26 +20,26 @@
           "events": [
             {
               "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 13
+              "numEntrants": 20
             },
             {
               "name": "Bumper Doubles!",
-              "numEntrants": 3
-            },
-            {
-              "name": "Guilty Gear: Strive",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 5
+              "numEntrants": 6
+            },
+            {
+              "name": "Guilty Gear: Strive",
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "Strike! 52",
           "id": 898157,
-          "numAttendees": 0,
+          "numAttendees": 15,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1775259000,
@@ -81,16 +56,16 @@
           ],
           "events": [
             {
-              "name": "Squid Bracket",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 15
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 5
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
+              "name": "Squid Bracket",
+              "numEntrants": 7
             }
           ]
         },
@@ -115,11 +90,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 66
+              "numEntrants": 65
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 29
+              "numEntrants": 30
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -161,6 +136,43 @@
           ]
         },
         {
+          "name": "Smash @ Mizzou 183",
+          "id": 898450,
+          "numAttendees": 6,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1775610000,
+          "slug": "tournament/smash-mizzou-183",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/898450/image-352d963b11bda5c9fd7a952c46eca7ab.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/898450/image-e597753d03e22a76fedce6742b671a0d.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 6
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 2
+            },
+            {
+              "name": "Granblue",
+              "numEntrants": 1
+            },
+            {
+              "name": "Uni 2",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
           "id": 890079,
           "numAttendees": 8,
@@ -192,7 +204,7 @@
         {
           "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
           "id": 897507,
-          "numAttendees": 27,
+          "numAttendees": 29,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776537000,
@@ -210,14 +222,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 27
+              "numEntrants": 29
             }
           ]
         },
         {
           "name": "King of the Hill 5",
           "id": 897875,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1776538800,
@@ -235,7 +247,7 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
@@ -275,7 +287,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 26,
+          "numAttendees": 27,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -293,7 +305,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 26
+              "numEntrants": 27
             },
             {
               "name": "Animal Crossing Fun",
@@ -304,7 +316,7 @@
         {
           "name": "Berserker Bash: April Fools Tag Team Throwdown!",
           "id": 892664,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777179600,
@@ -313,12 +325,12 @@
           "events": [
             {
               "name": "Berserker Bash: April Fools Tag Team Throwdown!",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
-          "name": "PUBSTOMP #3 BI-MONHTLY",
+          "name": "★ PUBSTOMP #3 BI-MONHTLY ★",
           "id": 897579,
           "numAttendees": 4,
           "city": "Cape Girardeau",
@@ -353,7 +365,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 21,
+          "numAttendees": 22,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -371,7 +383,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 22
             },
             {
               "name": "Redemption Bracket",
@@ -428,33 +440,7 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Ascend the Spire #73",
-          "id": 898043,
-          "numAttendees": 5,
-          "city": "Leavenworth",
-          "addrState": "KS",
-          "startAt": 1775163600,
-          "slug": "tournament/ascend-the-spire-73",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/898043/image-be2e2f283001e4b757a4787ef6983312.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/898043/image-c952adcc4a39b37a53c33b3a9bdb534c.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 5
-            }
-          ]
-        }
-      ]
+      "nodes": []
     }
   }
 }
