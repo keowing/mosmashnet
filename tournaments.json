@@ -1,78 +1,12 @@
 {
-  "updatedAt": "2026-04-04T01:51:24.271Z",
+  "updatedAt": "2026-04-05T02:04:22.241Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "RollaIn 6: Reeling in a Highlight",
-          "id": 896800,
-          "numAttendees": 24,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1775259000,
-          "slug": "tournament/rollain-6-reeling-in-a-highlight",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/896800/image-33d5ac533757a9fbb87983da2b2af8ba.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 20
-            },
-            {
-              "name": "Bumper Doubles!",
-              "numEntrants": 4
-            },
-            {
-              "name": "SSBM Singles",
-              "numEntrants": 6
-            },
-            {
-              "name": "Guilty Gear: Strive",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
-          "name": "Strike! 52",
-          "id": 898157,
-          "numAttendees": 15,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1775259000,
-          "slug": "tournament/strike-52",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/898157/image-7c0cc824065c9c51ac0e3a3db3464081.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/898157/image-93c6a7457d5b988c9ab8362207259fbb.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            },
-            {
-              "name": "Squid Bracket",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "RollaOut 6: Fishing for the Clip",
           "id": 872718,
-          "numAttendees": 96,
+          "numAttendees": 95,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1775314800,
@@ -94,19 +28,44 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 30
+              "numEntrants": 29
+            },
+            {
+              "name": "Bumper Doubles",
+              "numEntrants": 10
             },
             {
               "name": "Guilty Gear -Strive-",
               "numEntrants": 12
             },
             {
-              "name": "Bumper Doubles",
+              "name": "SSBM Doubles",
+              "numEntrants": 10
+            }
+          ]
+        },
+        {
+          "name": "SLCL Learn to Read #7",
+          "id": 898511,
+          "numAttendees": 20,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1775320200,
+          "slug": "tournament/slcl-learn-to-read-7",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/898511/image-231d8345bb2395935d119bb167a2d108.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "High Dynamic Range",
               "numEntrants": 9
             },
             {
-              "name": "SSBM Doubles",
-              "numEntrants": 9
+              "name": "Learn to Read 6 Singles",
+              "numEntrants": 16
             }
           ]
         },
@@ -138,7 +97,7 @@
         {
           "name": "Smash @ Mizzou 183",
           "id": 898450,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1775610000,
@@ -156,11 +115,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Granblue",
@@ -175,7 +134,7 @@
         {
           "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
           "id": 890079,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1775883600,
@@ -197,14 +156,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
           "id": 897507,
-          "numAttendees": 29,
+          "numAttendees": 30,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776537000,
@@ -222,14 +181,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 29
+              "numEntrants": 30
             }
           ]
         },
         {
           "name": "King of the Hill 5",
           "id": 897875,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1776538800,
@@ -247,14 +206,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "MAD Smash April Monthly 2026 ft. HDR",
           "id": 898268,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776544200,
@@ -276,18 +235,18 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 27,
+          "numAttendees": 28,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -305,7 +264,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 27
+              "numEntrants": 28
             },
             {
               "name": "Animal Crossing Fun",
@@ -434,6 +393,35 @@
             {
               "name": "SSBU Singles",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "BREACH 2026 | 256 PLAYER CAP |",
+          "id": 873560,
+          "numAttendees": 24,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1784394000,
+          "slug": "tournament/breach-2026-256-player-cap",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/873560/image-fdb75756641b0aad918605dced7996fe.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/873560/image-4d665145e8176bad855b047b49008365.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 17
             }
           ]
         }
