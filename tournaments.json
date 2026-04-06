@@ -1,78 +1,12 @@
 {
-  "updatedAt": "2026-04-05T02:04:22.241Z",
+  "updatedAt": "2026-04-06T02:05:31.591Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "RollaOut 6: Fishing for the Clip",
-          "id": 872718,
-          "numAttendees": 95,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1775314800,
-          "slug": "tournament/rollaout-6-fishing-for-the-clip",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/872718/image-2e7c2dcd8f3265ec27144a899ab0d9a2.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/872718/image-aed5e690998ecf682c6b20373d1267fc.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 65
-            },
-            {
-              "name": "SSBM Singles",
-              "numEntrants": 29
-            },
-            {
-              "name": "Bumper Doubles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 12
-            },
-            {
-              "name": "SSBM Doubles",
-              "numEntrants": 10
-            }
-          ]
-        },
-        {
-          "name": "SLCL Learn to Read #7",
-          "id": 898511,
-          "numAttendees": 20,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1775320200,
-          "slug": "tournament/slcl-learn-to-read-7",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/898511/image-231d8345bb2395935d119bb167a2d108.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "High Dynamic Range",
-              "numEntrants": 9
-            },
-            {
-              "name": "Learn to Read 6 Singles",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
           "name": "Smoothies & Smash #11",
           "id": 897058,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "St. Peters",
           "addrState": "MO",
           "startAt": 1775518200,
@@ -90,14 +24,14 @@
           "events": [
             {
               "name": "Super Smash Bros. Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 183",
           "id": 898450,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1775610000,
@@ -115,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Redemption",
@@ -127,6 +61,39 @@
             },
             {
               "name": "Uni 2",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 61",
+          "id": 899106,
+          "numAttendees": 4,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1775691000,
+          "slug": "tournament/phaze-fusion-61",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899106/image-feed99d80396ff83e271114664114c3e.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899106/image-94864272867753a2d5c37ab623801b88.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
               "numEntrants": 0
             }
           ]
@@ -246,7 +213,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 28,
+          "numAttendees": 29,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -264,7 +231,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 28
+              "numEntrants": 29
             },
             {
               "name": "Animal Crossing Fun",
@@ -399,7 +366,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 24,
+          "numAttendees": 25,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -421,14 +388,44 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 18
             }
           ]
         }
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 198",
+          "id": 899007,
+          "numAttendees": 7,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1775433600,
+          "slug": "tournament/rock-chalk-jab-lock-198",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899007/image-b881fdc60e90f0df8af030424bd1cdf3.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899007/image-0ab3186cd94dc8883386105341b92c10.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
     }
   }
 }
