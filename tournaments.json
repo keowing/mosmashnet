@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-06T02:05:31.591Z",
+  "updatedAt": "2026-04-07T02:01:37.830Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Smoothies & Smash #11",
           "id": 897058,
-          "numAttendees": 3,
+          "numAttendees": 16,
           "city": "St. Peters",
           "addrState": "MO",
           "startAt": 1775518200,
@@ -24,14 +24,68 @@
           "events": [
             {
               "name": "Super Smash Bros. Ultimate Singles",
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "Royale with Cheese #38",
+          "id": 899338,
+          "numAttendees": 13,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1775520000,
+          "slug": "tournament/royale-with-cheese-38",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899338/image-2eec87d83fc7494de4535ed8f03f88f1.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 11
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Redemption Bracket",
               "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "Gold Rush #83",
+          "id": 899468,
+          "numAttendees": 20,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1775520000,
+          "slug": "tournament/gold-rush-83",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899468/image-8a606d2151868d6bc753e556fce90f46.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 19
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 183",
           "id": 898450,
-          "numAttendees": 8,
+          "numAttendees": 14,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1775610000,
@@ -49,26 +103,26 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 13
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Granblue",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Uni 2",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 61",
           "id": 899106,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1775691000,
@@ -86,7 +140,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "2XKO",
@@ -99,9 +153,34 @@
           ]
         },
         {
+          "name": "URSA MINOR 80",
+          "id": 899521,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1775779200,
+          "slug": "tournament/ursa-minor-80",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899521/image-9d1e1cf157c083033559dfa33d28b934.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899521/image-61c72c17e4658420a5937e82401ef6f6.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
           "id": 890079,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1775883600,
@@ -123,14 +202,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             }
           ]
         },
         {
           "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
           "id": 897507,
-          "numAttendees": 30,
+          "numAttendees": 31,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776537000,
@@ -148,7 +227,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 30
+              "numEntrants": 31
             }
           ]
         },
@@ -180,7 +259,7 @@
         {
           "name": "MAD Smash April Monthly 2026 ft. HDR",
           "id": 898268,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776544200,
@@ -206,7 +285,32 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "The Heart Part 3!",
+          "id": 898520,
+          "numAttendees": 0,
+          "city": "North Kansas City",
+          "addrState": "MO",
+          "startAt": 1777075200,
+          "slug": "tournament/the-heart-part-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/898520/image-7da6f06f75c9e7739e9216d61f8f37bd.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/898520/image-472028cd28a28f1254dea84ec4e49ee6.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ladder",
+              "numEntrants": 0
             }
           ]
         },
@@ -316,116 +420,11 @@
               "numEntrants": 1
             }
           ]
-        },
-        {
-          "name": "Marcus Monthly #14 (For Real This Time)",
-          "id": 892015,
-          "numAttendees": 21,
-          "city": "Des Peres",
-          "addrState": "MO",
-          "startAt": 1777838400,
-          "slug": "tournament/marcus-monthly-14-for-real-this-time",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/892015/image-6a300b04f7339ef56b415e3275e94d22.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/892015/image-4eabdad63f1d06c82be05cfaec8fe2ab.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 21
-            }
-          ]
-        },
-        {
-          "name": "Heartland Gaming Con 2026",
-          "id": 877258,
-          "numAttendees": 0,
-          "city": "Cape Girardeau",
-          "addrState": "MO",
-          "startAt": 1780160400,
-          "slug": "tournament/heartland-gaming-con-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/877258/image-c7d034d07fa4ffae0ea4db3b3428d6a9.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "BREACH 2026 | 256 PLAYER CAP |",
-          "id": 873560,
-          "numAttendees": 25,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1784394000,
-          "slug": "tournament/breach-2026-256-player-cap",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/873560/image-fdb75756641b0aad918605dced7996fe.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/873560/image-4d665145e8176bad855b047b49008365.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Squad Strike",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            }
-          ]
         }
       ]
     },
     "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Rock Chalk Jab Lock 198",
-          "id": 899007,
-          "numAttendees": 7,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1775433600,
-          "slug": "tournament/rock-chalk-jab-lock-198",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/899007/image-b881fdc60e90f0df8af030424bd1cdf3.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/899007/image-0ab3186cd94dc8883386105341b92c10.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            }
-          ]
-        }
-      ]
+      "nodes": []
     }
   }
 }
