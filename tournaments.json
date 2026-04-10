@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-04-09T01:54:23.683Z",
+  "updatedAt": "2026-04-10T02:07:08.657Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 4/8/26",
-          "id": 900223,
-          "numAttendees": 13,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1775689200,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-4-8-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/900223/image-2810e543abc5118c063f36368f7ee459.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/900223/image-ec1fb92a78df746e0a67f6ce7b076cf8.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "TEKKEN 8",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 61",
-          "id": 899106,
-          "numAttendees": 26,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1775691000,
-          "slug": "tournament/phaze-fusion-61",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/899106/image-feed99d80396ff83e271114664114c3e.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/899106/image-94864272867753a2d5c37ab623801b88.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 26
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 9
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #530",
-          "id": 900133,
-          "numAttendees": 10,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1775692800,
-          "slug": "tournament/smash-cafe-530",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/900133/image-4153d440718be7ac668b18901fe391c8.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/900133/image-c8b490798e27c82206ee07c6dab438d8.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 80",
           "id": 899521,
-          "numAttendees": 5,
+          "numAttendees": 11,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1775779200,
@@ -115,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 11
             }
           ]
         },
@@ -155,7 +64,7 @@
         {
           "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
           "id": 890079,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1775883600,
@@ -177,7 +86,36 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 14
+            }
+          ]
+        },
+        {
+          "name": "Super Maryville Kaiju War Machine Mecha-Thunder-King Bracket",
+          "id": 900687,
+          "numAttendees": 20,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1776208500,
+          "slug": "tournament/super-maryville-kaiju-war-machine-mecha-thunder-king-bracket",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/900687/image-07b1bb74d6b0572437b2d0a7777ef711.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/900687/image-66711c501450f60326c0d246df95ed23.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 20
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 5
             }
           ]
         },
@@ -234,7 +172,7 @@
         {
           "name": "MAD Smash April Monthly 2026 ft. HDR",
           "id": 898268,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776544200,
@@ -252,7 +190,7 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Squad Strike",
@@ -260,7 +198,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             }
           ]
         },
@@ -399,7 +337,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 25,
+          "numAttendees": 26,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -417,7 +355,53 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 26
+            }
+          ]
+        },
+        {
+          "name": "LastStock",
+          "id": 899457,
+          "numAttendees": 8,
+          "city": "Park Hills",
+          "addrState": "MO",
+          "startAt": 1778342400,
+          "slug": "tournament/laststock-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899457/image-c56bb7708f2e528947d6173b019bef7f.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899457/image-890954836008e8e8248a2e23c20e6adb.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "Heartland Gaming Con 2026",
+          "id": 877258,
+          "numAttendees": 0,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1780160400,
+          "slug": "tournament/heartland-gaming-con-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/877258/image-c7d034d07fa4ffae0ea4db3b3428d6a9.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 0
             }
           ]
         }
@@ -428,7 +412,7 @@
         {
           "name": "Ascend the Spire #74",
           "id": 900024,
-          "numAttendees": 2,
+          "numAttendees": 6,
           "city": "Leavenworth",
           "addrState": "KS",
           "startAt": 1775768400,
@@ -446,7 +430,65 @@
           "events": [
             {
               "name": "SSBU Singles",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "Bluhawk Beatdown #1",
+          "id": 900749,
+          "numAttendees": 0,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1777028400,
+          "slug": "tournament/bluhawk-beatdown-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/900749/image-5cfe5f1021b452518239c8ed21e7426f.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/900749/image-b470867767a6acb0d71579a0e6ea3347.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Bluhawk Beatdown",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Wheak Hit! #3",
+          "id": 899396,
+          "numAttendees": 2,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1778342400,
+          "slug": "tournament/wheak-hit-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899396/image-f0d5e101e0f6a95ba95e5271d4011cc1.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899396/image-ba649b2e907a99e1e6e443449eb59911.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Squad Strike",
+              "numEntrants": 0
             }
           ]
         }
