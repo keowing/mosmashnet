@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-04-11T01:55:30.900Z",
+  "updatedAt": "2026-04-12T02:08:44.963Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 53",
-          "id": 900196,
-          "numAttendees": 19,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1775863800,
-          "slug": "tournament/strike-53",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/900196/image-e30124758d7e58090c83b4c83433ef41.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/900196/image-cff8d0261ffd03258ecfb10203300261.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Squads",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "KCGameOn99: FINAL DESTINATION *$150 POT BONUS*",
-          "id": 890079,
-          "numAttendees": 18,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1775883600,
-          "slug": "tournament/kcgameon99-final-destination-150-pot-bonus",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/890079/image-7f556e3707e331786e903c3b13636ffb.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/890079/image-b1e9cc42006e14e6071af7b34a743926.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 1
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            }
-          ]
-        },
-        {
           "name": "Super Maryville Kaiju War Machine Mecha-Thunder-King Bracket",
           "id": 900687,
-          "numAttendees": 23,
+          "numAttendees": 24,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776208500,
@@ -86,11 +24,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 23
+              "numEntrants": 24
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -122,7 +60,7 @@
         {
           "name": "King of the Hill 5",
           "id": 897875,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1776538800,
@@ -140,7 +78,7 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -205,7 +143,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 34,
+          "numAttendees": 35,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -223,7 +161,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 34
+              "numEntrants": 35
             },
             {
               "name": "Animal Crossing Fun",
@@ -283,7 +221,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 22,
+          "numAttendees": 23,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -301,7 +239,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 22
+              "numEntrants": 23
             },
             {
               "name": "Redemption Bracket",
@@ -337,7 +275,7 @@
         {
           "name": "LastStock",
           "id": 899457,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Park Hills",
           "addrState": "MO",
           "startAt": 1778342400,
@@ -355,7 +293,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             }
           ]
         },
