@@ -1,12 +1,37 @@
 {
-  "updatedAt": "2026-04-12T02:08:44.963Z",
+  "updatedAt": "2026-04-13T02:13:25.917Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "The Bair House #33",
+          "id": 901664,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1776124800,
+          "slug": "tournament/the-bair-house-33",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/901664/image-442d176e10bcf319a5a3042fee2ce30b.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/901664/image-715f4d0461be77e38f2faa43925bb5fb.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "Super Maryville Kaiju War Machine Mecha-Thunder-King Bracket",
           "id": 900687,
-          "numAttendees": 24,
+          "numAttendees": 26,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776208500,
@@ -24,11 +49,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 26
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 6
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 62",
+          "id": 901636,
+          "numAttendees": 1,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1776295800,
+          "slug": "tournament/phaze-fusion-62",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/901636/image-2531a4986a08424524c9e3276f1b859c.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/901636/image-a74bd126d345e8fd961e4ab7658c1fcf.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -219,6 +277,31 @@
           ]
         },
         {
+          "name": "Kachow Kup 31: Vengeance of the Venue",
+          "id": 901271,
+          "numAttendees": 3,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1777674600,
+          "slug": "tournament/kachow-kup-31-vengeance-of-the-venue",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/901271/image-b2f430de76681543f370663e713d5996.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/901271/image-f33cdd74a891987fa38f5fb13880a323.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
           "numAttendees": 23,
@@ -317,35 +400,6 @@
               "numEntrants": 0
             }
           ]
-        },
-        {
-          "name": "BREACH 2026 | 256 PLAYER CAP |",
-          "id": 873560,
-          "numAttendees": 26,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1784394000,
-          "slug": "tournament/breach-2026-256-player-cap",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/873560/image-fdb75756641b0aad918605dced7996fe.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/873560/image-4d665145e8176bad855b047b49008365.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Squad Strike",
-              "numEntrants": 1
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            }
-          ]
         }
       ]
     },
@@ -377,9 +431,38 @@
           ]
         },
         {
+          "name": "Rock Chalk Jab Lock 200! ($50+ Pot Bonus!!!)",
+          "id": 899716,
+          "numAttendees": 1,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1777240800,
+          "slug": "tournament/rock-chalk-jab-lock-200-50-pot-bonus",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899716/image-f961b9db9e6203c285433cd9b03d8645.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899716/image-8da8525e4818bbc49d29a649333475fb.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Wheak Hit! #3",
           "id": 899396,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1778342400,
@@ -397,7 +480,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Redemption",
