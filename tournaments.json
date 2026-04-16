@@ -1,78 +1,12 @@
 {
-  "updatedAt": "2026-04-15T02:05:02.589Z",
+  "updatedAt": "2026-04-16T02:12:46.433Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Super Maryville Anti-Kaiju War Machine Mecha-Thunder-King Bracket",
-          "id": 900687,
-          "numAttendees": 40,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1776208500,
-          "slug": "tournament/super-maryville-anti-kaiju-war-machine-mecha-thunder-king-bracket",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/900687/image-07b1bb74d6b0572437b2d0a7777ef711.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/900687/image-66711c501450f60326c0d246df95ed23.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 36
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 17
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 184",
-          "id": 901763,
-          "numAttendees": 31,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1776214800,
-          "slug": "tournament/smash-mizzou-184",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/901763/image-22ca1a276b96b1c786c884ae51ea438d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/901763/image-08540af70a56f8446b8c07f5a8b7e22e.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "Granblue",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 62",
           "id": 901636,
-          "numAttendees": 13,
+          "numAttendees": 33,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1776295800,
@@ -90,22 +24,51 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 32
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 12
             },
             {
               "name": "2XKO",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #531",
+          "id": 902666,
+          "numAttendees": 12,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1776297600,
+          "slug": "tournament/smash-cafe-531",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/902666/image-820a4f1a9d4101e59d9db924d9cbfe76.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/902666/image-f34a330861caf22dcfdf135e199a29ea.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "URSA MINOR 81",
           "id": 901915,
-          "numAttendees": 5,
+          "numAttendees": 8,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776384000,
@@ -123,14 +86,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
           "id": 897507,
-          "numAttendees": 38,
+          "numAttendees": 44,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776537000,
@@ -148,14 +111,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 38
+              "numEntrants": 44
             }
           ]
         },
         {
           "name": "King of the Hill 5",
           "id": 897875,
-          "numAttendees": 9,
+          "numAttendees": 11,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1776538800,
@@ -173,14 +136,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 9
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "MAD Smash April Monthly 2026 ft. HDR",
           "id": 898268,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776544200,
@@ -198,7 +161,7 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Squad Strike",
@@ -206,7 +169,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             }
           ]
         },
@@ -238,7 +201,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 35,
+          "numAttendees": 36,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -256,7 +219,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 35
+              "numEntrants": 36
             },
             {
               "name": "Animal Crossing Fun",
@@ -267,7 +230,7 @@
         {
           "name": "Feather Weights: 3rd Bout!",
           "id": 901983,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1777141800,
@@ -285,7 +248,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Redemption",
@@ -312,7 +275,7 @@
         {
           "name": "★ PUBSTOMP #3 BI-MONHTLY ★",
           "id": 897579,
-          "numAttendees": 8,
+          "numAttendees": 10,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1777230000,
@@ -330,11 +293,11 @@
           "events": [
             {
               "name": "Casual Squad Strike",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 8
+              "numEntrants": 10
             },
             {
               "name": "Redemption Bracket",
@@ -370,7 +333,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 24,
+          "numAttendees": 25,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -388,7 +351,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 25
             },
             {
               "name": "Redemption Bracket",
@@ -399,7 +362,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 30,
+          "numAttendees": 33,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -417,7 +380,32 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 30
+              "numEntrants": 33
+            }
+          ]
+        },
+        {
+          "name": "LastStock",
+          "id": 899457,
+          "numAttendees": 12,
+          "city": "Park Hills",
+          "addrState": "MO",
+          "startAt": 1778342400,
+          "slug": "tournament/laststock-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899457/image-c56bb7708f2e528947d6173b019bef7f.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899457/image-890954836008e8e8248a2e23c20e6adb.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 12
             }
           ]
         }
@@ -482,7 +470,7 @@
         {
           "name": "Wheak Hit! #3",
           "id": 899396,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1778342400,
@@ -500,7 +488,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Redemption",
