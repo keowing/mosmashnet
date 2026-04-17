@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-04-16T02:12:46.433Z",
+  "updatedAt": "2026-04-17T02:09:00.413Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 62",
-          "id": 901636,
-          "numAttendees": 33,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1776295800,
-          "slug": "tournament/phaze-fusion-62",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/901636/image-2531a4986a08424524c9e3276f1b859c.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/901636/image-a74bd126d345e8fd961e4ab7658c1fcf.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 32
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #531",
-          "id": 902666,
-          "numAttendees": 12,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1776297600,
-          "slug": "tournament/smash-cafe-531",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/902666/image-820a4f1a9d4101e59d9db924d9cbfe76.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/902666/image-f34a330861caf22dcfdf135e199a29ea.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 81",
           "id": 901915,
-          "numAttendees": 8,
+          "numAttendees": 15,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776384000,
@@ -86,14 +24,47 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 15
+            }
+          ]
+        },
+        {
+          "name": "Strike! 54",
+          "id": 903096,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1776468600,
+          "slug": "tournament/strike-54",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/903096/image-25734af5c416bcbf4dea77bc020582df.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/903096/image-1ceae0ec14ac094f1b02a6a8668cd03d.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "side bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
           "id": 897507,
-          "numAttendees": 44,
+          "numAttendees": 45,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776537000,
@@ -111,14 +82,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 44
+              "numEntrants": 45
             }
           ]
         },
         {
           "name": "King of the Hill 5",
           "id": 897875,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1776538800,
@@ -136,14 +107,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "MAD Smash April Monthly 2026 ft. HDR",
           "id": 898268,
-          "numAttendees": 14,
+          "numAttendees": 23,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776544200,
@@ -161,15 +132,15 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 6
+              "numEntrants": 11
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 7
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 18
             }
           ]
         },
@@ -201,7 +172,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 36,
+          "numAttendees": 37,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -219,7 +190,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 36
+              "numEntrants": 37
             },
             {
               "name": "Animal Crossing Fun",
@@ -230,7 +201,7 @@
         {
           "name": "Feather Weights: 3rd Bout!",
           "id": 901983,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1777141800,
@@ -248,11 +219,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Redemption",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
@@ -362,7 +333,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 33,
+          "numAttendees": 34,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -380,7 +351,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 33
+              "numEntrants": 34
             }
           ]
         },
@@ -408,11 +379,57 @@
               "numEntrants": 12
             }
           ]
+        },
+        {
+          "name": "Heartland Gaming Con 2026",
+          "id": 877258,
+          "numAttendees": 0,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1780160400,
+          "slug": "tournament/heartland-gaming-con-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/877258/image-c7d034d07fa4ffae0ea4db3b3428d6a9.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 0
+            }
+          ]
         }
       ]
     },
     "KansasCityKS": {
       "nodes": [
+        {
+          "name": "Ascend the Spire #75",
+          "id": 903142,
+          "numAttendees": 4,
+          "city": "Leavenworth",
+          "addrState": "KS",
+          "startAt": 1776373200,
+          "slug": "tournament/ascend-the-spire-75",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/903142/image-7fe4013ad4e2d32606aa2837418b296a.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/903142/image-c48af5f5ef6e4f55700db03ab9d6bdd0.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
         {
           "name": "Bluhawk Beatdown #1",
           "id": 900749,
