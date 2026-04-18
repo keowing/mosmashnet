@@ -1,33 +1,8 @@
 {
-  "updatedAt": "2026-04-17T02:09:00.413Z",
+  "updatedAt": "2026-04-18T01:59:49.667Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "URSA MINOR 81",
-          "id": 901915,
-          "numAttendees": 15,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1776384000,
-          "slug": "tournament/ursa-minor-81",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/901915/image-ceb0567f7c093cb5fdd1c33c391dcc00.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/901915/image-59215dbf94cc50a8886b9a1947092ef6.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
-            }
-          ]
-        },
         {
           "name": "Strike! 54",
           "id": 903096,
@@ -62,9 +37,38 @@
           ]
         },
         {
+          "name": "Smash Casuals #59",
+          "id": 903508,
+          "numAttendees": 15,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1776468600,
+          "slug": "tournament/smash-casuals-59",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/903508/image-374fad093fef30c2b1824699a2b7a7d3.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 11
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 11
+            },
+            {
+              "name": "Smash 64 Doubles",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
           "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
           "id": 897507,
-          "numAttendees": 45,
+          "numAttendees": 48,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1776537000,
@@ -82,14 +86,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 45
+              "numEntrants": 48
             }
           ]
         },
         {
           "name": "King of the Hill 5",
           "id": 897875,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1776538800,
@@ -107,14 +111,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 12
+              "numEntrants": 14
             }
           ]
         },
         {
           "name": "MAD Smash April Monthly 2026 ft. HDR",
           "id": 898268,
-          "numAttendees": 23,
+          "numAttendees": 35,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1776544200,
@@ -132,15 +136,15 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 11
+              "numEntrants": 16
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 10
+              "numEntrants": 18
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 28
             }
           ]
         },
@@ -172,7 +176,7 @@
         {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 37,
+          "numAttendees": 38,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -190,7 +194,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 37
+              "numEntrants": 38
             },
             {
               "name": "Animal Crossing Fun",
@@ -304,7 +308,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 25,
+          "numAttendees": 26,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -322,7 +326,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 26
             },
             {
               "name": "Redemption Bracket",
@@ -405,31 +409,6 @@
     },
     "KansasCityKS": {
       "nodes": [
-        {
-          "name": "Ascend the Spire #75",
-          "id": 903142,
-          "numAttendees": 4,
-          "city": "Leavenworth",
-          "addrState": "KS",
-          "startAt": 1776373200,
-          "slug": "tournament/ascend-the-spire-75",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/903142/image-7fe4013ad4e2d32606aa2837418b296a.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/903142/image-c48af5f5ef6e4f55700db03ab9d6bdd0.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 4
-            }
-          ]
-        },
         {
           "name": "Bluhawk Beatdown #1",
           "id": 900749,
