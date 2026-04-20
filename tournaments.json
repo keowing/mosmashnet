@@ -1,92 +1,92 @@
 {
-  "updatedAt": "2026-04-19T02:13:27.919Z",
+  "updatedAt": "2026-04-20T02:13:22.632Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Schweitzer-Brentwood Library Tournament (FREE ENTRY, GREAT PRIZES!)",
-          "id": 897507,
-          "numAttendees": 48,
-          "city": "Springfield",
+          "name": "Mizzou Summit #3",
+          "id": 897375,
+          "numAttendees": 16,
+          "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1776537000,
-          "slug": "tournament/schweitzer-brentwood-library-tournament-free-entry-great-prizes",
+          "startAt": 1776621600,
+          "slug": "tournament/mizzou-summit-3",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/897507/image-e7a2ef84d54912ec8900466dfceca1b3.jpg",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/897375/image-6f2fc56d04562b6addc1c47ebf72639b.png",
+              "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/897507/image-7bae6bfee80e81511a9a3ee2b3fad085.jpg",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/897375/image-2822923f232d729dfc51a46d3082e783.png",
+              "type": "profile"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 48
-            }
-          ]
-        },
-        {
-          "name": "King of the Hill 5",
-          "id": 897875,
-          "numAttendees": 10,
-          "city": "Liberty",
-          "addrState": "MO",
-          "startAt": 1776538800,
-          "slug": "tournament/king-of-the-hill-5-3",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/897875/image-eb40620856678bae4dc5ad45b13f046d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/897875/image-3e163980fb297a69e33d59acd985c848.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 10
-            }
-          ]
-        },
-        {
-          "name": "MAD Smash April Monthly 2026 ft. HDR",
-          "id": 898268,
-          "numAttendees": 58,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1776544200,
-          "slug": "tournament/mad-smash-april-monthly-2026-ft-hdr",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/898268/image-88350ada806072bb8e4030b6a598e4dc.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/898268/image-a7d499377bcfeea47725b34e7956a885.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Redemption Bracket",
+              "name": "Mizzou Summit 3",
               "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "Mizzou Summit 3",
+          "id": 904031,
+          "numAttendees": 16,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1776628800,
+          "slug": "tournament/mizzou-summit-3-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/904031/image-ba8dd1cba5acd8b7baa86465bd6df09b.png",
+              "type": "banner"
             },
             {
-              "name": "Squad Strike",
-              "numEntrants": 37
+              "url": "https://images.start.gg/images/tournament/904031/image-b2efea6aaf3a3bb59fa0547bfa9b2212.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Mizzou Summit 3",
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 63",
+          "id": 904181,
+          "numAttendees": 3,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1776900600,
+          "slug": "tournament/phaze-fusion-63",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/904181/image-6a38cddf334402b714fe26307f459dd0.png",
+              "type": "profile"
             },
+            {
+              "url": "https://images.start.gg/images/tournament/904181/image-0139ab25d90827c5abd7143d794e14f1.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 48
+              "numEntrants": 2
             },
             {
-              "name": "HDR @ MAD",
-              "numEntrants": 20
+              "name": "Tekken 8",
+              "numEntrants": 1
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -192,7 +192,7 @@
         {
           "name": "★ PUBSTOMP #3 BI-MONHTLY ★",
           "id": 897579,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1777230000,
@@ -214,7 +214,7 @@
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Redemption Bracket",
@@ -383,7 +383,7 @@
         {
           "name": "Rock Chalk Jab Lock 199",
           "id": 903713,
-          "numAttendees": 5,
+          "numAttendees": 14,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1776643200,
@@ -401,11 +401,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 13
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 6
             }
           ]
         },
@@ -437,7 +437,7 @@
         {
           "name": "Rock Chalk Jab Lock 200! ($50+ Pot Bonus!!!)",
           "id": 899716,
-          "numAttendees": 4,
+          "numAttendees": 7,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1777240800,
@@ -455,7 +455,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 7
             },
             {
               "name": "Redemption Bracket",
