@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-04-24T02:12:15.219Z",
+  "updatedAt": "2026-04-25T02:02:05.829Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 82",
-          "id": 904827,
-          "numAttendees": 16,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1776988800,
-          "slug": "tournament/ursa-minor-82",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/904827/image-de992de2f6a8a148d1a31f2a4ab048c2.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/904827/image-d1c2270a672f4fa535198dc02b5ce42d.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
           "name": "Strike! 54 but fr this time",
           "id": 905520,
-          "numAttendees": 0,
+          "numAttendees": 5,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1777073400,
@@ -49,7 +24,7 @@
           "events": [
             {
               "name": "Squids",
-              "numEntrants": 0
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
@@ -57,14 +32,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "The Heart Part 3!",
           "id": 898520,
-          "numAttendees": 2,
+          "numAttendees": 5,
           "city": "North Kansas City",
           "addrState": "MO",
           "startAt": 1777075200,
@@ -82,7 +57,7 @@
           "events": [
             {
               "name": "Smash Ladder",
-              "numEntrants": 2
+              "numEntrants": 5
             }
           ]
         },
@@ -163,7 +138,7 @@
         {
           "name": "★ PUBSTOMP #3 BI-MONHTLY ★",
           "id": 897579,
-          "numAttendees": 16,
+          "numAttendees": 23,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1777230000,
@@ -181,14 +156,51 @@
           "events": [
             {
               "name": "Casual Squad Strike",
-              "numEntrants": 8
+              "numEntrants": 12
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 16
+              "numEntrants": 23
             },
             {
               "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Super Smash @ Mizzou 3",
+          "id": 905737,
+          "numAttendees": 1,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1777417200,
+          "slug": "tournament/super-smash-mizzou-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/905737/image-d4d117f233dc844abe1ffb17e01c72d0.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/905737/image-e9733fb4818d1d2a340c73f6a44ff10f.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Granblue Fantasy Versus: Rising",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Under Night In-Birth II Sys:Celes",
               "numEntrants": 0
             }
           ]
@@ -221,7 +233,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 33,
+          "numAttendees": 40,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -239,7 +251,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 34
+              "numEntrants": 40
             },
             {
               "name": "Redemption Bracket",
@@ -250,7 +262,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 35,
+          "numAttendees": 36,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -268,7 +280,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 35
+              "numEntrants": 36
             }
           ]
         },
@@ -351,31 +363,6 @@
     },
     "KansasCityKS": {
       "nodes": [
-        {
-          "name": "Ascend the Spire #76",
-          "id": 905279,
-          "numAttendees": 5,
-          "city": "Leavenworth",
-          "addrState": "KS",
-          "startAt": 1776978000,
-          "slug": "tournament/ascend-the-spire-76",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/905279/image-3613c358af8fb7feca021022032b9d39.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/905279/image-836a00263ff878fa169fec6fe08e5c41.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
         {
           "name": "Bluhawk Beatdown #1",
           "id": 900749,
