@@ -1,70 +1,12 @@
 {
-  "updatedAt": "2026-04-25T02:02:05.829Z",
+  "updatedAt": "2026-04-26T02:24:18.686Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 54 but fr this time",
-          "id": 905520,
-          "numAttendees": 5,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1777073400,
-          "slug": "tournament/strike-54-but-fr-this-time",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/905520/image-d300e3863be2848023b51a9a017af65d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/905520/image-f70b528d0090ca607be00f0a2ba405d5.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Squids",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
-          "name": "The Heart Part 3!",
-          "id": 898520,
-          "numAttendees": 5,
-          "city": "North Kansas City",
-          "addrState": "MO",
-          "startAt": 1777075200,
-          "slug": "tournament/the-heart-part-3",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/898520/image-7da6f06f75c9e7739e9216d61f8f37bd.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/898520/image-472028cd28a28f1254dea84ec4e49ee6.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ladder",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "ADIT IX",
           "id": 885027,
-          "numAttendees": 38,
+          "numAttendees": 34,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777132800,
@@ -82,18 +24,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 38
+              "numEntrants": 34
             },
             {
               "name": "Animal Crossing Fun",
-              "numEntrants": 8
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "Feather Weights: 3rd Bout!",
           "id": 901983,
-          "numAttendees": 7,
+          "numAttendees": 6,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1777141800,
@@ -111,18 +53,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Redemption",
-              "numEntrants": 2
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "Berserker Bash: April Fools Tag Team Throwdown!",
           "id": 892664,
-          "numAttendees": 6,
+          "numAttendees": 9,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777179600,
@@ -138,7 +76,7 @@
         {
           "name": "★ PUBSTOMP #3 BI-MONHTLY ★",
           "id": 897579,
-          "numAttendees": 23,
+          "numAttendees": 27,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1777230000,
@@ -156,11 +94,11 @@
           "events": [
             {
               "name": "Casual Squad Strike",
-              "numEntrants": 12
+              "numEntrants": 13
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 23
+              "numEntrants": 27
             },
             {
               "name": "Redemption Bracket",
@@ -208,7 +146,7 @@
         {
           "name": "Kachow Kup 31: Vengeance of the Venue",
           "id": 901271,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1777674600,
@@ -226,14 +164,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 40,
+          "numAttendees": 41,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -251,7 +189,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 40
+              "numEntrants": 41
             },
             {
               "name": "Redemption Bracket",
@@ -364,38 +302,13 @@
     "KansasCityKS": {
       "nodes": [
         {
-          "name": "Bluhawk Beatdown #1",
-          "id": 900749,
-          "numAttendees": 0,
-          "city": "Overland Park",
-          "addrState": "KS",
-          "startAt": 1777028400,
-          "slug": "tournament/bluhawk-beatdown-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/900749/image-5cfe5f1021b452518239c8ed21e7426f.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/900749/image-b470867767a6acb0d71579a0e6ea3347.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Bluhawk Beatdown",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Rock Chalk Jab Lock 200! ($50+ Pot Bonus!!!)",
+          "name": "Rock Chalk Jab Lock 200! ($100+ Pot Bonus!!!)",
           "id": 899716,
-          "numAttendees": 12,
+          "numAttendees": 18,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1777240800,
-          "slug": "tournament/rock-chalk-jab-lock-200-50-pot-bonus",
+          "slug": "tournament/rock-chalk-jab-lock-200-100-pot-bonus",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/899716/image-f961b9db9e6203c285433cd9b03d8645.png",
@@ -409,7 +322,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 17
             },
             {
               "name": "Redemption Bracket",
