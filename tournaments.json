@@ -1,82 +1,12 @@
 {
-  "updatedAt": "2026-04-26T02:24:18.686Z",
+  "updatedAt": "2026-04-27T02:26:48.899Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "ADIT IX",
-          "id": 885027,
-          "numAttendees": 34,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1777132800,
-          "slug": "tournament/adit-ix",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/885027/image-a7166566c84bf649260bc1e28203bf36.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/885027/image-8d4f202dc7c042414a2f40da445a2a64.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 34
-            },
-            {
-              "name": "Animal Crossing Fun",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Feather Weights: 3rd Bout!",
-          "id": 901983,
-          "numAttendees": 6,
-          "city": "Liberty",
-          "addrState": "MO",
-          "startAt": 1777141800,
-          "slug": "tournament/feather-weights-3rd-bout",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/901983/image-ec8c1f57e4bd83c729d2f52490a0dd2c.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/901983/image-78845612a64e4647da48e442ad3da0aa.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Berserker Bash: April Fools Tag Team Throwdown!",
-          "id": 892664,
-          "numAttendees": 9,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1777179600,
-          "slug": "tournament/berserker-bash-april-fools-tag-team-throwdown",
-          "images": [],
-          "events": [
-            {
-              "name": "Berserker Bash: April Fools Tag Team Throwdown!",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
           "name": "★ PUBSTOMP #3 BI-MONHTLY ★",
           "id": 897579,
-          "numAttendees": 27,
+          "numAttendees": 34,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1777230000,
@@ -94,15 +24,15 @@
           "events": [
             {
               "name": "Casual Squad Strike",
-              "numEntrants": 13
+              "numEntrants": 17
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 27
+              "numEntrants": 34
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
@@ -171,7 +101,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 41,
+          "numAttendees": 46,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -189,7 +119,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 41
+              "numEntrants": 46
             },
             {
               "name": "Redemption Bracket",
@@ -200,7 +130,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 36,
+          "numAttendees": 37,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -218,7 +148,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 36
+              "numEntrants": 37
             }
           ]
         },
@@ -304,7 +234,7 @@
         {
           "name": "Rock Chalk Jab Lock 200! ($100+ Pot Bonus!!!)",
           "id": 899716,
-          "numAttendees": 18,
+          "numAttendees": 24,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1777240800,
@@ -322,7 +252,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 24
             },
             {
               "name": "Redemption Bracket",
