@@ -1,58 +1,33 @@
 {
-  "updatedAt": "2026-04-28T02:34:10.336Z",
+  "updatedAt": "2026-04-29T02:34:13.138Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gold Rush #86",
-          "id": 906818,
-          "numAttendees": 15,
-          "city": "Rolla",
+          "name": "Final Freakyville: The 4 Freakers of Light",
+          "id": 907180,
+          "numAttendees": 14,
+          "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1777334400,
-          "slug": "tournament/gold-rush-86",
+          "startAt": 1777397460,
+          "slug": "tournament/final-freakyville-the-4-freakers-of-light",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/906818/image-6665e7daf7eec0d27f34e0b9ebc37585.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 14
+              "url": "https://images.start.gg/images/tournament/907180/image-63f49a5cf11e16096e549c2917db6833.png",
+              "type": "banner"
             },
             {
-              "name": "Street Fighter 6",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #41",
-          "id": 906688,
-          "numAttendees": 14,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1777334400,
-          "slug": "tournament/royale-with-cheese-41",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/906688/image-42bcc895c281a79fa5250472fed88fc8.png",
+              "url": "https://images.start.gg/images/tournament/907180/image-e20ea74cb75d2d06af172104c331ce85.png",
               "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 11
             },
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 6
-            },
-            {
-              "name": "Remix Singles",
+              "name": "Late People Bracket",
               "numEntrants": 4
             }
           ]
@@ -60,7 +35,7 @@
         {
           "name": "Super Smash @ Mizzou 3",
           "id": 905737,
-          "numAttendees": 3,
+          "numAttendees": 18,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1777417200,
@@ -78,26 +53,26 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 6
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 1
-            },
-            {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 0
+              "numEntrants": 11
+            },
+            {
+              "name": "Under Night In-Birth II Sys:Celes",
+              "numEntrants": 10
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 64",
           "id": 906877,
-          "numAttendees": 1,
+          "numAttendees": 14,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777505400,
@@ -115,7 +90,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 14
             },
             {
               "name": "2XKO",
@@ -130,7 +105,7 @@
         {
           "name": "URSA MINOR 83",
           "id": 906792,
-          "numAttendees": 7,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1777593600,
@@ -148,14 +123,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Kachow Kup 31: Vengeance of the Venue",
           "id": 901271,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1777674600,
@@ -173,14 +148,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 51,
+          "numAttendees": 54,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -198,7 +173,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 51
+              "numEntrants": 54
             },
             {
               "name": "Redemption Bracket",
@@ -310,6 +285,35 @@
     },
     "KansasCityKS": {
       "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 200! ($100+ Pot Bonus!!!)",
+          "id": 899716,
+          "numAttendees": 24,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1777852800,
+          "slug": "tournament/rock-chalk-jab-lock-200-100-pot-bonus",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/899716/image-f961b9db9e6203c285433cd9b03d8645.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/899716/image-8da8525e4818bbc49d29a649333475fb.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 24
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
         {
           "name": "Wheak Hit! #3",
           "id": 899396,
