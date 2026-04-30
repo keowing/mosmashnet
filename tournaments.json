@@ -1,78 +1,41 @@
 {
-  "updatedAt": "2026-04-29T02:34:13.138Z",
+  "updatedAt": "2026-04-30T02:35:18.977Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Final Freakyville: The 4 Freakers of Light",
-          "id": 907180,
-          "numAttendees": 14,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1777397460,
-          "slug": "tournament/final-freakyville-the-4-freakers-of-light",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/907180/image-63f49a5cf11e16096e549c2917db6833.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/907180/image-e20ea74cb75d2d06af172104c331ce85.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Late People Bracket",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Super Smash @ Mizzou 3",
-          "id": 905737,
-          "numAttendees": 18,
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 4/29/26",
+          "id": 907502,
+          "numAttendees": 10,
           "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1777417200,
-          "slug": "tournament/super-smash-mizzou-3",
+          "startAt": 1777503600,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-4-29-26",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/905737/image-d4d117f233dc844abe1ffb17e01c72d0.png",
+              "url": "https://images.start.gg/images/tournament/907502/image-679c6682482944be59c1a092508d28d1.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/905737/image-e9733fb4818d1d2a340c73f6a44ff10f.png",
+              "url": "https://images.start.gg/images/tournament/907502/image-126db0365de936e23b7a33cf65547236.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 2
-            },
-            {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 11
-            },
-            {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 10
+              "name": "Mystery Game",
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 64",
           "id": 906877,
-          "numAttendees": 14,
+          "numAttendees": 32,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777505400,
@@ -90,11 +53,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 32
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 10
             },
             {
               "name": "2XKO",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #533",
+          "id": 907513,
+          "numAttendees": 5,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1777507200,
+          "slug": "tournament/smash-cafe-533",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/907513/image-763605bc16c43e5f79541e4dba376b4b.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/907513/image-fc01ff72e724b5216a264772d7bae41d.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Redemption",
@@ -105,7 +97,7 @@
         {
           "name": "URSA MINOR 83",
           "id": 906792,
-          "numAttendees": 9,
+          "numAttendees": 16,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1777593600,
@@ -123,7 +115,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 16
             }
           ]
         },
@@ -155,7 +147,7 @@
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 54,
+          "numAttendees": 57,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -173,7 +165,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 54
+              "numEntrants": 57
             },
             {
               "name": "Redemption Bracket",
@@ -184,7 +176,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 37,
+          "numAttendees": 39,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -202,7 +194,32 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 37
+              "numEntrants": 39
+            }
+          ]
+        },
+        {
+          "name": "Smoothies & Smash #12",
+          "id": 907740,
+          "numAttendees": 0,
+          "city": "St. Peters",
+          "addrState": "MO",
+          "startAt": 1777937400,
+          "slug": "tournament/smoothies-smash-12",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/907740/image-0982b0826aa0f6a64c60bca45ea1c5e3.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/907740/image-c7cb2e6651339eeeab6c45d7252a7c0d.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Super Smash Bros. Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
