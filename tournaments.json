@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-04-30T02:35:18.977Z",
+  "updatedAt": "2026-05-01T02:40:54.870Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 4/29/26",
-          "id": 907502,
-          "numAttendees": 10,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1777503600,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-4-29-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/907502/image-679c6682482944be59c1a092508d28d1.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/907502/image-126db0365de936e23b7a33cf65547236.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Mystery Game",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 64",
-          "id": 906877,
-          "numAttendees": 32,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1777505400,
-          "slug": "tournament/phaze-fusion-64",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/906877/image-0b7314073c40bf6bff9fe46dfe4b902d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/906877/image-ef9db82da51b1a1a222212975e2666a7.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 32
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #533",
-          "id": 907513,
-          "numAttendees": 5,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1777507200,
-          "slug": "tournament/smash-cafe-533",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/907513/image-763605bc16c43e5f79541e4dba376b4b.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/907513/image-fc01ff72e724b5216a264772d7bae41d.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 83",
           "id": 906792,
-          "numAttendees": 16,
+          "numAttendees": 30,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1777593600,
@@ -115,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 30
             }
           ]
         },
         {
           "name": "Kachow Kup 31: Vengeance of the Venue",
           "id": 901271,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1777674600,
@@ -140,14 +49,47 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
+            }
+          ]
+        },
+        {
+          "name": "Strike! 55",
+          "id": 907989,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1777678200,
+          "slug": "tournament/strike-55",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/907989/image-a41cbdeb24fad6ae5dc6985237b16842.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/907989/image-4ce2a930ae16449a0e1838a618c28640.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squids",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 57,
+          "numAttendees": 56,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -165,7 +107,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 57
+              "numEntrants": 56
             },
             {
               "name": "Redemption Bracket",
@@ -176,7 +118,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 39,
+          "numAttendees": 41,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -194,7 +136,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 39
+              "numEntrants": 41
             }
           ]
         },
@@ -305,7 +247,7 @@
         {
           "name": "Rock Chalk Jab Lock 200! ($100+ Pot Bonus!!!)",
           "id": 899716,
-          "numAttendees": 24,
+          "numAttendees": 25,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1777852800,
@@ -323,7 +265,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 25
             },
             {
               "name": "Redemption Bracket",
