@@ -1,33 +1,8 @@
 {
-  "updatedAt": "2026-05-01T02:40:54.870Z",
+  "updatedAt": "2026-05-02T02:24:11.891Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "URSA MINOR 83",
-          "id": 906792,
-          "numAttendees": 30,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1777593600,
-          "slug": "tournament/ursa-minor-83",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/906792/image-c8bd1c99d113cae6c7eb5261384c2a54.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/906792/image-4d324b1b7a668af572252face6dfde70.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 30
-            }
-          ]
-        },
         {
           "name": "Kachow Kup 31: Vengeance of the Venue",
           "id": 901271,
@@ -54,9 +29,38 @@
           ]
         },
         {
+          "name": "Smash Casuals #60",
+          "id": 908226,
+          "numAttendees": 19,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1777678200,
+          "slug": "tournament/smash-casuals-60",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/908226/image-373e8a1be1b6dc137a81a6671e44a4b4.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSB REX",
+              "numEntrants": 11
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 14
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 14
+            }
+          ]
+        },
+        {
           "name": "Strike! 55",
           "id": 907989,
-          "numAttendees": 0,
+          "numAttendees": 22,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1777678200,
@@ -73,16 +77,16 @@
           ],
           "events": [
             {
-              "name": "Squids",
-              "numEntrants": 0
-            },
-            {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 21
+            },
+            {
+              "name": "Squids",
+              "numEntrants": 5
             }
           ]
         },
@@ -118,7 +122,7 @@
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 41,
+          "numAttendees": 43,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -136,14 +140,14 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 41
+              "numEntrants": 43
             }
           ]
         },
         {
           "name": "Smoothies & Smash #12",
           "id": 907740,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "St. Peters",
           "addrState": "MO",
           "startAt": 1777937400,
@@ -161,7 +165,7 @@
           "events": [
             {
               "name": "Super Smash Bros. Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
