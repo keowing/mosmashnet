@@ -1,99 +1,12 @@
 {
-  "updatedAt": "2026-05-02T02:24:11.891Z",
+  "updatedAt": "2026-05-03T02:32:39.803Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Kachow Kup 31: Vengeance of the Venue",
-          "id": 901271,
-          "numAttendees": 9,
-          "city": "Ste. Genevieve",
-          "addrState": "MO",
-          "startAt": 1777674600,
-          "slug": "tournament/kachow-kup-31-vengeance-of-the-venue",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/901271/image-b2f430de76681543f370663e713d5996.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/901271/image-f33cdd74a891987fa38f5fb13880a323.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
-          "name": "Smash Casuals #60",
-          "id": 908226,
-          "numAttendees": 19,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1777678200,
-          "slug": "tournament/smash-casuals-60",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/908226/image-373e8a1be1b6dc137a81a6671e44a4b4.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "SSB REX",
-              "numEntrants": 11
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
-          "name": "Strike! 55",
-          "id": 907989,
-          "numAttendees": 22,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1777678200,
-          "slug": "tournament/strike-55",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/907989/image-a41cbdeb24fad6ae5dc6985237b16842.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/907989/image-4ce2a930ae16449a0e1838a618c28640.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 21
-            },
-            {
-              "name": "Squids",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "❀ Valley of Flowers II",
           "id": 892573,
-          "numAttendees": 56,
+          "numAttendees": 67,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1777741200,
@@ -115,14 +28,14 @@
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 1
+              "numEntrants": 31
             }
           ]
         },
         {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 43,
+          "numAttendees": 46,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -140,7 +53,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 43
+              "numEntrants": 46
             }
           ]
         },
@@ -172,7 +85,7 @@
         {
           "name": "LastStock",
           "id": 899457,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "Park Hills",
           "addrState": "MO",
           "startAt": 1778342400,
@@ -190,7 +103,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 14
             }
           ]
         },
