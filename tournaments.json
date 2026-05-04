@@ -1,41 +1,12 @@
 {
-  "updatedAt": "2026-05-03T02:32:39.803Z",
+  "updatedAt": "2026-05-04T02:30:48.510Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "❀ Valley of Flowers II",
-          "id": 892573,
-          "numAttendees": 67,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1777741200,
-          "slug": "tournament/valley-of-flowers-ii",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/892573/image-36f83184a9523e46580f95e09ff8b6a0.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/892573/image-ef0f82f1032b825a811309ad6fde758c.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 56
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 31
-            }
-          ]
-        },
-        {
           "name": "Marcus Monthly #14 (For Real This Time)",
           "id": 892015,
-          "numAttendees": 46,
+          "numAttendees": 52,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1777838400,
@@ -53,7 +24,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 46
+              "numEntrants": 43
             }
           ]
         },
@@ -164,7 +135,7 @@
         {
           "name": "Rock Chalk Jab Lock 200! ($100+ Pot Bonus!!!)",
           "id": 899716,
-          "numAttendees": 25,
+          "numAttendees": 34,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1777852800,
@@ -182,11 +153,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 34
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 6
             }
           ]
         },
