@@ -1,33 +1,8 @@
 {
-  "updatedAt": "2026-05-04T02:30:48.510Z",
+  "updatedAt": "2026-05-05T02:25:32.038Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Marcus Monthly #14 (For Real This Time)",
-          "id": 892015,
-          "numAttendees": 52,
-          "city": "Des Peres",
-          "addrState": "MO",
-          "startAt": 1777838400,
-          "slug": "tournament/marcus-monthly-14-for-real-this-time",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/892015/image-6a300b04f7339ef56b415e3275e94d22.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/892015/image-4eabdad63f1d06c82be05cfaec8fe2ab.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 43
-            }
-          ]
-        },
         {
           "name": "Smoothies & Smash #12",
           "id": 907740,
@@ -54,9 +29,38 @@
           ]
         },
         {
+          "name": "Royale with Cheese #42",
+          "id": 908985,
+          "numAttendees": 14,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1777939200,
+          "slug": "tournament/royale-with-cheese-42",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/908985/image-e7a33db36062134933b35e040155c127.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 7
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "LastStock",
           "id": 899457,
-          "numAttendees": 14,
+          "numAttendees": 16,
           "city": "Park Hills",
           "addrState": "MO",
           "startAt": 1778342400,
@@ -74,7 +78,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "MAD Smash Monthly #5 May Madness",
+          "id": 909273,
+          "numAttendees": 0,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1778963400,
+          "slug": "tournament/mad-smash-monthly-5-may-madness",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909273/image-e734846aeb39e693484535283b08d8ec.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909273/image-1c43907c57a1702c04c80f05bf6d6b86.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "HDR @ MAD",
+              "numEntrants": 0
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
@@ -102,7 +143,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 27,
+          "numAttendees": 28,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -124,7 +165,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 20
+              "numEntrants": 21
             }
           ]
         }
@@ -132,35 +173,6 @@
     },
     "KansasCityKS": {
       "nodes": [
-        {
-          "name": "Rock Chalk Jab Lock 200! ($100+ Pot Bonus!!!)",
-          "id": 899716,
-          "numAttendees": 34,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1777852800,
-          "slug": "tournament/rock-chalk-jab-lock-200-100-pot-bonus",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/899716/image-f961b9db9e6203c285433cd9b03d8645.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/899716/image-8da8525e4818bbc49d29a649333475fb.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 34
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 6
-            }
-          ]
-        },
         {
           "name": "Wheak Hit! #3",
           "id": 899396,
@@ -190,6 +202,81 @@
             },
             {
               "name": "Ultimate Squad Strike",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Bluhawk Beatdown #2",
+          "id": 909180,
+          "numAttendees": 0,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1780095600,
+          "slug": "tournament/bluhawk-beatdown-2",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909180/image-2412089fbb76a0292c2c63a5e642f895.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909180/image-7c365d3c6c03d521e7f2c81701d567a3.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Bluhawk Beatdown",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Bluhawk Beatdown #3",
+          "id": 909183,
+          "numAttendees": 0,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1782514800,
+          "slug": "tournament/bluhawk-beatdown-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909183/image-c22dc125c803144dbecb9251cd152a7b.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909183/image-6e7f87f8b700ed546ff102e87b561e02.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Bluhawk Beatdown",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Bluhawk Beatdown #4",
+          "id": 909186,
+          "numAttendees": 0,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1785538860,
+          "slug": "tournament/bluhawk-beatdown-4",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909186/image-cd022de84f4359ef002bdc56c1c807c7.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909186/image-5e4d360a65d240e99c8f7456d19d2ae9.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Bluhawk Beatdown",
               "numEntrants": 0
             }
           ]
