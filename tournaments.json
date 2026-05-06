@@ -1,59 +1,38 @@
 {
-  "updatedAt": "2026-05-05T02:25:32.038Z",
+  "updatedAt": "2026-05-06T02:29:44.497Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smoothies & Smash #12",
-          "id": 907740,
-          "numAttendees": 2,
-          "city": "St. Peters",
+          "name": "PHAZE ➠ FUSION 65",
+          "id": 909284,
+          "numAttendees": 18,
+          "city": "Florissant",
           "addrState": "MO",
-          "startAt": 1777937400,
-          "slug": "tournament/smoothies-smash-12",
+          "startAt": 1778110200,
+          "slug": "tournament/phaze-fusion-65",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/907740/image-0982b0826aa0f6a64c60bca45ea1c5e3.png",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/909284/image-41e22535e875949f355c4b1348ffcf86.png",
+              "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/907740/image-c7cb2e6651339eeeab6c45d7252a7c0d.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Super Smash Bros. Ultimate Singles",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #42",
-          "id": 908985,
-          "numAttendees": 14,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1777939200,
-          "slug": "tournament/royale-with-cheese-42",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/908985/image-e7a33db36062134933b35e040155c127.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/909284/image-ec1853c41c2071bca4cf94dbda93ef85.jpg",
+              "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 18
             },
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
+              "name": "2XKO",
+              "numEntrants": 1
             },
             {
-              "name": "Remix Singles",
-              "numEntrants": 3
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -120,9 +99,30 @@
           ]
         },
         {
+          "name": "Pack Rat Infestation",
+          "id": 908869,
+          "numAttendees": 3,
+          "city": "Warrenton",
+          "addrState": "MO",
+          "startAt": 1779080400,
+          "slug": "tournament/pack-rat-infestation",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/908869/image-f2569115fecde198b5c95ecbbf662e8e.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ulitmate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "Heartland Gaming Con 2026",
           "id": 877258,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1780160400,
@@ -136,6 +136,27 @@
           "events": [
             {
               "name": "SSBU Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Valhalla",
+          "id": 902013,
+          "numAttendees": 0,
+          "city": "Marshall",
+          "addrState": "MO",
+          "startAt": 1781974800,
+          "slug": "tournament/valhalla-4",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/902013/image-186c6762a0d54dc34026c7d14f0bbc42.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 0
             }
           ]
@@ -193,15 +214,7 @@
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 4
-            },
-            {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Squad Strike",
               "numEntrants": 0
             }
           ]
