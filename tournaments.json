@@ -1,12 +1,41 @@
 {
-  "updatedAt": "2026-05-06T02:29:44.497Z",
+  "updatedAt": "2026-05-07T02:31:53.575Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 5/6/26",
+          "id": 909838,
+          "numAttendees": 10,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1778108400,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-5-6-26",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909838/image-8cabff78e8219b5102de4d4f8002ad40.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909838/image-100d1e54cae751ce0dc8dcb1f6800b6d.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 8
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
           "name": "PHAZE ➠ FUSION 65",
           "id": 909284,
-          "numAttendees": 18,
+          "numAttendees": 30,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1778110200,
@@ -24,22 +53,76 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 1
+              "numEntrants": 27
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 12
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #534",
+          "id": 909831,
+          "numAttendees": 16,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1778112000,
+          "slug": "tournament/smash-cafe-534",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909831/image-96aa6a828e68f1ebab89c4dfb09d4ab8.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909831/image-8073f8a74ca7524569f71f0d181a9505.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 16
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "The Bair House #34",
+          "id": 909722,
+          "numAttendees": 6,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1778198400,
+          "slug": "tournament/the-bair-house-34",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909722/image-11d019ca49365db0a652031892ef3b95.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909722/image-8c7241bab27ac12d710285b9a6eb81cd.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "LastStock",
           "id": 899457,
-          "numAttendees": 16,
+          "numAttendees": 18,
           "city": "Park Hills",
           "addrState": "MO",
           "startAt": 1778342400,
@@ -57,7 +140,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 18
             }
           ]
         },
@@ -99,9 +182,30 @@
           ]
         },
         {
+          "name": "SEMO Smash Season 6 PR Invitational",
+          "id": 909837,
+          "numAttendees": 0,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1779053400,
+          "slug": "tournament/semo-smash-season-6-pr-invitational",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909837/image-aaa29bbb71c964ec9ca290b5c4d613d7.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SEMO Smash Arcadian - Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Pack Rat Infestation",
           "id": 908869,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1779080400,
@@ -115,7 +219,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
