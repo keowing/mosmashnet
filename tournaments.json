@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-05-07T02:31:53.575Z",
+  "updatedAt": "2026-05-08T02:38:12.709Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 5/6/26",
-          "id": 909838,
-          "numAttendees": 10,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1778108400,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-5-6-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/909838/image-8cabff78e8219b5102de4d4f8002ad40.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/909838/image-100d1e54cae751ce0dc8dcb1f6800b6d.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 65",
-          "id": 909284,
-          "numAttendees": 30,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1778110200,
-          "slug": "tournament/phaze-fusion-65",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/909284/image-41e22535e875949f355c4b1348ffcf86.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/909284/image-ec1853c41c2071bca4cf94dbda93ef85.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 27
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #534",
-          "id": 909831,
-          "numAttendees": 16,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1778112000,
-          "slug": "tournament/smash-cafe-534",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/909831/image-96aa6a828e68f1ebab89c4dfb09d4ab8.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/909831/image-8073f8a74ca7524569f71f0d181a9505.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 16
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "The Bair House #34",
           "id": 909722,
-          "numAttendees": 6,
+          "numAttendees": 12,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1778198400,
@@ -115,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "LastStock",
           "id": 899457,
-          "numAttendees": 18,
+          "numAttendees": 21,
           "city": "Park Hills",
           "addrState": "MO",
           "startAt": 1778342400,
@@ -140,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 21
             }
           ]
         },
@@ -205,7 +114,7 @@
         {
           "name": "Pack Rat Infestation",
           "id": 908869,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1779080400,
@@ -219,7 +128,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
