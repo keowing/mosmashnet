@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-05-09T02:31:40.024Z",
+  "updatedAt": "2026-05-10T02:35:24.446Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 56",
-          "id": 910495,
-          "numAttendees": 13,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1778283000,
-          "slug": "tournament/strike-56",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/910495/image-2efd2cb3dd465dcaa7ab2a097b861cb3.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/910495/image-73b7cb7df583bee29860c466b1015eb6.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Squads",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "LastStock",
           "id": 899457,
-          "numAttendees": 22,
+          "numAttendees": 20,
           "city": "Park Hills",
           "addrState": "MO",
           "startAt": 1778342400,
@@ -57,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 22
+              "numEntrants": 20
             }
           ]
         },
