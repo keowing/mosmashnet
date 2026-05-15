@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-05-14T02:44:53.614Z",
+  "updatedAt": "2026-05-15T02:45:11.600Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 5/13/26",
-          "id": 912155,
-          "numAttendees": 17,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1778713200,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-5-13-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/912155/image-d725c9f7edec7734dcdd8b38d6217103.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/912155/image-e78be1fadae8b2079526aeea76bec3e1.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "UNI 2",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 66",
-          "id": 911237,
-          "numAttendees": 34,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1778715000,
-          "slug": "tournament/phaze-fusion-66",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/911237/image-6607fc00c9fc4f7901d52943f42a5e0f.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/911237/image-743df3fe911f02a43f7fa378fd57606e.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 34
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 15
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #535",
-          "id": 912149,
-          "numAttendees": 13,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1778716800,
-          "slug": "tournament/smash-cafe-535",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/912149/image-2bdcd99a8b34822a61f73312cf7ee64a.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/912149/image-5187a612f3efa750abd43f738ae0a93e.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "BACK TO THE LANES @ Sunshine Lanes #26",
           "id": 912290,
-          "numAttendees": 7,
+          "numAttendees": 24,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1778803200,
@@ -115,15 +24,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 4
+              "numEntrants": 18
             },
             {
               "name": "Project+ Singles",
-              "numEntrants": 4
+              "numEntrants": 9
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 8
             }
           ]
         },
@@ -237,7 +146,7 @@
         {
           "name": "Pack Rat Infestation",
           "id": 908869,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1779080400,
@@ -251,7 +160,36 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 67 [FREE EDITION]",
+          "id": 912626,
+          "numAttendees": 11,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1779319800,
+          "slug": "tournament/phaze-fusion-67-free-edition",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/912626/image-233bd8260af2590994b24224cd6a555f.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/912626/image-c3ccab1f6a7688a1046f31f1f6805659.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 11
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -302,6 +240,31 @@
           ]
         },
         {
+          "name": "Kachow Kup 32",
+          "id": 912481,
+          "numAttendees": 0,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1781303400,
+          "slug": "tournament/kachow-kup-32",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/912481/image-8efa2a25f098a0ee9c3185acdd34f54a.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/912481/image-9a64cb19015a997b372e0645a8e62e94.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Valhalla",
           "id": 902013,
           "numAttendees": 0,
@@ -311,12 +274,37 @@
           "slug": "tournament/valhalla-4",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/902013/image-186c6762a0d54dc34026c7d14f0bbc42.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/902013/image-b72b694fbc7496bd29fb87f002ae2fe0.png",
+              "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/902013/image-bc80a9f5600f94b519b7d7c438366ecf.jpg",
+              "url": "https://images.start.gg/images/tournament/902013/image-d595902ccb0344584d4988aa08ca0bad.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup 33",
+          "id": 912485,
+          "numAttendees": 0,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1782513000,
+          "slug": "tournament/kachow-kup-33-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/912485/image-2c02796d108ba7efd039c49a9a9070f0.jpg",
               "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/912485/image-38116d680684574eed3ba64a1593c797.jpg",
+              "type": "profile"
             }
           ],
           "events": [
@@ -329,7 +317,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 40,
+          "numAttendees": 41,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -359,7 +347,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 31
+              "numEntrants": 32
             }
           ]
         }
