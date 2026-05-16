@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-05-15T02:45:11.600Z",
+  "updatedAt": "2026-05-16T02:34:12.599Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "BACK TO THE LANES @ Sunshine Lanes #26",
-          "id": 912290,
-          "numAttendees": 24,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1778803200,
-          "slug": "tournament/back-to-the-lanes-sunshine-lanes-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/912290/image-38f88449fcfccdfe77f0dfa60899234e.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/912290/image-47b7eeb4f1ccba2805c3bea14b5a57cf.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "Strike! 57",
           "id": 912130,
-          "numAttendees": 0,
+          "numAttendees": 18,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1778887800,
@@ -56,16 +23,16 @@
           ],
           "events": [
             {
-              "name": "Squads",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 18
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 8
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
+              "name": "Squads",
+              "numEntrants": 10
             }
           ]
         },
@@ -109,7 +76,7 @@
         {
           "name": "SEMO Smash Season 6 Arcadian",
           "id": 909141,
-          "numAttendees": 7,
+          "numAttendees": 11,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1779039000,
@@ -123,14 +90,14 @@
           "events": [
             {
               "name": "SEMO Smash Arcadian - Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "SEMO Smash Season 6 PR Invitational",
           "id": 909837,
-          "numAttendees": 4,
+          "numAttendees": 7,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1779053400,
@@ -139,7 +106,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 7
             }
           ]
         },
@@ -167,7 +134,7 @@
         {
           "name": "PHAZE ➠ FUSION 67 [FREE EDITION]",
           "id": 912626,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1779319800,
@@ -185,7 +152,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "Ultimate Redemption",
@@ -267,7 +234,7 @@
         {
           "name": "Valhalla",
           "id": 902013,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1781974800,
@@ -285,7 +252,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
