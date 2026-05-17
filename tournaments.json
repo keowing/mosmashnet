@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-05-16T02:34:12.599Z",
+  "updatedAt": "2026-05-17T02:42:41.742Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 57",
-          "id": 912130,
-          "numAttendees": 18,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1778887800,
-          "slug": "tournament/strike-57",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/912130/image-7cf1a34475abe25717d27d18bf1c9f57.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/912130/image-f4c7808f4ac8fc081320f5b3e362f7b5.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "Squads",
-              "numEntrants": 10
-            }
-          ]
-        },
-        {
           "name": "MAD Smash Monthly #5 May Madness",
           "id": 909273,
-          "numAttendees": 1,
+          "numAttendees": 3,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1778963400,
@@ -69,14 +36,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "SEMO Smash Season 6 Arcadian",
           "id": 909141,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1779039000,
@@ -90,14 +57,14 @@
           "events": [
             {
               "name": "SEMO Smash Arcadian - Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "SEMO Smash Season 6 PR Invitational",
           "id": 909837,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1779053400,
@@ -106,7 +73,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             }
           ]
         },
@@ -134,7 +101,7 @@
         {
           "name": "PHAZE ➠ FUSION 67 [FREE EDITION]",
           "id": 912626,
-          "numAttendees": 12,
+          "numAttendees": 15,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1779319800,
@@ -152,7 +119,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 15
             },
             {
               "name": "Ultimate Redemption",
@@ -234,7 +201,7 @@
         {
           "name": "Valhalla",
           "id": 902013,
-          "numAttendees": 2,
+          "numAttendees": 4,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1781974800,
@@ -252,7 +219,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             }
           ]
         },
@@ -284,7 +251,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 41,
+          "numAttendees": 42,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -302,7 +269,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Rivals II",
@@ -314,7 +281,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 32
+              "numEntrants": 33
             }
           ]
         }
