@@ -1,49 +1,12 @@
 {
-  "updatedAt": "2026-05-17T02:42:41.742Z",
+  "updatedAt": "2026-05-18T02:52:53.320Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "MAD Smash Monthly #5 May Madness",
-          "id": 909273,
-          "numAttendees": 3,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1778963400,
-          "slug": "tournament/mad-smash-monthly-5-may-madness",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/909273/image-e734846aeb39e693484535283b08d8ec.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/909273/image-1c43907c57a1702c04c80f05bf6d6b86.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            },
-            {
-              "name": "HDR @ MAD",
-              "numEntrants": 0
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
           "name": "SEMO Smash Season 6 Arcadian",
           "id": 909141,
-          "numAttendees": 12,
+          "numAttendees": 15,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1779039000,
@@ -57,14 +20,14 @@
           "events": [
             {
               "name": "SEMO Smash Arcadian - Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "SEMO Smash Season 6 PR Invitational",
           "id": 909837,
-          "numAttendees": 8,
+          "numAttendees": 12,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1779053400,
@@ -73,14 +36,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "Pack Rat Infestation",
           "id": 908869,
-          "numAttendees": 8,
+          "numAttendees": 17,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1779080400,
@@ -94,14 +57,14 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 8
+              "numEntrants": 17
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 67 [FREE EDITION]",
           "id": 912626,
-          "numAttendees": 15,
+          "numAttendees": 20,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1779319800,
@@ -119,11 +82,36 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 20
             },
             {
               "name": "Ultimate Redemption",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Living the Dream",
+          "id": 912754,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1780070400,
+          "slug": "tournament/living-the-dream-4",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/912754/image-d94a109527652c0a39aa4b6dc7c4594d.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/912754/image-67ae9e3399420429542fd8f0ee258d68.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
             }
           ]
         },
@@ -251,7 +239,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 42,
+          "numAttendees": 43,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -269,7 +257,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Rivals II",
@@ -281,7 +269,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 33
+              "numEntrants": 34
             }
           ]
         }
