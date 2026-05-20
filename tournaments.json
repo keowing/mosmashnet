@@ -1,70 +1,12 @@
 {
-  "updatedAt": "2026-05-19T02:49:43.524Z",
+  "updatedAt": "2026-05-20T02:49:58.980Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese #44",
-          "id": 913747,
-          "numAttendees": 11,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1779148800,
-          "slug": "tournament/royale-with-cheese-44",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/913747/image-02e184cf1956ca7fa2c8bd9f75511c7c.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 1
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 1
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #44.1",
-          "id": 913936,
-          "numAttendees": 17,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1779148800,
-          "slug": "tournament/royale-with-cheese-44-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/913936/image-266777b521dbc91d7912739ba3e81179.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 9
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 1
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 67 [FREE EDITION]",
           "id": 912626,
-          "numAttendees": 26,
+          "numAttendees": 35,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1779319800,
@@ -82,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 26
+              "numEntrants": 35
             },
             {
               "name": "Ultimate Redemption",
@@ -162,13 +104,13 @@
           ]
         },
         {
-          "name": "Kachow Kup 32",
+          "name": "Kachow Kup 32: Financial Crisis",
           "id": 912481,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1781303400,
-          "slug": "tournament/kachow-kup-32",
+          "slug": "tournament/kachow-kup-32-financial-crisis",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/912481/image-8efa2a25f098a0ee9c3185acdd34f54a.jpg",
@@ -182,14 +124,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "Valhalla",
           "id": 902013,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1781974800,
@@ -207,18 +149,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
         {
-          "name": "Kachow Kup 33",
+          "name": "Kachow Kup 33: Final Warning",
           "id": 912485,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1782513000,
-          "slug": "tournament/kachow-kup-33-1",
+          "slug": "tournament/kachow-kup-33-final-warning",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/912485/image-2c02796d108ba7efd039c49a9a9070f0.jpg",
@@ -232,7 +174,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
+          "name": "Hard Counter",
+          "id": 881008,
+          "numAttendees": 6,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1782572400,
+          "slug": "tournament/hard-counter",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/881008/image-82a6d693c92bbc75532ca1ab0b526442.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/881008/image-96077cbf5fb3ab50759a77835a2f057f.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Megasmash Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
               "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 6
             }
           ]
         },
