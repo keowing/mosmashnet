@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-20T02:49:58.980Z",
+  "updatedAt": "2026-05-21T02:53:05.813Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "PHAZE ➠ FUSION 67 [FREE EDITION]",
           "id": 912626,
-          "numAttendees": 35,
+          "numAttendees": 54,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1779319800,
@@ -24,11 +24,73 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 35
+              "numEntrants": 53
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 19
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #536",
+          "id": 914506,
+          "numAttendees": 15,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1779321600,
+          "slug": "tournament/smash-cafe-536",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/914506/image-165965a66193d24303c52bb71ba622fc.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/914506/image-7e10c51441401eb442020352ecb64fa0.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 14
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "BACK TO THE LANES @ Sunshine Lanes #27",
+          "id": 914361,
+          "numAttendees": 7,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1779408000,
+          "slug": "tournament/back-to-the-lanes-sunshine-lanes-27",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/914361/image-00f714e3f8374ffffb87d957a9fe28bd.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/914361/image-9ef8fcad517019329fa2909805d78338.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 4
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
             }
           ]
         },
@@ -131,7 +193,7 @@
         {
           "name": "Valhalla",
           "id": 902013,
-          "numAttendees": 6,
+          "numAttendees": 8,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1781974800,
@@ -149,7 +211,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 8
             }
           ]
         },
@@ -181,7 +243,7 @@
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 6,
+          "numAttendees": 10,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -199,7 +261,7 @@
           "events": [
             {
               "name": "Megasmash Singles",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Redemption Bracket",
@@ -207,7 +269,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 10
             }
           ]
         },
