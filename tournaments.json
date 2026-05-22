@@ -1,70 +1,12 @@
 {
-  "updatedAt": "2026-05-21T02:53:05.813Z",
+  "updatedAt": "2026-05-22T02:53:23.640Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 67 [FREE EDITION]",
-          "id": 912626,
-          "numAttendees": 54,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1779319800,
-          "slug": "tournament/phaze-fusion-67-free-edition",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/912626/image-233bd8260af2590994b24224cd6a555f.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/912626/image-c3ccab1f6a7688a1046f31f1f6805659.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 53
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 19
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #536",
-          "id": 914506,
-          "numAttendees": 15,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1779321600,
-          "slug": "tournament/smash-cafe-536",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/914506/image-165965a66193d24303c52bb71ba622fc.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/914506/image-7e10c51441401eb442020352ecb64fa0.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "BACK TO THE LANES @ Sunshine Lanes #27",
           "id": 914361,
-          "numAttendees": 7,
+          "numAttendees": 23,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1779408000,
@@ -81,23 +23,56 @@
           ],
           "events": [
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 14
+            },
+            {
               "name": "Project+ Singles",
-              "numEntrants": 5
+              "numEntrants": 13
             },
             {
               "name": "Melee Singles",
-              "numEntrants": 4
+              "numEntrants": 11
+            }
+          ]
+        },
+        {
+          "name": "Strike! 58",
+          "id": 914829,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1779492600,
+          "slug": "tournament/strike-58",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/914829/image-589bec07669df1010df379513519ba8b.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/914829/image-dfcdbe3ae051239bdb44095b3d5534f4.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Side",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Living the Dream",
           "id": 912754,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1780070400,
@@ -115,7 +90,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             }
           ]
         },
@@ -212,6 +187,39 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "★PUBSTOMP #4: BEACH EPISODE! ★",
+          "id": 911347,
+          "numAttendees": 0,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1782068400,
+          "slug": "tournament/pubstomp-4-beach-episode",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/911347/image-b1ff854f7835a907242082451aeadc5c.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/911347/image-faafb3e9d564fb6ce2a15def0f1adfc9.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "SUMMER VACATION (side event)",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles (Main event)",
+              "numEntrants": 0
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
             }
           ]
         },
