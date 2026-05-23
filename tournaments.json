@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-05-22T02:53:23.640Z",
+  "updatedAt": "2026-05-23T02:38:16.169Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "BACK TO THE LANES @ Sunshine Lanes #27",
-          "id": 914361,
-          "numAttendees": 23,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1779408000,
-          "slug": "tournament/back-to-the-lanes-sunshine-lanes-27",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/914361/image-00f714e3f8374ffffb87d957a9fe28bd.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/914361/image-9ef8fcad517019329fa2909805d78338.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
           "name": "Strike! 58",
           "id": 914829,
-          "numAttendees": 0,
+          "numAttendees": 21,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1779492600,
@@ -56,16 +23,16 @@
           ],
           "events": [
             {
-              "name": "Side",
-              "numEntrants": 0
-            },
-            {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 20
+            },
+            {
+              "name": "KOF Stadium",
+              "numEntrants": 6
             }
           ]
         },
@@ -193,7 +160,7 @@
         {
           "name": "★PUBSTOMP #4: BEACH EPISODE! ★",
           "id": 911347,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1782068400,
@@ -210,12 +177,12 @@
           ],
           "events": [
             {
-              "name": "SUMMER VACATION (side event)",
-              "numEntrants": 0
+              "name": "Beach Brawl (side event)",
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Redemption Bracket",
