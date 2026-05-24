@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-05-23T02:38:16.169Z",
+  "updatedAt": "2026-05-24T02:50:19.082Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 58",
-          "id": 914829,
-          "numAttendees": 21,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1779492600,
-          "slug": "tournament/strike-58",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/914829/image-589bec07669df1010df379513519ba8b.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/914829/image-dfcdbe3ae051239bdb44095b3d5534f4.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "KOF Stadium",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "Living the Dream",
           "id": 912754,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1780070400,
@@ -57,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
