@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T02:50:19.082Z",
+  "updatedAt": "2026-05-25T02:58:37.804Z",
   "data": {
     "Missouri": {
       "nodes": [
@@ -52,7 +52,7 @@
         {
           "name": "Heartland Gaming Con 2026",
           "id": 877258,
-          "numAttendees": 4,
+          "numAttendees": 7,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1780160400,
@@ -70,7 +70,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 4
+              "numEntrants": 7
             }
           ]
         },
@@ -160,7 +160,7 @@
         {
           "name": "Kachow Kup 33: Final Warning",
           "id": 912485,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1782513000,
@@ -178,7 +178,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
@@ -218,7 +218,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 47,
+          "numAttendees": 48,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -236,7 +236,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "Rivals II",
@@ -248,7 +248,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 38
+              "numEntrants": 39
             }
           ]
         }
