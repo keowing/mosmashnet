@@ -1,3 +1,407 @@
 {
-  "updatedAt": "2026-05-26T02:46:28.840Z"
+  "updatedAt": "2026-05-27T02:57:51.804Z",
+  "data": {
+    "Missouri": {
+      "nodes": [
+        {
+          "name": "PHAZE ➠ FUSION 68",
+          "id": 916023,
+          "numAttendees": 24,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1779924600,
+          "slug": "tournament/phaze-fusion-68",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/916023/image-5e1d218c77d87a9c9ddd3d6daa2d0b52.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/916023/image-3c65d461188f195d3c090e32cf27ec86.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 24
+            },
+            {
+              "name": "Tekken 8",
+              "numEntrants": 2
+            },
+            {
+              "name": "2XKO",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
+          "name": "BACK TO THE LANES @ Sunshine Lanes #28",
+          "id": 916141,
+          "numAttendees": 16,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1780012800,
+          "slug": "tournament/back-to-the-lanes-sunshine-lanes-28",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/916141/image-18371fedec07861913baae15c526813e.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/916141/image-a26beda5b69926d6882a12f4e6e67fb0.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Melee Singles",
+              "numEntrants": 11
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 6
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "Living the Dream",
+          "id": 912754,
+          "numAttendees": 10,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1780070400,
+          "slug": "tournament/living-the-dream-4",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/912754/image-d94a109527652c0a39aa4b6dc7c4594d.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/912754/image-67ae9e3399420429542fd8f0ee258d68.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 10
+            }
+          ]
+        },
+        {
+          "name": "HGC 2026 Pre-local @ STG",
+          "id": 911531,
+          "numAttendees": 2,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1780095600,
+          "slug": "tournament/hgc-2026-pre-local-stg",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/911531/image-60534953fbdadf50876d5b7894c40371.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Heartland Gaming Con 2026",
+          "id": 877258,
+          "numAttendees": 9,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1780160400,
+          "slug": "tournament/heartland-gaming-con-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/877258/image-c7d034d07fa4ffae0ea4db3b3428d6a9.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/877258/image-9d1dfdb826b13b9c7fb827220d8c6903.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "SSBU Singles",
+              "numEntrants": 9
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup 32: Financial Crisis",
+          "id": 912481,
+          "numAttendees": 2,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1781303400,
+          "slug": "tournament/kachow-kup-32-financial-crisis",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/912481/image-8efa2a25f098a0ee9c3185acdd34f54a.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/912481/image-9a64cb19015a997b372e0645a8e62e94.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Valhalla",
+          "id": 902013,
+          "numAttendees": 8,
+          "city": "Marshall",
+          "addrState": "MO",
+          "startAt": 1781974800,
+          "slug": "tournament/valhalla-4",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/902013/image-b72b694fbc7496bd29fb87f002ae2fe0.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/902013/image-292f39af04f0be28c119666237df2696.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "★PUBSTOMP #4: BEACH EPISODE! ★",
+          "id": 911347,
+          "numAttendees": 1,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1782068400,
+          "slug": "tournament/pubstomp-4-beach-episode",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/911347/image-b1ff854f7835a907242082451aeadc5c.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/911347/image-faafb3e9d564fb6ce2a15def0f1adfc9.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Beach Brawl (side event)",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles (Main event)",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup 33: Final Warning",
+          "id": 912485,
+          "numAttendees": 2,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1782513000,
+          "slug": "tournament/kachow-kup-33-final-warning",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/912485/image-2c02796d108ba7efd039c49a9a9070f0.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/912485/image-38116d680684574eed3ba64a1593c797.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Hard Counter",
+          "id": 881008,
+          "numAttendees": 18,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1782572400,
+          "slug": "tournament/hard-counter",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/881008/image-82a6d693c92bbc75532ca1ab0b526442.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/881008/image-96077cbf5fb3ab50759a77835a2f057f.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Megasmash Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 17
+            }
+          ]
+        },
+        {
+          "name": "BREACH 2026 | 256 PLAYER CAP |",
+          "id": 873560,
+          "numAttendees": 50,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1784394000,
+          "slug": "tournament/breach-2026-256-player-cap",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/873560/image-fdb75756641b0aad918605dced7996fe.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/873560/image-4d665145e8176bad855b047b49008365.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 12
+            },
+            {
+              "name": "Rivals II",
+              "numEntrants": 5
+            },
+            {
+              "name": "Guilty Gear Strive",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 41
+            }
+          ]
+        }
+      ]
+    },
+    "KansasCityKS": {
+      "nodes": [
+        {
+          "name": "Bluhawk Beatdown #2",
+          "id": 909180,
+          "numAttendees": 0,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1780095600,
+          "slug": "tournament/bluhawk-beatdown-2",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909180/image-2412089fbb76a0292c2c63a5e642f895.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909180/image-7c365d3c6c03d521e7f2c81701d567a3.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Bluhawk Beatdown",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Bluhawk Beatdown #3",
+          "id": 909183,
+          "numAttendees": 0,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1782514800,
+          "slug": "tournament/bluhawk-beatdown-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909183/image-c22dc125c803144dbecb9251cd152a7b.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909183/image-6e7f87f8b700ed546ff102e87b561e02.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Bluhawk Beatdown",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Bluhawk Beatdown #4",
+          "id": 909186,
+          "numAttendees": 0,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1785538860,
+          "slug": "tournament/bluhawk-beatdown-4",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/909186/image-cd022de84f4359ef002bdc56c1c807c7.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/909186/image-5e4d360a65d240e99c8f7456d19d2ae9.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Bluhawk Beatdown",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
