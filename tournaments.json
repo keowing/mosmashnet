@@ -1,37 +1,45 @@
 {
-  "updatedAt": "2026-05-31T02:58:59.284Z",
+  "updatedAt": "2026-06-01T03:36:07.017Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Heartland Gaming Con 2026",
-          "id": 877258,
-          "numAttendees": 22,
-          "city": "Cape Girardeau",
+          "name": "PHAZE ➠ FUSION 69",
+          "id": 917984,
+          "numAttendees": 13,
+          "city": "Florissant",
           "addrState": "MO",
-          "startAt": 1780160400,
-          "slug": "tournament/heartland-gaming-con-2026",
+          "startAt": 1780529400,
+          "slug": "tournament/phaze-fusion-69",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/877258/image-c7d034d07fa4ffae0ea4db3b3428d6a9.png",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/917984/image-6382f93503f8465f881cb814a5d3cf85.png",
+              "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/877258/image-9d1dfdb826b13b9c7fb827220d8c6903.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/917984/image-499246db9365da46e4fbcc00f3d10df0.jpg",
+              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "SSBU Singles",
-              "numEntrants": 22
+              "name": "Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "MegaSmash",
+              "numEntrants": 9
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Kachow Kup 32: Financial Crisis",
           "id": 912481,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1781303400,
@@ -49,7 +57,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
@@ -81,7 +89,7 @@
         {
           "name": "★PUBSTOMP #4: BEACH EPISODE! ★",
           "id": 911347,
-          "numAttendees": 18,
+          "numAttendees": 20,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1782068400,
@@ -99,11 +107,11 @@
           "events": [
             {
               "name": "Beach Brawl (side event)",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 18
+              "numEntrants": 20
             },
             {
               "name": "Redemption Bracket",
@@ -170,9 +178,34 @@
           ]
         },
         {
+          "name": "Living The Dream 2",
+          "id": 917748,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1782662400,
+          "slug": "tournament/living-the-dream-2-2",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/917748/image-cf44472b5ed3e569c5b2e5a1a8f88e1e.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/917748/image-aa17b2ae8817331c44374b6a54c17be0.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 71,
+          "numAttendees": 73,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -190,7 +223,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 21
+              "numEntrants": 22
             },
             {
               "name": "Rivals II",
@@ -198,11 +231,11 @@
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 60
+              "numEntrants": 62
             }
           ]
         },
