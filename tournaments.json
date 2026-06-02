@@ -1,12 +1,70 @@
 {
-  "updatedAt": "2026-06-01T03:36:07.017Z",
+  "updatedAt": "2026-06-02T03:33:10.656Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Royale with Cheese #45",
+          "id": 918250,
+          "numAttendees": 18,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1780358400,
+          "slug": "tournament/royale-with-cheese-45",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/918250/image-5e74d7a45c80596764e84139d6364ce1.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 18
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 9
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 6/1/26",
+          "id": 918507,
+          "numAttendees": 4,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1780527600,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-6-1-26",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/918507/image-011c1c9b10a6083715966c7143e305a9.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/918507/image-96154d70e6be0a9135526b15e53306d0.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Guilty Gear -Strive-",
+              "numEntrants": 3
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "PHAZE ➠ FUSION 69",
           "id": 917984,
-          "numAttendees": 13,
+          "numAttendees": 14,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1780529400,
@@ -24,11 +82,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 14
             },
             {
               "name": "MegaSmash",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Redemption",
@@ -39,7 +97,7 @@
         {
           "name": "Kachow Kup 32: Financial Crisis",
           "id": 912481,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1781303400,
@@ -57,7 +115,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
@@ -89,7 +147,7 @@
         {
           "name": "★PUBSTOMP #4: BEACH EPISODE! ★",
           "id": 911347,
-          "numAttendees": 20,
+          "numAttendees": 21,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1782068400,
@@ -107,11 +165,11 @@
           "events": [
             {
               "name": "Beach Brawl (side event)",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 20
+              "numEntrants": 21
             },
             {
               "name": "Redemption Bracket",
@@ -122,7 +180,7 @@
         {
           "name": "Kachow Kup 33: Final Warning",
           "id": 912485,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1782513000,
@@ -140,14 +198,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 18,
+          "numAttendees": 19,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -173,7 +231,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 18
             }
           ]
         },
@@ -205,7 +263,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 73,
+          "numAttendees": 76,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -216,33 +274,37 @@
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/873560/image-4d665145e8176bad855b047b49008365.png",
+              "url": "https://images.start.gg/images/tournament/873560/image-55b05254ddc7a7e76b2b54a01b7cd0ec.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 22
+              "numEntrants": 23
             },
             {
               "name": "Rivals II",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Guilty Gear Strive",
               "numEntrants": 5
             },
             {
+              "name": "NASB2",
+              "numEntrants": 0
+            },
+            {
               "name": "Ultimate Singles",
-              "numEntrants": 62
+              "numEntrants": 64
             }
           ]
         },
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": null,
+          "numAttendees": 6,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -257,12 +319,21 @@
               "type": "banner"
             }
           ],
-          "events": []
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "HDR Singles",
+              "numEntrants": 4
+            }
+          ]
         },
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 21,
+          "numAttendees": 23,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -280,7 +351,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 20
+              "numEntrants": 22
             },
             {
               "name": "Arcadian Doubles",
