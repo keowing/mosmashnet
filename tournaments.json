@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-03T03:40:00.487Z",
+  "updatedAt": "2026-06-04T03:35:57.159Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 6/1/26",
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 6/3/26",
           "id": 918507,
-          "numAttendees": 5,
+          "numAttendees": 19,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1780527600,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-6-1-26",
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-6-3-26",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/918507/image-011c1c9b10a6083715966c7143e305a9.png",
@@ -23,19 +23,19 @@
           ],
           "events": [
             {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 4
+              "name": "Ultimate Singles",
+              "numEntrants": 14
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 3
+              "name": "Guilty Gear -Strive-",
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 69",
           "id": 917984,
-          "numAttendees": 24,
+          "numAttendees": 40,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1780529400,
@@ -53,22 +53,76 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 38
             },
             {
               "name": "MegaSmash",
-              "numEntrants": 10
+              "numEntrants": 17
             },
             {
               "name": "Ultimate Redemption",
+              "numEntrants": 13
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #538",
+          "id": 919141,
+          "numAttendees": 6,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1780531200,
+          "slug": "tournament/smash-cafe-538",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/919141/image-92f938c93649c3997223cc3f106df51d.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/919141/image-b4492388d04e65bd670247547de8412a.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
               "numEntrants": 0
+            },
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "The Bair House #35",
+          "id": 919322,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1780617600,
+          "slug": "tournament/the-bair-house-35",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/919322/image-97c25dc4034bec87c7fe1acf07ca9738.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/919322/image-6f8a407e1697e77eae3537422535e07e.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Kachow Kup 32: Financial Crisis",
           "id": 912481,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1781303400,
@@ -86,7 +140,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -174,6 +228,27 @@
           ]
         },
         {
+          "name": "Pack Rat Infestation June 2026",
+          "id": 918329,
+          "numAttendees": 0,
+          "city": "Warrenton",
+          "addrState": "MO",
+          "startAt": 1782104400,
+          "slug": "tournament/pack-rat-infestation-june-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/918329/image-0eebebea8c5e77109d6aec17dca167ff.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ulitmate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Kachow Kup 33: Final Warning",
           "id": 912485,
           "numAttendees": 3,
@@ -201,7 +276,7 @@
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 19,
+          "numAttendees": 20,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -227,7 +302,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 19
             }
           ]
         },
