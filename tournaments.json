@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-06-04T03:35:57.159Z",
+  "updatedAt": "2026-06-05T02:57:57.361Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 6/3/26",
-          "id": 918507,
-          "numAttendees": 19,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1780527600,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-6-3-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/918507/image-011c1c9b10a6083715966c7143e305a9.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/918507/image-96154d70e6be0a9135526b15e53306d0.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 69",
-          "id": 917984,
-          "numAttendees": 40,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1780529400,
-          "slug": "tournament/phaze-fusion-69",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/917984/image-6382f93503f8465f881cb814a5d3cf85.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/917984/image-499246db9365da46e4fbcc00f3d10df0.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 38
-            },
-            {
-              "name": "MegaSmash",
-              "numEntrants": 17
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 13
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #538",
-          "id": 919141,
-          "numAttendees": 6,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1780531200,
-          "slug": "tournament/smash-cafe-538",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/919141/image-92f938c93649c3997223cc3f106df51d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/919141/image-b4492388d04e65bd670247547de8412a.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "The Bair House #35",
           "id": 919322,
-          "numAttendees": 3,
+          "numAttendees": 14,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1780617600,
@@ -115,7 +24,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 14
+            }
+          ]
+        },
+        {
+          "name": "Strike! 60",
+          "id": 919492,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1780702200,
+          "slug": "tournament/strike-60",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/919492/image-361cb4eca11a20f67c450aa02b915592.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/919492/image-ffb717d1d8b4a62217e16314d184469c.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
@@ -310,7 +252,7 @@
           "name": "Living The Dream 2",
           "id": 917748,
           "numAttendees": 3,
-          "city": "Springfield",
+          "city": "Branson",
           "addrState": "MO",
           "startAt": 1782662400,
           "slug": "tournament/living-the-dream-2-2",
@@ -332,9 +274,34 @@
           ]
         },
         {
+          "name": "Pop Off @ St. Charles #13",
+          "id": 919593,
+          "numAttendees": 2,
+          "city": "Saint Charles",
+          "addrState": "MO",
+          "startAt": 1782777600,
+          "slug": "tournament/pop-off-st-charles-13",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/919593/image-1e3f2fec01218bbc2f723da83a887f26.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/919593/image-8f885a392895ad5e10eeaa4f95dd1db2.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 78,
+          "numAttendees": 79,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -368,7 +335,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 65
+              "numEntrants": 66
             }
           ]
         },
@@ -404,7 +371,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 25,
+          "numAttendees": 26,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -422,7 +389,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 24
+              "numEntrants": 25
             },
             {
               "name": "Arcadian Doubles",
