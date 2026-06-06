@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-06-05T02:57:57.361Z",
+  "updatedAt": "2026-06-06T02:44:52.721Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #35",
-          "id": 919322,
-          "numAttendees": 14,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1780617600,
-          "slug": "tournament/the-bair-house-35",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/919322/image-97c25dc4034bec87c7fe1acf07ca9738.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/919322/image-6f8a407e1697e77eae3537422535e07e.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
           "name": "Strike! 60",
           "id": 919492,
-          "numAttendees": 0,
+          "numAttendees": 24,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1780702200,
@@ -48,16 +23,16 @@
           ],
           "events": [
             {
-              "name": "Squad Strike",
-              "numEntrants": 0
-            },
-            {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 22
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 7
             }
           ]
         },
@@ -276,7 +251,7 @@
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 2,
+          "numAttendees": 5,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782777600,
@@ -294,14 +269,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 79,
+          "numAttendees": 80,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -319,7 +294,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 23
+              "numEntrants": 24
             },
             {
               "name": "Rivals II",
@@ -335,7 +310,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 66
+              "numEntrants": 67
             }
           ]
         },
