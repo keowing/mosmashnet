@@ -1,45 +1,37 @@
 {
-  "updatedAt": "2026-06-06T02:44:52.721Z",
+  "updatedAt": "2026-06-07T03:28:04.655Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 60",
-          "id": 919492,
-          "numAttendees": 24,
-          "city": "Kansas City",
+          "name": "SLCL Learn to Read #9",
+          "id": 919816,
+          "numAttendees": 44,
+          "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1780702200,
-          "slug": "tournament/strike-60",
+          "startAt": 1780768800,
+          "slug": "tournament/slcl-learn-to-read-9",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/919492/image-361cb4eca11a20f67c450aa02b915592.png",
+              "url": "https://images.start.gg/images/tournament/919816/image-8155796141c35e71ca2d1cc1d5581259.png",
               "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/919492/image-ffb717d1d8b4a62217e16314d184469c.png",
-              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
+              "name": "Learn to Read 9 Singles",
+              "numEntrants": 36
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 22
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 7
+              "name": "High Dynamic Range Singles",
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "Kachow Kup 32: Financial Crisis",
           "id": 912481,
-          "numAttendees": 5,
+          "numAttendees": 9,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1781303400,
@@ -57,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 9
             }
           ]
         },
@@ -251,7 +243,7 @@
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782777600,
@@ -269,7 +261,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
