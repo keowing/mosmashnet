@@ -1,30 +1,38 @@
 {
-  "updatedAt": "2026-06-07T03:28:04.655Z",
+  "updatedAt": "2026-06-08T03:33:32.345Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "SLCL Learn to Read #9",
-          "id": 919816,
-          "numAttendees": 44,
-          "city": "St. Louis",
+          "name": "PHAZE ➠ FUSION 70",
+          "id": 920379,
+          "numAttendees": 8,
+          "city": "Florissant",
           "addrState": "MO",
-          "startAt": 1780768800,
-          "slug": "tournament/slcl-learn-to-read-9",
+          "startAt": 1781134200,
+          "slug": "tournament/phaze-fusion-70",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/919816/image-8155796141c35e71ca2d1cc1d5581259.png",
+              "url": "https://images.start.gg/images/tournament/920379/image-8aaac6240ee1c2cb9220546e63eab63a.png",
               "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/920379/image-230b28ea1cfd0abbc564af75e55c9049.jpg",
+              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Learn to Read 9 Singles",
-              "numEntrants": 36
+              "name": "Ultimate Singles",
+              "numEntrants": 8
             },
             {
-              "name": "High Dynamic Range Singles",
-              "numEntrants": 15
+              "name": "Super Smash REX",
+              "numEntrants": 3
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -79,13 +87,13 @@
           ]
         },
         {
-          "name": "Raffle Rumble: Top 10",
+          "name": "Raffle Rumble: Top 10 Raffle Rumbles of All Time",
           "id": 918804,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1781982000,
-          "slug": "tournament/raffle-rumble-top-10",
+          "slug": "tournament/raffle-rumble-top-10-raffle-rumbles-of-all-time",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/918804/image-85b8bf410e5ad9254fb90edaec646477.png",
@@ -99,7 +107,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
@@ -185,7 +193,7 @@
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 20,
+          "numAttendees": 21,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -211,7 +219,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 20
             }
           ]
         },
@@ -243,7 +251,7 @@
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782777600,
@@ -261,7 +269,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
