@@ -1,12 +1,41 @@
 {
-  "updatedAt": "2026-06-08T03:33:32.345Z",
+  "updatedAt": "2026-06-09T02:43:46.747Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Royale with Cheese #46",
+          "id": 920677,
+          "numAttendees": 21,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1780963200,
+          "slug": "tournament/royale-with-cheese-46-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/920677/image-3e6fd46a3312182edc6ef04aae775a92.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 20
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 7
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
           "name": "PHAZE ➠ FUSION 70",
           "id": 920379,
-          "numAttendees": 8,
+          "numAttendees": 16,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1781134200,
@@ -24,11 +53,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 16
             },
             {
               "name": "Super Smash REX",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Redemption",
@@ -89,7 +118,7 @@
         {
           "name": "Raffle Rumble: Top 10 Raffle Rumbles of All Time",
           "id": 918804,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1781982000,
@@ -107,7 +136,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
@@ -276,7 +305,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 80,
+          "numAttendees": 81,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -294,7 +323,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 24
+              "numEntrants": 25
             },
             {
               "name": "Rivals II",
@@ -310,7 +339,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 67
+              "numEntrants": 68
             }
           ]
         },
@@ -346,7 +375,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 26,
+          "numAttendees": 27,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -364,7 +393,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 25
+              "numEntrants": 26
             },
             {
               "name": "Arcadian Doubles",
