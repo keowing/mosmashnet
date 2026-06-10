@@ -1,41 +1,12 @@
 {
-  "updatedAt": "2026-06-09T02:43:46.747Z",
+  "updatedAt": "2026-06-10T02:56:49.920Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese #46",
-          "id": 920677,
-          "numAttendees": 21,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1780963200,
-          "slug": "tournament/royale-with-cheese-46-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/920677/image-3e6fd46a3312182edc6ef04aae775a92.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 70",
           "id": 920379,
-          "numAttendees": 16,
+          "numAttendees": 24,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1781134200,
@@ -53,11 +24,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 24
             },
             {
               "name": "Super Smash REX",
-              "numEntrants": 4
+              "numEntrants": 9
             },
             {
               "name": "Ultimate Redemption",
@@ -176,7 +147,7 @@
         {
           "name": "Pack Rat Infestation June 2026",
           "id": 918329,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1782104400,
@@ -190,7 +161,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
@@ -220,9 +191,34 @@
           ]
         },
         {
+          "name": "Living The Dream 2",
+          "id": 917748,
+          "numAttendees": 4,
+          "city": "Branson",
+          "addrState": "MO",
+          "startAt": 1782516600,
+          "slug": "tournament/living-the-dream-2-2",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/917748/image-cf44472b5ed3e569c5b2e5a1a8f88e1e.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/917748/image-aa17b2ae8817331c44374b6a54c17be0.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 21,
+          "numAttendees": 22,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -248,32 +244,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 20
-            }
-          ]
-        },
-        {
-          "name": "Living The Dream 2",
-          "id": 917748,
-          "numAttendees": 3,
-          "city": "Branson",
-          "addrState": "MO",
-          "startAt": 1782662400,
-          "slug": "tournament/living-the-dream-2-2",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/917748/image-cf44472b5ed3e569c5b2e5a1a8f88e1e.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/917748/image-aa17b2ae8817331c44374b6a54c17be0.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 21
             }
           ]
         },
@@ -305,7 +276,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 81,
+          "numAttendees": 82,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -327,7 +298,7 @@
             },
             {
               "name": "Rivals II",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Guilty Gear Strive",
