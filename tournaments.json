@@ -1,12 +1,41 @@
 {
-  "updatedAt": "2026-06-10T02:56:49.920Z",
+  "updatedAt": "2026-06-11T03:31:44.094Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 6/10/26",
+          "id": 921367,
+          "numAttendees": 19,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1781132400,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-6-10-26",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/921367/image-1153448987b4dc3c0dce338c11a50bbf.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/921367/image-ef30a0b851be37c59b5b238c621a7f8a.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 11
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 10
+            }
+          ]
+        },
+        {
           "name": "PHAZE ➠ FUSION 70",
           "id": 920379,
-          "numAttendees": 24,
+          "numAttendees": 35,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1781134200,
@@ -24,22 +53,76 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 35
             },
             {
               "name": "Super Smash REX",
-              "numEntrants": 9
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 11
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #539",
+          "id": 921380,
+          "numAttendees": 15,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1781136000,
+          "slug": "tournament/smash-cafe-539",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/921380/image-cdd52b0c45e1e681db298d98d99ffd51.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/921380/image-982e635ae2c6c75d6dc593ad82c1e2e8.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 15
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "Back to the Lanes #29",
+          "id": 921550,
+          "numAttendees": 5,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1781222400,
+          "slug": "tournament/back-to-the-lanes-29",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/921550/image-94c68f3355af90c4f4a80793cab2aad9.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/921550/image-bcad2e2fe3894c4c9b02b3fcd8d22502.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "Kachow Kup 32: Financial Crisis",
           "id": 912481,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1781303400,
@@ -57,14 +140,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             }
           ]
         },
         {
           "name": "Valhalla",
           "id": 902013,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1781974800,
@@ -82,7 +165,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
@@ -193,7 +276,7 @@
         {
           "name": "Living The Dream 2",
           "id": 917748,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1782516600,
@@ -211,7 +294,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 6
             }
           ]
         },
@@ -274,9 +357,34 @@
           ]
         },
         {
+          "name": "The W",
+          "id": 921383,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1783123200,
+          "slug": "tournament/the-w",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/921383/image-1e598d882b6f72e3cc53688aa558cb3b.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/921383/image-fd72cf7b3c9af858767b02af05e72a37.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 82,
+          "numAttendees": 84,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -310,65 +418,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 68
-            }
-          ]
-        },
-        {
-          "name": "Marcus Monthly #15",
-          "id": 917749,
-          "numAttendees": 7,
-          "city": "Des Peres",
-          "addrState": "MO",
-          "startAt": 1785096000,
-          "slug": "tournament/marcus-monthly-15",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/917749/image-ed15130aeb2f359aadfed7ea982895ef.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/917749/image-c9d2128b2d1c13a73a1838aecf9140fb.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 6
-            },
-            {
-              "name": "HDR Singles",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "FUSION ARCADIAN",
-          "id": 910434,
-          "numAttendees": 27,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1786204800,
-          "slug": "tournament/fusion-arcadian",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/910434/image-391a6f44de9357fddc1a3106a3527e33.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/910434/image-ac5d4ea8240269e15c27638aed6c8048.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Arcadian Singles",
-              "numEntrants": 26
-            },
-            {
-              "name": "Arcadian Doubles",
-              "numEntrants": 0
+              "numEntrants": 70
             }
           ]
         }
