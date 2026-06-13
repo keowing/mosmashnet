@@ -1,33 +1,8 @@
 {
-  "updatedAt": "2026-06-12T03:31:40.114Z",
+  "updatedAt": "2026-06-13T02:56:38.868Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Back to the Lanes #29",
-          "id": 921550,
-          "numAttendees": 14,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1781222400,
-          "slug": "tournament/back-to-the-lanes-29",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/921550/image-94c68f3355af90c4f4a80793cab2aad9.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/921550/image-bcad2e2fe3894c4c9b02b3fcd8d22502.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            }
-          ]
-        },
         {
           "name": "Kachow Kup 32: Financial Crisis",
           "id": 912481,
@@ -50,6 +25,72 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 10
+            }
+          ]
+        },
+        {
+          "name": "Strike! 61",
+          "id": 922070,
+          "numAttendees": 21,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1781307000,
+          "slug": "tournament/strike-61",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/922070/image-57df9fbcfa3ade28ff9cc169f8c6760c.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/922070/image-c6d049d069766ea7f0424bc685f5cba1.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 9
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 21
+            },
+            {
+              "name": "Reverse Mains",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 71",
+          "id": 922175,
+          "numAttendees": 5,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1781739000,
+          "slug": "tournament/phaze-fusion-71",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/922175/image-a788b80b10a96855086e1f9213152566.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/922175/image-fe3ff179b89c0bdc820cc28da6b05076.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "TEKKEN 8",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -81,7 +122,7 @@
         {
           "name": "Raffle Rumble: Top 10 Raffle Rumbles of All Time",
           "id": 918804,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1781982000,
@@ -99,7 +140,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
@@ -185,7 +226,7 @@
         {
           "name": "Living The Dream 2",
           "id": 917748,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1782516600,
@@ -203,14 +244,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 22,
+          "numAttendees": 23,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -236,7 +277,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 22
             }
           ]
         },
@@ -293,7 +334,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 84,
+          "numAttendees": 88,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -311,11 +352,11 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 25
+              "numEntrants": 27
             },
             {
               "name": "Rivals II",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Guilty Gear Strive",
@@ -323,18 +364,18 @@
             },
             {
               "name": "NASB2",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 70
+              "numEntrants": 74
             }
           ]
         },
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -356,7 +397,7 @@
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
