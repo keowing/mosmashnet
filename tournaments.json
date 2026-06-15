@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-14T03:34:29.835Z",
+  "updatedAt": "2026-06-15T03:44:17.151Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "PHAZE ➠ FUSION 71",
           "id": 922175,
-          "numAttendees": 5,
+          "numAttendees": 10,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1781739000,
@@ -24,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 10
             },
             {
               "name": "TEKKEN 8",
@@ -64,7 +64,7 @@
         {
           "name": "Raffle Rumble: Top 10 Raffle Rumbles of All Time",
           "id": 918804,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1781982000,
@@ -82,18 +82,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
         {
-          "name": "★PUBSTOMP #4: BEACH EPISODE! ★",
+          "name": "***THIS EVENT IS CANCELLED DO NOT SHOW UP***",
           "id": 911347,
           "numAttendees": 21,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1782068400,
-          "slug": "tournament/pubstomp-4-beach-episode",
+          "slug": "tournament/this-event-is-cancelled-do-not-show-up",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/911347/image-b1ff854f7835a907242082451aeadc5c.jpg",
@@ -226,7 +226,7 @@
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782777600,
@@ -244,7 +244,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
@@ -276,7 +276,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 89,
+          "numAttendees": 90,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -310,14 +310,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 75
+              "numEntrants": 76
             }
           ]
         },
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -335,7 +335,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "HDR Singles",
