@@ -1,41 +1,12 @@
 {
-  "updatedAt": "2026-06-16T03:38:30.423Z",
+  "updatedAt": "2026-06-17T03:38:18.040Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese #47",
-          "id": 923121,
-          "numAttendees": 23,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1781568000,
-          "slug": "tournament/royale-with-cheese-47",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/923121/image-047be5c8eaea2ee615b793d7a9e7d75a.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 22
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 9
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 6/17/26",
           "id": 923269,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1781737200,
@@ -57,14 +28,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 71",
           "id": 922175,
-          "numAttendees": 15,
+          "numAttendees": 30,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1781739000,
@@ -82,11 +53,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 29
             },
             {
               "name": "TEKKEN 8",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Redemption",
@@ -97,7 +68,7 @@
         {
           "name": "The Bair House #36",
           "id": 923284,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1781827200,
@@ -115,11 +86,11 @@
           "events": [
             {
               "name": "Project+ Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Melee Singles",
@@ -246,7 +217,7 @@
         {
           "name": "Pack Rat Infestation June 2026",
           "id": 918329,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1782104400,
@@ -260,7 +231,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -317,7 +288,7 @@
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 25,
+          "numAttendees": 29,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -343,7 +314,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 28
             }
           ]
         },
@@ -398,9 +369,42 @@
           ]
         },
         {
+          "name": "Cherry Seeds",
+          "id": 921256,
+          "numAttendees": 1,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1783746000,
+          "slug": "tournament/cherry-seeds",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/921256/image-83b1f6b7f159b73218ad56f2b2d611c8.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/921256/image-8f4be1a61f6543f4bc8ec7487524c663.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Doubles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 93,
+          "numAttendees": 96,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -418,7 +422,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 28
+              "numEntrants": 29
             },
             {
               "name": "Rivals II",
@@ -426,7 +430,7 @@
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "NASB2",
@@ -434,7 +438,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 79
+              "numEntrants": 81
             }
           ]
         }
