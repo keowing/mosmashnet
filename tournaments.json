@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-06-19T03:52:54.670Z",
+  "updatedAt": "2026-06-20T02:54:33.578Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #36",
-          "id": 923284,
-          "numAttendees": 20,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1781827200,
-          "slug": "tournament/the-bair-house-36",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/923284/image-b0dec9ded8222f4b15cfee57c6722888.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/923284/image-a2e2d94ec35d380cf3eea7e4309766f4.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "Strike! 62",
           "id": 923219,
-          "numAttendees": 0,
+          "numAttendees": 28,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1781911800,
@@ -56,23 +23,23 @@
           ],
           "events": [
             {
-              "name": "Squid Bracket",
-              "numEntrants": 0
-            },
-            {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 14
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 26
+            },
+            {
+              "name": "Squid Bracket",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Valhalla",
           "id": 902013,
-          "numAttendees": 12,
+          "numAttendees": 13,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1781974800,
@@ -90,14 +57,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 13
             }
           ]
         },
         {
           "name": "Raffle Rumble: Top 10 Raffle Rumbles of All Time",
           "id": 918804,
-          "numAttendees": 7,
+          "numAttendees": 6,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1781982000,
@@ -115,7 +82,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 6
             }
           ]
         },
@@ -155,7 +122,7 @@
         {
           "name": "Pack Rat Infestation June 2026",
           "id": 918329,
-          "numAttendees": 5,
+          "numAttendees": 7,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1782104400,
@@ -169,7 +136,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 5
+              "numEntrants": 7
             }
           ]
         },
@@ -435,6 +402,35 @@
             {
               "name": "HDR Singles",
               "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "FUSION ARCADIAN",
+          "id": 910434,
+          "numAttendees": 36,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1786204800,
+          "slug": "tournament/fusion-arcadian",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/910434/image-391a6f44de9357fddc1a3106a3527e33.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/910434/image-ac5d4ea8240269e15c27638aed6c8048.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Arcadian Singles",
+              "numEntrants": 34
+            },
+            {
+              "name": "Arcadian Doubles",
+              "numEntrants": 3
             }
           ]
         }
