@@ -1,41 +1,8 @@
 {
-  "updatedAt": "2026-06-20T02:54:33.578Z",
+  "updatedAt": "2026-06-21T03:40:55.988Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Strike! 62",
-          "id": 923219,
-          "numAttendees": 28,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1781911800,
-          "slug": "tournament/strike-62",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/923219/image-4216f6fb3add1f5fcd6439ae124e4ce5.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/923219/image-78c63ce83632816157e1aaaac3f5d412.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 14
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 26
-            },
-            {
-              "name": "Squid Bracket",
-              "numEntrants": 4
-            }
-          ]
-        },
         {
           "name": "Valhalla",
           "id": 902013,
@@ -58,6 +25,10 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 13
+            },
+            {
+              "name": "Whacky Bracky",
+              "numEntrants": 8
             }
           ]
         },
@@ -222,7 +193,7 @@
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 31,
+          "numAttendees": 32,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -240,7 +211,7 @@
           "events": [
             {
               "name": "Megasmash Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Redemption Bracket",
@@ -248,7 +219,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 30
+              "numEntrants": 31
             }
           ]
         },
@@ -408,7 +379,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 36,
+          "numAttendees": 39,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -426,7 +397,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 34
+              "numEntrants": 37
             },
             {
               "name": "Arcadian Doubles",
