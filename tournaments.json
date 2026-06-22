@@ -1,62 +1,8 @@
 {
-  "updatedAt": "2026-06-21T03:40:55.988Z",
+  "updatedAt": "2026-06-22T03:44:14.346Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Valhalla",
-          "id": 902013,
-          "numAttendees": 13,
-          "city": "Marshall",
-          "addrState": "MO",
-          "startAt": 1781974800,
-          "slug": "tournament/valhalla-4",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/902013/image-b72b694fbc7496bd29fb87f002ae2fe0.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/902013/image-292f39af04f0be28c119666237df2696.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Whacky Bracky",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "Raffle Rumble: Top 10 Raffle Rumbles of All Time",
-          "id": 918804,
-          "numAttendees": 6,
-          "city": "Cape Girardeau",
-          "addrState": "MO",
-          "startAt": 1781982000,
-          "slug": "tournament/raffle-rumble-top-10-raffle-rumbles-of-all-time",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/918804/image-85b8bf410e5ad9254fb90edaec646477.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/918804/image-fbf8d9506fd9368ea46cb1c642657128.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
         {
           "name": "***THIS EVENT IS CANCELLED DO NOT SHOW UP***",
           "id": 911347,
@@ -93,7 +39,7 @@
         {
           "name": "Pack Rat Infestation June 2026",
           "id": 918329,
-          "numAttendees": 7,
+          "numAttendees": 10,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1782104400,
@@ -107,7 +53,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 7
+              "numEntrants": 10
             }
           ]
         },
@@ -168,7 +114,7 @@
         {
           "name": "Living The Dream 2",
           "id": 917748,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1782516600,
@@ -186,14 +132,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 32,
+          "numAttendees": 33,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -219,7 +165,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 31
+              "numEntrants": 32
             }
           ]
         },
@@ -309,7 +255,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 97,
+          "numAttendees": 112,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -327,30 +273,30 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 29
+              "numEntrants": 38
             },
             {
               "name": "Rivals II",
-              "numEntrants": 12
+              "numEntrants": 14
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 7
+              "numEntrants": 9
             },
             {
               "name": "NASB2",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 81
+              "numEntrants": 95
             }
           ]
         },
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -368,7 +314,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "HDR Singles",
@@ -379,7 +325,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 39,
+          "numAttendees": 41,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -397,7 +343,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 37
+              "numEntrants": 39
             },
             {
               "name": "Arcadian Doubles",
