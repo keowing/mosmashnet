@@ -1,66 +1,12 @@
 {
-  "updatedAt": "2026-06-22T03:44:14.346Z",
+  "updatedAt": "2026-06-23T02:48:59.714Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "***THIS EVENT IS CANCELLED DO NOT SHOW UP***",
-          "id": 911347,
-          "numAttendees": 21,
-          "city": "Cape Girardeau",
-          "addrState": "MO",
-          "startAt": 1782068400,
-          "slug": "tournament/this-event-is-cancelled-do-not-show-up",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/911347/image-b1ff854f7835a907242082451aeadc5c.jpg",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/911347/image-faafb3e9d564fb6ce2a15def0f1adfc9.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Beach Brawl (side event)",
-              "numEntrants": 4
-            },
-            {
-              "name": "Ultimate Singles (Main event)",
-              "numEntrants": 21
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Pack Rat Infestation June 2026",
-          "id": 918329,
-          "numAttendees": 10,
-          "city": "Warrenton",
-          "addrState": "MO",
-          "startAt": 1782104400,
-          "slug": "tournament/pack-rat-infestation-june-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/918329/image-0eebebea8c5e77109d6aec17dca167ff.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ulitmate Singles",
-              "numEntrants": 10
-            }
-          ]
-        },
-        {
           "name": "Royale with Cheese #48",
           "id": 924407,
-          "numAttendees": 0,
+          "numAttendees": 29,
           "city": "Lee's Summit",
           "addrState": "MO",
           "startAt": 1782172800,
@@ -73,15 +19,44 @@
           ],
           "events": [
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 27
+            },
+            {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 12
             },
             {
               "name": "Remix Singles",
-              "numEntrants": 0
+              "numEntrants": 7
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 72",
+          "id": 925812,
+          "numAttendees": 7,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1782343800,
+          "slug": "tournament/phaze-fusion-72-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/925812/image-4e8ba3267384f32d9bd02129d4107eac.png",
+              "type": "profile"
             },
             {
+              "url": "https://images.start.gg/images/tournament/925812/image-68f29f0fd59db860d23b256aa5aab3b4.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
               "name": "Ultimate Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Ultimate Redemption",
               "numEntrants": 0
             }
           ]
@@ -89,7 +64,7 @@
         {
           "name": "Kachow Kup 33: Final Warning",
           "id": 912485,
-          "numAttendees": 3,
+          "numAttendees": 6,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1782513000,
@@ -107,7 +82,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 6
             }
           ]
         },
@@ -139,7 +114,7 @@
         {
           "name": "Hard Counter",
           "id": 881008,
-          "numAttendees": 33,
+          "numAttendees": 34,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
@@ -165,17 +140,17 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 32
+              "numEntrants": 33
             }
           ]
         },
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 11,
+          "numAttendees": 14,
           "city": "Saint Charles",
           "addrState": "MO",
-          "startAt": 1782777600,
+          "startAt": 1782775800,
           "slug": "tournament/pop-off-st-charles-13",
           "images": [
             {
@@ -190,7 +165,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
+            },
+            {
+              "name": "HDR Singles",
+              "numEntrants": 3
             }
           ]
         },
@@ -222,7 +201,7 @@
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 2,
+          "numAttendees": 7,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -248,14 +227,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 112,
+          "numAttendees": 116,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -273,7 +252,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 38
+              "numEntrants": 39
             },
             {
               "name": "Rivals II",
@@ -281,7 +260,7 @@
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "NASB2",
@@ -289,7 +268,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 95
+              "numEntrants": 99
             }
           ]
         },
@@ -325,7 +304,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 41,
+          "numAttendees": 44,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -343,7 +322,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 39
+              "numEntrants": 42
             },
             {
               "name": "Arcadian Doubles",
