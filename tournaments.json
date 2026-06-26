@@ -1,99 +1,12 @@
 {
-  "updatedAt": "2026-06-25T02:49:18.002Z",
+  "updatedAt": "2026-06-26T02:54:08.003Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 6/24/26",
-          "id": 926302,
-          "numAttendees": 13,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1782342000,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-6-24-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/926302/image-acdaa2906175ef4c9c3875ff766ca4cb.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/926302/image-90f7dfd67bc25f12283b7572a8d95e8c.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 72",
-          "id": 925812,
-          "numAttendees": 39,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1782343800,
-          "slug": "tournament/phaze-fusion-72-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/925812/image-4e8ba3267384f32d9bd02129d4107eac.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/925812/image-68f29f0fd59db860d23b256aa5aab3b4.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 39
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #541",
-          "id": 926319,
-          "numAttendees": 9,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1782345600,
-          "slug": "tournament/smash-cafe-541",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/926319/image-8e1b30be233bc06c9cf722ba70b18aa9.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/926319/image-309b8540a67f558a5b61d69056c2890e.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 1
-            },
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
           "name": "The Bair House #37",
           "id": 926136,
-          "numAttendees": 9,
+          "numAttendees": 14,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1782432000,
@@ -111,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 14
             }
           ]
         },
         {
           "name": "Kachow Kup 33: Final Warning",
           "id": 912485,
-          "numAttendees": 6,
+          "numAttendees": 9,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1782513000,
@@ -136,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 9
             }
           ]
         },
@@ -234,7 +147,7 @@
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782775800,
@@ -252,11 +165,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 14
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
@@ -288,7 +201,7 @@
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -314,7 +227,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             }
           ]
         },
@@ -339,7 +252,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 43
+              "numEntrants": 44
             },
             {
               "name": "Rivals II",
@@ -351,7 +264,7 @@
             },
             {
               "name": "NASB2",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Singles",
