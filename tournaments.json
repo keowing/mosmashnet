@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-06-26T02:54:08.003Z",
+  "updatedAt": "2026-06-27T02:44:21.846Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #37",
-          "id": 926136,
-          "numAttendees": 14,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1782432000,
-          "slug": "tournament/the-bair-house-37",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/926136/image-0b7c787663e7758bf681b9c70321dad3.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/926136/image-92ac2afb4330ca040c0be14486b3da29.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
           "name": "Kachow Kup 33: Final Warning",
           "id": 912485,
-          "numAttendees": 9,
+          "numAttendees": 11,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1782513000,
@@ -49,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "Living The Dream 2",
           "id": 917748,
-          "numAttendees": 13,
+          "numAttendees": 19,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1782516600,
@@ -74,14 +49,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 19
             }
           ]
         },
         {
           "name": "Strike! 63",
           "id": 925992,
-          "numAttendees": 0,
+          "numAttendees": 28,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1782516600,
@@ -98,16 +73,16 @@
           ],
           "events": [
             {
-              "name": "Squad Strike",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 28
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 10
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
+              "name": "Squad Strike",
+              "numEntrants": 8
             }
           ]
         },
@@ -147,7 +122,7 @@
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 16,
+          "numAttendees": 19,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782775800,
@@ -165,11 +140,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 17
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -223,7 +198,7 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Singles",
