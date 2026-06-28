@@ -1,99 +1,16 @@
 {
-  "updatedAt": "2026-06-27T02:44:21.846Z",
+  "updatedAt": "2026-06-28T03:23:40.858Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Kachow Kup 33: Final Warning",
-          "id": 912485,
-          "numAttendees": 11,
-          "city": "Ste. Genevieve",
-          "addrState": "MO",
-          "startAt": 1782513000,
-          "slug": "tournament/kachow-kup-33-final-warning",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/912485/image-2c02796d108ba7efd039c49a9a9070f0.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/912485/image-38116d680684574eed3ba64a1593c797.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "Living The Dream 2",
-          "id": 917748,
-          "numAttendees": 19,
-          "city": "Branson",
-          "addrState": "MO",
-          "startAt": 1782516600,
-          "slug": "tournament/living-the-dream-2-2",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/917748/image-cf44472b5ed3e569c5b2e5a1a8f88e1e.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/917748/image-aa17b2ae8817331c44374b6a54c17be0.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            }
-          ]
-        },
-        {
-          "name": "Strike! 63",
-          "id": 925992,
-          "numAttendees": 28,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1782516600,
-          "slug": "tournament/strike-63",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/925992/image-35fee975c3b6411e3b238849e1181875.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/925992/image-ad369b58d40c903bb7aaaa7e77d2d047.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 28
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "Hard Counter",
+          "name": "CANCELED DO NOT SHOW UP",
           "id": 881008,
           "numAttendees": 34,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1782572400,
-          "slug": "tournament/hard-counter",
+          "slug": "tournament/canceled-do-not-show-up",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/881008/image-82a6d693c92bbc75532ca1ab0b526442.png",
@@ -122,7 +39,7 @@
         {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 19,
+          "numAttendees": 21,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782775800,
@@ -140,7 +57,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 19
             },
             {
               "name": "HDR Singles",
@@ -151,7 +68,7 @@
         {
           "name": "The W",
           "id": 921383,
-          "numAttendees": 3,
+          "numAttendees": 7,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1783123200,
@@ -169,14 +86,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -202,14 +119,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 122,
+          "numAttendees": 123,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -227,7 +144,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 44
+              "numEntrants": 45
             },
             {
               "name": "Rivals II",
@@ -243,7 +160,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 105
+              "numEntrants": 106
             }
           ]
         },
@@ -309,31 +226,6 @@
     },
     "KansasCityKS": {
       "nodes": [
-        {
-          "name": "Bluhawk Beatdown #3",
-          "id": 909183,
-          "numAttendees": 1,
-          "city": "Overland Park",
-          "addrState": "KS",
-          "startAt": 1782514800,
-          "slug": "tournament/bluhawk-beatdown-3",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/909183/image-c22dc125c803144dbecb9251cd152a7b.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/909183/image-6e7f87f8b700ed546ff102e87b561e02.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Bluhawk Beatdown",
-              "numEntrants": 1
-            }
-          ]
-        },
         {
           "name": "Bluhawk Beatdown #4",
           "id": 909186,
