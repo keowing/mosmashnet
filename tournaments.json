@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-06-28T03:23:40.858Z",
+  "updatedAt": "2026-06-29T03:28:08.043Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "CANCELED DO NOT SHOW UP",
-          "id": 881008,
-          "numAttendees": 34,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1782572400,
-          "slug": "tournament/canceled-do-not-show-up",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/881008/image-82a6d693c92bbc75532ca1ab0b526442.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/881008/image-96077cbf5fb3ab50759a77835a2f057f.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Megasmash Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 33
-            }
-          ]
-        },
-        {
           "name": "Pop Off @ St. Charles #13",
           "id": 919593,
-          "numAttendees": 21,
+          "numAttendees": 28,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1782775800,
@@ -57,18 +24,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 26
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 5
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "The W",
           "id": 921383,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1783123200,
@@ -86,14 +53,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 12,
+          "numAttendees": 16,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -119,7 +86,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 16
             }
           ]
         },
