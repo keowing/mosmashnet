@@ -1,70 +1,12 @@
 {
-  "updatedAt": "2026-06-30T02:53:40.703Z",
+  "updatedAt": "2026-07-01T03:23:41.123Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Pop Off @ St. Charles #13",
-          "id": 919593,
-          "numAttendees": 36,
-          "city": "Saint Charles",
-          "addrState": "MO",
-          "startAt": 1782775800,
-          "slug": "tournament/pop-off-st-charles-13",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/919593/image-1e3f2fec01218bbc2f723da83a887f26.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/919593/image-8f885a392895ad5e10eeaa4f95dd1db2.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 32
-            },
-            {
-              "name": "HDR Singles",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #49",
-          "id": 927791,
-          "numAttendees": 17,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1782777600,
-          "slug": "tournament/royale-with-cheese-49",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/927791/image-8d1fe97bca9d799b9eaa3e5bdc15f741.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 16
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 73",
           "id": 927689,
-          "numAttendees": 17,
+          "numAttendees": 29,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1782948600,
@@ -82,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 29
             },
             {
               "name": "Ultimate Redemption",
@@ -118,7 +60,7 @@
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 16,
+          "numAttendees": 17,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -144,14 +86,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 17
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 124,
+          "numAttendees": 129,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -169,15 +111,15 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 46
+              "numEntrants": 47
             },
             {
               "name": "Rivals II",
-              "numEntrants": 15
+              "numEntrants": 16
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "NASB2",
@@ -185,7 +127,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 108
+              "numEntrants": 113
             }
           ]
         },
