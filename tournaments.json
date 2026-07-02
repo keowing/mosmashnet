@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-01T03:23:41.123Z",
+  "updatedAt": "2026-07-02T02:50:00.697Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "PHAZE ➠ FUSION 73",
           "id": 927689,
-          "numAttendees": 29,
+          "numAttendees": 47,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1782948600,
@@ -24,7 +24,36 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 29
+              "numEntrants": 45
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 13
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #542",
+          "id": 928696,
+          "numAttendees": 12,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1782950400,
+          "slug": "tournament/smash-cafe-542",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/928696/image-978a8bc2809dead42ff0d687222b8216.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/928696/image-c41594f3926f8d75fd731f322b33809e.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 12
             },
             {
               "name": "Ultimate Redemption",
@@ -35,7 +64,7 @@
         {
           "name": "The W",
           "id": 921383,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1783123200,
@@ -53,14 +82,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 17,
+          "numAttendees": 18,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -86,14 +115,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 18
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 129,
+          "numAttendees": 131,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -115,7 +144,7 @@
             },
             {
               "name": "Rivals II",
-              "numEntrants": 16
+              "numEntrants": 17
             },
             {
               "name": "Guilty Gear Strive",
@@ -127,7 +156,28 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 113
+              "numEntrants": 114
+            }
+          ]
+        },
+        {
+          "name": "Pack Rat Infestation July 2026",
+          "id": 928890,
+          "numAttendees": 0,
+          "city": "Warrenton",
+          "addrState": "MO",
+          "startAt": 1784584800,
+          "slug": "tournament/pack-rat-infestation-july-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/928890/image-e36449300b48a68109cfd478eec5b982.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ulitmate Singles",
+              "numEntrants": 0
             }
           ]
         },
