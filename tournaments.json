@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-07-03T02:32:49.320Z",
+  "updatedAt": "2026-07-04T02:30:25.697Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #38",
-          "id": 929135,
-          "numAttendees": 11,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1783036800,
-          "slug": "tournament/the-bair-house-38",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/929135/image-afaf4e028c38d109eebd6f76b0d949a8.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/929135/image-c4901cbd13dbad2f18c33a270523204b.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
           "name": "Strike! 64",
           "id": 929114,
-          "numAttendees": 0,
+          "numAttendees": 20,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783121400,
@@ -48,23 +23,23 @@
           ],
           "events": [
             {
-              "name": "Squad Strike",
-              "numEntrants": 0
-            },
-            {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 20
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "The W",
           "id": 921383,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1783123200,
@@ -82,14 +57,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 18,
+          "numAttendees": 27,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -106,23 +81,27 @@
           ],
           "events": [
             {
+              "name": "UNC vs YUNC CREW BATTLE",
+              "numEntrants": 2
+            },
+            {
               "name": "Ultimate Redemption",
               "numEntrants": 0
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 1
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
+              "numEntrants": 27
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 139,
+          "numAttendees": 143,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -156,7 +135,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 121
+              "numEntrants": 125
             }
           ]
         },
