@@ -1,70 +1,45 @@
 {
-  "updatedAt": "2026-07-04T02:30:25.697Z",
+  "updatedAt": "2026-07-05T02:40:01.387Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 64",
-          "id": 929114,
-          "numAttendees": 20,
-          "city": "Kansas City",
+          "name": "PHAZE ➠ FUSION 74",
+          "id": 929617,
+          "numAttendees": 1,
+          "city": "Florissant",
           "addrState": "MO",
-          "startAt": 1783121400,
-          "slug": "tournament/strike-64",
+          "startAt": 1783553400,
+          "slug": "tournament/phaze-fusion-74",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/929114/image-80ebc6375d4ae575f2497a438c5f9f5c.png",
+              "url": "https://images.start.gg/images/tournament/929617/image-b252b6872cf47ca0959e1a6226017720.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/929114/image-b978e6323e9868392a9a304403f4514c.png",
+              "url": "https://images.start.gg/images/tournament/929617/image-806de2598d95ece1d341b41d0c864ae6.jpg",
               "type": "banner"
             }
           ],
           "events": [
+            {
+              "name": "Rivals II Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "The W",
-          "id": 921383,
-          "numAttendees": 12,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1783123200,
-          "slug": "tournament/the-w",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/921383/image-1e598d882b6f72e3cc53688aa558cb3b.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/921383/image-fd72cf7b3c9af858767b02af05e72a37.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 27,
+          "numAttendees": 26,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -94,14 +69,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 27
+              "numEntrants": 26
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 143,
+          "numAttendees": 152,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -119,7 +94,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 51
+              "numEntrants": 58
             },
             {
               "name": "Rivals II",
@@ -135,7 +110,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 125
+              "numEntrants": 138
             }
           ]
         },
