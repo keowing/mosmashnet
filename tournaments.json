@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-05T02:40:01.387Z",
+  "updatedAt": "2026-07-06T02:44:57.513Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "PHAZE ➠ FUSION 74",
           "id": 929617,
-          "numAttendees": 1,
+          "numAttendees": 13,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1783553400,
@@ -23,12 +23,12 @@
           ],
           "events": [
             {
-              "name": "Rivals II Singles",
-              "numEntrants": 1
+              "name": "Ultimate Singles",
+              "numEntrants": 10
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
+              "name": "Rivals II Singles",
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
@@ -39,7 +39,7 @@
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 26,
+          "numAttendees": 27,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -69,14 +69,14 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 26
+              "numEntrants": 27
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 152,
+          "numAttendees": 156,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -94,23 +94,23 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 58
+              "numEntrants": 60
             },
             {
               "name": "Rivals II",
-              "numEntrants": 18
+              "numEntrants": 20
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "NASB2",
-              "numEntrants": 8
+              "numEntrants": 10
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 138
+              "numEntrants": 142
             }
           ]
         },
