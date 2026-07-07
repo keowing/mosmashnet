@@ -1,12 +1,41 @@
 {
-  "updatedAt": "2026-07-06T02:44:57.513Z",
+  "updatedAt": "2026-07-07T02:40:49.916Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Royale with Cheese #50",
+          "id": 930347,
+          "numAttendees": 13,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1783378800,
+          "slug": "tournament/royale-with-cheese-50",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/930347/image-b30de010381438ce7e33d3e7a97fa6e1.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 6
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "PHAZE ➠ FUSION 74",
           "id": 929617,
-          "numAttendees": 13,
+          "numAttendees": 25,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1783553400,
@@ -24,14 +53,47 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 21
             },
             {
               "name": "Rivals II Singles",
-              "numEntrants": 7
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Strike! 65",
+          "id": 930591,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1783726200,
+          "slug": "tournament/strike-65",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/930591/image-a2fb1e6f89658cf947f0c49e91eec117.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/930591/image-a378b005a54d6e1f5d1d98c479c43852.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Side Event",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 0
             }
           ]
@@ -76,7 +138,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 156,
+          "numAttendees": 159,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -94,7 +156,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 60
+              "numEntrants": 62
             },
             {
               "name": "Rivals II",
@@ -106,11 +168,11 @@
             },
             {
               "name": "NASB2",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 142
+              "numEntrants": 145
             }
           ]
         },
