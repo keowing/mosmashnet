@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-07-09T02:32:38.942Z",
+  "updatedAt": "2026-07-10T02:34:56.988Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 7/8/26",
-          "id": 931244,
-          "numAttendees": 16,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1783551600,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-7-8-26-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/931244/image-d7ecee00a64159d2082c9b93f64712a7.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/931244/image-9568dc099b328857ff0179b3bec435d4.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 74",
-          "id": 929617,
-          "numAttendees": 52,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1783553400,
-          "slug": "tournament/phaze-fusion-74",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/929617/image-b252b6872cf47ca0959e1a6226017720.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/929617/image-806de2598d95ece1d341b41d0c864ae6.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 44
-            },
-            {
-              "name": "Rivals II Singles",
-              "numEntrants": 16
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #543",
-          "id": 931189,
-          "numAttendees": 17,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1783555200,
-          "slug": "tournament/smash-cafe-543-2",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/931189/image-6afb2469bb2d5d5352adb2b2959a39aa.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/931189/image-6767f9ab75b69b230a573bf1b0e9d0de.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "BACK TO THE LANES @ Sunshine Lanes #30",
           "id": 931066,
-          "numAttendees": 8,
+          "numAttendees": 21,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1783641600,
@@ -114,19 +23,19 @@
           ],
           "events": [
             {
-              "name": "Melee Singles",
-              "numEntrants": 4
+              "name": "Ultimate Singles",
+              "numEntrants": 14
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 4
+              "name": "Melee Singles",
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "Strike! 65",
           "id": 930591,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783726200,
@@ -152,7 +61,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
@@ -184,7 +93,7 @@
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 39,
+          "numAttendees": 48,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -202,7 +111,7 @@
           "events": [
             {
               "name": "UNC vs YUNC CREW BATTLE",
-              "numEntrants": 2
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Redemption",
@@ -210,18 +119,18 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 4
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 39
+              "numEntrants": 46
             }
           ]
         },
         {
           "name": "Freakyville: Sloppy Summer Special",
           "id": 931063,
-          "numAttendees": 2,
+          "numAttendees": 4,
           "city": "Fenton",
           "addrState": "MO",
           "startAt": 1783900800,
@@ -239,18 +148,18 @@
           "events": [
             {
               "name": "Sloppy Summer Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             },
             {
               "name": "Jack(box)ing off",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 166,
+          "numAttendees": 168,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -268,11 +177,11 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 65
+              "numEntrants": 66
             },
             {
               "name": "Rivals II",
-              "numEntrants": 21
+              "numEntrants": 22
             },
             {
               "name": "NASB2",
@@ -284,7 +193,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 152
+              "numEntrants": 153
             }
           ]
         },
@@ -312,7 +221,7 @@
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -330,7 +239,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "HDR Singles",
@@ -341,7 +250,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 47,
+          "numAttendees": 48,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -359,11 +268,11 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 44
+              "numEntrants": 45
             },
             {
               "name": "Arcadian Doubles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         }
