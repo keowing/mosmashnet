@@ -1,41 +1,12 @@
 {
-  "updatedAt": "2026-07-10T02:34:56.988Z",
+  "updatedAt": "2026-07-11T02:10:53.260Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "BACK TO THE LANES @ Sunshine Lanes #30",
-          "id": 931066,
-          "numAttendees": 21,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1783641600,
-          "slug": "tournament/back-to-the-lanes-sunshine-lanes-30",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/931066/image-bffacb15ce18c11ef9b7d80b6f3321c2.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/931066/image-fa2aa930de3ba69eb39e77ced68c869e.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "Strike! 65",
           "id": 930591,
-          "numAttendees": 1,
+          "numAttendees": 24,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783726200,
@@ -52,23 +23,23 @@
           ],
           "events": [
             {
-              "name": "Side Event",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 24
+            },
+            {
+              "name": "Squid Bracket",
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "The W #2",
           "id": 931157,
-          "numAttendees": 3,
+          "numAttendees": 14,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1783728000,
@@ -86,14 +57,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 14
             }
           ]
         },
         {
           "name": "Cherry Seeds",
           "id": 921256,
-          "numAttendees": 48,
+          "numAttendees": 55,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1783746000,
@@ -110,10 +81,6 @@
           ],
           "events": [
             {
-              "name": "UNC vs YUNC CREW BATTLE",
-              "numEntrants": 0
-            },
-            {
               "name": "Ultimate Redemption",
               "numEntrants": 0
             },
@@ -123,14 +90,39 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 46
+              "numEntrants": 53
+            }
+          ]
+        },
+        {
+          "name": "SLCL Learn to Read #10",
+          "id": 931954,
+          "numAttendees": 0,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1783789200,
+          "slug": "tournament/slcl-learn-to-read-10",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/931954/image-4f0f5a5817be2feb4fa9df32a1e6da3f.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "High Dynamic Range Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Learn to Read 10 Singles",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Freakyville: Sloppy Summer Special",
           "id": 931063,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Fenton",
           "addrState": "MO",
           "startAt": 1783900800,
@@ -148,7 +140,7 @@
           "events": [
             {
               "name": "Sloppy Summer Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Jack(box)ing off",
@@ -159,7 +151,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 168,
+          "numAttendees": 169,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -177,7 +169,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 66
+              "numEntrants": 67
             },
             {
               "name": "Rivals II",
@@ -193,7 +185,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 153
+              "numEntrants": 154
             }
           ]
         },
@@ -244,6 +236,31 @@
             {
               "name": "HDR Singles",
               "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup 34: Locking In",
+          "id": 931925,
+          "numAttendees": 2,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1785537000,
+          "slug": "tournament/kachow-kup-34-locking-in",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/931925/image-8c28427175aa7f835dde3bf1febb29b6.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/931925/image-668e00f5a8100d4fe75dc50d35177299.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
             }
           ]
         },
