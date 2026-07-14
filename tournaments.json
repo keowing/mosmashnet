@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-13T02:23:03.455Z",
+  "updatedAt": "2026-07-14T02:02:30.695Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Freakyville: Sloppy Summer Special",
-          "id": 931063,
-          "numAttendees": 9,
-          "city": "Fenton",
+          "name": "Royale with Cheese #51",
+          "id": 932791,
+          "numAttendees": 15,
+          "city": "Lee's Summit",
           "addrState": "MO",
-          "startAt": 1783900800,
-          "slug": "tournament/freakyville-sloppy-summer-special",
+          "startAt": 1783987200,
+          "slug": "tournament/royale-with-cheese-51-1",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/931063/image-a94b68f5a89f4055884eaa611ca6b2f4.png",
+              "url": "https://images.start.gg/images/tournament/932791/image-a8ad4451ce97823d06d2df318dde5819.png",
               "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/931063/image-d50c7c3a3a148fc4cef8586650c4c7c6.png",
-              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Sloppy Summer Singles",
-              "numEntrants": 9
+              "name": "Ultimate Singles",
+              "numEntrants": 14
             },
             {
-              "name": "Jack(box)ing off",
-              "numEntrants": 3
+              "name": "Redemption Bracket",
+              "numEntrants": 6
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 75",
           "id": 932594,
-          "numAttendees": 6,
+          "numAttendees": 13,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1784158200,
@@ -53,7 +53,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 13
             },
             {
               "name": "TEKKEN 8",
@@ -68,7 +68,7 @@
         {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 185,
+          "numAttendees": 182,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -86,7 +86,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 74
+              "numEntrants": 76
             },
             {
               "name": "Rivals II",
@@ -102,7 +102,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 168
+              "numEntrants": 166
             }
           ]
         },
@@ -130,7 +130,7 @@
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 12,
+          "numAttendees": 13,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -148,11 +148,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -207,6 +207,35 @@
             {
               "name": "Arcadian Doubles",
               "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
+          "id": 932814,
+          "numAttendees": 33,
+          "city": "Cape Girardeau",
+          "addrState": "MO",
+          "startAt": 1787515200,
+          "slug": "tournament/pubstomp-4-for-real-this-time",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/932814/image-843a3a6e057a5832858d145a235b9a82.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/932814/image-b3f2b3a71e9123cff43df5e262dd0d78.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike (FREE Side Event)",
+              "numEntrants": 21
+            },
+            {
+              "name": "Ultimate Singles (Main event)",
+              "numEntrants": 33
             }
           ]
         }
