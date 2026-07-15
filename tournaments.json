@@ -1,41 +1,12 @@
 {
-  "updatedAt": "2026-07-14T02:02:30.695Z",
+  "updatedAt": "2026-07-15T01:59:36.503Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese #51",
-          "id": 932791,
-          "numAttendees": 15,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1783987200,
-          "slug": "tournament/royale-with-cheese-51-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/932791/image-a8ad4451ce97823d06d2df318dde5819.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 6
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 75",
           "id": 932594,
-          "numAttendees": 13,
+          "numAttendees": 21,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1784158200,
@@ -53,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 21
             },
             {
               "name": "TEKKEN 8",
@@ -66,9 +37,42 @@
           ]
         },
         {
+          "name": "Strike! 66",
+          "id": 933283,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1784331000,
+          "slug": "tournament/strike-66",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/933283/image-2c1c221d828640dc0eb8a5da7debfdb6.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/933283/image-4ce79aa9f29b0335ee2ebe283115e1b2.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Side Event",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 182,
+          "numAttendees": 183,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -86,11 +90,11 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 76
+              "numEntrants": 75
             },
             {
               "name": "Rivals II",
-              "numEntrants": 24
+              "numEntrants": 23
             },
             {
               "name": "NASB2",
@@ -98,11 +102,11 @@
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 13
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 166
+              "numEntrants": 168
             }
           ]
         },
@@ -130,7 +134,7 @@
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 13,
+          "numAttendees": 14,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -148,7 +152,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "HDR Singles",
@@ -213,7 +217,7 @@
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 33,
+          "numAttendees": 40,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -235,7 +239,7 @@
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 33
+              "numEntrants": 40
             }
           ]
         }
