@@ -1,12 +1,41 @@
 {
-  "updatedAt": "2026-07-15T01:59:36.503Z",
+  "updatedAt": "2026-07-16T02:09:25.851Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 7/15/26",
+          "id": 933680,
+          "numAttendees": 16,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1784156400,
+          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-7-15-26",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/933680/image-efc30c34e1b7d08afe58156e891115c3.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/933680/image-a92bf0998f717d7c4c68361cc41aa49c.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Melty Blood AACC",
+              "numEntrants": 7
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 11
+            }
+          ]
+        },
+        {
           "name": "PHAZE ➠ FUSION 75",
           "id": 932594,
-          "numAttendees": 21,
+          "numAttendees": 45,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1784158200,
@@ -24,15 +53,65 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 44
             },
             {
               "name": "TEKKEN 8",
-              "numEntrants": 0
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 14
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #544",
+          "id": 933588,
+          "numAttendees": 21,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1784160000,
+          "slug": "tournament/smash-cafe-544",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/933588/image-fc1a02615707bb420fa3c58ebe5f52a4.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/933588/image-51d4bc699c04daaa8962d921285abca4.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 20
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 12
+            }
+          ]
+        },
+        {
+          "name": "Rift | THE BREACH PRE LOCAL",
+          "id": 933619,
+          "numAttendees": 19,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1784329200,
+          "slug": "tournament/rift-the-breach-pre-local-2",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/933619/image-a143c6fc4972f4ecfa302c2148511b19.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 19
             }
           ]
         },
@@ -70,9 +149,34 @@
           ]
         },
         {
+          "name": "The W #3",
+          "id": 933743,
+          "numAttendees": 4,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1784332800,
+          "slug": "tournament/the-w-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/933743/image-abae2a69ee184056f0d363f26e404ac6.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/933743/image-1fbac4366fca63de53dd38c5289010bf.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 183,
+          "numAttendees": 184,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -106,7 +210,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 168
+              "numEntrants": 169
             }
           ]
         },
@@ -134,7 +238,7 @@
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 14,
+          "numAttendees": 15,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -152,7 +256,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 13
             },
             {
               "name": "HDR Singles",
@@ -182,6 +286,31 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Living the Dream 3",
+          "id": 933661,
+          "numAttendees": 3,
+          "city": "Branson",
+          "addrState": "MO",
+          "startAt": 1786145400,
+          "slug": "tournament/living-the-dream-3-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/933661/image-126558c3485f69e710656381430a81ea.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/933661/image-7fabf384ee2605181b3ff0111dfeffab.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
             }
           ]
         },
@@ -217,7 +346,7 @@
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 40,
+          "numAttendees": 41,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -235,11 +364,11 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 21
+              "numEntrants": 23
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 40
+              "numEntrants": 41
             }
           ]
         }
