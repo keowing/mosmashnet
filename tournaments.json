@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-07-16T02:09:25.851Z",
+  "updatedAt": "2026-07-17T02:12:27.058Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Columbia Parks & Rec. Esports | Smash Ultimate/FGC Weekly | 7/15/26",
-          "id": 933680,
-          "numAttendees": 16,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1784156400,
-          "slug": "tournament/columbia-parks-rec-esports-smash-ultimate-fgc-weekly-7-15-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/933680/image-efc30c34e1b7d08afe58156e891115c3.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/933680/image-a92bf0998f717d7c4c68361cc41aa49c.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Melty Blood AACC",
-              "numEntrants": 7
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "PHAZE ➠ FUSION 75",
-          "id": 932594,
-          "numAttendees": 45,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1784158200,
-          "slug": "tournament/phaze-fusion-75",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/932594/image-551b4c196935ddb0ad37e72686ed9131.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/932594/image-9943a7f318acd3c592260e5d70a33089.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 44
-            },
-            {
-              "name": "TEKKEN 8",
-              "numEntrants": 8
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #544",
-          "id": 933588,
-          "numAttendees": 21,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1784160000,
-          "slug": "tournament/smash-cafe-544",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/933588/image-fc1a02615707bb420fa3c58ebe5f52a4.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/933588/image-51d4bc699c04daaa8962d921285abca4.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
           "name": "Rift | THE BREACH PRE LOCAL",
           "id": 933619,
-          "numAttendees": 19,
+          "numAttendees": 22,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784329200,
@@ -111,7 +20,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 22
             }
           ]
         },
@@ -135,15 +44,15 @@
           ],
           "events": [
             {
-              "name": "Side Event",
-              "numEntrants": 0
-            },
-            {
               "name": "Ultimate Redemption",
               "numEntrants": 0
             },
             {
               "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "ROA2 Singles",
               "numEntrants": 0
             }
           ]
@@ -151,7 +60,7 @@
         {
           "name": "The W #3",
           "id": 933743,
-          "numAttendees": 4,
+          "numAttendees": 10,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1784332800,
@@ -169,7 +78,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 11
             }
           ]
         },
@@ -267,7 +176,7 @@
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -285,7 +194,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
@@ -317,7 +226,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 48,
+          "numAttendees": 51,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -335,7 +244,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 45
+              "numEntrants": 48
             },
             {
               "name": "Arcadian Doubles",
