@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-17T02:12:27.058Z",
+  "updatedAt": "2026-07-18T02:01:55.328Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Rift | THE BREACH PRE LOCAL",
           "id": 933619,
-          "numAttendees": 22,
+          "numAttendees": 32,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784329200,
@@ -20,14 +20,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 22
+              "numEntrants": 32
             }
           ]
         },
         {
           "name": "Strike! 66",
           "id": 933283,
-          "numAttendees": 0,
+          "numAttendees": 22,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1784331000,
@@ -44,23 +44,23 @@
           ],
           "events": [
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 21
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
+              "name": "Ultimate Redemption",
+              "numEntrants": 8
             },
             {
               "name": "ROA2 Singles",
-              "numEntrants": 0
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "The W #3",
           "id": 933743,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1784332800,
@@ -103,7 +103,7 @@
           "events": [
             {
               "name": "Squad Strike",
-              "numEntrants": 75
+              "numEntrants": 77
             },
             {
               "name": "Rivals II",
@@ -111,7 +111,7 @@
             },
             {
               "name": "NASB2",
-              "numEntrants": 16
+              "numEntrants": 17
             },
             {
               "name": "Guilty Gear Strive",
@@ -147,7 +147,7 @@
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -169,7 +169,7 @@
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
