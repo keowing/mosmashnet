@@ -1,91 +1,12 @@
 {
-  "updatedAt": "2026-07-18T02:01:55.328Z",
+  "updatedAt": "2026-07-19T02:13:12.935Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Rift | THE BREACH PRE LOCAL",
-          "id": 933619,
-          "numAttendees": 32,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1784329200,
-          "slug": "tournament/rift-the-breach-pre-local-2",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/933619/image-a143c6fc4972f4ecfa302c2148511b19.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 32
-            }
-          ]
-        },
-        {
-          "name": "Strike! 66",
-          "id": 933283,
-          "numAttendees": 22,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1784331000,
-          "slug": "tournament/strike-66",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/933283/image-2c1c221d828640dc0eb8a5da7debfdb6.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/933283/image-4ce79aa9f29b0335ee2ebe283115e1b2.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 21
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
-          "name": "The W #3",
-          "id": 933743,
-          "numAttendees": 11,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1784332800,
-          "slug": "tournament/the-w-3",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/933743/image-abae2a69ee184056f0d363f26e404ac6.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/933743/image-1fbac4366fca63de53dd38c5289010bf.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
           "name": "BREACH 2026 | 256 PLAYER CAP |",
           "id": 873560,
-          "numAttendees": 184,
+          "numAttendees": 188,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1784394000,
@@ -102,8 +23,12 @@
           ],
           "events": [
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 173
+            },
+            {
               "name": "Squad Strike",
-              "numEntrants": 77
+              "numEntrants": 78
             },
             {
               "name": "Rivals II",
@@ -116,10 +41,6 @@
             {
               "name": "Guilty Gear Strive",
               "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 169
             }
           ]
         },
@@ -176,7 +97,7 @@
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -194,7 +115,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
