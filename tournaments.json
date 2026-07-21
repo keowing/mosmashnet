@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-20T03:31:03.789Z",
+  "updatedAt": "2026-07-21T02:12:04.856Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Pack Rat Infestation July 2026",
           "id": 928890,
-          "numAttendees": 3,
+          "numAttendees": 8,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1784584800,
@@ -20,14 +20,43 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 3
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "Royale with Cheese #52",
+          "id": 934999,
+          "numAttendees": 15,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1784592000,
+          "slug": "tournament/royale-with-cheese-52",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/934999/image-7ecc5c26780b900853faca45a0086e9e.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 76",
           "id": 934761,
-          "numAttendees": 7,
+          "numAttendees": 16,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1784763000,
@@ -45,7 +74,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 16
             },
             {
               "name": "Ultimate Redemption",
@@ -54,9 +83,42 @@
           ]
         },
         {
+          "name": "The Bair House #39",
+          "id": 935234,
+          "numAttendees": 2,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1784851200,
+          "slug": "tournament/the-bair-house-39",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/935234/image-8ec90e887ace244217a87b6ca7d40ddc.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/935234/image-148a82fc6c36ec50818e319ce747991a.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Melee Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 17,
+          "numAttendees": 20,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -74,18 +136,18 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 16
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -103,7 +165,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -135,7 +197,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 54,
+          "numAttendees": 55,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -153,7 +215,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 51
+              "numEntrants": 52
             },
             {
               "name": "Arcadian Doubles",
