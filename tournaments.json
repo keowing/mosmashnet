@@ -1,62 +1,12 @@
 {
-  "updatedAt": "2026-07-21T02:12:04.856Z",
+  "updatedAt": "2026-07-22T02:10:10.405Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Pack Rat Infestation July 2026",
-          "id": 928890,
-          "numAttendees": 8,
-          "city": "Warrenton",
-          "addrState": "MO",
-          "startAt": 1784584800,
-          "slug": "tournament/pack-rat-infestation-july-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/928890/image-e36449300b48a68109cfd478eec5b982.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ulitmate Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #52",
-          "id": 934999,
-          "numAttendees": 15,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1784592000,
-          "slug": "tournament/royale-with-cheese-52",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/934999/image-7ecc5c26780b900853faca45a0086e9e.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 76",
           "id": 934761,
-          "numAttendees": 16,
+          "numAttendees": 22,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1784763000,
@@ -74,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 22
             },
             {
               "name": "Ultimate Redemption",
@@ -85,7 +35,7 @@
         {
           "name": "The Bair House #39",
           "id": 935234,
-          "numAttendees": 2,
+          "numAttendees": 5,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1784851200,
@@ -103,22 +53,55 @@
           "events": [
             {
               "name": "Melee Singles",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Project+ Singles",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Strike! 68",
+          "id": 935522,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1784935800,
+          "slug": "tournament/strike-68",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/935522/image-9c76af07997c7b2b12a08dc4e67ed831.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/935522/image-6d05c667e23e3ad5d926b9b00287bccb.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 20,
+          "numAttendees": 21,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -136,7 +119,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 17
             },
             {
               "name": "HDR Singles",
@@ -219,14 +202,14 @@
             },
             {
               "name": "Arcadian Doubles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 41,
+          "numAttendees": 42,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -244,11 +227,11 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 23
+              "numEntrants": 24
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 41
+              "numEntrants": 42
             }
           ]
         }
