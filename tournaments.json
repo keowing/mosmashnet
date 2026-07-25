@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-07-24T02:12:58.384Z",
+  "updatedAt": "2026-07-25T02:12:00.343Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #39",
-          "id": 935234,
-          "numAttendees": 16,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1784851200,
-          "slug": "tournament/the-bair-house-39",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/935234/image-8ec90e887ace244217a87b6ca7d40ddc.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/935234/image-148a82fc6c36ec50818e319ce747991a.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 12
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
           "name": "Strike! 68",
           "id": 935522,
-          "numAttendees": 0,
+          "numAttendees": 10,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1784935800,
@@ -56,12 +23,12 @@
           ],
           "events": [
             {
-              "name": "Squad Strike",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 10
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
+              "name": "Squad Strike",
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Redemption",
@@ -97,7 +64,7 @@
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 28,
+          "numAttendees": 31,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -115,11 +82,44 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 27
             },
             {
               "name": "HDR Singles",
+              "numEntrants": 11
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 77",
+          "id": 936307,
+          "numAttendees": 10,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1785367800,
+          "slug": "tournament/phaze-fusion-77",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/936307/image-7263798045ef4c3c2c6f17e9a1c5bbeb.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/936307/image-4bde0e063e6afe3931410a02603093ec.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 10
+            },
+            {
+              "name": "Ultimate Doubles",
+              "numEntrants": 4
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -176,7 +176,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 60,
+          "numAttendees": 63,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -194,7 +194,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 57
+              "numEntrants": 60
             },
             {
               "name": "Arcadian Doubles",
