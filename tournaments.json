@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-07-25T02:12:00.343Z",
+  "updatedAt": "2026-07-26T02:23:09.780Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 68",
-          "id": 935522,
-          "numAttendees": 10,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1784935800,
-          "slug": "tournament/strike-68",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/935522/image-9c76af07997c7b2b12a08dc4e67ed831.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/935522/image-6d05c667e23e3ad5d926b9b00287bccb.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 3
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "Demitational #3: The Baron's Birthday Bash!",
           "id": 935654,
-          "numAttendees": 16,
+          "numAttendees": 14,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1784991600,
@@ -57,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 14
             }
           ]
         },
         {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 31,
+          "numAttendees": 36,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -82,7 +49,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 27
+              "numEntrants": 32
             },
             {
               "name": "HDR Singles",
@@ -93,7 +60,7 @@
         {
           "name": "PHAZE ➠ FUSION 77",
           "id": 936307,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1785367800,
@@ -111,7 +78,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Doubles",
@@ -176,7 +143,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 63,
+          "numAttendees": 65,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -194,7 +161,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 60
+              "numEntrants": 62
             },
             {
               "name": "Arcadian Doubles",
