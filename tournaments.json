@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-07-26T02:23:09.780Z",
+  "updatedAt": "2026-07-27T02:30:48.659Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Demitational #3: The Baron's Birthday Bash!",
-          "id": 935654,
-          "numAttendees": 14,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1784991600,
-          "slug": "tournament/demitational-3-the-baron-s-birthday-bash",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/935654/image-9aa0f93abdfa0da1fe3b4bcdeb1c390a.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/935654/image-567c5d98851f3a5e91ae0d838607b8e8.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
           "name": "Marcus Monthly #15",
           "id": 917749,
-          "numAttendees": 36,
+          "numAttendees": 38,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1785096000,
@@ -49,18 +24,18 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 32
+              "numEntrants": 31
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 11
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 77",
           "id": 936307,
-          "numAttendees": 11,
+          "numAttendees": 18,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1785367800,
@@ -78,11 +53,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 17
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 4
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
@@ -93,7 +68,7 @@
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -111,7 +86,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -143,7 +118,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 65,
+          "numAttendees": 67,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -161,11 +136,11 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 62
+              "numEntrants": 64
             },
             {
               "name": "Arcadian Doubles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
