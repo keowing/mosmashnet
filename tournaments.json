@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-07-27T02:30:48.659Z",
+  "updatedAt": "2026-07-28T02:05:54.404Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Marcus Monthly #15",
-          "id": 917749,
-          "numAttendees": 38,
-          "city": "Des Peres",
+          "name": "Royale with Cheese #53",
+          "id": 937256,
+          "numAttendees": 16,
+          "city": "Lee's Summit",
           "addrState": "MO",
-          "startAt": 1785096000,
-          "slug": "tournament/marcus-monthly-15",
+          "startAt": 1785196800,
+          "slug": "tournament/royale-with-cheese-53",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/917749/image-ed15130aeb2f359aadfed7ea982895ef.png",
+              "url": "https://images.start.gg/images/tournament/937256/image-4983d5e1d580a6e719f4b3c24a8b87e1.png",
               "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/917749/image-c9d2128b2d1c13a73a1838aecf9140fb.jpg",
-              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 31
+              "name": "Ultimate Singles",
+              "numEntrants": 15
             },
             {
-              "name": "HDR Singles",
-              "numEntrants": 15
+              "name": "Redemption Bracket",
+              "numEntrants": 7
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 77",
           "id": 936307,
-          "numAttendees": 18,
+          "numAttendees": 25,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1785367800,
@@ -53,11 +53,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 24
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Redemption",
@@ -68,7 +68,7 @@
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -86,7 +86,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
@@ -118,7 +118,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 67,
+          "numAttendees": 71,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -136,7 +136,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 64
+              "numEntrants": 68
             },
             {
               "name": "Arcadian Doubles",
