@@ -1,41 +1,36 @@
 {
-  "updatedAt": "2026-07-28T02:05:54.404Z",
+  "updatedAt": "2026-07-29T02:08:47.013Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese #53",
-          "id": 937256,
-          "numAttendees": 16,
-          "city": "Lee's Summit",
+          "name": "NYC 2026 SSBU Tournaments",
+          "id": 937612,
+          "numAttendees": 45,
+          "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1785196800,
-          "slug": "tournament/royale-with-cheese-53",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/937256/image-4983d5e1d580a6e719f4b3c24a8b87e1.png",
-              "type": "profile"
-            }
-          ],
+          "startAt": 1785250800,
+          "slug": "tournament/nyc-2026-ssbu-tournaments",
+          "images": [],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
+              "name": "SSBU High School Singles",
+              "numEntrants": 26
             },
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
+              "name": "SSBU High School",
+              "numEntrants": 26
             },
             {
-              "name": "Remix Singles",
-              "numEntrants": 4
+              "name": "SSBU Jr. High",
+              "numEntrants": 19
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 77",
           "id": 936307,
-          "numAttendees": 25,
+          "numAttendees": 35,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1785367800,
@@ -53,7 +48,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 34
             },
             {
               "name": "Ultimate Doubles",
@@ -91,6 +86,39 @@
           ]
         },
         {
+          "name": "Strike! 67",
+          "id": 937693,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1785540600,
+          "slug": "tournament/strike-67",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/937693/image-ace0bb1733c76c43966b479c5fd10188.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/937693/image-1c2af6793aa571e470db9ac6147078b5.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "ROA2 Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Living the Dream 3",
           "id": 933661,
           "numAttendees": 3,
@@ -118,7 +146,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 71,
+          "numAttendees": 72,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -136,11 +164,11 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 68
+              "numEntrants": 69
             },
             {
               "name": "Arcadian Doubles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
