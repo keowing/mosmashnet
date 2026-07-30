@@ -1,36 +1,12 @@
 {
-  "updatedAt": "2026-07-29T02:08:47.013Z",
+  "updatedAt": "2026-07-30T01:58:08.423Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "NYC 2026 SSBU Tournaments",
-          "id": 937612,
-          "numAttendees": 45,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1785250800,
-          "slug": "tournament/nyc-2026-ssbu-tournaments",
-          "images": [],
-          "events": [
-            {
-              "name": "SSBU High School Singles",
-              "numEntrants": 26
-            },
-            {
-              "name": "SSBU High School",
-              "numEntrants": 26
-            },
-            {
-              "name": "SSBU Jr. High",
-              "numEntrants": 19
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 77",
           "id": 936307,
-          "numAttendees": 35,
+          "numAttendees": 58,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1785367800,
@@ -48,11 +24,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 34
+              "numEntrants": 57
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 8
+              "numEntrants": 9
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #546",
+          "id": 938019,
+          "numAttendees": 4,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1785369600,
+          "slug": "tournament/smash-cafe-546",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/938019/image-92ef9fe715acea989a87fd014d48feb2.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/938019/image-6e4f1ece90f228bbe1d644f03c15a799.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Redemption",
@@ -63,7 +68,7 @@
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 7,
+          "numAttendees": 9,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -81,7 +86,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
@@ -146,7 +151,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 72,
+          "numAttendees": 74,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -164,7 +169,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 69
+              "numEntrants": 70
             },
             {
               "name": "Arcadian Doubles",
