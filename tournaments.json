@@ -1,74 +1,37 @@
 {
-  "updatedAt": "2026-07-30T01:58:08.423Z",
+  "updatedAt": "2026-07-31T02:23:47.130Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 77",
-          "id": 936307,
-          "numAttendees": 58,
-          "city": "Florissant",
+          "name": "The Bair House #40",
+          "id": 938232,
+          "numAttendees": 15,
+          "city": "Springfield",
           "addrState": "MO",
-          "startAt": 1785367800,
-          "slug": "tournament/phaze-fusion-77",
+          "startAt": 1785456000,
+          "slug": "tournament/the-bair-house-40",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/936307/image-7263798045ef4c3c2c6f17e9a1c5bbeb.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/938232/image-12256e83b2021e47443e18e86a20d8b5.jpg",
+              "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/936307/image-4bde0e063e6afe3931410a02603093ec.jpg",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/938232/image-5dbd17bfbc9e7bb63aaafd0cec379135.png",
+              "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 57
-            },
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #546",
-          "id": 938019,
-          "numAttendees": 4,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1785369600,
-          "slug": "tournament/smash-cafe-546",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/938019/image-92ef9fe715acea989a87fd014d48feb2.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/938019/image-6e4f1ece90f228bbe1d644f03c15a799.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 4
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 9,
+          "numAttendees": 11,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -86,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 11
             }
           ]
         },
