@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-07-31T02:23:47.130Z",
+  "updatedAt": "2026-08-01T02:24:37.809Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #40",
-          "id": 938232,
-          "numAttendees": 15,
-          "city": "Springfield",
+          "name": "1 GANG SUMMIT 2026",
+          "id": 937340,
+          "numAttendees": 20,
+          "city": "Willard",
           "addrState": "MO",
-          "startAt": 1785456000,
-          "slug": "tournament/the-bair-house-40",
+          "startAt": 1785517200,
+          "slug": "tournament/1-gang-summit-2026",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/938232/image-12256e83b2021e47443e18e86a20d8b5.jpg",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/937340/image-70dce8c5ee28866375e29fb40da28f4d.png",
+              "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/938232/image-5dbd17bfbc9e7bb63aaafd0cec379135.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/937340/image-9c588f5ddcf1745ea72e37a6e45e37e9.jpg",
+              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
+              "name": "Summit Singles",
+              "numEntrants": 20
             }
           ]
         },
         {
           "name": "Kachow Kup 34: Locking In",
           "id": 931925,
-          "numAttendees": 11,
+          "numAttendees": 15,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1785537000,
@@ -49,14 +49,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "Strike! 67",
           "id": 937693,
-          "numAttendees": 0,
+          "numAttendees": 22,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1785540600,
@@ -74,15 +74,15 @@
           "events": [
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 20
             },
             {
               "name": "ROA2 Singles",
-              "numEntrants": 0
+              "numEntrants": 6
             }
           ]
         },
@@ -114,7 +114,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 74,
+          "numAttendees": 76,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -132,11 +132,32 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 70
+              "numEntrants": 72
             },
             {
               "name": "Arcadian Doubles",
               "numEntrants": 9
+            }
+          ]
+        },
+        {
+          "name": "Pack Rat Infestation August 2026",
+          "id": 938753,
+          "numAttendees": 0,
+          "city": "Warrenton",
+          "addrState": "MO",
+          "startAt": 1786423860,
+          "slug": "tournament/pack-rat-infestation-august-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/938753/image-1e73817a6c3c93e97ad0e04ba7abee17.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ulitmate Singles",
+              "numEntrants": 0
             }
           ]
         },
@@ -168,6 +189,26 @@
               "numEntrants": 42
             }
           ]
+        },
+        {
+          "name": "Marcus Monthly #16",
+          "id": 938696,
+          "numAttendees": 0,
+          "city": "Des Peres",
+          "addrState": "MO",
+          "startAt": 1788120000,
+          "slug": "tournament/marcus-monthly-16",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/938696/image-947a2e39788b724cacef51286c228cc5.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/938696/image-44c2cfcb68738ccf836c2f338044bb41.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": []
         }
       ]
     },
