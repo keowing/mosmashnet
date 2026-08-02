@@ -1,91 +1,8 @@
 {
-  "updatedAt": "2026-08-01T02:24:37.809Z",
+  "updatedAt": "2026-08-02T02:21:49.182Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "1 GANG SUMMIT 2026",
-          "id": 937340,
-          "numAttendees": 20,
-          "city": "Willard",
-          "addrState": "MO",
-          "startAt": 1785517200,
-          "slug": "tournament/1-gang-summit-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/937340/image-70dce8c5ee28866375e29fb40da28f4d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/937340/image-9c588f5ddcf1745ea72e37a6e45e37e9.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Summit Singles",
-              "numEntrants": 20
-            }
-          ]
-        },
-        {
-          "name": "Kachow Kup 34: Locking In",
-          "id": 931925,
-          "numAttendees": 15,
-          "city": "Ste. Genevieve",
-          "addrState": "MO",
-          "startAt": 1785537000,
-          "slug": "tournament/kachow-kup-34-locking-in",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/931925/image-8c28427175aa7f835dde3bf1febb29b6.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/931925/image-668e00f5a8100d4fe75dc50d35177299.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
-            }
-          ]
-        },
-        {
-          "name": "Strike! 67",
-          "id": 937693,
-          "numAttendees": 22,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1785540600,
-          "slug": "tournament/strike-67",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/937693/image-ace0bb1733c76c43966b479c5fd10188.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/937693/image-1c2af6793aa571e470db9ac6147078b5.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
         {
           "name": "Living the Dream 3",
           "id": 933661,
@@ -114,7 +31,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 76,
+          "numAttendees": 78,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -132,11 +49,11 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 72
+              "numEntrants": 73
             },
             {
               "name": "Arcadian Doubles",
-              "numEntrants": 9
+              "numEntrants": 10
             }
           ]
         },
@@ -193,7 +110,7 @@
         {
           "name": "Marcus Monthly #16",
           "id": 938696,
-          "numAttendees": 0,
+          "numAttendees": 4,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1788120000,
@@ -208,38 +125,21 @@
               "type": "banner"
             }
           ],
-          "events": []
-        }
-      ]
-    },
-    "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Bluhawk Beatdown #4",
-          "id": 909186,
-          "numAttendees": 0,
-          "city": "Overland Park",
-          "addrState": "KS",
-          "startAt": 1785538860,
-          "slug": "tournament/bluhawk-beatdown-4",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/909186/image-cd022de84f4359ef002bdc56c1c807c7.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/909186/image-5e4d360a65d240e99c8f7456d19d2ae9.png",
-              "type": "profile"
-            }
-          ],
           "events": [
             {
-              "name": "Bluhawk Beatdown",
-              "numEntrants": 0
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 3
+            },
+            {
+              "name": "HDR Singles",
+              "numEntrants": 2
             }
           ]
         }
       ]
+    },
+    "KansasCityKS": {
+      "nodes": []
     }
   }
 }
