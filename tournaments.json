@@ -1,8 +1,37 @@
 {
-  "updatedAt": "2026-08-03T02:24:02.870Z",
+  "updatedAt": "2026-08-04T02:04:12.674Z",
   "data": {
     "Missouri": {
       "nodes": [
+        {
+          "name": "Royale with Cheese # 54",
+          "id": 939664,
+          "numAttendees": 19,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1785801600,
+          "slug": "tournament/royale-with-cheese-54",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/939664/image-e55b7ae0d215806a828d19a07758d4b6.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 19
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 7
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 2
+            }
+          ]
+        },
         {
           "name": "Living the Dream 3",
           "id": 933661,
@@ -31,7 +60,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 79,
+          "numAttendees": 80,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -49,7 +78,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 74
+              "numEntrants": 75
             },
             {
               "name": "Arcadian Doubles",
@@ -81,7 +110,7 @@
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 42,
+          "numAttendees": 41,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -99,11 +128,11 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 24
+              "numEntrants": 23
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 42
+              "numEntrants": 41
             }
           ]
         },
