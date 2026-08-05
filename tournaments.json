@@ -1,34 +1,59 @@
 {
-  "updatedAt": "2026-08-04T02:04:12.674Z",
+  "updatedAt": "2026-08-05T02:03:12.338Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese # 54",
-          "id": 939664,
-          "numAttendees": 19,
-          "city": "Lee's Summit",
+          "name": "CP&R | The Phoenix Farewell Bracket! | 8/5/26",
+          "id": 940069,
+          "numAttendees": 12,
+          "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1785801600,
-          "slug": "tournament/royale-with-cheese-54",
+          "startAt": 1785970800,
+          "slug": "tournament/cp-r-the-phoenix-farewell-bracket-8-5-26",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/939664/image-e55b7ae0d215806a828d19a07758d4b6.png",
+              "url": "https://images.start.gg/images/tournament/940069/image-26fab4c6c89a96ffa62d92155111ae20.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/940069/image-0c0328ba7f800c575fe5c771ee3bc410.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "The Phoenix Farewell Bracket",
+              "numEntrants": 11
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 10
+            }
+          ]
+        },
+        {
+          "name": "The Bair House #41",
+          "id": 940036,
+          "numAttendees": 4,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1786060800,
+          "slug": "tournament/the-bair-house-41",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/940036/image-954be01f283d208a1be1094021d56ab5.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/940036/image-b5f044520a1f7aa0aaa66cd7304f7dba.png",
               "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             }
           ]
         },
@@ -60,7 +85,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 80,
+          "numAttendees": 81,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -78,7 +103,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 75
+              "numEntrants": 76
             },
             {
               "name": "Arcadian Doubles",
@@ -89,7 +114,7 @@
         {
           "name": "Pack Rat Infestation August 2026",
           "id": 938753,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1786423860,
@@ -103,7 +128,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
