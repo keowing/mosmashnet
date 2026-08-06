@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-05T02:03:12.338Z",
+  "updatedAt": "2026-08-06T02:07:30.337Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "CP&R | The Phoenix Farewell Bracket! | 8/5/26",
           "id": 940069,
-          "numAttendees": 12,
+          "numAttendees": 29,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1785970800,
@@ -24,18 +24,63 @@
           "events": [
             {
               "name": "The Phoenix Farewell Bracket",
-              "numEntrants": 11
+              "numEntrants": 25
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 19
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #547",
+          "id": 940245,
+          "numAttendees": 13,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1785974400,
+          "slug": "tournament/smash-cafe-547",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/940245/image-4a93143fa005a101d7a7821e7370c4f5.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/940245/image-3f96d7d0686b6f001dd0358eea2f00d4.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "Fusion 314 Bracket 8/5/2026",
+          "id": 940421,
+          "numAttendees": 5,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1785981600,
+          "slug": "tournament/fusion-314-bracket-8-5-2026",
+          "images": [],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "The Bair House #41",
           "id": 940036,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1786060800,
@@ -53,7 +98,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "Strike! 69",
+          "id": 940251,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1786145400,
+          "slug": "tournament/strike-69",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/940251/image-372d4cdd78d0ef5b6f310ae5dcd8be44.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/940251/image-d90b7067092a58825f493dec62651a95.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -85,7 +163,7 @@
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 81,
+          "numAttendees": 88,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -103,18 +181,22 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 76
+              "numEntrants": 83
             },
             {
               "name": "Arcadian Doubles",
-              "numEntrants": 11
+              "numEntrants": 12
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Pack Rat Infestation August 2026",
           "id": 938753,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1786423860,
@@ -128,7 +210,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
