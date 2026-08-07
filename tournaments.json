@@ -1,86 +1,12 @@
 {
-  "updatedAt": "2026-08-06T02:07:30.337Z",
+  "updatedAt": "2026-08-07T02:26:19.062Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "CP&R | The Phoenix Farewell Bracket! | 8/5/26",
-          "id": 940069,
-          "numAttendees": 29,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1785970800,
-          "slug": "tournament/cp-r-the-phoenix-farewell-bracket-8-5-26",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/940069/image-26fab4c6c89a96ffa62d92155111ae20.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/940069/image-0c0328ba7f800c575fe5c771ee3bc410.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "The Phoenix Farewell Bracket",
-              "numEntrants": 25
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #547",
-          "id": 940245,
-          "numAttendees": 13,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1785974400,
-          "slug": "tournament/smash-cafe-547",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/940245/image-4a93143fa005a101d7a7821e7370c4f5.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/940245/image-3f96d7d0686b6f001dd0358eea2f00d4.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
-          "name": "Fusion 314 Bracket 8/5/2026",
-          "id": 940421,
-          "numAttendees": 5,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1785981600,
-          "slug": "tournament/fusion-314-bracket-8-5-2026",
-          "images": [],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "The Bair House #41",
           "id": 940036,
-          "numAttendees": 5,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1786060800,
@@ -98,31 +24,31 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Strike! 69",
-          "id": 940251,
+          "id": 940539,
           "numAttendees": 0,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1786145400,
-          "slug": "tournament/strike-69",
+          "slug": "tournament/strike-69-1",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/940251/image-372d4cdd78d0ef5b6f310ae5dcd8be44.png",
+              "url": "https://images.start.gg/images/tournament/940539/image-71f09d606111ce2e065a28423a4a8509.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/940251/image-d90b7067092a58825f493dec62651a95.png",
+              "url": "https://images.start.gg/images/tournament/940539/image-cfa841b2cb76ddef8645421bf70eb433.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Squad Strike",
+              "name": "Ultimate Redemption",
               "numEntrants": 0
             },
             {
@@ -130,7 +56,7 @@
               "numEntrants": 0
             },
             {
-              "name": "Ultimate Redemption",
+              "name": "ROA2 Singles",
               "numEntrants": 0
             }
           ]
@@ -138,7 +64,7 @@
         {
           "name": "Living the Dream 3",
           "id": 933661,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1786145400,
@@ -156,14 +82,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 88,
+          "numAttendees": 87,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -181,7 +107,7 @@
           "events": [
             {
               "name": "Arcadian Singles",
-              "numEntrants": 83
+              "numEntrants": 82
             },
             {
               "name": "Arcadian Doubles",
@@ -211,6 +137,31 @@
             {
               "name": "Ulitmate Singles",
               "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "G3  randoms 2v2v2 Bracket so we can convince taiden to run it at BEPIC",
+          "id": 940669,
+          "numAttendees": 6,
+          "city": null,
+          "addrState": "MO",
+          "startAt": 1786489200,
+          "slug": "tournament/g3-randoms-2v2v2-bracket-so-we-can-convince-taiden-to-run-it-at-bepic",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/940669/image-33534154ddc91f7d3ff79b2081a0b34b.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/940669/image-f19ca70db3639c15db8e3eec75489505.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "2v2v2 BITCH ! ! !",
+              "numEntrants": 0
             }
           ]
         },
