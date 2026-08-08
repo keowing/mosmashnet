@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-08-07T02:26:19.062Z",
+  "updatedAt": "2026-08-08T01:13:38.793Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "The Bair House #41",
-          "id": 940036,
-          "numAttendees": 9,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1786060800,
-          "slug": "tournament/the-bair-house-41",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/940036/image-954be01f283d208a1be1094021d56ab5.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/940036/image-b5f044520a1f7aa0aaa66cd7304f7dba.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
           "name": "Strike! 69",
           "id": 940539,
-          "numAttendees": 0,
+          "numAttendees": 14,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1786145400,
@@ -48,23 +23,23 @@
           ],
           "events": [
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 11
+            },
+            {
               "name": "Ultimate Redemption",
               "numEntrants": 0
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
-            },
-            {
               "name": "ROA2 Singles",
-              "numEntrants": 0
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Living the Dream 3",
           "id": 933661,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1786145400,
@@ -82,7 +57,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -120,6 +95,31 @@
           ]
         },
         {
+          "name": "G3  randoms 2v2v2 Bracket so we can convince taiden to run it at BEPIC",
+          "id": 940669,
+          "numAttendees": 8,
+          "city": null,
+          "addrState": "MO",
+          "startAt": 1786402800,
+          "slug": "tournament/g3-randoms-2v2v2-bracket-so-we-can-convince-taiden-to-run-it-at-bepic",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/940669/image-33534154ddc91f7d3ff79b2081a0b34b.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/940669/image-f19ca70db3639c15db8e3eec75489505.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "2v2v2 BITCH ! ! !",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
           "name": "Pack Rat Infestation August 2026",
           "id": 938753,
           "numAttendees": 3,
@@ -141,34 +141,9 @@
           ]
         },
         {
-          "name": "G3  randoms 2v2v2 Bracket so we can convince taiden to run it at BEPIC",
-          "id": 940669,
-          "numAttendees": 6,
-          "city": null,
-          "addrState": "MO",
-          "startAt": 1786489200,
-          "slug": "tournament/g3-randoms-2v2v2-bracket-so-we-can-convince-taiden-to-run-it-at-bepic",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/940669/image-33534154ddc91f7d3ff79b2081a0b34b.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/940669/image-f19ca70db3639c15db8e3eec75489505.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "2v2v2 BITCH ! ! !",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 41,
+          "numAttendees": 42,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -186,18 +161,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 23
+              "numEntrants": 24
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 41
+              "numEntrants": 42
             }
           ]
         },
         {
           "name": "Marcus Monthly #16",
           "id": 938696,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1788120000,
@@ -215,7 +190,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "HDR Singles",
