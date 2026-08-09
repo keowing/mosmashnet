@@ -1,70 +1,12 @@
 {
-  "updatedAt": "2026-08-08T01:13:38.793Z",
+  "updatedAt": "2026-08-09T01:18:43.245Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 69",
-          "id": 940539,
-          "numAttendees": 14,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1786145400,
-          "slug": "tournament/strike-69-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/940539/image-71f09d606111ce2e065a28423a4a8509.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/940539/image-cfa841b2cb76ddef8645421bf70eb433.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Living the Dream 3",
-          "id": 933661,
-          "numAttendees": 5,
-          "city": "Branson",
-          "addrState": "MO",
-          "startAt": 1786145400,
-          "slug": "tournament/living-the-dream-3-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/933661/image-126558c3485f69e710656381430a81ea.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/933661/image-7fabf384ee2605181b3ff0111dfeffab.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "FUSION ARCADIAN",
           "id": 910434,
-          "numAttendees": 87,
+          "numAttendees": 90,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786204800,
@@ -85,12 +27,12 @@
               "numEntrants": 82
             },
             {
-              "name": "Arcadian Doubles",
-              "numEntrants": 12
+              "name": "Redemption Bracket",
+              "numEntrants": 29
             },
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
+              "name": "Arcadian Doubles",
+              "numEntrants": 13
             }
           ]
         },
@@ -166,6 +108,31 @@
             {
               "name": "Ultimate Singles (Main event)",
               "numEntrants": 42
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup 35: Lost the Plot",
+          "id": 941017,
+          "numAttendees": 1,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1787956200,
+          "slug": "tournament/kachow-kup-35-lost-the-plot",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/941017/image-83a211d55507c393b21e31e2ecd58217.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/941017/image-731bb0c1961af6fc382698aa0f7e84dc.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
             }
           ]
         },
