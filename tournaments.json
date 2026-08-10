@@ -1,41 +1,8 @@
 {
-  "updatedAt": "2026-08-09T01:18:43.245Z",
+  "updatedAt": "2026-08-10T01:20:24.151Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "FUSION ARCADIAN",
-          "id": 910434,
-          "numAttendees": 90,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1786204800,
-          "slug": "tournament/fusion-arcadian",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/910434/image-391a6f44de9357fddc1a3106a3527e33.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/910434/image-ac5d4ea8240269e15c27638aed6c8048.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Arcadian Singles",
-              "numEntrants": 82
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 29
-            },
-            {
-              "name": "Arcadian Doubles",
-              "numEntrants": 13
-            }
-          ]
-        },
         {
           "name": "G3  randoms 2v2v2 Bracket so we can convince taiden to run it at BEPIC",
           "id": 940669,
@@ -103,7 +70,7 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 24
+              "numEntrants": 25
             },
             {
               "name": "Ultimate Singles (Main event)",
@@ -114,7 +81,7 @@
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -132,7 +99,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
