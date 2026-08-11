@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-10T01:20:24.151Z",
+  "updatedAt": "2026-08-11T01:18:24.003Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "G3  randoms 2v2v2 Bracket so we can convince taiden to run it at BEPIC",
           "id": 940669,
-          "numAttendees": 8,
+          "numAttendees": 7,
           "city": null,
           "addrState": "MO",
           "startAt": 1786402800,
@@ -29,9 +29,38 @@
           ]
         },
         {
+          "name": "Royale with Cheese #55",
+          "id": 941713,
+          "numAttendees": 26,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1786406400,
+          "slug": "tournament/royale-with-cheese-55",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/941713/image-95311300546c9eb4a499979c9504f9c0.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 25
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
           "name": "Pack Rat Infestation August 2026",
           "id": 938753,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1786423860,
@@ -45,14 +74,43 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "THE ROBERT ROYALE",
+          "id": 941863,
+          "numAttendees": 10,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1786577400,
+          "slug": "tournament/the-robert-royale",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/941863/image-8493f932cd1f672448a03622ff142b03.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/941863/image-79124a1c11935b6e3016350c267b39e5.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 10
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 42,
+          "numAttendees": 43,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -70,18 +128,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 25
+              "numEntrants": 26
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 42
+              "numEntrants": 43
             }
           ]
         },
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 2,
+          "numAttendees": 4,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -99,7 +157,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             }
           ]
         },
