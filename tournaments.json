@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-12T01:26:44.940Z",
+  "updatedAt": "2026-08-13T01:28:46.902Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "THE ROBERT ROYALE",
           "id": 941863,
-          "numAttendees": 27,
+          "numAttendees": 41,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1786577400,
@@ -24,7 +24,36 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 27
+              "numEntrants": 41
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #548",
+          "id": 942385,
+          "numAttendees": 20,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1786579200,
+          "slug": "tournament/smash-cafe-548",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/942385/image-5a7d0932b1eb1014bdcd71dd3ab437fe.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/942385/image-ac44d5997c294b8cc4c9de547fa84eb1.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 20
             },
             {
               "name": "Ultimate Redemption",
@@ -33,9 +62,67 @@
           ]
         },
         {
+          "name": "Strike! 70",
+          "id": 942525,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1786750200,
+          "slug": "tournament/strike-70",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/942525/image-44aea363365fbb9f053ffbe01623d764.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/942525/image-92dd27aed489e98ec2ad205285c58822.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "The W #4",
+          "id": 937130,
+          "numAttendees": 4,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1786752000,
+          "slug": "tournament/the-w-4",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/937130/image-ad0b265cc4d17073abfee67893af82c2.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/937130/image-26c3d153b33bfc06c5e7913001866f7f.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 40,
+          "numAttendees": 41,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -53,18 +140,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 26
+              "numEntrants": 27
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 40
+              "numEntrants": 41
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 9,
+          "numAttendees": 12,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -82,22 +169,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 4
+              "numEntrants": 6
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -115,7 +202,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 6
             }
           ]
         },
@@ -155,7 +242,7 @@
         {
           "name": "KU Smash Bros. Fall 2026 Varsity Tryouts",
           "id": 942191,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1788134400,
@@ -169,11 +256,11 @@
           "events": [
             {
               "name": "Tryouts",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "For Fun Bracket",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         }
