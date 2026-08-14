@@ -1,66 +1,8 @@
 {
-  "updatedAt": "2026-08-13T01:28:46.902Z",
+  "updatedAt": "2026-08-14T01:27:40.403Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "THE ROBERT ROYALE",
-          "id": 941863,
-          "numAttendees": 41,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1786577400,
-          "slug": "tournament/the-robert-royale",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/941863/image-8493f932cd1f672448a03622ff142b03.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/941863/image-79124a1c11935b6e3016350c267b39e5.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 41
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #548",
-          "id": 942385,
-          "numAttendees": 20,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1786579200,
-          "slug": "tournament/smash-cafe-548",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/942385/image-5a7d0932b1eb1014bdcd71dd3ab437fe.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/942385/image-ac44d5997c294b8cc4c9de547fa84eb1.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
         {
           "name": "Strike! 70",
           "id": 942525,
@@ -97,7 +39,7 @@
         {
           "name": "The W #4",
           "id": 937130,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1786752000,
@@ -115,14 +57,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 41,
+          "numAttendees": 36,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -140,18 +82,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 27
+              "numEntrants": 26
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 41
+              "numEntrants": 36
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 12,
+          "numAttendees": 13,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -169,11 +111,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Guilty Gear Strive",
@@ -232,6 +174,27 @@
             {
               "name": "HDR Singles",
               "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Pack Rat Infestation September",
+          "id": 942919,
+          "numAttendees": 0,
+          "city": "Warrenton",
+          "addrState": "MO",
+          "startAt": 1789433160,
+          "slug": "tournament/pack-rat-infestation-september",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/942919/image-2c972bae80ab45c1932e0956ca5616d3.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ulitmate Singles",
+              "numEntrants": 0
             }
           ]
         }
