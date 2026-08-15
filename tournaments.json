@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-14T01:27:40.403Z",
+  "updatedAt": "2026-08-15T00:57:47.617Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Strike! 70",
           "id": 942525,
-          "numAttendees": 0,
+          "numAttendees": 33,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1786750200,
@@ -23,12 +23,12 @@
           ],
           "events": [
             {
-              "name": "Squad Strike",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 33
             },
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
+              "name": "ROA2 Singles",
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
@@ -39,7 +39,7 @@
         {
           "name": "The W #4",
           "id": 937130,
-          "numAttendees": 6,
+          "numAttendees": 10,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1786752000,
@@ -57,7 +57,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 10
             }
           ]
         },
@@ -93,7 +93,7 @@
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 13,
+          "numAttendees": 14,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -111,7 +111,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Avatar Legends: The Fighting Game",
@@ -119,7 +119,7 @@
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
