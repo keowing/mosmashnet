@@ -1,63 +1,30 @@
 {
-  "updatedAt": "2026-08-15T00:57:47.617Z",
+  "updatedAt": "2026-08-16T01:00:53.371Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 70",
-          "id": 942525,
-          "numAttendees": 33,
-          "city": "Kansas City",
+          "name": "SLCL Learn to Read #11",
+          "id": 943078,
+          "numAttendees": 28,
+          "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1786750200,
-          "slug": "tournament/strike-70",
+          "startAt": 1786813200,
+          "slug": "tournament/slcl-learn-to-read-11",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/942525/image-44aea363365fbb9f053ffbe01623d764.png",
+              "url": "https://images.start.gg/images/tournament/943078/image-23228363485cf8ccd30883be62d00513.png",
               "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/942525/image-92dd27aed489e98ec2ad205285c58822.png",
-              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 33
+              "name": "Learn to Read 10 Singles",
+              "numEntrants": 23
             },
             {
-              "name": "ROA2 Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "The W #4",
-          "id": 937130,
-          "numAttendees": 10,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1786752000,
-          "slug": "tournament/the-w-4",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/937130/image-ad0b265cc4d17073abfee67893af82c2.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/937130/image-26c3d153b33bfc06c5e7913001866f7f.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
+              "name": "High Dynamic Range Singles",
+              "numEntrants": 9
             }
           ]
         },
@@ -126,7 +93,7 @@
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -144,7 +111,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
