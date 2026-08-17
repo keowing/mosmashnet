@@ -1,37 +1,12 @@
 {
-  "updatedAt": "2026-08-16T01:00:53.371Z",
+  "updatedAt": "2026-08-17T00:58:38.013Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "SLCL Learn to Read #11",
-          "id": 943078,
-          "numAttendees": 28,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1786813200,
-          "slug": "tournament/slcl-learn-to-read-11",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/943078/image-23228363485cf8ccd30883be62d00513.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Learn to Read 10 Singles",
-              "numEntrants": 23
-            },
-            {
-              "name": "High Dynamic Range Singles",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 36,
+          "numAttendees": 34,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -53,14 +28,14 @@
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 36
+              "numEntrants": 34
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 14,
+          "numAttendees": 16,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -78,11 +53,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Guilty Gear Strive",
