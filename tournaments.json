@@ -1,8 +1,70 @@
 {
-  "updatedAt": "2026-08-17T00:58:38.013Z",
+  "updatedAt": "2026-08-18T00:57:10.983Z",
   "data": {
     "Missouri": {
       "nodes": [
+        {
+          "name": "Royale with Cheese #56",
+          "id": 943811,
+          "numAttendees": 23,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1787011200,
+          "slug": "tournament/royale-with-cheese-56",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/943811/image-64a4692e8ea62c52ef688e1cfe4e4571.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 21
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "POSTPONED UNTIL 8/26",
+          "id": 943614,
+          "numAttendees": 1,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1787182200,
+          "slug": "tournament/postponed-until-8-26",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/943614/image-38822d82ecc4b5104622cb456c0b8c21.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/943614/image-38cdeb485b55700428513efe430206db.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Brawl Minus",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
@@ -35,7 +97,7 @@
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 16,
+          "numAttendees": 18,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -53,22 +115,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -86,7 +148,32 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "Living The Dream 4",
+          "id": 943904,
+          "numAttendees": 2,
+          "city": "Branson",
+          "addrState": "MO",
+          "startAt": 1788114600,
+          "slug": "tournament/living-the-dream-4-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/943904/image-0c683e1933662d445b47084e395abb1c.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/943904/image-eed149c5828fe67a46c05887415d9f0e.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
             }
           ]
         },
@@ -147,7 +234,7 @@
         {
           "name": "KU Smash Bros. Fall 2026 Varsity Tryouts",
           "id": 942191,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1788134400,
@@ -161,11 +248,11 @@
           "events": [
             {
               "name": "Tryouts",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "For Fun Bracket",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         }
