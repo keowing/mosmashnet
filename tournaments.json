@@ -1,37 +1,8 @@
 {
-  "updatedAt": "2026-08-18T00:57:10.983Z",
+  "updatedAt": "2026-08-19T00:57:59.948Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Royale with Cheese #56",
-          "id": 943811,
-          "numAttendees": 23,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1787011200,
-          "slug": "tournament/royale-with-cheese-56",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/943811/image-64a4692e8ea62c52ef688e1cfe4e4571.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 21
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            }
-          ]
-        },
         {
           "name": "POSTPONED UNTIL 8/26",
           "id": 943614,
@@ -66,9 +37,42 @@
           ]
         },
         {
+          "name": "Strike! 71",
+          "id": 944331,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1787355000,
+          "slug": "tournament/strike-71",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/944331/image-0ee345f9205db01cb07691adfb2a23ce.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/944331/image-116c5bcb39f735c58f78ae7a8585d925.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 34,
+          "numAttendees": 35,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -86,18 +90,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 26
+              "numEntrants": 25
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 34
+              "numEntrants": 35
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 18,
+          "numAttendees": 21,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -115,15 +119,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 13
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
@@ -155,7 +159,7 @@
         {
           "name": "Living The Dream 4",
           "id": 943904,
-          "numAttendees": 2,
+          "numAttendees": 4,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1788114600,
@@ -173,7 +177,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             }
           ]
         },
