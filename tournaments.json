@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T00:57:59.948Z",
+  "updatedAt": "2026-08-20T00:57:18.109Z",
   "data": {
     "Missouri": {
       "nodes": [
@@ -29,6 +29,35 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #549",
+          "id": 944520,
+          "numAttendees": 14,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1787184000,
+          "slug": "tournament/smash-cafe-549",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/944520/image-c60dacaad256e319c811bcd957ce123a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/944520/image-4838189256fe4b6e130f803b05e6a2ce.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 14
             },
             {
               "name": "Ultimate Redemption",
@@ -70,9 +99,34 @@
           ]
         },
         {
+          "name": "The W #5",
+          "id": 944674,
+          "numAttendees": 5,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1787356800,
+          "slug": "tournament/the-w-5",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/944674/image-881d87b80b1e2b6e637b16fd15dde806.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/944674/image-a80489d1ca856606a6d415dd1a6e3ae9.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 35,
+          "numAttendees": 34,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -90,18 +144,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 25
+              "numEntrants": 24
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 35
+              "numEntrants": 34
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 21,
+          "numAttendees": 22,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -127,7 +181,7 @@
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 7
+              "numEntrants": 8
             }
           ]
         },
@@ -159,7 +213,7 @@
         {
           "name": "Living The Dream 4",
           "id": 943904,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1788114600,
@@ -177,7 +231,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
