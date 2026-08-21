@@ -1,67 +1,30 @@
 {
-  "updatedAt": "2026-08-20T00:57:18.109Z",
+  "updatedAt": "2026-08-21T01:00:47.944Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "POSTPONED UNTIL 8/26",
-          "id": 943614,
-          "numAttendees": 1,
-          "city": "Florissant",
+          "name": "The Bair House #42",
+          "id": 944980,
+          "numAttendees": 11,
+          "city": "Springfield",
           "addrState": "MO",
-          "startAt": 1787182200,
-          "slug": "tournament/postponed-until-8-26",
+          "startAt": 1787270400,
+          "slug": "tournament/the-bair-house-42",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/943614/image-38822d82ecc4b5104622cb456c0b8c21.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/944980/image-bd35e8bb3b6269ba870e9fe0ec4889c1.jpg",
+              "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/943614/image-38cdeb485b55700428513efe430206db.jpg",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/944980/image-b8cdafd68c51628bc58500e7b0dacd07.png",
+              "type": "profile"
             }
           ],
           "events": [
-            {
-              "name": "Brawl Minus",
-              "numEntrants": 1
-            },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #549",
-          "id": 944520,
-          "numAttendees": 14,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1787184000,
-          "slug": "tournament/smash-cafe-549",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/944520/image-c60dacaad256e319c811bcd957ce123a.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/944520/image-4838189256fe4b6e130f803b05e6a2ce.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 14
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 11
             }
           ]
         },
@@ -101,7 +64,7 @@
         {
           "name": "The W #5",
           "id": 944674,
-          "numAttendees": 5,
+          "numAttendees": 7,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1787356800,
@@ -119,14 +82,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 34,
+          "numAttendees": 35,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -144,18 +107,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 24
+              "numEntrants": 26
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 34
+              "numEntrants": 35
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 22,
+          "numAttendees": 24,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -173,7 +136,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 15
             },
             {
               "name": "Avatar Legends: The Fighting Game",
@@ -188,7 +151,7 @@
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -206,7 +169,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             }
           ]
         },
@@ -284,6 +247,47 @@
               "numEntrants": 0
             }
           ]
+        },
+        {
+          "name": "MAD Monthly September 2026",
+          "id": 945068,
+          "numAttendees": 3,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1789794000,
+          "slug": "tournament/mad-monthly-september-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/945068/image-29484ac11b81d9611e077da8c6d5e7a8.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/945068/image-800cec480337be183c8d440c09636502.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Pokemon TCG Expanded Format",
+              "numEntrants": 3
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "HDR @ MAD",
+              "numEntrants": 0
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
         }
       ]
     },
@@ -292,7 +296,7 @@
         {
           "name": "KU Smash Bros. Fall 2026 Varsity Tryouts",
           "id": 942191,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1788134400,
@@ -310,7 +314,7 @@
             },
             {
               "name": "For Fun Bracket",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         }
