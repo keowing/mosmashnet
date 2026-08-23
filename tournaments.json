@@ -1,70 +1,12 @@
 {
-  "updatedAt": "2026-08-22T00:57:21.035Z",
+  "updatedAt": "2026-08-23T01:02:12.409Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 71",
-          "id": 944331,
-          "numAttendees": 42,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1787355000,
-          "slug": "tournament/strike-71",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/944331/image-0ee345f9205db01cb07691adfb2a23ce.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/944331/image-116c5bcb39f735c58f78ae7a8585d925.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Squad Strike",
-              "numEntrants": 13
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 42
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 1
-            }
-          ]
-        },
-        {
-          "name": "The W #5",
-          "id": 944674,
-          "numAttendees": 7,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1787356800,
-          "slug": "tournament/the-w-5",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/944674/image-881d87b80b1e2b6e637b16fd15dde806.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/944674/image-a80489d1ca856606a6d415dd1a6e3ae9.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 35,
+          "numAttendees": 36,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -82,18 +24,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 26
+              "numEntrants": 27
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 35
+              "numEntrants": 36
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 27,
+          "numAttendees": 36,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -111,15 +53,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 23
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 11
+              "numEntrants": 15
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 8
+              "numEntrants": 11
             }
           ]
         },
