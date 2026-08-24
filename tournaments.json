@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-23T01:02:12.409Z",
+  "updatedAt": "2026-08-24T00:59:59.321Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
           "id": 932814,
-          "numAttendees": 36,
+          "numAttendees": 39,
           "city": "Cape Girardeau",
           "addrState": "MO",
           "startAt": 1787515200,
@@ -24,18 +24,18 @@
           "events": [
             {
               "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 27
+              "numEntrants": 22
             },
             {
               "name": "Ultimate Singles (Main event)",
-              "numEntrants": 36
+              "numEntrants": 38
             }
           ]
         },
         {
           "name": "Smash @ Mizzou: Welcome Week Edition!!",
           "id": 942210,
-          "numAttendees": 36,
+          "numAttendees": 45,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1787526000,
@@ -53,11 +53,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 23
+              "numEntrants": 33
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 15
+              "numEntrants": 14
             },
             {
               "name": "Guilty Gear Strive",
@@ -68,7 +68,7 @@
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -86,7 +86,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             }
           ]
         },
@@ -168,7 +168,7 @@
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -186,7 +186,7 @@
           "events": [
             {
               "name": "Pokemon TCG Expanded Format",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Redemption Bracket",
@@ -202,7 +202,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         }
@@ -213,7 +213,7 @@
         {
           "name": "KU Smash Bros. Fall 2026 Varsity Tryouts",
           "id": 942191,
-          "numAttendees": 8,
+          "numAttendees": 10,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1788134400,
@@ -227,11 +227,11 @@
           "events": [
             {
               "name": "Tryouts",
-              "numEntrants": 7
+              "numEntrants": 9
             },
             {
               "name": "For Fun Bracket",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         }
