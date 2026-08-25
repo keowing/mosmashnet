@@ -1,67 +1,100 @@
 {
-  "updatedAt": "2026-08-24T00:59:59.321Z",
+  "updatedAt": "2026-08-25T00:59:25.787Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "★PUBSTOMP #4 FOR REAL THIS TIME★",
-          "id": 932814,
-          "numAttendees": 39,
-          "city": "Cape Girardeau",
+          "name": "Royale with Cheese #57",
+          "id": 946165,
+          "numAttendees": 16,
+          "city": "Lee's Summit",
           "addrState": "MO",
-          "startAt": 1787515200,
-          "slug": "tournament/pubstomp-4-for-real-this-time",
+          "startAt": 1787616000,
+          "slug": "tournament/royale-with-cheese-57",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/932814/image-843a3a6e057a5832858d145a235b9a82.jpg",
+              "url": "https://images.start.gg/images/tournament/946165/image-ae5a7314e4f122c5ac50fedc3cb6b4fd.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 15
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 3
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
+          "name": "Gold Rush #88",
+          "id": 945849,
+          "numAttendees": 29,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1787616000,
+          "slug": "tournament/gold-rush-88",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/945849/image-284e357b938b1c9a55299103fcdb06da.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/932814/image-b3f2b3a71e9123cff43df5e262dd0d78.jpg",
+              "url": "https://images.start.gg/images/tournament/945849/image-36b52081fb0866c6e95ed1cd4ce81aa0.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Squad Strike (FREE Side Event)",
-              "numEntrants": 22
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 24
             },
             {
-              "name": "Ultimate Singles (Main event)",
-              "numEntrants": 38
+              "name": "Street Fighter 6",
+              "numEntrants": 6
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 12
             }
           ]
         },
         {
-          "name": "Smash @ Mizzou: Welcome Week Edition!!",
-          "id": 942210,
-          "numAttendees": 45,
-          "city": "Columbia",
+          "name": "PHAZE ➠ FUSION 79 (JPLANE BASH)",
+          "id": 946339,
+          "numAttendees": 7,
+          "city": "Florissant",
           "addrState": "MO",
-          "startAt": 1787526000,
-          "slug": "tournament/smash-mizzou-welcome-week-edition",
+          "startAt": 1787787000,
+          "slug": "tournament/phaze-fusion-79-jplane-bash",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/942210/image-684be9b646173649b398daa83ae745bf.png",
+              "url": "https://images.start.gg/images/tournament/946339/image-f3856874d92f318519d48d1449d885c9.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/942210/image-9554eab65c7178d21c323697447b0834.png",
+              "url": "https://images.start.gg/images/tournament/946339/image-e6894041aa2198d48818ed2f533ac616.jpg",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 33
+              "numEntrants": 6
             },
             {
-              "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 14
+              "name": "TEKKEN 8",
+              "numEntrants": 1
             },
             {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 11
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -118,7 +151,7 @@
         {
           "name": "Marcus Monthly #16",
           "id": 938696,
-          "numAttendees": 6,
+          "numAttendees": 11,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1788120000,
@@ -136,7 +169,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 10
             },
             {
               "name": "HDR Singles",
@@ -232,6 +265,39 @@
             {
               "name": "For Fun Bracket",
               "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
+          "id": 946337,
+          "numAttendees": 0,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1789833600,
+          "slug": "tournament/wheak-hit-3-150-pot-bonus",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/946337/image-bd4dfb426e6d209fffe66c09d3bd6bd7.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/946337/image-98eea5b620a9e46aacbc94b2e674031e.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Doubles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles ($150 Pot Bonus!!!)",
+              "numEntrants": 0
             }
           ]
         }
