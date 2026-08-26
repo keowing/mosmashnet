@@ -1,74 +1,45 @@
 {
-  "updatedAt": "2026-08-25T00:59:25.787Z",
+  "updatedAt": "2026-08-26T01:00:54.422Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese #57",
-          "id": 946165,
-          "numAttendees": 16,
-          "city": "Lee's Summit",
+          "name": "Smash @ Mizzou 186",
+          "id": 946211,
+          "numAttendees": 39,
+          "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1787616000,
-          "slug": "tournament/royale-with-cheese-57",
+          "startAt": 1787698800,
+          "slug": "tournament/smash-mizzou-186",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/946165/image-ae5a7314e4f122c5ac50fedc3cb6b4fd.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 3
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 1
-            }
-          ]
-        },
-        {
-          "name": "Gold Rush #88",
-          "id": 945849,
-          "numAttendees": 29,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1787616000,
-          "slug": "tournament/gold-rush-88",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/945849/image-284e357b938b1c9a55299103fcdb06da.png",
+              "url": "https://images.start.gg/images/tournament/946211/image-484df0babcf729526085629b224bd212.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/945849/image-36b52081fb0866c6e95ed1cd4ce81aa0.png",
+              "url": "https://images.start.gg/images/tournament/946211/image-10a2ef690d4afb0656e820e3e3fd44e1.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 24
+              "name": "Ultimate Singles",
+              "numEntrants": 23
             },
             {
-              "name": "Street Fighter 6",
-              "numEntrants": 6
+              "name": "Avatar Legends: The Fighting Game",
+              "numEntrants": 16
             },
             {
-              "name": "Project+ Singles",
-              "numEntrants": 12
+              "name": "VSAV",
+              "numEntrants": 13
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 79 (JPLANE BASH)",
           "id": 946339,
-          "numAttendees": 7,
+          "numAttendees": 16,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1787787000,
@@ -86,11 +57,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 15
             },
             {
               "name": "TEKKEN 8",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
@@ -124,6 +95,31 @@
           ]
         },
         {
+          "name": "The W #6",
+          "id": 946427,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1787961600,
+          "slug": "tournament/the-w-6",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/946427/image-f140d3980ddf603a293d833b8dbb5616.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/946427/image-cfccd869764ce688739f2e250414a749.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
           "name": "Living The Dream 4",
           "id": 943904,
           "numAttendees": 5,
@@ -151,7 +147,7 @@
         {
           "name": "Marcus Monthly #16",
           "id": 938696,
-          "numAttendees": 11,
+          "numAttendees": 13,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1788120000,
@@ -169,11 +165,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 12
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
@@ -271,7 +267,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 0,
+          "numAttendees": 7,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -289,7 +285,7 @@
           "events": [
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Redemption",
@@ -297,7 +293,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 0
+              "numEntrants": 7
             }
           ]
         }
