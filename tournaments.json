@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-28T08:44:46.718Z",
+  "updatedAt": "2026-08-29T05:21:57.300Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Kachow Kup 35: Lost the Plot",
           "id": 941017,
-          "numAttendees": 13,
+          "numAttendees": 16,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1787956200,
@@ -24,14 +24,80 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "Smash Casuals #61",
+          "id": 947151,
+          "numAttendees": 17,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1787959800,
+          "slug": "tournament/smash-casuals-61",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/947151/image-0a031d74f1357782fd2b45c8fea9e035.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/947151/image-a34b1f25f919c274fb19f066e06f845c.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "GIGA SMASH",
+              "numEntrants": 1
+            },
+            {
+              "name": "Smash 4 Doubles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 15
+            }
+          ]
+        },
+        {
+          "name": "Strike! 72",
+          "id": 946950,
+          "numAttendees": 22,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1787959800,
+          "slug": "tournament/strike-72",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/946950/image-65bb947238682a993cf923b90ad8d614.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/946950/image-0676f99d39c32a1f03065758c26364fe.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "ROA2 Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 21
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "The W #6",
           "id": 946427,
-          "numAttendees": 9,
+          "numAttendees": 11,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1787961600,
@@ -49,7 +115,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 11
             }
           ]
         },
@@ -81,7 +147,7 @@
         {
           "name": "Marcus Monthly #16",
           "id": 938696,
-          "numAttendees": 16,
+          "numAttendees": 19,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1788120000,
@@ -99,51 +165,18 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 17
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
-          "name": "Strike! 72",
-          "id": 946950,
-          "numAttendees": 0,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1788564600,
-          "slug": "tournament/strike-72",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/946950/image-65bb947238682a993cf923b90ad8d614.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/946950/image-0676f99d39c32a1f03065758c26364fe.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 0
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 7
             }
           ]
         },
         {
           "name": "Pack Rat Infestation September",
           "id": 942919,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1789433160,
@@ -157,14 +190,14 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -194,11 +227,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         }
@@ -234,7 +267,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 10,
+          "numAttendees": 12,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -252,7 +285,7 @@
           "events": [
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
@@ -260,7 +293,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 10
+              "numEntrants": 11
             }
           ]
         }
