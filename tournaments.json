@@ -1,124 +1,8 @@
 {
-  "updatedAt": "2026-08-29T05:21:57.300Z",
+  "updatedAt": "2026-08-30T03:16:58.154Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Kachow Kup 35: Lost the Plot",
-          "id": 941017,
-          "numAttendees": 16,
-          "city": "Ste. Genevieve",
-          "addrState": "MO",
-          "startAt": 1787956200,
-          "slug": "tournament/kachow-kup-35-lost-the-plot",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/941017/image-83a211d55507c393b21e31e2ecd58217.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/941017/image-731bb0c1961af6fc382698aa0f7e84dc.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
-          "name": "Smash Casuals #61",
-          "id": 947151,
-          "numAttendees": 17,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1787959800,
-          "slug": "tournament/smash-casuals-61",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/947151/image-0a031d74f1357782fd2b45c8fea9e035.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/947151/image-a34b1f25f919c274fb19f066e06f845c.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "GIGA SMASH",
-              "numEntrants": 1
-            },
-            {
-              "name": "Smash 4 Doubles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
-            }
-          ]
-        },
-        {
-          "name": "Strike! 72",
-          "id": 946950,
-          "numAttendees": 22,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1787959800,
-          "slug": "tournament/strike-72",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/946950/image-65bb947238682a993cf923b90ad8d614.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/946950/image-0676f99d39c32a1f03065758c26364fe.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 1
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 21
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "The W #6",
-          "id": 946427,
-          "numAttendees": 11,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1787961600,
-          "slug": "tournament/the-w-6",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/946427/image-f140d3980ddf603a293d833b8dbb5616.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/946427/image-cfccd869764ce688739f2e250414a749.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
         {
           "name": "Living The Dream 4",
           "id": 943904,
@@ -174,6 +58,35 @@
           ]
         },
         {
+          "name": "Royale with Cheese #58",
+          "id": 947830,
+          "numAttendees": 1,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1788220800,
+          "slug": "tournament/royale-with-cheese-58",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/947830/image-e71bd959fe812df1ece3e9af3bab22ba.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Pack Rat Infestation September",
           "id": 942919,
           "numAttendees": 1,
@@ -197,7 +110,7 @@
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -227,11 +140,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         }
@@ -267,7 +180,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 12,
+          "numAttendees": 13,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -293,7 +206,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 11
+              "numEntrants": 12
             }
           ]
         }
