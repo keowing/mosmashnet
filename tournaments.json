@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-30T03:16:58.154Z",
+  "updatedAt": "2026-08-31T03:12:07.021Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Living The Dream 4",
           "id": 943904,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1788114600,
@@ -24,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "Marcus Monthly #16",
           "id": 938696,
-          "numAttendees": 19,
+          "numAttendees": 24,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1788120000,
@@ -49,18 +49,18 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 20
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Royale with Cheese #58",
           "id": 947830,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Lee's Summit",
           "addrState": "MO",
           "startAt": 1788220800,
@@ -74,7 +74,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Redemption Bracket",
@@ -89,7 +89,7 @@
         {
           "name": "Pack Rat Infestation September",
           "id": 942919,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1789433160,
@@ -103,7 +103,32 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Deino's Den 1",
+          "id": 948225,
+          "numAttendees": 3,
+          "city": "Bonne Terre",
+          "addrState": "MO",
+          "startAt": 1789509600,
+          "slug": "tournament/deino-s-den-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/948225/image-38b1e6fa30392254f9c5505b26953d7e.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/948225/image-309b5d1ff9256b3143ff86e701d32d2d.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
             }
           ]
         },
@@ -155,7 +180,7 @@
         {
           "name": "KU Smash Bros. Fall 2026 Varsity Tryouts",
           "id": 942191,
-          "numAttendees": 10,
+          "numAttendees": 14,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1788134400,
@@ -169,11 +194,11 @@
           "events": [
             {
               "name": "Tryouts",
-              "numEntrants": 9
+              "numEntrants": 13
             },
             {
               "name": "For Fun Bracket",
-              "numEntrants": 6
+              "numEntrants": 7
             }
           ]
         },
