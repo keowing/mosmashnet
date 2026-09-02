@@ -1,94 +1,12 @@
 {
-  "updatedAt": "2026-09-01T03:16:07.329Z",
+  "updatedAt": "2026-09-02T02:34:24.283Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Smash @ Mizzou 187",
-          "id": 948383,
-          "numAttendees": null,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1788217200,
-          "slug": "tournament/smash-mizzou-187",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948383/image-0e35d638db0aa5dc01c6d07d9870e10e.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/948383/image-e790c1dae21009dfe2518a82110eb1d1.png",
-              "type": "banner"
-            }
-          ],
-          "events": []
-        },
-        {
-          "name": "Gold Rush #89",
-          "id": 948357,
-          "numAttendees": 19,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1788220800,
-          "slug": "tournament/gold-rush-89",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948357/image-01fe2dc94e996e435080bd0ad7c0ec75.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/948357/image-7eff06547bc2d4fa491d5a2b8a0579e1.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 13
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #58",
-          "id": 947830,
-          "numAttendees": 25,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1788220800,
-          "slug": "tournament/royale-with-cheese-58",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/947830/image-e71bd959fe812df1ece3e9af3bab22ba.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 23
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 13
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 187",
           "id": 948386,
-          "numAttendees": 17,
+          "numAttendees": 47,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1788303600,
@@ -106,26 +24,26 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 5
+              "numEntrants": 33
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 5
+              "numEntrants": 10
+            },
+            {
+              "name": "Guilty Gear Strive",
+              "numEntrants": 11
             },
             {
               "name": "Uni 2",
-              "numEntrants": 3
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 80",
           "id": 948395,
-          "numAttendees": 10,
+          "numAttendees": 17,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1788391800,
@@ -143,11 +61,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 17
             },
             {
               "name": "Brawl Minus",
-              "numEntrants": 3
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Redemption",
@@ -158,7 +76,7 @@
         {
           "name": "URSA MINOR 84",
           "id": 948721,
-          "numAttendees": 9,
+          "numAttendees": 11,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1788480000,
@@ -176,7 +94,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 11
+            }
+          ]
+        },
+        {
+          "name": "Strike! 73",
+          "id": 949104,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1788564600,
+          "slug": "tournament/strike-73",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/949104/image-146e07da556d70563054752e71d1f78a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/949104/image-73e7142bdf147c04c6fa88d1b44a5dd8.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "🦑",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -204,7 +155,7 @@
         {
           "name": "Deino's Den 1",
           "id": 948225,
-          "numAttendees": 5,
+          "numAttendees": 7,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1789509600,
@@ -222,7 +173,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 7
             }
           ]
         },
