@@ -1,74 +1,28 @@
 {
-  "updatedAt": "2026-09-03T02:41:15.262Z",
+  "updatedAt": "2026-09-04T02:38:10.593Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 80",
-          "id": 948395,
-          "numAttendees": 29,
-          "city": "Florissant",
+          "name": "EMS Smash solo 2028",
+          "id": 949784,
+          "numAttendees": 14,
+          "city": "Joplin",
           "addrState": "MO",
-          "startAt": 1788391800,
-          "slug": "tournament/phaze-fusion-80",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948395/image-43589692cdce1eb985905e30fa34e36c.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/948395/image-a22e63d2fafd39f08c8c862c8dcf1461.jpg",
-              "type": "banner"
-            }
-          ],
+          "startAt": 1788469200,
+          "slug": "tournament/ems-smash-solo-2028",
+          "images": [],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 28
-            },
-            {
-              "name": "Brawl Minus",
-              "numEntrants": 8
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #551",
-          "id": 949407,
-          "numAttendees": 6,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1788393600,
-          "slug": "tournament/smash-cafe-551",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/949407/image-c90f1b6865ee14c58d9ff9aa8a458421.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/949407/image-3579b85cdf98edb2f0fde4bdefa565c4.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 2
-            },
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 6
+              "name": "Tryouts 2027",
+              "numEntrants": 14
             }
           ]
         },
         {
           "name": "URSA MINOR 84",
           "id": 948721,
-          "numAttendees": 11,
+          "numAttendees": 15,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1788480000,
@@ -86,14 +40,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "Strike! 73",
           "id": 949104,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1788564600,
@@ -111,14 +65,55 @@
           "events": [
             {
               "name": "🦑",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash @ Mizzou 188",
+          "id": 948385,
+          "numAttendees": 4,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1788910260,
+          "slug": "tournament/smash-mizzou-188",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/948385/image-2e51e91dce40fe08519eff3ac74441cc.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/948385/image-a4a751b429ba8986c6304d730aabb016.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 1
+            },
+            {
+              "name": "P+",
+              "numEntrants": 2
+            },
+            {
+              "name": "Avatar Legends",
+              "numEntrants": 0
+            },
+            {
+              "name": "MBAACC",
               "numEntrants": 0
             }
           ]
@@ -147,7 +142,7 @@
         {
           "name": "Deino's Den 1",
           "id": 948225,
-          "numAttendees": 12,
+          "numAttendees": 15,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1789509600,
@@ -165,7 +160,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 15
             }
           ]
         },
@@ -267,7 +262,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 14,
+          "numAttendees": 16,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -293,7 +288,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 13
+              "numEntrants": 15
             }
           ]
         }
