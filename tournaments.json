@@ -1,53 +1,12 @@
 {
-  "updatedAt": "2026-09-04T02:38:10.593Z",
+  "updatedAt": "2026-09-05T02:39:22.634Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "EMS Smash solo 2028",
-          "id": 949784,
-          "numAttendees": 14,
-          "city": "Joplin",
-          "addrState": "MO",
-          "startAt": 1788469200,
-          "slug": "tournament/ems-smash-solo-2028",
-          "images": [],
-          "events": [
-            {
-              "name": "Tryouts 2027",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
-          "name": "URSA MINOR 84",
-          "id": 948721,
-          "numAttendees": 15,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1788480000,
-          "slug": "tournament/ursa-minor-84",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948721/image-8b2a981171b922fa24f474481223c3f2.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/948721/image-426c35727778f9848ff1f6a62e4b2c2f.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 15
-            }
-          ]
-        },
-        {
           "name": "Strike! 73",
           "id": 949104,
-          "numAttendees": 1,
+          "numAttendees": 11,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1788564600,
@@ -64,23 +23,27 @@
           ],
           "events": [
             {
-              "name": "🦑",
-              "numEntrants": 1
-            },
-            {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 7
+            },
+            {
+              "name": "Rivals 2 Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "🦑",
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 188",
           "id": 948385,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1788910260,
@@ -98,15 +61,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "P+",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Avatar Legends",
@@ -167,7 +130,7 @@
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -201,7 +164,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             }
           ]
         },
