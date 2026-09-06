@@ -1,49 +1,37 @@
 {
-  "updatedAt": "2026-09-05T02:39:22.634Z",
+  "updatedAt": "2026-09-06T02:36:40.524Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 73",
-          "id": 949104,
-          "numAttendees": 11,
-          "city": "Kansas City",
+          "name": "SLCL Learn to Read #12",
+          "id": 950167,
+          "numAttendees": 28,
+          "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1788564600,
-          "slug": "tournament/strike-73",
+          "startAt": 1788627600,
+          "slug": "tournament/slcl-learn-to-read-12",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/949104/image-146e07da556d70563054752e71d1f78a.png",
+              "url": "https://images.start.gg/images/tournament/950167/image-c11eb7c8efa10e5ee7899dba019e814b.png",
               "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/949104/image-73e7142bdf147c04c6fa88d1b44a5dd8.png",
-              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Redemption",
+              "name": "High Dynamic Range Singles",
               "numEntrants": 7
             },
             {
-              "name": "Rivals 2 Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "🦑",
-              "numEntrants": 3
+              "name": "Learn to Read 10 Singles",
+              "numEntrants": 22
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 188",
           "id": 948385,
-          "numAttendees": 5,
+          "numAttendees": 13,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1788910260,
@@ -61,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 12
             },
             {
               "name": "Redemption Bracket",
@@ -69,7 +57,7 @@
             },
             {
               "name": "P+",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Avatar Legends",
@@ -200,7 +188,7 @@
         {
           "name": "Rock Chalk Jab Lock 201",
           "id": 948600,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1788739200,
@@ -218,14 +206,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 14
             }
           ]
         },
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 16,
+          "numAttendees": 18,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -243,7 +231,7 @@
           "events": [
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Redemption",
@@ -251,7 +239,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 15
+              "numEntrants": 17
             }
           ]
         }
