@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-09-06T02:36:40.524Z",
+  "updatedAt": "2026-09-07T02:34:22.889Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "SLCL Learn to Read #12",
-          "id": 950167,
-          "numAttendees": 28,
+          "name": "MU Invitational Tryouts!",
+          "id": 950544,
+          "numAttendees": 9,
           "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1788627600,
-          "slug": "tournament/slcl-learn-to-read-12",
+          "startAt": 1788908400,
+          "slug": "tournament/mu-invitational-tryouts",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/950167/image-c11eb7c8efa10e5ee7899dba019e814b.png",
+              "url": "https://images.start.gg/images/tournament/950544/image-fcf35d27d4926b82e4eff4614831b5db.png",
               "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/950544/image-6a404ec0611d02e300c04d4d48d1664a.jpg",
+              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "High Dynamic Range Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Learn to Read 10 Singles",
-              "numEntrants": 22
+              "name": "Freaky Super Smash Bros. Ultimate Singles",
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 188",
           "id": 948385,
-          "numAttendees": 13,
+          "numAttendees": 24,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1788910260,
@@ -49,22 +49,51 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 21
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 3
+              "numEntrants": 6
             },
             {
               "name": "P+",
+              "numEntrants": 7
+            },
+            {
+              "name": "MBAACC",
               "numEntrants": 4
             },
             {
               "name": "Avatar Legends",
-              "numEntrants": 0
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 81",
+          "id": 950570,
+          "numAttendees": 6,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1788996600,
+          "slug": "tournament/phaze-fusion-81",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/950570/image-7943cb9028003520a6c673211021451f.png",
+              "type": "profile"
             },
             {
-              "name": "MBAACC",
+              "url": "https://images.start.gg/images/tournament/950570/image-b3c7bea19e813b2183aa3cd5b872d498.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 6
+            },
+            {
+              "name": "Ultimate Redemption",
               "numEntrants": 0
             }
           ]
@@ -72,7 +101,7 @@
         {
           "name": "Pack Rat Infestation September",
           "id": 942919,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1789433160,
@@ -86,14 +115,14 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Deino's Den 1",
           "id": 948225,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1789509600,
@@ -111,14 +140,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 16
             }
           ]
         },
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 16,
+          "numAttendees": 19,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -144,15 +173,15 @@
             },
             {
               "name": "HDR @ MAD",
-              "numEntrants": 2
-            },
-            {
-              "name": "Squad Strike",
               "numEntrants": 3
             },
             {
+              "name": "Squad Strike",
+              "numEntrants": 5
+            },
+            {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 14
             }
           ]
         },
@@ -188,7 +217,7 @@
         {
           "name": "Rock Chalk Jab Lock 201",
           "id": 948600,
-          "numAttendees": 14,
+          "numAttendees": 24,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1788739200,
@@ -206,14 +235,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 24
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 10
             }
           ]
         },
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 18,
+          "numAttendees": 22,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -239,7 +272,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 17
+              "numEntrants": 21
             }
           ]
         }
