@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-07T02:34:22.889Z",
+  "updatedAt": "2026-09-08T02:47:22.683Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "MU Invitational Tryouts!",
           "id": 950544,
-          "numAttendees": 9,
+          "numAttendees": 14,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1788908400,
@@ -24,14 +24,14 @@
           "events": [
             {
               "name": "Freaky Super Smash Bros. Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 14
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 188",
           "id": 948385,
-          "numAttendees": 24,
+          "numAttendees": 33,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1788910260,
@@ -49,30 +49,30 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 25
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 6
+              "numEntrants": 9
+            },
+            {
+              "name": "Avatar Legends",
+              "numEntrants": 8
+            },
+            {
+              "name": "MBAACC",
+              "numEntrants": 7
             },
             {
               "name": "P+",
               "numEntrants": 7
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 4
-            },
-            {
-              "name": "Avatar Legends",
-              "numEntrants": 3
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 81",
           "id": 950570,
-          "numAttendees": 6,
+          "numAttendees": 16,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1788996600,
@@ -90,7 +90,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 16
             },
             {
               "name": "Ultimate Redemption",
@@ -101,7 +101,7 @@
         {
           "name": "Pack Rat Infestation September",
           "id": 942919,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1789433160,
@@ -115,7 +115,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
@@ -147,7 +147,7 @@
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 19,
+          "numAttendees": 20,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -177,11 +177,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 15
             }
           ]
         },
@@ -214,35 +214,6 @@
     },
     "KansasCityKS": {
       "nodes": [
-        {
-          "name": "Rock Chalk Jab Lock 201",
-          "id": 948600,
-          "numAttendees": 24,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1788739200,
-          "slug": "tournament/rock-chalk-jab-lock-201",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948600/image-e2dd868100c6c71ec84cdf11174c0223.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/948600/image-06dfc271f8336faa74337e082c876639.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 24
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 10
-            }
-          ]
-        },
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
