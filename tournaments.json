@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-08T02:47:22.683Z",
+  "updatedAt": "2026-09-09T02:47:43.718Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "MU Invitational Tryouts!",
           "id": 950544,
-          "numAttendees": 14,
+          "numAttendees": 19,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1788908400,
@@ -24,14 +24,14 @@
           "events": [
             {
               "name": "Freaky Super Smash Bros. Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 19
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 188",
           "id": 948385,
-          "numAttendees": 33,
+          "numAttendees": 59,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1788910260,
@@ -49,30 +49,30 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 42
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 9
-            },
-            {
-              "name": "Avatar Legends",
-              "numEntrants": 8
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 7
+              "numEntrants": 13
             },
             {
               "name": "P+",
-              "numEntrants": 7
+              "numEntrants": 12
+            },
+            {
+              "name": "Avatar Legends",
+              "numEntrants": 18
+            },
+            {
+              "name": "MBAACC",
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 81",
           "id": 950570,
-          "numAttendees": 16,
+          "numAttendees": 21,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1788996600,
@@ -90,7 +90,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 21
             },
             {
               "name": "Ultimate Redemption",
