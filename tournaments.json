@@ -1,78 +1,12 @@
 {
-  "updatedAt": "2026-09-09T02:47:43.718Z",
+  "updatedAt": "2026-09-10T02:48:49.194Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "MU Invitational Tryouts!",
-          "id": 950544,
-          "numAttendees": 19,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1788908400,
-          "slug": "tournament/mu-invitational-tryouts",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/950544/image-fcf35d27d4926b82e4eff4614831b5db.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/950544/image-6a404ec0611d02e300c04d4d48d1664a.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Freaky Super Smash Bros. Ultimate Singles",
-              "numEntrants": 19
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 188",
-          "id": 948385,
-          "numAttendees": 59,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1788910260,
-          "slug": "tournament/smash-mizzou-188",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948385/image-2e51e91dce40fe08519eff3ac74441cc.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/948385/image-a4a751b429ba8986c6304d730aabb016.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 42
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 13
-            },
-            {
-              "name": "P+",
-              "numEntrants": 12
-            },
-            {
-              "name": "Avatar Legends",
-              "numEntrants": 18
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 15
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 81",
           "id": 950570,
-          "numAttendees": 21,
+          "numAttendees": 36,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1788996600,
@@ -90,11 +24,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 36
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 12
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #552",
+          "id": 951708,
+          "numAttendees": 11,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1788998400,
+          "slug": "tournament/smash-cafe-552",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/951708/image-b45097db3242edd687d9e4fb477cb996.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/951708/image-7d93eb9989a6f5fb5b0cc0ae55c3e9c3.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 11
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 4
             }
           ]
         },
@@ -147,7 +110,7 @@
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 20,
+          "numAttendees": 21,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -177,11 +140,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 16
             }
           ]
         },
