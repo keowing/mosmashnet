@@ -1,66 +1,8 @@
 {
-  "updatedAt": "2026-09-10T02:48:49.194Z",
+  "updatedAt": "2026-09-11T02:42:00.544Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "PHAZE ➠ FUSION 81",
-          "id": 950570,
-          "numAttendees": 36,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1788996600,
-          "slug": "tournament/phaze-fusion-81",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/950570/image-7943cb9028003520a6c673211021451f.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/950570/image-b3c7bea19e813b2183aa3cd5b872d498.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 36
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #552",
-          "id": 951708,
-          "numAttendees": 11,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1788998400,
-          "slug": "tournament/smash-cafe-552",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/951708/image-b45097db3242edd687d9e4fb477cb996.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/951708/image-7d93eb9989a6f5fb5b0cc0ae55c3e9c3.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 4
-            }
-          ]
-        },
         {
           "name": "Pack Rat Infestation September",
           "id": 942919,
@@ -83,9 +25,34 @@
           ]
         },
         {
+          "name": "Maryvillez: Super Melee Brawlers Battle Royale",
+          "id": 952245,
+          "numAttendees": 5,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1789493460,
+          "slug": "tournament/maryvillez-super-melee-brawlers-battle-royale",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/952245/image-9c58bdf9aae53527ad361ce0493f1d94.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/952245/image-c62689c25c5a83fae60c1744f6c4f908.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
           "name": "Deino's Den 1",
           "id": 948225,
-          "numAttendees": 16,
+          "numAttendees": 17,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1789509600,
@@ -103,14 +70,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 17
             }
           ]
         },
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 21,
+          "numAttendees": 22,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -140,11 +107,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 17
             }
           ]
         },
@@ -172,6 +139,56 @@
               "numEntrants": 0
             }
           ]
+        },
+        {
+          "name": "Kachow Kup 36: Splash Zone",
+          "id": 952314,
+          "numAttendees": 0,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1791585000,
+          "slug": "tournament/kachow-kup-36-splash-zone",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/952314/image-aaa39851a1bd0784463cbf589fe9f997.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/952314/image-2dbac69d5b11c2a335ec24ce8497b7c8.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup 37: TBD",
+          "id": 952315,
+          "numAttendees": 0,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1794007800,
+          "slug": "tournament/kachow-kup-37-tbd",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/952315/image-a792185c02fec6c098ad25840a4a27a8.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/952315/image-e11d2ae5974f56cf3824d818ed0ff0f9.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
         }
       ]
     },
@@ -180,7 +197,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 22,
+          "numAttendees": 24,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -206,7 +223,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 21
+              "numEntrants": 23
             }
           ]
         }
