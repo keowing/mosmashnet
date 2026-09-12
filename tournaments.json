@@ -1,8 +1,74 @@
 {
-  "updatedAt": "2026-09-11T02:42:00.544Z",
+  "updatedAt": "2026-09-12T02:51:28.753Z",
   "data": {
     "Missouri": {
       "nodes": [
+        {
+          "name": "Strike! 74",
+          "id": 952439,
+          "numAttendees": 16,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1789169400,
+          "slug": "tournament/strike-74",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/952439/image-8ee7cdf037820c9b8b4af71654dcda1a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/952439/image-9c994b40a83127a31557f33520f15a54.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 16
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 5
+            },
+            {
+              "name": "Squads",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "Smash Casuals #62",
+          "id": 952432,
+          "numAttendees": 16,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1789169400,
+          "slug": "tournament/smash-casuals-62",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/952432/image-84a9a7fa9fbec257cf52c14406640dfc.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/952432/image-1cacb6daeb200b56645347b5c4fdc530.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "TRUE CASUALS",
+              "numEntrants": 12
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 9
+            }
+          ]
+        },
         {
           "name": "Pack Rat Infestation September",
           "id": 942919,
@@ -27,7 +93,7 @@
         {
           "name": "Maryvillez: Super Melee Brawlers Battle Royale",
           "id": 952245,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789493460,
@@ -45,7 +111,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -71,6 +137,47 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 17
+            }
+          ]
+        },
+        {
+          "name": "Smash @ Mizzou 189",
+          "id": 952545,
+          "numAttendees": 1,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1789513260,
+          "slug": "tournament/smash-mizzou-189",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/952545/image-ca11f8820b4e004757acaf4f8d70cae9.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/952545/image-3b8947343039222a726a1f82890363eb.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "MEGA SMASH",
+              "numEntrants": 1
+            },
+            {
+              "name": "UNI 2",
+              "numEntrants": 0
+            },
+            {
+              "name": "VSAV",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 1
             }
           ]
         },
@@ -141,9 +248,38 @@
           ]
         },
         {
+          "name": "Marcus Monthly #17",
+          "id": 952544,
+          "numAttendees": 1,
+          "city": "Des Peres",
+          "addrState": "MO",
+          "startAt": 1790539200,
+          "slug": "tournament/marcus-monthly-17",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/952544/image-af52eec8aa436b25338de0ff390e283a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/952544/image-38d192d4532d53e01282dfc1ff225b93.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "HDR Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Kachow Kup 36: Splash Zone",
           "id": 952314,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1791585000,
@@ -161,7 +297,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
