@@ -1,107 +1,12 @@
 {
-  "updatedAt": "2026-09-16T03:02:52.902Z",
+  "updatedAt": "2026-09-17T03:06:32.928Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Maryvillez: Super Melee Brawlers Battle Royale ($100 POT BONUS)",
-          "id": 952245,
-          "numAttendees": 22,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1789493460,
-          "slug": "tournament/maryvillez-super-melee-brawlers-battle-royale-100-pot-bonus",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/952245/image-9c58bdf9aae53527ad361ce0493f1d94.png",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/952245/image-c62689c25c5a83fae60c1744f6c4f908.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 22
-            },
-            {
-              "name": "Redemption",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "Deino's Den 1",
-          "id": 948225,
-          "numAttendees": 18,
-          "city": "Bonne Terre",
-          "addrState": "MO",
-          "startAt": 1789509600,
-          "slug": "tournament/deino-s-den-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948225/image-38b1e6fa30392254f9c5505b26953d7e.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/948225/image-309b5d1ff9256b3143ff86e701d32d2d.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 189",
-          "id": 952545,
-          "numAttendees": 36,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1789513260,
-          "slug": "tournament/smash-mizzou-189",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/952545/image-ca11f8820b4e004757acaf4f8d70cae9.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/952545/image-3b8947343039222a726a1f82890363eb.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 26
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            },
-            {
-              "name": "UNI 2",
-              "numEntrants": 9
-            },
-            {
-              "name": "MEGA SMASH",
-              "numEntrants": 8
-            },
-            {
-              "name": "VSAV",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 82",
           "id": 952732,
-          "numAttendees": 29,
+          "numAttendees": 40,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1789601400,
@@ -119,22 +24,51 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
-            },
-            {
-              "name": "Rivals 2 Singles",
-              "numEntrants": 9
+              "numEntrants": 34
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 10
+            },
+            {
+              "name": "Rivals 2 Singles",
+              "numEntrants": 12
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #553",
+          "id": 954327,
+          "numAttendees": 13,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1789603200,
+          "slug": "tournament/smash-cafe-553",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/954327/image-05711d68fa72131bc5766b3e447aa6d1.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/954327/image-7001b913902f226956217b2b2d3ee29f.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "URSA MINOR 86",
           "id": 953948,
-          "numAttendees": 7,
+          "numAttendees": 10,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1789689600,
@@ -153,6 +87,10 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 7
+            },
+            {
+              "name": "Melee URSA MINOR 86",
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Redemption",
@@ -196,7 +134,7 @@
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 26,
+          "numAttendees": 28,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -226,11 +164,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 23
             }
           ]
         },
@@ -280,7 +218,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 3
             },
             {
               "name": "HDR Singles",
@@ -341,7 +279,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -359,7 +297,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "SSBM Singles",
@@ -371,7 +309,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "SSBM Doubles",
@@ -386,7 +324,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 27,
+          "numAttendees": 28,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -412,7 +350,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 27
+              "numEntrants": 28
             }
           ]
         }
