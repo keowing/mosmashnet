@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-09-17T03:06:32.928Z",
+  "updatedAt": "2026-09-18T02:54:14.484Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 82",
-          "id": 952732,
-          "numAttendees": 40,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1789601400,
-          "slug": "tournament/phaze-fusion-82",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/952732/image-4d9801d2f396303f0c03d228f6918aea.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/952732/image-b2576024f59c62a2826856de4bc7660a.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 34
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "Rivals 2 Singles",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #553",
-          "id": 954327,
-          "numAttendees": 13,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1789603200,
-          "slug": "tournament/smash-cafe-553",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/954327/image-05711d68fa72131bc5766b3e447aa6d1.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/954327/image-7001b913902f226956217b2b2d3ee29f.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 86",
           "id": 953948,
-          "numAttendees": 10,
+          "numAttendees": 24,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1789689600,
@@ -86,22 +24,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Melee URSA MINOR 86",
-              "numEntrants": 5
+              "numEntrants": 18
             },
             {
               "name": "Ultimate Redemption",
               "numEntrants": 0
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Strike! 75",
           "id": 953504,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1789774200,
@@ -119,7 +57,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "ROA2 Singles",
@@ -134,7 +72,7 @@
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 28,
+          "numAttendees": 29,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -168,7 +106,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 23
+              "numEntrants": 24
             }
           ]
         },
@@ -279,7 +217,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 16,
+          "numAttendees": 21,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -297,19 +235,19 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 10
+              "numEntrants": 15
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Playmakers",
-              "numEntrants": 6
+              "numEntrants": 9
             },
             {
               "name": "SSBM Doubles",
@@ -324,7 +262,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 28,
+          "numAttendees": 33,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -342,7 +280,7 @@
           "events": [
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 5
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
@@ -350,7 +288,40 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 28
+              "numEntrants": 33
+            }
+          ]
+        },
+        {
+          "name": "LIGHT UP | 256 Player Cap |",
+          "id": 883727,
+          "numAttendees": 5,
+          "city": "Overland Park",
+          "addrState": "KS",
+          "startAt": 1791039600,
+          "slug": "tournament/light-up-256-player-cap",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/883727/image-20630e2fe82369ae46a5bb4c65dcaf1a.png",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/883727/image-10bf4350af0f68535f882a0e2c2d4597.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Doubles",
+              "numEntrants": 0
             }
           ]
         }
