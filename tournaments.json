@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-09-18T02:54:14.484Z",
+  "updatedAt": "2026-09-19T02:52:13.517Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 86",
-          "id": 953948,
-          "numAttendees": 24,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1789689600,
-          "slug": "tournament/ursa-minor-86",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/953948/image-95cec5b6b2b0842939dc99528d1d30e9.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/953948/image-adef9277a604780fb1ecc76880e4ddc4.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "Strike! 75",
           "id": 953504,
-          "numAttendees": 2,
+          "numAttendees": 19,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1789774200,
@@ -57,22 +24,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 1
+              "numEntrants": 18
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 8
+            },
+            {
+              "name": "ROA2 Singles",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 29,
+          "numAttendees": 38,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1789794000,
@@ -98,15 +65,15 @@
             },
             {
               "name": "HDR @ MAD",
-              "numEntrants": 3
+              "numEntrants": 7
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 11
+              "numEntrants": 17
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 32
             }
           ]
         },
@@ -138,7 +105,7 @@
         {
           "name": "Marcus Monthly #17",
           "id": 952544,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1790539200,
@@ -156,11 +123,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
@@ -262,7 +229,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 33,
+          "numAttendees": 39,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -280,7 +247,7 @@
           "events": [
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 7
+              "numEntrants": 9
             },
             {
               "name": "Ultimate Redemption",
@@ -288,7 +255,7 @@
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 33
+              "numEntrants": 39
             }
           ]
         },
