@@ -1,48 +1,15 @@
 {
-  "updatedAt": "2026-09-19T02:52:13.517Z",
+  "updatedAt": "2026-09-20T03:04:31.816Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 75",
-          "id": 953504,
-          "numAttendees": 19,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1789774200,
-          "slug": "tournament/strike-75",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/953504/image-52ffcade153782116cad2a18e157ede2.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/953504/image-a7def4fe63fe7cf654b796313f583dd0.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
           "name": "MAD Monthly September 2026",
           "id": 945068,
-          "numAttendees": 38,
+          "numAttendees": 56,
           "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1789794000,
+          "startAt": 1789849800,
           "slug": "tournament/mad-monthly-september-2026",
           "images": [
             {
@@ -56,24 +23,24 @@
           ],
           "events": [
             {
-              "name": "Pokemon TCG Expanded Format",
-              "numEntrants": 5
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            },
-            {
-              "name": "HDR @ MAD",
-              "numEntrants": 7
-            },
-            {
               "name": "Squad Strike",
-              "numEntrants": 17
+              "numEntrants": 23
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 32
+              "numEntrants": 49
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 9
+            },
+            {
+              "name": "HDR @ MAD",
+              "numEntrants": 10
+            },
+            {
+              "name": "Pokemon TCG Expanded Format",
+              "numEntrants": 5
             }
           ]
         },
@@ -229,7 +196,7 @@
         {
           "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
           "id": 946337,
-          "numAttendees": 39,
+          "numAttendees": 44,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1789833600,
@@ -246,16 +213,16 @@
           ],
           "events": [
             {
-              "name": "Ultimate Doubles",
-              "numEntrants": 9
+              "name": "Ultimate Redemption",
+              "numEntrants": 18
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "name": "Ultimate Doubles",
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 39
+              "numEntrants": 43
             }
           ]
         },
