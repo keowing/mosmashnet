@@ -1,46 +1,79 @@
 {
-  "updatedAt": "2026-09-20T03:04:31.816Z",
+  "updatedAt": "2026-09-21T03:01:27.101Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "MAD Monthly September 2026",
-          "id": 945068,
-          "numAttendees": 56,
-          "city": "St. Louis",
+          "name": "Smash @ Mizzou 190",
+          "id": 955753,
+          "numAttendees": 3,
+          "city": "Columbia",
           "addrState": "MO",
-          "startAt": 1789849800,
-          "slug": "tournament/mad-monthly-september-2026",
+          "startAt": 1790118060,
+          "slug": "tournament/smash-mizzou-190",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/945068/image-29484ac11b81d9611e077da8c6d5e7a8.png",
+              "url": "https://images.start.gg/images/tournament/955753/image-0bfcc4bb1381c4ae78da0c6686383b3d.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/945068/image-800cec480337be183c8d440c09636502.png",
+              "url": "https://images.start.gg/images/tournament/955753/image-8b45f17c6b8520751625249995457fab.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Squad Strike",
-              "numEntrants": 23
+              "name": "Rivals 2",
+              "numEntrants": 1
+            },
+            {
+              "name": "Avatar Legends",
+              "numEntrants": 0
+            },
+            {
+              "name": "GGST",
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 49
+              "numEntrants": 3
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 9
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 83",
+          "id": 954269,
+          "numAttendees": 2,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1790206200,
+          "slug": "tournament/phaze-fusion-83",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/954269/image-ee7b2646952c991e9c40a74683c0c1b5.png",
+              "type": "profile"
             },
             {
-              "name": "HDR @ MAD",
-              "numEntrants": 10
+              "url": "https://images.start.gg/images/tournament/954269/image-03a268ddcc7f578f9edb3a5173ad441f.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
             },
             {
-              "name": "Pokemon TCG Expanded Format",
-              "numEntrants": 5
+              "name": "TEKKEN 8",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -72,7 +105,7 @@
         {
           "name": "Marcus Monthly #17",
           "id": 952544,
-          "numAttendees": 6,
+          "numAttendees": 8,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1790539200,
@@ -90,11 +123,32 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 6
             },
             {
               "name": "HDR Singles",
               "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Gogi's Bulgogi-Bash!",
+          "id": 955746,
+          "numAttendees": 5,
+          "city": "Warrensburg",
+          "addrState": "MO",
+          "startAt": 1790640000,
+          "slug": "tournament/gogi-s-bulgogi-bash",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/955746/image-8d99594bec72ae6ed237e59799db7036.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
             }
           ]
         },
@@ -151,7 +205,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 21,
+          "numAttendees": 22,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -173,7 +227,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -194,42 +248,9 @@
     "KansasCityKS": {
       "nodes": [
         {
-          "name": "Wheak Hit! 3 ($150 Pot Bonus!)",
-          "id": 946337,
-          "numAttendees": 44,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1789833600,
-          "slug": "tournament/wheak-hit-3-150-pot-bonus",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/946337/image-bd4dfb426e6d209fffe66c09d3bd6bd7.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/946337/image-98eea5b620a9e46aacbc94b2e674031e.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 18
-            },
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Singles ($150 Pot Bonus!!!)",
-              "numEntrants": 43
-            }
-          ]
-        },
-        {
           "name": "LIGHT UP | 256 Player Cap |",
           "id": 883727,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Overland Park",
           "addrState": "KS",
           "startAt": 1791039600,
@@ -247,7 +268,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Redemption Bracket",
