@@ -1,12 +1,74 @@
 {
-  "updatedAt": "2026-09-21T03:01:27.101Z",
+  "updatedAt": "2026-09-22T03:01:04.686Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Gold Rush #91",
+          "id": 955982,
+          "numAttendees": 16,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1790035200,
+          "slug": "tournament/gold-rush-91",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/955982/image-e173a3979bfde5c83836dee3d6d333e7.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/955982/image-6d06b9c5f2468b934e411557a14135b9.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 10
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 8
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 7
+            }
+          ]
+        },
+        {
+          "name": "Royale with Cheese #60",
+          "id": 956161,
+          "numAttendees": 11,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1790035200,
+          "slug": "tournament/royale-with-cheese-60",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/956161/image-d41d06a69e2d2d905d091556c29ddd2f.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
           "name": "Smash @ Mizzou 190",
           "id": 955753,
-          "numAttendees": 3,
+          "numAttendees": 20,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1790118060,
@@ -23,24 +85,24 @@
           ],
           "events": [
             {
-              "name": "Rivals 2",
-              "numEntrants": 1
-            },
-            {
               "name": "Avatar Legends",
-              "numEntrants": 0
+              "numEntrants": 7
             },
             {
               "name": "GGST",
-              "numEntrants": 0
+              "numEntrants": 4
             },
             {
-              "name": "Ultimate Singles",
+              "name": "Rivals 2",
               "numEntrants": 3
             },
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 16
+            },
+            {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 3
             }
           ]
         },
@@ -105,7 +167,7 @@
         {
           "name": "Marcus Monthly #17",
           "id": 952544,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1790539200,
@@ -123,7 +185,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "HDR Singles",
@@ -205,7 +267,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 22,
+          "numAttendees": 24,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -223,7 +285,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 15
+              "numEntrants": 17
             },
             {
               "name": "SSBM Singles",
@@ -248,13 +310,13 @@
     "KansasCityKS": {
       "nodes": [
         {
-          "name": "LIGHT UP | 256 Player Cap |",
+          "name": "LIGHT UP | EVENT POSTPONNED DO NOT SHOW UP",
           "id": 883727,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Overland Park",
           "addrState": "KS",
           "startAt": 1791039600,
-          "slug": "tournament/light-up-256-player-cap",
+          "slug": "tournament/light-up-event-postponned-do-not-show-up",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/883727/image-20630e2fe82369ae46a5bb4c65dcaf1a.png",
@@ -268,7 +330,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Redemption Bracket",
