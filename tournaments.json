@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-09-22T03:01:04.686Z",
+  "updatedAt": "2026-09-23T03:01:10.173Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gold Rush #91",
-          "id": 955982,
-          "numAttendees": 16,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1790035200,
-          "slug": "tournament/gold-rush-91",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/955982/image-e173a3979bfde5c83836dee3d6d333e7.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/955982/image-6d06b9c5f2468b934e411557a14135b9.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 10
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 8
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #60",
-          "id": 956161,
-          "numAttendees": 11,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1790035200,
-          "slug": "tournament/royale-with-cheese-60",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/956161/image-d41d06a69e2d2d905d091556c29ddd2f.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
           "name": "Smash @ Mizzou 190",
           "id": 955753,
-          "numAttendees": 20,
+          "numAttendees": 43,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1790118060,
@@ -85,31 +23,31 @@
           ],
           "events": [
             {
-              "name": "Avatar Legends",
-              "numEntrants": 7
-            },
-            {
               "name": "GGST",
-              "numEntrants": 4
-            },
-            {
-              "name": "Rivals 2",
-              "numEntrants": 3
+              "numEntrants": 9
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 30
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 3
+              "numEntrants": 9
+            },
+            {
+              "name": "Avatar Legends",
+              "numEntrants": 13
+            },
+            {
+              "name": "Rivals 2",
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 83",
           "id": 954269,
-          "numAttendees": 2,
+          "numAttendees": 24,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1790206200,
@@ -127,11 +65,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 24
             },
             {
               "name": "TEKKEN 8",
-              "numEntrants": 0
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Redemption",
@@ -142,7 +80,7 @@
         {
           "name": "Living The Dream 5",
           "id": 948581,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1790532000,
@@ -160,14 +98,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "Marcus Monthly #17",
           "id": 952544,
-          "numAttendees": 9,
+          "numAttendees": 12,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1790539200,
@@ -185,11 +123,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 10
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
@@ -203,8 +141,12 @@
           "slug": "tournament/gogi-s-bulgogi-bash",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/955746/image-8d99594bec72ae6ed237e59799db7036.jpg",
+              "url": "https://images.start.gg/images/tournament/955746/image-09364fd09edf54ce009baf78dd48da20.jpg",
               "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/955746/image-1869e3fa3ef026f4d406e11c533b406c.jpg",
+              "type": "banner"
             }
           ],
           "events": [
@@ -236,6 +178,27 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "Pack Rat Infestation October",
+          "id": 956672,
+          "numAttendees": 0,
+          "city": "Warrenton",
+          "addrState": "MO",
+          "startAt": 1791765960,
+          "slug": "tournament/pack-rat-infestation-october",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/956672/image-632d7a4f39aa270b4b3c8841686ea6cc.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ulitmate Singles",
+              "numEntrants": 0
             }
           ]
         },
