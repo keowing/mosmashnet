@@ -1,53 +1,12 @@
 {
-  "updatedAt": "2026-09-23T03:01:10.173Z",
+  "updatedAt": "2026-09-24T02:52:37.984Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 190",
-          "id": 955753,
-          "numAttendees": 43,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1790118060,
-          "slug": "tournament/smash-mizzou-190",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/955753/image-0bfcc4bb1381c4ae78da0c6686383b3d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/955753/image-8b45f17c6b8520751625249995457fab.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "GGST",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 30
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 9
-            },
-            {
-              "name": "Avatar Legends",
-              "numEntrants": 13
-            },
-            {
-              "name": "Rivals 2",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 83",
           "id": 954269,
-          "numAttendees": 24,
+          "numAttendees": 41,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1790206200,
@@ -65,11 +24,73 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 24
+              "numEntrants": 37
             },
             {
               "name": "TEKKEN 8",
-              "numEntrants": 4
+              "numEntrants": 8
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 12
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #554",
+          "id": 956885,
+          "numAttendees": 14,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1790208000,
+          "slug": "tournament/smash-cafe-554",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/956885/image-8a77ca146de013d48b878f151123f14a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/956885/image-b1b1e13da8cc17cc9d4e198c86cf9fde.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 7
+            },
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 14
+            }
+          ]
+        },
+        {
+          "name": "URSA MINOR 87",
+          "id": 956881,
+          "numAttendees": 15,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1790294400,
+          "slug": "tournament/ursa-minor-87",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/956881/image-e7c6f95f05fc99557febd58f72b5c712.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/956881/image-cc657e1d4e0339b8324fd288c17d9c1e.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 13
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
@@ -80,7 +101,7 @@
         {
           "name": "Living The Dream 5",
           "id": 948581,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Branson",
           "addrState": "MO",
           "startAt": 1790532000,
@@ -98,7 +119,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
@@ -230,7 +251,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 24,
+          "numAttendees": 25,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -248,7 +269,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 17
+              "numEntrants": 18
             },
             {
               "name": "SSBM Singles",
@@ -260,7 +281,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "SSBM Doubles",
