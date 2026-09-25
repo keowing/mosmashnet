@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-09-24T02:52:37.984Z",
+  "updatedAt": "2026-09-25T03:08:48.820Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 83",
-          "id": 954269,
-          "numAttendees": 41,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1790206200,
-          "slug": "tournament/phaze-fusion-83",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/954269/image-ee7b2646952c991e9c40a74683c0c1b5.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/954269/image-03a268ddcc7f578f9edb3a5173ad441f.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 37
-            },
-            {
-              "name": "TEKKEN 8",
-              "numEntrants": 8
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #554",
-          "id": 956885,
-          "numAttendees": 14,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1790208000,
-          "slug": "tournament/smash-cafe-554",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/956885/image-8a77ca146de013d48b878f151123f14a.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/956885/image-b1b1e13da8cc17cc9d4e198c86cf9fde.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 7
-            },
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 14
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 87",
           "id": 956881,
-          "numAttendees": 15,
+          "numAttendees": 25,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1790294400,
@@ -86,47 +24,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 2
+              "numEntrants": 19
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
-          "name": "Living The Dream 5",
-          "id": 948581,
-          "numAttendees": 2,
-          "city": "Branson",
-          "addrState": "MO",
-          "startAt": 1790532000,
-          "slug": "tournament/living-the-dream-5",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/948581/image-0cf33e1bb1510b53d9dfbd61fe462326.jpg",
-              "type": "banner"
+              "numEntrants": 7
             },
             {
-              "url": "https://images.start.gg/images/tournament/948581/image-06ebd6f153ca170593c5ea2b64282159.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 2
+              "name": "Melee Singles",
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "Marcus Monthly #17",
           "id": 952544,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1790539200,
@@ -144,7 +57,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 12
             },
             {
               "name": "HDR Singles",
@@ -205,10 +118,10 @@
         {
           "name": "Pack Rat Infestation October",
           "id": 956672,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Warrenton",
           "addrState": "MO",
-          "startAt": 1791765960,
+          "startAt": 1791846000,
           "slug": "tournament/pack-rat-infestation-october",
           "images": [
             {
@@ -219,7 +132,7 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
