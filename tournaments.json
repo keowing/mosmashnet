@@ -1,37 +1,70 @@
 {
-  "updatedAt": "2026-09-25T03:08:48.820Z",
+  "updatedAt": "2026-09-26T03:12:57.078Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 87",
-          "id": 956881,
-          "numAttendees": 25,
-          "city": "Springfield",
+          "name": "Strike! 76",
+          "id": 957592,
+          "numAttendees": 11,
+          "city": "Kansas City",
           "addrState": "MO",
-          "startAt": 1790294400,
-          "slug": "tournament/ursa-minor-87",
+          "startAt": 1790379000,
+          "slug": "tournament/strike-76",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/956881/image-e7c6f95f05fc99557febd58f72b5c712.png",
+              "url": "https://images.start.gg/images/tournament/957592/image-b6032735cb6dd42d249eeb2eff174530.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/956881/image-cc657e1d4e0339b8324fd288c17d9c1e.png",
+              "url": "https://images.start.gg/images/tournament/957592/image-44a680b5d417815d70e92381c0f9a7c5.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 11
+            },
+            {
+              "name": "Squads",
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 7
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
+          "name": "Smash Casuals #63",
+          "id": 957655,
+          "numAttendees": 18,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1790379000,
+          "slug": "tournament/smash-casuals-63",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/957655/image-c3930a693ae023bb630286858f8d020d.png",
+              "type": "profile"
             },
             {
-              "name": "Melee Singles",
+              "url": "https://images.start.gg/images/tournament/957655/image-65b6d96505ae88b7e0c69181261323f5.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 15
+            },
+            {
+              "name": "RoA II",
+              "numEntrants": 11
+            },
+            {
+              "name": "MYSTERY KNOCKBACK",
               "numEntrants": 5
             }
           ]
@@ -39,7 +72,7 @@
         {
           "name": "Marcus Monthly #17",
           "id": 952544,
-          "numAttendees": 14,
+          "numAttendees": 18,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1790539200,
@@ -57,11 +90,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 16
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
