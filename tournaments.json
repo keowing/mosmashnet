@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-27T03:20:15.774Z",
+  "updatedAt": "2026-09-28T03:18:05.120Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Marcus Monthly #17",
           "id": 952544,
-          "numAttendees": 22,
+          "numAttendees": 27,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1790539200,
@@ -24,18 +24,18 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 23
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 5
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "Gogi's Bulgogi-Bash!",
           "id": 955746,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Warrensburg",
           "addrState": "MO",
           "startAt": 1790640000,
@@ -53,7 +53,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -156,7 +156,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 25,
+          "numAttendees": 26,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -174,7 +174,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 18
+              "numEntrants": 19
             },
             {
               "name": "SSBM Singles",
@@ -186,7 +186,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "SSBM Doubles",
@@ -201,7 +201,7 @@
         {
           "name": "Rock Chalk Jab Lock 203",
           "id": 957946,
-          "numAttendees": 8,
+          "numAttendees": 16,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1790553600,
@@ -219,18 +219,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 16
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 2
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "LIGHT UP | EVENT POSTPONNED DO NOT SHOW UP",
           "id": 883727,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Overland Park",
           "addrState": "KS",
           "startAt": 1791039600,
@@ -248,7 +248,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Redemption Bracket",
