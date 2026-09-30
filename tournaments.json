@@ -1,99 +1,12 @@
 {
-  "updatedAt": "2026-09-29T03:54:53.290Z",
+  "updatedAt": "2026-09-30T03:42:30.898Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gogi's Bulgogi-Bash!",
-          "id": 955746,
-          "numAttendees": 6,
-          "city": "Warrensburg",
-          "addrState": "MO",
-          "startAt": 1790640000,
-          "slug": "tournament/gogi-s-bulgogi-bash",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/955746/image-09364fd09edf54ce009baf78dd48da20.jpg",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/955746/image-1869e3fa3ef026f4d406e11c533b406c.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #61",
-          "id": 958566,
-          "numAttendees": 16,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1790640000,
-          "slug": "tournament/royale-with-cheese-61",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/958566/image-4d21b20ff8a6747387ce6ff7ae3035dc.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Remix Singles",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 16
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Gold Rush #92",
-          "id": 958599,
-          "numAttendees": 16,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1790640000,
-          "slug": "tournament/gold-rush-92",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/958599/image-5751214264f7f4ce7f4248a4a8e78cb6.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/958599/image-9590d009bd311c00eaccb731723cdba7.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 10
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 4
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "Show Me Maryville's Moves! (SMYM Practice)",
           "id": 958948,
-          "numAttendees": 7,
+          "numAttendees": 28,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1790722800,
@@ -111,18 +24,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 28
             },
             {
               "name": "Redemption",
-              "numEntrants": 2
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 191",
           "id": 958458,
-          "numAttendees": 13,
+          "numAttendees": 34,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1790722860,
@@ -139,31 +52,31 @@
           ],
           "events": [
             {
-              "name": "Samurai Kirby",
-              "numEntrants": 5
-            },
-            {
-              "name": "Uni 2",
-              "numEntrants": 2
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 1
-            },
-            {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 26
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 5
+              "numEntrants": 7
+            },
+            {
+              "name": "Samurai Kirby",
+              "numEntrants": 7
+            },
+            {
+              "name": "Uni 2",
+              "numEntrants": 7
+            },
+            {
+              "name": "MBAACC",
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 84",
           "id": 958472,
-          "numAttendees": 13,
+          "numAttendees": 20,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1790811000,
@@ -181,11 +94,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 18
             },
             {
               "name": "High Dynamic Range Singles",
-              "numEntrants": 4
+              "numEntrants": 6
             },
             {
               "name": "Ultimate Redemption",
@@ -196,7 +109,7 @@
         {
           "name": "URSA MINOR 88",
           "id": 958892,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1790899200,
@@ -214,7 +127,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Melee Singles",
@@ -229,7 +142,7 @@
         {
           "name": "Kachow Kup 36: Splash Zone",
           "id": 952314,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1791585000,
@@ -247,7 +160,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
