@@ -1,82 +1,12 @@
 {
-  "updatedAt": "2026-09-30T03:42:30.898Z",
+  "updatedAt": "2026-10-01T03:49:06.376Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Show Me Maryville's Moves! (SMYM Practice)",
-          "id": 958948,
-          "numAttendees": 28,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1790722800,
-          "slug": "tournament/show-me-maryville-s-moves-smym-practice",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/958948/image-29b2737274bdabec3d52eff9a7f9790d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/958948/image-a406dee4d78d00486bc9355eea887533.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 28
-            },
-            {
-              "name": "Redemption",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 191",
-          "id": 958458,
-          "numAttendees": 34,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1790722860,
-          "slug": "tournament/smash-mizzou-191",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/958458/image-f88f792c758e4763bc9d4570e8069b09.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/958458/image-4986be9a660b82e9229a0abeec9fff19.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 26
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            },
-            {
-              "name": "Samurai Kirby",
-              "numEntrants": 7
-            },
-            {
-              "name": "Uni 2",
-              "numEntrants": 7
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 84",
           "id": 958472,
-          "numAttendees": 20,
+          "numAttendees": 35,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1790811000,
@@ -94,22 +24,51 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "High Dynamic Range Singles",
-              "numEntrants": 6
+              "numEntrants": 28
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 12
+            },
+            {
+              "name": "High Dynamic Range Singles",
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #555",
+          "id": 959491,
+          "numAttendees": 15,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1790812800,
+          "slug": "tournament/smash-cafe-555",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/959491/image-bbf750b7b1627bef9c2746adadc95bfb-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/959491/image-1dcbfb910241c38b0ad2255a685495b9-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 5
+            },
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 15
             }
           ]
         },
         {
           "name": "URSA MINOR 88",
           "id": 958892,
-          "numAttendees": 9,
+          "numAttendees": 12,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1790899200,
@@ -127,11 +86,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 10
             },
             {
               "name": "Melee Singles",
               "numEntrants": 3
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Strike! 77",
+          "id": 959607,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1790983800,
+          "slug": "tournament/strike-77",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/959607/image-937aaca428af8db8d945bd00989d5dc8-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/959607/image-07443aa1afa5df1653c0fa3199afbce8-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "ROA2 Singles",
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Redemption",
@@ -273,6 +265,35 @@
             {
               "name": "SSBM Doubles",
               "numEntrants": 1
+            }
+          ]
+        },
+        {
+          "name": "Marcus Monthly #18",
+          "id": 959669,
+          "numAttendees": 0,
+          "city": "Des Peres",
+          "addrState": "MO",
+          "startAt": 1794776400,
+          "slug": "tournament/marcus-monthly-18",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/959669/image-7112c1935596fa3d5f3d9e6b1b6d6309-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/959669/image-28100d2579ad378c671e734f00711b6b-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "HDR Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         }
