@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-10-01T03:49:06.376Z",
+  "updatedAt": "2026-10-02T03:47:05.119Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 84",
-          "id": 958472,
-          "numAttendees": 35,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1790811000,
-          "slug": "tournament/phaze-fusion-84",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/958472/image-6ba3c071e14cbf5d440ee68e19078247.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/958472/image-b66def68c9172da59c3451612972f82d.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 28
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            },
-            {
-              "name": "High Dynamic Range Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #555",
-          "id": 959491,
-          "numAttendees": 15,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1790812800,
-          "slug": "tournament/smash-cafe-555",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/959491/image-bbf750b7b1627bef9c2746adadc95bfb-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/959491/image-1dcbfb910241c38b0ad2255a685495b9-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            },
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 15
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 88",
           "id": 958892,
-          "numAttendees": 12,
+          "numAttendees": 22,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1790899200,
@@ -85,23 +23,23 @@
           ],
           "events": [
             {
+              "name": "Ultimate Redemption",
+              "numEntrants": 8
+            },
+            {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 17
             },
             {
               "name": "Melee Singles",
-              "numEntrants": 3
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "Strike! 77",
           "id": 959607,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1790983800,
@@ -119,7 +57,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "ROA2 Singles",
@@ -203,6 +141,47 @@
           ]
         },
         {
+          "name": "MAD Monthly October 2026",
+          "id": 960004,
+          "numAttendees": 1,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1792276260,
+          "slug": "tournament/mad-monthly-october-2026",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/960004/image-2343455b0ebb6d30333501a373b23e17-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/960004/image-88090d49447ad3f30156bfdb14ad2598-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "HDR @ MAD",
+              "numEntrants": 0
+            },
+            {
+              "name": "Pokemon TCG Expanded Format",
+              "numEntrants": 0
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Kachow Kup 37: TBD",
           "id": 952315,
           "numAttendees": 2,
@@ -230,7 +209,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 26,
+          "numAttendees": 30,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -248,11 +227,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 19
+              "numEntrants": 22
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -260,7 +239,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 11
+              "numEntrants": 13
             },
             {
               "name": "SSBM Doubles",
