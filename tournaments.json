@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-10-02T03:47:05.119Z",
+  "updatedAt": "2026-10-03T03:31:31.933Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 88",
-          "id": 958892,
-          "numAttendees": 22,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1790899200,
-          "slug": "tournament/ursa-minor-88",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/958892/image-b7155dea1ba439519825256c1027f048-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/958892/image-5a52154edaaf8f31fb866860321447d7-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "Strike! 77",
           "id": 959607,
-          "numAttendees": 1,
+          "numAttendees": 20,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1790983800,
@@ -56,23 +23,48 @@
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 1
+              "name": "Ultimate Redemption",
+              "numEntrants": 8
             },
             {
               "name": "ROA2 Singles",
-              "numEntrants": 0
+              "numEntrants": 6
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "name": "Ultimate Singles",
+              "numEntrants": 18
+            }
+          ]
+        },
+        {
+          "name": "Gogi's Bulgogi-Bash! #2",
+          "id": 960281,
+          "numAttendees": 3,
+          "city": "Warrensburg",
+          "addrState": "MO",
+          "startAt": 1791248400,
+          "slug": "tournament/gogi-s-bulgogi-bash-2",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/960281/image-363885f5ab53f4d5d61f2d8de7594880-optimized.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/960281/image-ac694e081d5c079fc2b41cb6696d9108-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Kachow Kup 36: Splash Zone",
           "id": 952314,
-          "numAttendees": 6,
+          "numAttendees": 8,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1791585000,
@@ -90,14 +82,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Pack Rat Infestation October",
           "id": 956672,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1791846000,
@@ -111,14 +103,14 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Deino's Den 2",
           "id": 957935,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1791936000,
@@ -136,7 +128,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -209,7 +201,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 30,
+          "numAttendees": 33,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -227,11 +219,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 22
+              "numEntrants": 24
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -239,7 +231,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 13
+              "numEntrants": 14
             },
             {
               "name": "SSBM Doubles",
