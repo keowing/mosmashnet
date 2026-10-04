@@ -1,41 +1,8 @@
 {
-  "updatedAt": "2026-10-03T03:31:31.933Z",
+  "updatedAt": "2026-10-04T03:59:59.754Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Strike! 77",
-          "id": 959607,
-          "numAttendees": 20,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1790983800,
-          "slug": "tournament/strike-77",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/959607/image-937aaca428af8db8d945bd00989d5dc8-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/959607/image-07443aa1afa5df1653c0fa3199afbce8-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 6
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            }
-          ]
-        },
         {
           "name": "Gogi's Bulgogi-Bash! #2",
           "id": 960281,
@@ -133,9 +100,34 @@
           ]
         },
         {
+          "name": "SLCL Learn to Read #13",
+          "id": 959894,
+          "numAttendees": 25,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1792256400,
+          "slug": "tournament/slcl-learn-to-read-13",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/959894/image-df406816d90fdd5a2a744434ed00acb3-optimized.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "High Dynamic Range Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Learn to Read 10 Singles",
+              "numEntrants": 23
+            }
+          ]
+        },
+        {
           "name": "MAD Monthly October 2026",
           "id": 960004,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1792276260,
@@ -165,7 +157,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Redemption Bracket",
@@ -242,7 +234,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 0,
+          "numAttendees": 1,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -259,11 +251,11 @@
           ],
           "events": [
             {
-              "name": "HDR Singles",
-              "numEntrants": 0
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 1
             },
             {
-              "name": "Smash Ultimate Singles",
+              "name": "HDR Singles",
               "numEntrants": 0
             }
           ]
