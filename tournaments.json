@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-04T03:59:59.754Z",
+  "updatedAt": "2026-10-05T03:45:22.820Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Gogi's Bulgogi-Bash! #2",
           "id": 960281,
-          "numAttendees": 3,
+          "numAttendees": 5,
           "city": "Warrensburg",
           "addrState": "MO",
           "startAt": 1791248400,
@@ -24,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "Kachow Kup 36: Splash Zone",
           "id": 952314,
-          "numAttendees": 8,
+          "numAttendees": 10,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1791585000,
@@ -49,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 10
             }
           ]
         },
@@ -121,6 +121,31 @@
             {
               "name": "Learn to Read 10 Singles",
               "numEntrants": 23
+            }
+          ]
+        },
+        {
+          "name": "Feather Weights: 4th Bout!",
+          "id": 961061,
+          "numAttendees": 2,
+          "city": "Liberty",
+          "addrState": "MO",
+          "startAt": 1792261800,
+          "slug": "tournament/feather-weights-4th-bout",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/961061/image-f6035d79311b59ae0a37da7816b0373b-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/961061/image-5f9b414e5d14d90eaccfbfabd088eba5-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
             }
           ]
         },
@@ -234,7 +259,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -252,7 +277,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "HDR Singles",
@@ -265,35 +290,31 @@
     "KansasCityKS": {
       "nodes": [
         {
-          "name": "LIGHT UP | EVENT POSTPONNED DO NOT SHOW UP",
-          "id": 883727,
-          "numAttendees": 9,
-          "city": "Overland Park",
+          "name": "Rock Chalk Jab Lock 204",
+          "id": 960882,
+          "numAttendees": 14,
+          "city": "Lawrence",
           "addrState": "KS",
-          "startAt": 1791039600,
-          "slug": "tournament/light-up-event-postponned-do-not-show-up",
+          "startAt": 1791158400,
+          "slug": "tournament/rock-chalk-jab-lock-204",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/883727/image-20630e2fe82369ae46a5bb4c65dcaf1a.png",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/960882/image-6bd460012e482b70df3c1de40d4b19da-optimized.png",
+              "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/883727/image-10bf4350af0f68535f882a0e2c2d4597.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/960882/image-4a657873802ea6772d751c6fc21712fd-optimized.png",
+              "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 13
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 0
+              "numEntrants": 7
             }
           ]
         }
