@@ -1,99 +1,12 @@
 {
-  "updatedAt": "2026-10-06T04:33:13.927Z",
+  "updatedAt": "2026-10-07T03:59:01.009Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gold Rush #93",
-          "id": 961228,
-          "numAttendees": 15,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1791244800,
-          "slug": "tournament/gold-rush-93",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/961228/image-b1d7a6071b3655c8be0e5f93d4f28801-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/961228/image-1d8ef4653fd175bd6ebf0fa41623b0b7-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 12
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 5
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #62",
-          "id": 961296,
-          "numAttendees": 14,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1791244800,
-          "slug": "tournament/royale-with-cheese-62",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/961296/image-b65add7b18ff2a2fce7dd10706b78297-optimized.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 6
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
-          "name": "Gogi's Bulgogi-Bash! #2",
-          "id": 960281,
-          "numAttendees": 8,
-          "city": "Warrensburg",
-          "addrState": "MO",
-          "startAt": 1791248400,
-          "slug": "tournament/gogi-s-bulgogi-bash-2",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/960281/image-363885f5ab53f4d5d61f2d8de7594880-optimized.jpg",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/960281/image-ac694e081d5c079fc2b41cb6696d9108-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "Smash @ Mizzou 192",
           "id": 961435,
-          "numAttendees": 12,
+          "numAttendees": 32,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1791327660,
@@ -110,31 +23,31 @@
           ],
           "events": [
             {
-              "name": "Avatar",
-              "numEntrants": 4
-            },
-            {
-              "name": "VSAV",
-              "numEntrants": 3
-            },
-            {
               "name": "Rivals 2",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 5
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 1
+              "numEntrants": 9
+            },
+            {
+              "name": "Avatar",
+              "numEntrants": 12
+            },
+            {
+              "name": "VSAV",
+              "numEntrants": 8
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 22
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 85",
           "id": 961134,
-          "numAttendees": 9,
+          "numAttendees": 20,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1791415800,
@@ -152,11 +65,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 20
             },
             {
               "name": "Smash 4 Singles",
-              "numEntrants": 4
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
@@ -190,6 +103,51 @@
           ]
         },
         {
+          "name": "Strike! 78",
+          "id": 961927,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1791588600,
+          "slug": "tournament/strike-78",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/961927/image-9fe41d375205d62128e83a762e79b455-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/961927/image-e20e83d2ae1d2200bab2f3a8dbad5ca0-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Smash at Midwest Retro (FREE ENTRY)",
+          "id": 961936,
+          "numAttendees": 0,
+          "city": "Troy",
+          "addrState": "MO",
+          "startAt": 1791759600,
+          "slug": "tournament/smash-at-midwest-retro-free-entry",
+          "images": [],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Pack Rat Infestation October",
           "id": 956672,
           "numAttendees": 3,
@@ -213,7 +171,7 @@
         {
           "name": "Deino's Den 2",
           "id": 957935,
-          "numAttendees": 8,
+          "numAttendees": 10,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1791936000,
@@ -231,7 +189,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 10
             }
           ]
         },
