@@ -1,53 +1,12 @@
 {
-  "updatedAt": "2026-10-07T03:59:01.009Z",
+  "updatedAt": "2026-10-08T04:11:59.167Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 192",
-          "id": 961435,
-          "numAttendees": 32,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1791327660,
-          "slug": "tournament/smash-mizzou-192",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/961435/image-a539b73f2ccd59a550ed62771c052701-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/961435/image-67b1cd00b1f3369e951ee5765120e2b5-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Rivals 2",
-              "numEntrants": 5
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 9
-            },
-            {
-              "name": "Avatar",
-              "numEntrants": 12
-            },
-            {
-              "name": "VSAV",
-              "numEntrants": 8
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 22
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 85",
           "id": 961134,
-          "numAttendees": 20,
+          "numAttendees": 40,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1791415800,
@@ -65,15 +24,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 20
+              "numEntrants": 36
             },
             {
               "name": "Smash 4 Singles",
-              "numEntrants": 7
+              "numEntrants": 13
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #556",
+          "id": 962206,
+          "numAttendees": 10,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1791417600,
+          "slug": "tournament/smash-cafe-556",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/962206/image-62d28c908a4ee597afa87406f4b44b24-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/962206/image-4b6d116c683c5b373318267d9c87ef8c-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 10
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 6
             }
           ]
         },
@@ -134,7 +122,7 @@
         {
           "name": "Smash at Midwest Retro (FREE ENTRY)",
           "id": 961936,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Troy",
           "addrState": "MO",
           "startAt": 1791759600,
@@ -143,7 +131,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
@@ -171,7 +159,7 @@
         {
           "name": "Deino's Den 2",
           "id": 957935,
-          "numAttendees": 10,
+          "numAttendees": 13,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1791936000,
@@ -189,7 +177,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 13
             }
           ]
         },
@@ -280,6 +268,39 @@
             },
             {
               "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "FIGHTING GHOSTS: SYSTEM STOCK",
+          "id": 961961,
+          "numAttendees": 23,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1792854000,
+          "slug": "tournament/fighting-ghosts-system-stock",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/961961/image-0a0dddc39f382772c523accb8ae27bf7.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/961961/image-0ad0eac0e1f1af16f65129d5d88ce224.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 22
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Doubles",
               "numEntrants": 0
             }
           ]
