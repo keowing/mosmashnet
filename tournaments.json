@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-10-08T04:11:59.167Z",
+  "updatedAt": "2026-10-09T04:17:17.494Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 85",
-          "id": 961134,
-          "numAttendees": 40,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1791415800,
-          "slug": "tournament/phaze-fusion-85",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/961134/image-cc5432231ae77aa81bba980f1bea57c3-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/961134/image-09cb1539e68cbd9e5bdf20bf8b931ec1-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 36
-            },
-            {
-              "name": "Smash 4 Singles",
-              "numEntrants": 13
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #556",
-          "id": 962206,
-          "numAttendees": 10,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1791417600,
-          "slug": "tournament/smash-cafe-556",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/962206/image-62d28c908a4ee597afa87406f4b44b24-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/962206/image-4b6d116c683c5b373318267d9c87ef8c-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "Kachow Kup 36: Splash Zone",
           "id": 952314,
-          "numAttendees": 10,
+          "numAttendees": 12,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1791585000,
@@ -86,14 +24,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "Strike! 78",
           "id": 961927,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1791588600,
@@ -111,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
@@ -178,6 +116,38 @@
             {
               "name": "Ultimate Singles",
               "numEntrants": 13
+            }
+          ]
+        },
+        {
+          "name": "StrikeLand: Stay In Your Lane",
+          "id": 948015,
+          "numAttendees": 11,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1792252800,
+          "slug": "tournament/strikeland-stay-in-your-lane",
+          "images": [],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Rivals II",
+              "numEntrants": 3
+            },
+            {
+              "name": "Guilty Gear Strive",
+              "numEntrants": 1
+            },
+            {
+              "name": "Avatar Legends: The Fighting Game",
+              "numEntrants": 0
+            },
+            {
+              "name": "Under Night In-Birth II Sys:Celes",
+              "numEntrants": 0
             }
           ]
         },
@@ -275,7 +245,7 @@
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 23,
+          "numAttendees": 32,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -293,14 +263,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 22
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 31
             },
             {
               "name": "Ultimate Doubles",
+              "numEntrants": 4
+            },
+            {
+              "name": "Redemption Bracket",
               "numEntrants": 0
             }
           ]
@@ -333,7 +303,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 34,
+          "numAttendees": 35,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -355,7 +325,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "Guilty Gear -Strive-",
