@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T04:17:17.494Z",
+  "updatedAt": "2026-10-10T04:02:27.426Z",
   "data": {
     "Missouri": {
       "nodes": [
@@ -31,7 +31,7 @@
         {
           "name": "Strike! 78",
           "id": 961927,
-          "numAttendees": 2,
+          "numAttendees": 19,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1791588600,
@@ -49,18 +49,18 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 19
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Smash at Midwest Retro (FREE ENTRY)",
           "id": 961936,
-          "numAttendees": 2,
+          "numAttendees": 4,
           "city": "Troy",
           "addrState": "MO",
           "startAt": 1791759600,
@@ -69,7 +69,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             }
           ]
         },
@@ -122,7 +122,7 @@
         {
           "name": "StrikeLand: Stay In Your Lane",
           "id": 948015,
-          "numAttendees": 11,
+          "numAttendees": 17,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1792252800,
@@ -131,23 +131,23 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 14
             },
             {
               "name": "Rivals II",
-              "numEntrants": 3
+              "numEntrants": 6
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 0
+              "numEntrants": 2
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
@@ -204,7 +204,7 @@
         {
           "name": "MAD Monthly October 2026",
           "id": 960004,
-          "numAttendees": 2,
+          "numAttendees": 7,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1792276260,
@@ -222,7 +222,7 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Pokemon TCG Expanded Format",
@@ -230,11 +230,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 1
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 6
             },
             {
               "name": "Redemption Bracket",
@@ -267,7 +267,7 @@
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Redemption Bracket",
@@ -303,7 +303,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 35,
+          "numAttendees": 36,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -325,7 +325,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 12
+              "numEntrants": 13
             },
             {
               "name": "Guilty Gear -Strive-",
