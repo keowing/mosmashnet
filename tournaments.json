@@ -1,66 +1,12 @@
 {
-  "updatedAt": "2026-10-10T04:02:27.426Z",
+  "updatedAt": "2026-10-11T03:37:49.632Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Kachow Kup 36: Splash Zone",
-          "id": 952314,
-          "numAttendees": 12,
-          "city": "Ste. Genevieve",
-          "addrState": "MO",
-          "startAt": 1791585000,
-          "slug": "tournament/kachow-kup-36-splash-zone",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/952314/image-aaa39851a1bd0784463cbf589fe9f997.jpg",
-              "type": "banner"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/952314/image-2dbac69d5b11c2a335ec24ce8497b7c8.jpg",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Strike! 78",
-          "id": 961927,
-          "numAttendees": 19,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1791588600,
-          "slug": "tournament/strike-78",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/961927/image-9fe41d375205d62128e83a762e79b455-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/961927/image-e20e83d2ae1d2200bab2f3a8dbad5ca0-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "Smash at Midwest Retro (FREE ENTRY)",
           "id": 961936,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Troy",
           "addrState": "MO",
           "startAt": 1791759600,
@@ -69,7 +15,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -91,6 +37,72 @@
             {
               "name": "Ulitmate Singles",
               "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "Gogi's Bulgogi-Bash! #3",
+          "id": 963308,
+          "numAttendees": 3,
+          "city": "Warrensburg",
+          "addrState": "MO",
+          "startAt": 1791853200,
+          "slug": "tournament/gogi-s-bulgogi-bash-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/963308/image-2e80720e7b6e29b41a418786dc645ce1-optimized.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/963308/image-b77a288870da33156985c7b5732febe2-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "Smash @ Mizzou 193: Brodsterr Bash!",
+          "id": 963103,
+          "numAttendees": 0,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1791932460,
+          "slug": "tournament/smash-mizzou-193-brodsterr-bash",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/963103/image-ae7ea508eaff7c81dd97b3c34fb7085c-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/963103/image-0c8498716114e182f34126d4fe3865ea-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Guilty Gear",
+              "numEntrants": 0
+            },
+            {
+              "name": "Tekken 7 Bowling",
+              "numEntrants": 0
+            },
+            {
+              "name": "UNI 2",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
             }
           ]
         },
@@ -204,7 +216,7 @@
         {
           "name": "MAD Monthly October 2026",
           "id": 960004,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1792276260,
@@ -230,11 +242,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Redemption Bracket",
