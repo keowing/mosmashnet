@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-11T03:37:49.632Z",
+  "updatedAt": "2026-10-12T04:01:55.578Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Smash at Midwest Retro (FREE ENTRY)",
           "id": 961936,
-          "numAttendees": 5,
+          "numAttendees": 8,
           "city": "Troy",
           "addrState": "MO",
           "startAt": 1791759600,
@@ -15,7 +15,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 8
             }
           ]
         },
@@ -43,7 +43,7 @@
         {
           "name": "Gogi's Bulgogi-Bash! #3",
           "id": 963308,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Warrensburg",
           "addrState": "MO",
           "startAt": 1791853200,
@@ -61,14 +61,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 193: Brodsterr Bash!",
           "id": 963103,
-          "numAttendees": 0,
+          "numAttendees": 6,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1791932460,
@@ -85,11 +85,11 @@
           ],
           "events": [
             {
-              "name": "Guilty Gear",
-              "numEntrants": 0
+              "name": "Tekken 7 Bowling",
+              "numEntrants": 4
             },
             {
-              "name": "Tekken 7 Bowling",
+              "name": "Guilty Gear",
               "numEntrants": 0
             },
             {
@@ -98,18 +98,18 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 6
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "Deino's Den 2",
           "id": 957935,
-          "numAttendees": 13,
+          "numAttendees": 14,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1791936000,
@@ -127,7 +127,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 14
             }
           ]
         },
@@ -216,7 +216,7 @@
         {
           "name": "MAD Monthly October 2026",
           "id": 960004,
-          "numAttendees": 8,
+          "numAttendees": 10,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1792276260,
@@ -246,7 +246,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             },
             {
               "name": "Redemption Bracket",
@@ -257,7 +257,7 @@
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 32,
+          "numAttendees": 33,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -275,7 +275,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 31
+              "numEntrants": 32
             },
             {
               "name": "Ultimate Doubles",
@@ -385,7 +385,37 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 205",
+          "id": 963489,
+          "numAttendees": 17,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1791763200,
+          "slug": "tournament/rock-chalk-jab-lock-205",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/963489/image-9099e33e9b59817dc02173619423f853-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/963489/image-09778ce3a8623253a013b59490b22a11-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 17
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 7
+            }
+          ]
+        }
+      ]
     }
   }
 }
