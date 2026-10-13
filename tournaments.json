@@ -1,28 +1,12 @@
 {
-  "updatedAt": "2026-10-12T04:01:55.578Z",
+  "updatedAt": "2026-10-13T05:11:06.807Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash at Midwest Retro (FREE ENTRY)",
-          "id": 961936,
-          "numAttendees": 8,
-          "city": "Troy",
-          "addrState": "MO",
-          "startAt": 1791759600,
-          "slug": "tournament/smash-at-midwest-retro-free-entry",
-          "images": [],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "Pack Rat Infestation October",
           "id": 956672,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1791846000,
@@ -36,14 +20,76 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "Gold Rush #94",
+          "id": 963796,
+          "numAttendees": 15,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1791849600,
+          "slug": "tournament/gold-rush-94",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/963796/image-9b6c251ceb0f95bdde8389a71e7c053f-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/963796/image-d2752fde2fe4bd00dc016fc8aa58bc59-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 11
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 4
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "Royale with Cheese #63",
+          "id": 963902,
+          "numAttendees": 17,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1791849600,
+          "slug": "tournament/royale-with-cheese-63",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/963902/image-fb24783b5c6b2e8d5465614e95a8b553-optimized.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 15
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 7
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "Gogi's Bulgogi-Bash! #3",
           "id": 963308,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Warrensburg",
           "addrState": "MO",
           "startAt": 1791853200,
@@ -61,14 +107,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 193: Brodsterr Bash!",
           "id": 963103,
-          "numAttendees": 6,
+          "numAttendees": 14,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1791932460,
@@ -86,30 +132,59 @@
           "events": [
             {
               "name": "Tekken 7 Bowling",
-              "numEntrants": 4
-            },
-            {
-              "name": "Guilty Gear",
-              "numEntrants": 0
-            },
-            {
-              "name": "UNI 2",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
               "numEntrants": 6
             },
             {
-              "name": "Redemption Bracket",
+              "name": "Guilty Gear",
+              "numEntrants": 2
+            },
+            {
+              "name": "UNI 2",
               "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 12
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "SpookyScaryville… #dudeimnotscared",
+          "id": 963924,
+          "numAttendees": 8,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1791934200,
+          "slug": "tournament/spookyscaryville-dudeimnotscared",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/963924/image-59078358db5a33c23745b55ae2cfe5b8.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/963924/image-47d812b8aedc429679a429ffd57008b3.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Redemption",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Deino's Den 2",
           "id": 957935,
-          "numAttendees": 14,
+          "numAttendees": 19,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1791936000,
@@ -127,7 +202,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 14
+              "numEntrants": 19
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 86",
+          "id": 963773,
+          "numAttendees": 7,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1792020600,
+          "slug": "tournament/phaze-fusion-86",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/963773/image-6aee4f6351b1235609d51a9f1d27d7e8-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/963773/image-f7edf1f2956ba7c84ffb0fbcca3843a6-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "DRAGON BALL FighterZ",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -238,7 +346,7 @@
             },
             {
               "name": "Pokemon TCG Expanded Format",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Squad Strike",
@@ -246,7 +354,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 8
             },
             {
               "name": "Redemption Bracket",
@@ -257,7 +365,7 @@
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 33,
+          "numAttendees": 38,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -275,7 +383,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 32
+              "numEntrants": 37
             },
             {
               "name": "Ultimate Doubles",
@@ -315,7 +423,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 36,
+          "numAttendees": 37,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -337,7 +445,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 13
+              "numEntrants": 14
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -349,73 +457,14 @@
             },
             {
               "name": "SSBM Doubles",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
-          "name": "Marcus Monthly #18",
-          "id": 959669,
-          "numAttendees": 2,
-          "city": "Des Peres",
-          "addrState": "MO",
-          "startAt": 1794776400,
-          "slug": "tournament/marcus-monthly-18",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/959669/image-7112c1935596fa3d5f3d9e6b1b6d6309-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/959669/image-28100d2579ad378c671e734f00711b6b-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 2
-            },
-            {
-              "name": "HDR Singles",
-              "numEntrants": 0
+              "numEntrants": 4
             }
           ]
         }
       ]
     },
     "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Rock Chalk Jab Lock 205",
-          "id": 963489,
-          "numAttendees": 17,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1791763200,
-          "slug": "tournament/rock-chalk-jab-lock-205",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/963489/image-9099e33e9b59817dc02173619423f853-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/963489/image-09778ce3a8623253a013b59490b22a11-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            }
-          ]
-        }
-      ]
+      "nodes": []
     }
   }
 }
