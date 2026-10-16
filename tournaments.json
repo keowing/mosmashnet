@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-10-15T02:55:40.177Z",
+  "updatedAt": "2026-10-16T02:53:20.073Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 86",
-          "id": 963773,
-          "numAttendees": 34,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1792020600,
-          "slug": "tournament/phaze-fusion-86",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/963773/image-6aee4f6351b1235609d51a9f1d27d7e8-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/963773/image-f7edf1f2956ba7c84ffb0fbcca3843a6-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 31
-            },
-            {
-              "name": "DRAGON BALL FighterZ",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #557",
-          "id": 964632,
-          "numAttendees": 17,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1792022400,
-          "slug": "tournament/smash-cafe-557",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/964632/image-5999788866cf1c549ce5023f3601590c-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/964632/image-e4be468df6bcdb2422b94fe9b62140e4-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 89",
           "id": 964354,
-          "numAttendees": 12,
+          "numAttendees": 24,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792108800,
@@ -86,15 +24,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 4
+              "numEntrants": 17
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 6
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 7
             }
           ]
         },
@@ -134,7 +72,7 @@
         {
           "name": "StrikeLand: Stay In Your Lane",
           "id": 948015,
-          "numAttendees": 20,
+          "numAttendees": 25,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1792252800,
@@ -143,23 +81,23 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 21
             },
             {
               "name": "Rivals II",
-              "numEntrants": 7
+              "numEntrants": 9
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 5
+              "numEntrants": 7
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 3
+              "numEntrants": 6
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 3
+              "numEntrants": 6
             }
           ]
         },
@@ -216,7 +154,7 @@
         {
           "name": "MAD Monthly October 2026",
           "id": 960004,
-          "numAttendees": 12,
+          "numAttendees": 14,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1792276260,
@@ -242,11 +180,11 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 12
             },
             {
               "name": "Redemption Bracket",
@@ -257,7 +195,7 @@
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 43,
+          "numAttendees": 45,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -275,7 +213,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 42
+              "numEntrants": 44
             },
             {
               "name": "Ultimate Doubles",
