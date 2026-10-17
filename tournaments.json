@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-10-16T02:53:20.073Z",
+  "updatedAt": "2026-10-17T02:44:44.672Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 89",
-          "id": 964354,
-          "numAttendees": 24,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1792108800,
-          "slug": "tournament/ursa-minor-89",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/964354/image-8779b55d8febd7855095c7dde00a3531-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/964354/image-b78dba396fcef92070639b5f555286de-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 17
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
           "name": "Strike! 79",
           "id": 964663,
-          "numAttendees": 0,
+          "numAttendees": 25,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1792193400,
@@ -57,22 +24,55 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 0
+              "numEntrants": 23
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 9
+            },
+            {
+              "name": "ROA2 Singles",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "Smash Casuals #64",
+          "id": 965368,
+          "numAttendees": 15,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1792193400,
+          "slug": "tournament/smash-casuals-64",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/965368/image-830843487a0cd7e1827952e75e8847df-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/965368/image-518c477047ecac32db93082f571a8f47-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Joy And Whimsy (Ult)",
+              "numEntrants": 11
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 12
+            },
+            {
+              "name": "Boss Blitz Mode (REX)",
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "StrikeLand: Stay In Your Lane",
           "id": 948015,
-          "numAttendees": 25,
+          "numAttendees": 29,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1792252800,
@@ -81,15 +81,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 24
             },
             {
               "name": "Rivals II",
-              "numEntrants": 9
+              "numEntrants": 12
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Avatar Legends: The Fighting Game",
@@ -97,7 +97,7 @@
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 6
+              "numEntrants": 5
             }
           ]
         },
@@ -154,7 +154,7 @@
         {
           "name": "MAD Monthly October 2026",
           "id": 960004,
-          "numAttendees": 14,
+          "numAttendees": 25,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1792276260,
@@ -172,7 +172,7 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Pokemon TCG Expanded Format",
@@ -184,7 +184,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 23
             },
             {
               "name": "Redemption Bracket",
@@ -193,9 +193,42 @@
           ]
         },
         {
+          "name": "PHAZE ➠ FUSION 87",
+          "id": 965541,
+          "numAttendees": 2,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1792625400,
+          "slug": "tournament/phaze-fusion-87",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/965541/image-db5a18e8090ee6411728638546f69c63-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/965541/image-ffbf3f06612f336e283156b08af24cc9-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "TEKKEN 8",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 45,
+          "numAttendees": 46,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -213,11 +246,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 44
+              "numEntrants": 45
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Redemption Bracket",
@@ -226,13 +259,13 @@
           ]
         },
         {
-          "name": "Kachow Kup 37: TBD",
+          "name": "Kachow Kup 37: One Last Sip",
           "id": 952315,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1794007800,
-          "slug": "tournament/kachow-kup-37-tbd",
+          "slug": "tournament/kachow-kup-37-one-last-sip",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/952315/image-a792185c02fec6c098ad25840a4a27a8.jpg",
@@ -246,14 +279,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 40,
+          "numAttendees": 43,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -271,19 +304,19 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 27
+              "numEntrants": 29
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 14
+              "numEntrants": 15
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Playmakers",
-              "numEntrants": 15
+              "numEntrants": 17
             },
             {
               "name": "SSBM Doubles",
