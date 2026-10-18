@@ -1,103 +1,46 @@
 {
-  "updatedAt": "2026-10-17T02:44:44.672Z",
+  "updatedAt": "2026-10-18T02:46:08.510Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 79",
-          "id": 964663,
-          "numAttendees": 25,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1792193400,
-          "slug": "tournament/strike-79",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/964663/image-12da5d741c53d5d20fa59ca86d6021d2-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/964663/image-55a2367494217345a53af60536ddc991-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 23
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 9
-            },
-            {
-              "name": "ROA2 Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Smash Casuals #64",
-          "id": 965368,
-          "numAttendees": 15,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1792193400,
-          "slug": "tournament/smash-casuals-64",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/965368/image-830843487a0cd7e1827952e75e8847df-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/965368/image-518c477047ecac32db93082f571a8f47-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Joy And Whimsy (Ult)",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 12
-            },
-            {
-              "name": "Boss Blitz Mode (REX)",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "StrikeLand: Stay In Your Lane",
           "id": 948015,
-          "numAttendees": 29,
+          "numAttendees": 38,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1792252800,
           "slug": "tournament/strikeland-stay-in-your-lane",
-          "images": [],
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/948015/image-309bbe36046723080edd806b5e97b1f3.png",
+              "type": "profile"
+            }
+          ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 24
+              "name": "Rivals II",
+              "numEntrants": 11
             },
             {
-              "name": "Rivals II",
-              "numEntrants": 12
+              "name": "Ultimate Singles",
+              "numEntrants": 31
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 3
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 8
-            },
-            {
-              "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 6
+              "numEntrants": 9
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 5
+              "numEntrants": 4
+            },
+            {
+              "name": "Avatar Legends: The Fighting Game",
+              "numEntrants": 7
             }
           ]
         },
@@ -129,7 +72,7 @@
         {
           "name": "Feather Weights: 4th Bout!",
           "id": 961061,
-          "numAttendees": 5,
+          "numAttendees": 9,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1792261800,
@@ -147,14 +90,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "MAD Monthly October 2026",
           "id": 960004,
-          "numAttendees": 25,
+          "numAttendees": 43,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1792276260,
@@ -172,30 +115,30 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 3
+              "numEntrants": 2
             },
             {
               "name": "Pokemon TCG Expanded Format",
-              "numEntrants": 1
+              "numEntrants": 4
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 6
+              "numEntrants": 17
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 23
+              "numEntrants": 27
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 87",
           "id": 965541,
-          "numAttendees": 2,
+          "numAttendees": 6,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1792625400,
@@ -213,7 +156,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 6
             },
             {
               "name": "TEKKEN 8",
@@ -228,7 +171,7 @@
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 46,
+          "numAttendees": 48,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -246,11 +189,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 45
+              "numEntrants": 46
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Redemption Bracket",
@@ -356,7 +299,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -374,7 +317,7 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
