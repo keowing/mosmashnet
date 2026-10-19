@@ -1,144 +1,37 @@
 {
-  "updatedAt": "2026-10-18T02:46:08.510Z",
+  "updatedAt": "2026-10-19T02:59:09.193Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "StrikeLand: Stay In Your Lane",
-          "id": 948015,
-          "numAttendees": 38,
-          "city": "Columbia",
+          "name": "Gogi's Bulgogi-Bash! #4",
+          "id": 966083,
+          "numAttendees": 4,
+          "city": "Warrensburg",
           "addrState": "MO",
-          "startAt": 1792252800,
-          "slug": "tournament/strikeland-stay-in-your-lane",
+          "startAt": 1792458000,
+          "slug": "tournament/gogi-s-bulgogi-bash-4",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/948015/image-309bbe36046723080edd806b5e97b1f3.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Rivals II",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 31
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 3
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 9
-            },
-            {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 4
-            },
-            {
-              "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
-          "name": "SLCL Learn to Read #13",
-          "id": 959894,
-          "numAttendees": 25,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1792256400,
-          "slug": "tournament/slcl-learn-to-read-13",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/959894/image-df406816d90fdd5a2a744434ed00acb3-optimized.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "High Dynamic Range Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Learn to Read 10 Singles",
-              "numEntrants": 23
-            }
-          ]
-        },
-        {
-          "name": "Feather Weights: 4th Bout!",
-          "id": 961061,
-          "numAttendees": 9,
-          "city": "Liberty",
-          "addrState": "MO",
-          "startAt": 1792261800,
-          "slug": "tournament/feather-weights-4th-bout",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/961061/image-f6035d79311b59ae0a37da7816b0373b-optimized.png",
+              "url": "https://images.start.gg/images/tournament/966083/image-58249f43a5672a96ec0bad5cef31a398-optimized.jpg",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/961061/image-5f9b414e5d14d90eaccfbfabd088eba5-optimized.png",
+              "url": "https://images.start.gg/images/tournament/966083/image-1c05f77422b7de94144bf06fea45de31-optimized.jpg",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
-          "name": "MAD Monthly October 2026",
-          "id": 960004,
-          "numAttendees": 43,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1792276260,
-          "slug": "tournament/mad-monthly-october-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/960004/image-2343455b0ebb6d30333501a373b23e17-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/960004/image-88090d49447ad3f30156bfdb14ad2598-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "HDR @ MAD",
-              "numEntrants": 2
-            },
-            {
-              "name": "Pokemon TCG Expanded Format",
               "numEntrants": 4
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 17
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 27
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 9
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 87",
           "id": 965541,
-          "numAttendees": 6,
+          "numAttendees": 8,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1792625400,
@@ -156,7 +49,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 8
             },
             {
               "name": "TEKKEN 8",
@@ -164,14 +57,14 @@
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 48,
+          "numAttendees": 49,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -189,11 +82,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 46
+              "numEntrants": 47
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Redemption Bracket",
@@ -229,7 +122,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 43,
+          "numAttendees": 44,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -251,7 +144,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 15
+              "numEntrants": 16
             },
             {
               "name": "Guilty Gear -Strive-",
