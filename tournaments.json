@@ -1,12 +1,74 @@
 {
-  "updatedAt": "2026-10-19T02:59:09.193Z",
+  "updatedAt": "2026-10-20T03:08:47.658Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
+          "name": "Royale with Cheese #64",
+          "id": 966344,
+          "numAttendees": 10,
+          "city": "Lee's Summit",
+          "addrState": "MO",
+          "startAt": 1792454400,
+          "slug": "tournament/royale-with-cheese-64",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/966344/image-13fab2cff873c8b8e916dc950f03fc2f-optimized.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 8
+            },
+            {
+              "name": "Remix Singles",
+              "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "Gold Rush #95",
+          "id": 966370,
+          "numAttendees": 15,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1792454400,
+          "slug": "tournament/gold-rush-95",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/966370/image-9760649a395480baf9f0b9455a9cb2ca-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/966370/image-919ac025ff2810b47f2c465c02acfe45-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 8
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
           "name": "Gogi's Bulgogi-Bash! #4",
           "id": 966083,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Warrensburg",
           "addrState": "MO",
           "startAt": 1792458000,
@@ -24,14 +86,55 @@
           "events": [
             {
               "name": "Ultimate Singles",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "Smash @ Mizzou 194: Escape From Midterms",
+          "id": 966643,
+          "numAttendees": 9,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1792537260,
+          "slug": "tournament/smash-mizzou-194-escape-from-midterms",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/966643/image-c114304ec3f0f06d8c531ee1d78b30a2-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/966643/image-995f5514be0acfee9be340a6518a0d67-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Avatar",
               "numEntrants": 4
+            },
+            {
+              "name": "Castlevania",
+              "numEntrants": 3
+            },
+            {
+              "name": "MBAACC",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 87",
           "id": 965541,
-          "numAttendees": 8,
+          "numAttendees": 17,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1792625400,
@@ -49,11 +152,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 17
             },
             {
               "name": "TEKKEN 8",
-              "numEntrants": 0
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
@@ -62,9 +165,42 @@
           ]
         },
         {
+          "name": "URSA MINOR 90",
+          "id": 966600,
+          "numAttendees": 3,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1792713600,
+          "slug": "tournament/ursa-minor-90",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/966600/image-9bb617af5dd68bd78d6d47e08e849aac-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/966600/image-0adc84e16d6e3c2f21177f58bfc51dcd-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 3
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 49,
+          "numAttendees": 53,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -82,7 +218,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 47
+              "numEntrants": 52
             },
             {
               "name": "Ultimate Doubles",
@@ -163,7 +299,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -181,7 +317,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "HDR Singles",
