@@ -1,99 +1,12 @@
 {
-  "updatedAt": "2026-10-20T03:08:47.658Z",
+  "updatedAt": "2026-10-21T03:03:40.285Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Royale with Cheese #64",
-          "id": 966344,
-          "numAttendees": 10,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1792454400,
-          "slug": "tournament/royale-with-cheese-64",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/966344/image-13fab2cff873c8b8e916dc950f03fc2f-optimized.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
-            },
-            {
-              "name": "Remix Singles",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Gold Rush #95",
-          "id": 966370,
-          "numAttendees": 15,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1792454400,
-          "slug": "tournament/gold-rush-95",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/966370/image-9760649a395480baf9f0b9455a9cb2ca-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/966370/image-919ac025ff2810b47f2c465c02acfe45-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 8
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Gogi's Bulgogi-Bash! #4",
-          "id": 966083,
-          "numAttendees": 6,
-          "city": "Warrensburg",
-          "addrState": "MO",
-          "startAt": 1792458000,
-          "slug": "tournament/gogi-s-bulgogi-bash-4",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/966083/image-58249f43a5672a96ec0bad5cef31a398-optimized.jpg",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/966083/image-1c05f77422b7de94144bf06fea45de31-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "Smash @ Mizzou 194: Escape From Midterms",
           "id": 966643,
-          "numAttendees": 9,
+          "numAttendees": 31,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1792537260,
@@ -110,31 +23,31 @@
           ],
           "events": [
             {
-              "name": "Avatar",
-              "numEntrants": 4
-            },
-            {
               "name": "Castlevania",
-              "numEntrants": 3
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 1
+              "numEntrants": 12
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 18
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 1
+              "numEntrants": 9
+            },
+            {
+              "name": "Avatar",
+              "numEntrants": 13
+            },
+            {
+              "name": "MBAACC",
+              "numEntrants": 9
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 87",
           "id": 965541,
-          "numAttendees": 17,
+          "numAttendees": 27,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1792625400,
@@ -152,22 +65,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 26
             },
             {
               "name": "TEKKEN 8",
-              "numEntrants": 2
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "URSA MINOR 90",
           "id": 966600,
-          "numAttendees": 3,
+          "numAttendees": 5,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792713600,
@@ -185,7 +98,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 5
             },
             {
               "name": "Melee Singles",
@@ -200,7 +113,7 @@
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 53,
+          "numAttendees": 56,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -218,7 +131,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 52
+              "numEntrants": 54
             },
             {
               "name": "Ultimate Doubles",
@@ -258,7 +171,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 44,
+          "numAttendees": 45,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -276,7 +189,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 29
+              "numEntrants": 30
             },
             {
               "name": "SSBM Singles",
@@ -353,7 +266,7 @@
         {
           "name": "Valhalla II",
           "id": 963880,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1796493600,
@@ -371,7 +284,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Redemption",
