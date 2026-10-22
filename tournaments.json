@@ -1,53 +1,12 @@
 {
-  "updatedAt": "2026-10-21T03:03:40.285Z",
+  "updatedAt": "2026-10-22T03:02:19.779Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 194: Escape From Midterms",
-          "id": 966643,
-          "numAttendees": 31,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1792537260,
-          "slug": "tournament/smash-mizzou-194-escape-from-midterms",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/966643/image-c114304ec3f0f06d8c531ee1d78b30a2-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/966643/image-995f5514be0acfee9be340a6518a0d67-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Castlevania",
-              "numEntrants": 12
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 9
-            },
-            {
-              "name": "Avatar",
-              "numEntrants": 13
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 9
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 87",
           "id": 965541,
-          "numAttendees": 27,
+          "numAttendees": 32,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1792625400,
@@ -65,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 26
+              "numEntrants": 31
             },
             {
               "name": "TEKKEN 8",
@@ -73,14 +32,43 @@
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 2
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #558",
+          "id": 967164,
+          "numAttendees": 9,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1792627200,
+          "slug": "tournament/smash-cafe-558",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/967164/image-3f21071eed9413340f7d76825518decb-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/967164/image-527a60ec27d46c151a82e1b1c88530b8-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "URSA MINOR 90",
           "id": 966600,
-          "numAttendees": 5,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792713600,
@@ -98,7 +86,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 9
             },
             {
               "name": "Melee Singles",
@@ -111,31 +99,60 @@
           ]
         },
         {
+          "name": "Strike! 80",
+          "id": 967154,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1792798200,
+          "slug": "tournament/strike-80",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/967154/image-9f2a8e05a21b9bc3c3b339b90fb44262-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/967154/image-85f34396ca3b3d83afcd4e005cce6134-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 56,
+          "numAttendees": 59,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
           "slug": "tournament/fighting-ghosts-system-stock",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/961961/image-0a0dddc39f382772c523accb8ae27bf7.jpg",
+              "url": "https://images.start.gg/images/tournament/961961/image-0a0dddc39f382772c523accb8ae27bf7-optimized.jpg",
               "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/961961/image-0ad0eac0e1f1af16f65129d5d88ce224.png",
+              "url": "https://images.start.gg/images/tournament/961961/image-0ad0eac0e1f1af16f65129d5d88ce224-optimized.png",
               "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 54
+              "numEntrants": 58
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 9
+              "numEntrants": 12
             },
             {
               "name": "Redemption Bracket",
@@ -171,7 +188,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 45,
+          "numAttendees": 46,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -205,7 +222,7 @@
             },
             {
               "name": "SSBM Doubles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -241,7 +258,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 2,
+          "numAttendees": 6,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -259,7 +276,7 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 2
+              "numEntrants": 6
             }
           ]
         },
