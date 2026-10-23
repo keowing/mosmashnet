@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-10-22T03:02:19.779Z",
+  "updatedAt": "2026-10-23T03:06:30.997Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 87",
-          "id": 965541,
-          "numAttendees": 32,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1792625400,
-          "slug": "tournament/phaze-fusion-87",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/965541/image-db5a18e8090ee6411728638546f69c63-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/965541/image-ffbf3f06612f336e283156b08af24cc9-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 31
-            },
-            {
-              "name": "TEKKEN 8",
-              "numEntrants": 7
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #558",
-          "id": 967164,
-          "numAttendees": 9,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1792627200,
-          "slug": "tournament/smash-cafe-558",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/967164/image-3f21071eed9413340f7d76825518decb-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/967164/image-527a60ec27d46c151a82e1b1c88530b8-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 90",
           "id": 966600,
-          "numAttendees": 9,
+          "numAttendees": 23,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792713600,
@@ -86,39 +24,43 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 0
+              "numEntrants": 23
             },
             {
               "name": "Ultimate Redemption",
+              "numEntrants": 7
+            },
+            {
+              "name": "Melee Singles",
               "numEntrants": 0
             }
           ]
         },
         {
           "name": "Strike! 80",
-          "id": 967154,
-          "numAttendees": 0,
+          "id": 967496,
+          "numAttendees": 2,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1792798200,
-          "slug": "tournament/strike-80",
+          "slug": "tournament/strike-80-1",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/967154/image-9f2a8e05a21b9bc3c3b339b90fb44262-optimized.png",
+              "url": "https://images.start.gg/images/tournament/967496/image-5d3c0e6dafd1d4e44d37879a38887e58-optimized.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/967154/image-85f34396ca3b3d83afcd4e005cce6134-optimized.png",
+              "url": "https://images.start.gg/images/tournament/967496/image-e0a4cf7d48b472278b2aa464f8394aac-optimized.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "ROA2 Singles w/ Workshop",
               "numEntrants": 0
             },
             {
@@ -130,7 +72,7 @@
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 59,
+          "numAttendees": 66,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -148,11 +90,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 58
+              "numEntrants": 65
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 12
+              "numEntrants": 14
             },
             {
               "name": "Redemption Bracket",
