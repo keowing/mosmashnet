@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-10-23T03:06:30.997Z",
+  "updatedAt": "2026-10-24T03:02:01.683Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 90",
-          "id": 966600,
-          "numAttendees": 23,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1792713600,
-          "slug": "tournament/ursa-minor-90",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/966600/image-9bb617af5dd68bd78d6d47e08e849aac-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/966600/image-0adc84e16d6e3c2f21177f58bfc51dcd-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 23
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 7
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "Strike! 80",
           "id": 967496,
-          "numAttendees": 2,
+          "numAttendees": 21,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1792798200,
@@ -57,22 +24,22 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
-            },
-            {
-              "name": "ROA2 Singles w/ Workshop",
-              "numEntrants": 0
+              "numEntrants": 19
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 9
+            },
+            {
+              "name": "ROA2 Singles w/ Workshop",
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 66,
+          "numAttendees": 67,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -90,11 +57,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 65
+              "numEntrants": 63
             },
             {
               "name": "Ultimate Doubles",
-              "numEntrants": 14
+              "numEntrants": 15
             },
             {
               "name": "Redemption Bracket",
@@ -130,7 +97,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 46,
+          "numAttendees": 47,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -148,11 +115,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 30
+              "numEntrants": 31
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 16
+              "numEntrants": 17
             },
             {
               "name": "Guilty Gear -Strive-",
