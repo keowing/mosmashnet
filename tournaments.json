@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-10-24T03:02:01.683Z",
+  "updatedAt": "2026-10-25T02:56:17.573Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 80",
-          "id": 967496,
-          "numAttendees": 21,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1792798200,
-          "slug": "tournament/strike-80-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/967496/image-5d3c0e6dafd1d4e44d37879a38887e58-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/967496/image-e0a4cf7d48b472278b2aa464f8394aac-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 9
-            },
-            {
-              "name": "ROA2 Singles w/ Workshop",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
           "name": "FIGHTING GHOSTS: SYSTEM STOCK",
           "id": 961961,
-          "numAttendees": 67,
+          "numAttendees": 69,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1792854000,
@@ -60,12 +27,12 @@
               "numEntrants": 63
             },
             {
-              "name": "Ultimate Doubles",
-              "numEntrants": 15
+              "name": "Redemption Bracket",
+              "numEntrants": 17
             },
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
+              "name": "Ultimate Doubles",
+              "numEntrants": 18
             }
           ]
         },
@@ -221,7 +188,37 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 206",
+          "id": 968121,
+          "numAttendees": 2,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1792972800,
+          "slug": "tournament/rock-chalk-jab-lock-206",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/968121/image-db36515d481dfae84e42c8e7a54f8074-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/968121/image-3854bb8687fcc213bc8b9ae407c74f5e-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
     }
   }
 }
