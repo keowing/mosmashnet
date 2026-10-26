@@ -1,38 +1,71 @@
 {
-  "updatedAt": "2026-10-25T02:56:17.573Z",
+  "updatedAt": "2026-10-26T02:54:51.597Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "FIGHTING GHOSTS: SYSTEM STOCK",
-          "id": 961961,
-          "numAttendees": 69,
-          "city": "Springfield",
+          "name": "Gogi's Bulgogi-Bash! #5",
+          "id": 968372,
+          "numAttendees": 3,
+          "city": "Warrensburg",
           "addrState": "MO",
-          "startAt": 1792854000,
-          "slug": "tournament/fighting-ghosts-system-stock",
+          "startAt": 1793062800,
+          "slug": "tournament/gogi-s-bulgogi-bash-5",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/961961/image-0a0dddc39f382772c523accb8ae27bf7-optimized.jpg",
-              "type": "banner"
+              "url": "https://images.start.gg/images/tournament/968372/image-9628ef934756e9e6b558376d72735c6a-optimized.jpg",
+              "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/961961/image-0ad0eac0e1f1af16f65129d5d88ce224-optimized.png",
-              "type": "profile"
+              "url": "https://images.start.gg/images/tournament/968372/image-e2cffc1f8eb73e2d6c149ea5285fe820-optimized.jpg",
+              "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 63
+              "numEntrants": 3
+            }
+          ]
+        },
+        {
+          "name": "Smash @ Mizzou 195: Monster Mash",
+          "id": 968489,
+          "numAttendees": 0,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1793142060,
+          "slug": "tournament/smash-mizzou-195-monster-mash",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/968489/image-6ef02fefa4fa83bdc521edba77bff08c-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/968489/image-265e0914a508817aee1c4364d30224bf-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Rivals 2",
+              "numEntrants": 0
+            },
+            {
+              "name": "UNI 2",
+              "numEntrants": 0
+            },
+            {
+              "name": "VSAV",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 17
-            },
-            {
-              "name": "Ultimate Doubles",
-              "numEntrants": 18
+              "numEntrants": 0
             }
           ]
         },
@@ -62,9 +95,30 @@
           ]
         },
         {
+          "name": "Pack Rat Infestation November",
+          "id": 968485,
+          "numAttendees": 1,
+          "city": "Warrenton",
+          "addrState": "MO",
+          "startAt": 1794268800,
+          "slug": "tournament/pack-rat-infestation-november",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/968485/image-ad3ab85c8a717d9324c48afab9488ba2-optimized.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ulitmate Singles",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 47,
+          "numAttendees": 49,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -82,11 +136,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 31
+              "numEntrants": 32
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 17
+              "numEntrants": 18
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -94,11 +148,11 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 17
+              "numEntrants": 18
             },
             {
               "name": "SSBM Doubles",
-              "numEntrants": 5
+              "numEntrants": 6
             }
           ]
         },
@@ -192,7 +246,7 @@
         {
           "name": "Rock Chalk Jab Lock 206",
           "id": 968121,
-          "numAttendees": 2,
+          "numAttendees": 11,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1792972800,
@@ -210,11 +264,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 11
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         }
