@@ -1,53 +1,12 @@
 {
-  "updatedAt": "2026-10-28T03:43:39.399Z",
+  "updatedAt": "2026-10-29T04:04:49.760Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 195: Monster Mash",
-          "id": 968489,
-          "numAttendees": 28,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1793142060,
-          "slug": "tournament/smash-mizzou-195-monster-mash",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/968489/image-6ef02fefa4fa83bdc521edba77bff08c-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/968489/image-265e0914a508817aee1c4364d30224bf-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 19
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 12
-            },
-            {
-              "name": "VSAV",
-              "numEntrants": 10
-            },
-            {
-              "name": "UNI 2",
-              "numEntrants": 9
-            },
-            {
-              "name": "Rivals 2",
-              "numEntrants": 3
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 88",
           "id": 968585,
-          "numAttendees": 29,
+          "numAttendees": 40,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1793230200,
@@ -65,11 +24,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 27
+              "numEntrants": 36
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 12
             },
             {
               "name": "Rock Paper Scissors",
-              "numEntrants": 11
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #559",
+          "id": 969565,
+          "numAttendees": 4,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1793232000,
+          "slug": "tournament/smash-cafe-559",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/969565/image-3e171e39d8dec6726948467bafb2450d-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/969565/image-0600a6f24d15707d15d24adec491b82b-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Redemption",
@@ -80,7 +68,7 @@
         {
           "name": "URSA MINOR 91",
           "id": 968959,
-          "numAttendees": 7,
+          "numAttendees": 9,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1793318400,
@@ -98,10 +86,43 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             },
             {
               "name": "Melee Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Strike! 81",
+          "id": 969558,
+          "numAttendees": 0,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1793403000,
+          "slug": "tournament/strike-81",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/969558/image-907c872c35592b5c973d2b24c704277c-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/969558/image-26948358a04acb0c894bfd23bc4d7083-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Squads",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 0
             },
             {
@@ -245,7 +266,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -263,7 +284,48 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 6
+              "numEntrants": 7
+            }
+          ]
+        },
+        {
+          "name": "MAD Monthly November 2027",
+          "id": 969410,
+          "numAttendees": 2,
+          "city": "St. Louis",
+          "addrState": "MO",
+          "startAt": 1795294800,
+          "slug": "tournament/mad-monthly-november-2027",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/969410/image-e38008390d75eae67c707073bde12301-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/969410/image-0e9671277a0d8f30eefb21ef1bc314a1-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "HDR @ MAD",
+              "numEntrants": 0
+            },
+            {
+              "name": "Squad Strike",
+              "numEntrants": 1
+            },
+            {
+              "name": "Pokemon TCG Expanded Format",
+              "numEntrants": 1
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
             }
           ]
         },
