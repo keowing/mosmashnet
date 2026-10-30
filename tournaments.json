@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-10-29T04:04:49.760Z",
+  "updatedAt": "2026-10-30T04:05:43.648Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 88",
-          "id": 968585,
-          "numAttendees": 40,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1793230200,
-          "slug": "tournament/phaze-fusion-88",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/968585/image-3db30033bf32e4269633a7760412fa82-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/968585/image-b7755493f15e0f0cca0ebbd1ca77399c-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 36
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            },
-            {
-              "name": "Rock Paper Scissors",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #559",
-          "id": 969565,
-          "numAttendees": 4,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1793232000,
-          "slug": "tournament/smash-cafe-559",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/969565/image-3e171e39d8dec6726948467bafb2450d-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/969565/image-0600a6f24d15707d15d24adec491b82b-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 4
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 91",
           "id": 968959,
-          "numAttendees": 9,
+          "numAttendees": 20,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1793318400,
@@ -86,7 +24,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 20
             },
             {
               "name": "Melee Singles",
@@ -237,7 +175,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 3,
+          "numAttendees": 4,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -255,7 +193,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "HDR Singles",
