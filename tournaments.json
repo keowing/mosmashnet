@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-10-30T04:05:43.648Z",
+  "updatedAt": "2026-10-31T03:49:40.717Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 91",
-          "id": 968959,
-          "numAttendees": 20,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1793318400,
-          "slug": "tournament/ursa-minor-91",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/968959/image-cb440c5ebc57ffaddb21ac536596e341-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/968959/image-fc8441733a57e09d58e57d36d2fe412a-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "Strike! 81",
           "id": 969558,
-          "numAttendees": 0,
+          "numAttendees": 24,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1793403000,
@@ -56,16 +23,49 @@
           ],
           "events": [
             {
-              "name": "Squads",
-              "numEntrants": 0
+              "name": "Ultimate Redemption",
+              "numEntrants": 10
+            },
+            {
+              "name": "Rivals 2 Singles",
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 23
+            }
+          ]
+        },
+        {
+          "name": "Smash Casuals #65",
+          "id": 970196,
+          "numAttendees": 8,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1793403000,
+          "slug": "tournament/smash-casuals-65",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/970196/image-c89994cbcc3299f6c62351e02b6e7a2e.png",
+              "type": "profile"
             },
             {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "url": "https://images.start.gg/images/tournament/970196/image-ad1150261355c62fe81888461c85b4db.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Reverse Mains (Ult)",
+              "numEntrants": 7
+            },
+            {
+              "name": "Smash Remix Singles",
+              "numEntrants": 2
             }
           ]
         },
@@ -95,11 +95,11 @@
           "slug": "tournament/kachow-kup-37-one-last-sip",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/952315/image-a792185c02fec6c098ad25840a4a27a8.jpg",
+              "url": "https://images.start.gg/images/tournament/952315/image-a792185c02fec6c098ad25840a4a27a8-optimized.jpg",
               "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/952315/image-e11d2ae5974f56cf3824d818ed0ff0f9.jpg",
+              "url": "https://images.start.gg/images/tournament/952315/image-e11d2ae5974f56cf3824d818ed0ff0f9-optimized.jpg",
               "type": "profile"
             }
           ],
@@ -134,7 +134,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 51,
+          "numAttendees": 50,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -152,7 +152,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 33
+              "numEntrants": 32
             },
             {
               "name": "SSBM Singles",
@@ -164,7 +164,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 19
+              "numEntrants": 18
             },
             {
               "name": "SSBM Doubles",
@@ -175,7 +175,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -193,7 +193,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "HDR Singles",
