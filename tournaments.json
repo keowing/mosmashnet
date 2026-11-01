@@ -1,78 +1,12 @@
 {
-  "updatedAt": "2026-10-31T03:49:40.717Z",
+  "updatedAt": "2026-11-01T03:58:55.451Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 81",
-          "id": 969558,
-          "numAttendees": 24,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1793403000,
-          "slug": "tournament/strike-81",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/969558/image-907c872c35592b5c973d2b24c704277c-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/969558/image-26948358a04acb0c894bfd23bc4d7083-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "Rivals 2 Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 23
-            }
-          ]
-        },
-        {
-          "name": "Smash Casuals #65",
-          "id": 970196,
-          "numAttendees": 8,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1793403000,
-          "slug": "tournament/smash-casuals-65",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/970196/image-c89994cbcc3299f6c62351e02b6e7a2e.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/970196/image-ad1150261355c62fe81888461c85b4db.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Reverse Mains (Ult)",
-              "numEntrants": 7
-            },
-            {
-              "name": "Smash Remix Singles",
-              "numEntrants": 2
-            }
-          ]
-        },
-        {
           "name": "Smash at Midwest Retro #2 (FREE ENTRY)",
           "id": 968890,
-          "numAttendees": 0,
+          "numAttendees": 2,
           "city": "Troy",
           "addrState": "MO",
           "startAt": 1793577600,
@@ -81,14 +15,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "Kachow Kup 37: One Last Sip",
           "id": 952315,
-          "numAttendees": 4,
+          "numAttendees": 6,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1794007800,
@@ -106,7 +40,52 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
+          "name": "StrikeLand: Stay In Your Lane",
+          "id": 970476,
+          "numAttendees": 0,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1794070800,
+          "slug": "tournament/strikeland-stay-in-your-lane-1",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/970476/image-f4128a1648860c53ac397fe93e1c54bd-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/970476/image-bbe54b8c4244ca0623cd84085ca77521-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Guilty Gear Strive",
+              "numEntrants": 0
+            },
+            {
+              "name": "Under Night In-Birth II Sys:Celes",
+              "numEntrants": 0
+            },
+            {
+              "name": "Avatar Legends: The Fighting Game",
+              "numEntrants": 0
+            },
+            {
+              "name": "Rivals II",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
@@ -134,7 +113,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 50,
+          "numAttendees": 51,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -156,7 +135,7 @@
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 18
+              "numEntrants": 19
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -175,7 +154,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -193,7 +172,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "HDR Singles",
@@ -227,13 +206,13 @@
           ]
         },
         {
-          "name": "MAD Monthly November 2027",
+          "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 2,
+          "numAttendees": 5,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
-          "slug": "tournament/mad-monthly-november-2027",
+          "slug": "tournament/mad-monthly-november-2026",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/969410/image-e38008390d75eae67c707073bde12301-optimized.png",
@@ -251,7 +230,7 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Pokemon TCG Expanded Format",
@@ -259,7 +238,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 4
             },
             {
               "name": "Redemption Bracket",
@@ -299,7 +278,37 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 207",
+          "id": 970516,
+          "numAttendees": 2,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1793581200,
+          "slug": "tournament/rock-chalk-jab-lock-207",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/970516/image-f42759834e87dc0df1c9a35e34e5fb87-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/970516/image-303c2889b69f8cb83007ab16d969f6b9-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
     }
   }
 }
