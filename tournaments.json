@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-01T03:58:55.451Z",
+  "updatedAt": "2026-11-02T04:03:07.429Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
           "name": "Smash at Midwest Retro #2 (FREE ENTRY)",
           "id": 968890,
-          "numAttendees": 2,
+          "numAttendees": 8,
           "city": "Troy",
           "addrState": "MO",
           "startAt": 1793577600,
@@ -15,14 +15,68 @@
           "events": [
             {
               "name": "Ultimate Singles",
+              "numEntrants": 8
+            }
+          ]
+        },
+        {
+          "name": "Gogi's Bulgogi-Bash! #6",
+          "id": 970865,
+          "numAttendees": 2,
+          "city": "Warrensburg",
+          "addrState": "MO",
+          "startAt": 1793671200,
+          "slug": "tournament/gogi-s-bulgogi-bash-6",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/970865/image-6d080141315f2136528b02c8cdfd27b0-optimized.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/970865/image-780f554e2ca1595b435188fc3a1814a9-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 89",
+          "id": 970893,
+          "numAttendees": 2,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1793838600,
+          "slug": "tournament/phaze-fusion-89",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/970893/image-3ea64bdf6fe2269ca5d291bc7a1a4d2c-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/970893/image-99c33b37bd8c2a5fb128f7c035010117-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Kachow Kup 37: One Last Sip",
           "id": 952315,
-          "numAttendees": 6,
+          "numAttendees": 8,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1794007800,
@@ -40,7 +94,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 8
             }
           ]
         },
@@ -113,7 +167,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 51,
+          "numAttendees": 53,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -131,11 +185,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 32
+              "numEntrants": 34
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 19
+              "numEntrants": 21
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -154,7 +208,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 6,
+          "numAttendees": 7,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -172,7 +226,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "HDR Singles",
@@ -208,7 +262,7 @@
         {
           "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 5,
+          "numAttendees": 6,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
@@ -226,7 +280,7 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Squad Strike",
@@ -238,7 +292,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Redemption Bracket",
@@ -282,7 +336,7 @@
         {
           "name": "Rock Chalk Jab Lock 207",
           "id": 970516,
-          "numAttendees": 2,
+          "numAttendees": 8,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1793581200,
@@ -300,11 +354,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 8
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         }
