@@ -1,99 +1,12 @@
 {
-  "updatedAt": "2026-11-03T05:03:36.662Z",
+  "updatedAt": "2026-11-04T04:36:38.839Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gold Rush #97",
-          "id": 971059,
-          "numAttendees": 12,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1793667600,
-          "slug": "tournament/gold-rush-97",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/971059/image-e51c908ea1a7f64262c20ce76ec93a8f-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/971059/image-1ef8d6e43b4d9322cfc8c32882344547-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 6
-            },
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 7
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #66",
-          "id": 971080,
-          "numAttendees": 19,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1793667600,
-          "slug": "tournament/royale-with-cheese-66",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/971080/image-17b2949dd15615851b1bc1faf28eed25-optimized.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Remix Singles",
-              "numEntrants": 3
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
-          "name": "Gogi's Bulgogi-Bash! #6",
-          "id": 970865,
-          "numAttendees": 10,
-          "city": "Warrensburg",
-          "addrState": "MO",
-          "startAt": 1793671200,
-          "slug": "tournament/gogi-s-bulgogi-bash-6",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/970865/image-6d080141315f2136528b02c8cdfd27b0-optimized.jpg",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/970865/image-780f554e2ca1595b435188fc3a1814a9-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
-            }
-          ]
-        },
-        {
           "name": "Smash @ Mizzou 196",
           "id": 971130,
-          "numAttendees": 12,
+          "numAttendees": 37,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1793750460,
@@ -110,31 +23,31 @@
           ],
           "events": [
             {
-              "name": "Melee (played on dolphin)",
-              "numEntrants": 5
-            },
-            {
               "name": "Avatar",
-              "numEntrants": 4
+              "numEntrants": 10
             },
             {
-              "name": "Gulity Gear Strive",
-              "numEntrants": 3
+              "name": "Melee (played on dolphin)",
+              "numEntrants": 9
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 25
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 1
+              "numEntrants": 9
+            },
+            {
+              "name": "Gulity Gear Strive",
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 89",
           "id": 970893,
-          "numAttendees": 8,
+          "numAttendees": 15,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1793838600,
@@ -152,7 +65,40 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 15
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "URSA MINOR 92",
+          "id": 971649,
+          "numAttendees": 8,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1793926800,
+          "slug": "tournament/ursa-minor-92",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/971649/image-89e827c310059d6ac36a2371769ebbba-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/971649/image-212ec70ccd4fd67f23f19fc0a6ddd0c9-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Redemption",
@@ -254,7 +200,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 54,
+          "numAttendees": 55,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -272,7 +218,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 34
+              "numEntrants": 35
             },
             {
               "name": "SSBM Singles",
@@ -295,7 +241,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 8,
+          "numAttendees": 10,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -313,11 +259,36 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 10
             },
             {
               "name": "HDR Singles",
               "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Deino's Den 3",
+          "id": 971501,
+          "numAttendees": 1,
+          "city": "Bonne Terre",
+          "addrState": "MO",
+          "startAt": 1794963600,
+          "slug": "tournament/deino-s-den-3",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/971501/image-2fee30ceea86bede93173275eafd0792-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/971501/image-d0e5979d3751c8994742cb7f3cb0fc08-optimized.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
             }
           ]
         },
