@@ -1,53 +1,12 @@
 {
-  "updatedAt": "2026-11-04T04:36:38.839Z",
+  "updatedAt": "2026-11-05T04:51:31.482Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 196",
-          "id": 971130,
-          "numAttendees": 37,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1793750460,
-          "slug": "tournament/smash-mizzou-196",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/971130/image-1897b41f9aefb50faaf8c935c0d92a56-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/971130/image-60ad280aa6b27a92c10200a66aade2e4-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Avatar",
-              "numEntrants": 10
-            },
-            {
-              "name": "Melee (played on dolphin)",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 25
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 9
-            },
-            {
-              "name": "Gulity Gear Strive",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 89",
           "id": 970893,
-          "numAttendees": 15,
+          "numAttendees": 25,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1793838600,
@@ -65,18 +24,47 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 15
+              "numEntrants": 21
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 12
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #560",
+          "id": 971918,
+          "numAttendees": 6,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1793840400,
+          "slug": "tournament/smash-cafe-560",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/971918/image-3f79dd8f6360469e1fe5d9a0a92d1350-optimized.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/971918/image-8e9abf7f945eb5eef4277be1025957e5-optimized.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 1
+            },
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "URSA MINOR 92",
           "id": 971649,
-          "numAttendees": 8,
+          "numAttendees": 12,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1793926800,
@@ -94,11 +82,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 10
             },
             {
               "name": "Melee Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Ultimate Redemption",
@@ -132,13 +120,13 @@
           ]
         },
         {
-          "name": "StrikeLand: Stay In Your Lane",
+          "name": "StrikeLand: 2 Bagger",
           "id": 970476,
-          "numAttendees": 0,
+          "numAttendees": 7,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1794070800,
-          "slug": "tournament/strikeland-stay-in-your-lane-1",
+          "slug": "tournament/strikeland-2-bagger",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/970476/image-f4128a1648860c53ac397fe93e1c54bd-optimized.png",
@@ -152,27 +140,27 @@
           "events": [
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Rivals II",
-              "numEntrants": 0
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 2
             }
           ]
         },
@@ -200,7 +188,7 @@
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 55,
+          "numAttendees": 56,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -226,11 +214,11 @@
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Playmakers",
-              "numEntrants": 18
+              "numEntrants": 19
             },
             {
               "name": "SSBM Doubles",
@@ -270,7 +258,7 @@
         {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
@@ -288,7 +276,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
