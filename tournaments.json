@@ -1,139 +1,81 @@
 {
-  "updatedAt": "2026-11-05T04:51:31.482Z",
+  "updatedAt": "2026-11-06T04:51:01.916Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 89",
-          "id": 970893,
-          "numAttendees": 25,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1793838600,
-          "slug": "tournament/phaze-fusion-89",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/970893/image-3ea64bdf6fe2269ca5d291bc7a1a4d2c-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/970893/image-99c33b37bd8c2a5fb128f7c035010117-optimized.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 21
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 12
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #560",
-          "id": 971918,
-          "numAttendees": 6,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1793840400,
-          "slug": "tournament/smash-cafe-560",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/971918/image-3f79dd8f6360469e1fe5d9a0a92d1350-optimized.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/971918/image-8e9abf7f945eb5eef4277be1025957e5-optimized.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 1
-            },
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 6
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 92",
           "id": 971649,
-          "numAttendees": 12,
+          "numAttendees": 26,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1793926800,
           "slug": "tournament/ursa-minor-92",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/971649/image-89e827c310059d6ac36a2371769ebbba-optimized.png",
+              "url": "https://images.start.gg/images/tournament/971649/image-89e827c310059d6ac36a2371769ebbba.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/971649/image-212ec70ccd4fd67f23f19fc0a6ddd0c9-optimized.png",
+              "url": "https://images.start.gg/images/tournament/971649/image-212ec70ccd4fd67f23f19fc0a6ddd0c9.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 3
+              "numEntrants": 20
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 8
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 11
             }
           ]
         },
         {
           "name": "Kachow Kup 37: One Last Sip",
           "id": 952315,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1794007800,
           "slug": "tournament/kachow-kup-37-one-last-sip",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/952315/image-a792185c02fec6c098ad25840a4a27a8-optimized.jpg",
+              "url": "https://images.start.gg/images/tournament/952315/image-a792185c02fec6c098ad25840a4a27a8.jpg",
               "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/952315/image-e11d2ae5974f56cf3824d818ed0ff0f9-optimized.jpg",
+              "url": "https://images.start.gg/images/tournament/952315/image-e11d2ae5974f56cf3824d818ed0ff0f9.jpg",
               "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             }
           ]
         },
         {
           "name": "StrikeLand: 2 Bagger",
           "id": 970476,
-          "numAttendees": 7,
+          "numAttendees": 10,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1794070800,
           "slug": "tournament/strikeland-2-bagger",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/970476/image-f4128a1648860c53ac397fe93e1c54bd-optimized.png",
+              "url": "https://images.start.gg/images/tournament/970476/image-f4128a1648860c53ac397fe93e1c54bd.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/970476/image-bbe54b8c4244ca0623cd84085ca77521-optimized.png",
+              "url": "https://images.start.gg/images/tournament/970476/image-bbe54b8c4244ca0623cd84085ca77521.png",
               "type": "banner"
             }
           ],
@@ -144,51 +86,51 @@
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Rivals II",
-              "numEntrants": 2
+              "numEntrants": 4
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "Pack Rat Infestation November",
           "id": 968485,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1794268800,
           "slug": "tournament/pack-rat-infestation-november",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/968485/image-ad3ab85c8a717d9324c48afab9488ba2-optimized.jpg",
+              "url": "https://images.start.gg/images/tournament/968485/image-ad3ab85c8a717d9324c48afab9488ba2.jpg",
               "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 56,
+          "numAttendees": 59,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -206,11 +148,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 35
+              "numEntrants": 38
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 21
+              "numEntrants": 22
             },
             {
               "name": "Guilty Gear -Strive-",
@@ -218,7 +160,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 19
+              "numEntrants": 20
             },
             {
               "name": "SSBM Doubles",
@@ -236,11 +178,11 @@
           "slug": "tournament/marcus-monthly-18",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/959669/image-7112c1935596fa3d5f3d9e6b1b6d6309-optimized.png",
+              "url": "https://images.start.gg/images/tournament/959669/image-7112c1935596fa3d5f3d9e6b1b6d6309.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/959669/image-28100d2579ad378c671e734f00711b6b-optimized.jpg",
+              "url": "https://images.start.gg/images/tournament/959669/image-28100d2579ad378c671e734f00711b6b.jpg",
               "type": "banner"
             }
           ],
@@ -258,25 +200,25 @@
         {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 2,
+          "numAttendees": 4,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
           "slug": "tournament/deino-s-den-3",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/971501/image-2fee30ceea86bede93173275eafd0792-optimized.png",
+              "url": "https://images.start.gg/images/tournament/971501/image-2fee30ceea86bede93173275eafd0792.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/971501/image-d0e5979d3751c8994742cb7f3cb0fc08-optimized.jpg",
+              "url": "https://images.start.gg/images/tournament/971501/image-d0e5979d3751c8994742cb7f3cb0fc08.jpg",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 2
+              "numEntrants": 4
             }
           ]
         },
@@ -290,11 +232,11 @@
           "slug": "tournament/king-of-the-hill-6-1",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/963886/image-deebe951bf6216cb90d48456063a20a0-optimized.png",
+              "url": "https://images.start.gg/images/tournament/963886/image-deebe951bf6216cb90d48456063a20a0.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/963886/image-c70b1da6f79a8d25a540134db26cdac0-optimized.png",
+              "url": "https://images.start.gg/images/tournament/963886/image-c70b1da6f79a8d25a540134db26cdac0.png",
               "type": "banner"
             }
           ],
@@ -315,11 +257,11 @@
           "slug": "tournament/mad-monthly-november-2026",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/969410/image-e38008390d75eae67c707073bde12301-optimized.png",
+              "url": "https://images.start.gg/images/tournament/969410/image-e38008390d75eae67c707073bde12301.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/969410/image-0e9671277a0d8f30eefb21ef1bc314a1-optimized.png",
+              "url": "https://images.start.gg/images/tournament/969410/image-0e9671277a0d8f30eefb21ef1bc314a1.png",
               "type": "banner"
             }
           ],
@@ -349,25 +291,25 @@
         {
           "name": "Valhalla II",
           "id": 963880,
-          "numAttendees": 6,
+          "numAttendees": 8,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1796493600,
           "slug": "tournament/valhalla-ii-1",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/963880/image-46bf393ca842d3ad68ce1e0f49bc36e0-optimized.png",
+              "url": "https://images.start.gg/images/tournament/963880/image-46bf393ca842d3ad68ce1e0f49bc36e0.png",
               "type": "banner"
             },
             {
-              "url": "https://images.start.gg/images/tournament/963880/image-6da55d8f4718502ecf108da274079e1e-optimized.png",
+              "url": "https://images.start.gg/images/tournament/963880/image-6da55d8f4718502ecf108da274079e1e.png",
               "type": "profile"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
+              "numEntrants": 8
             },
             {
               "name": "Redemption",
@@ -378,7 +320,33 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 208",
+          "id": 972268,
+          "numAttendees": 0,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1794186000,
+          "slug": "tournament/rock-chalk-jab-lock-208",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/972268/image-18e0f6a32e1cd46f9a274866c29e5b34.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/972268/image-6afa41fb96a2d273cc63c4c924790834.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
     }
   }
 }
