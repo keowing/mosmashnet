@@ -1,41 +1,8 @@
 {
-  "updatedAt": "2026-11-06T04:51:01.916Z",
+  "updatedAt": "2026-11-07T04:21:23.370Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "URSA MINOR 92",
-          "id": 971649,
-          "numAttendees": 26,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1793926800,
-          "slug": "tournament/ursa-minor-92",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/971649/image-89e827c310059d6ac36a2371769ebbba.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/971649/image-212ec70ccd4fd67f23f19fc0a6ddd0c9.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 8
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 11
-            }
-          ]
-        },
         {
           "name": "Kachow Kup 37: One Last Sip",
           "id": 952315,
@@ -62,9 +29,42 @@
           ]
         },
         {
+          "name": "Strike! 82",
+          "id": 972642,
+          "numAttendees": 10,
+          "city": "Kansas City",
+          "addrState": "MO",
+          "startAt": 1794011400,
+          "slug": "tournament/strike-82",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/972642/image-ec9cf058adcc8016691aaa05f56f9d7a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/972642/image-bbd7ae5c530a3439a005456766d554b5.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 9
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            },
+            {
+              "name": "ExtraLife Crowd-Controlled Bracket",
+              "numEntrants": 6
+            }
+          ]
+        },
+        {
           "name": "StrikeLand: 2 Bagger",
           "id": 970476,
-          "numAttendees": 10,
+          "numAttendees": 17,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1794070800,
@@ -82,11 +82,11 @@
           "events": [
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Avatar Legends: The Fighting Game",
@@ -94,22 +94,22 @@
             },
             {
               "name": "Rivals II",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 14
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Pack Rat Infestation November",
           "id": 968485,
-          "numAttendees": 2,
+          "numAttendees": 3,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1794268800,
@@ -123,14 +123,14 @@
           "events": [
             {
               "name": "Ulitmate Singles",
-              "numEntrants": 2
+              "numEntrants": 3
             }
           ]
         },
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 59,
+          "numAttendees": 61,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -148,7 +148,7 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 38
+              "numEntrants": 40
             },
             {
               "name": "SSBM Singles",
@@ -156,11 +156,11 @@
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 6
+              "numEntrants": 7
             },
             {
               "name": "Playmakers",
-              "numEntrants": 20
+              "numEntrants": 21
             },
             {
               "name": "SSBM Doubles",
@@ -171,7 +171,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -189,18 +189,18 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
@@ -218,14 +218,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 7,
+          "numAttendees": 9,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -243,7 +243,7 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 7
+              "numEntrants": 9
             }
           ]
         },
