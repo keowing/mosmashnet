@@ -1,57 +1,12 @@
 {
-  "updatedAt": "2026-11-08T04:03:36.447Z",
+  "updatedAt": "2026-11-09T04:19:47.443Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "StrikeLand: 2 Bagger",
-          "id": 970476,
-          "numAttendees": 34,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1794070800,
-          "slug": "tournament/strikeland-2-bagger",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/970476/image-f4128a1648860c53ac397fe93e1c54bd.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/970476/image-bbe54b8c4244ca0623cd84085ca77521.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 25
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 18
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 3
-            },
-            {
-              "name": "Under Night In-Birth II Sys:Celes",
-              "numEntrants": 5
-            },
-            {
-              "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 6
-            },
-            {
-              "name": "Rivals II",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
           "name": "Pack Rat Infestation November",
           "id": 968485,
-          "numAttendees": 3,
+          "numAttendees": 5,
           "city": "Warrenton",
           "addrState": "MO",
           "startAt": 1794268800,
@@ -65,6 +20,31 @@
           "events": [
             {
               "name": "Ulitmate Singles",
+              "numEntrants": 5
+            }
+          ]
+        },
+        {
+          "name": "Gogi's Bulgogi-Bash! #7",
+          "id": 973142,
+          "numAttendees": 3,
+          "city": "Warrensburg",
+          "addrState": "MO",
+          "startAt": 1794276000,
+          "slug": "tournament/gogi-s-bulgogi-bash-7",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/973142/image-6fe77ac8723548fc6a506b961a840459.jpg",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/973142/image-96641b17497fb15b477eaca6bea9c536.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 3
             }
           ]
@@ -113,7 +93,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -131,7 +111,7 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "HDR Singles",
@@ -167,7 +147,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 9,
+          "numAttendees": 12,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -185,14 +165,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 9
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
@@ -214,7 +194,7 @@
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Pokemon TCG Expanded Format",
@@ -222,7 +202,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Redemption Bracket",
@@ -266,7 +246,7 @@
         {
           "name": "Rock Chalk Jab Lock 208",
           "id": 972268,
-          "numAttendees": 0,
+          "numAttendees": 6,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1794186000,
@@ -284,7 +264,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 6
             }
           ]
         }
