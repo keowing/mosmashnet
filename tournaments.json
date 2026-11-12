@@ -1,82 +1,12 @@
 {
-  "updatedAt": "2026-11-11T04:24:50.150Z",
+  "updatedAt": "2026-11-12T05:30:38.541Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Maryville.....Roll Out! (RollaOut 7 Practice)",
-          "id": 972649,
-          "numAttendees": 25,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1794355200,
-          "slug": "tournament/maryville-roll-out-rollaout-7-practice",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/972649/image-1770cdeb555b70a3a377e49e1597a3b0.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/972649/image-de48691d9130dee0906eae95a2949599.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 25
-            },
-            {
-              "name": "Redemption",
-              "numEntrants": 11
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 197",
-          "id": 973520,
-          "numAttendees": 32,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1794357000,
-          "slug": "tournament/smash-mizzou-197",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/973520/image-333496014067b7b11fcc103e9099c904.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/973520/image-cb4d3a3a59e646dfed2d088353fc68ae.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 26
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 10
-            },
-            {
-              "name": "MBAACC",
-              "numEntrants": 5
-            },
-            {
-              "name": "UNI 2",
-              "numEntrants": 5
-            },
-            {
-              "name": "Ultimate doubles",
-              "numEntrants": 8
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 90",
           "id": 973338,
-          "numAttendees": 17,
+          "numAttendees": 36,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1794443400,
@@ -94,22 +24,51 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 35
             },
             {
               "name": "Ultimate FFA",
-              "numEntrants": 11
+              "numEntrants": 14
             },
             {
               "name": "Ultimate Redemption",
+              "numEntrants": 20
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #561",
+          "id": 974159,
+          "numAttendees": 12,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1794445200,
+          "slug": "tournament/smash-cafe-561",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/974159/image-710a1e482b56c81af51276a09b51a31e.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/974159/image-e9d9e4a2c3ebf49b83ff136d4822d34f.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Redemption",
               "numEntrants": 0
+            },
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 12
             }
           ]
         },
         {
           "name": "URSA MINOR 93",
           "id": 973973,
-          "numAttendees": 5,
+          "numAttendees": 8,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1794531600,
@@ -127,7 +86,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 3
+              "numEntrants": 6
             },
             {
               "name": "Melee Singles",
@@ -140,9 +99,42 @@
           ]
         },
         {
+          "name": "RollaIn 7: Plays in the Making",
+          "id": 974371,
+          "numAttendees": 6,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1794616200,
+          "slug": "tournament/rollain-7-plays-in-the-making",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/974371/image-85810deccac4bd3e2bfc333343788df0.png",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "PLAYMAKERS",
+              "numEntrants": 2
+            },
+            {
+              "name": "SSBM Singles",
+              "numEntrants": 3
+            },
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 2
+            },
+            {
+              "name": "Guilty Gear: Strive",
+              "numEntrants": 2
+            }
+          ]
+        },
+        {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
-          "numAttendees": 73,
+          "numAttendees": 79,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794672000,
@@ -160,23 +152,23 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 47
+              "numEntrants": 51
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 25
+              "numEntrants": 26
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 8
+              "numEntrants": 10
             },
             {
               "name": "Playmakers",
-              "numEntrants": 23
+              "numEntrants": 22
             },
             {
               "name": "SSBM Doubles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Ultimate Redemption",
@@ -187,7 +179,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 12,
+          "numAttendees": 17,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -205,11 +197,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 17
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
@@ -257,7 +249,7 @@
         {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 7,
+          "numAttendees": 8,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
@@ -275,14 +267,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 7
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "WFGC November Monthly",
           "id": 972528,
-          "numAttendees": 7,
+          "numAttendees": 10,
           "city": "Webster Groves",
           "addrState": "MO",
           "startAt": 1795276800,
@@ -307,6 +299,22 @@
               "numEntrants": 2
             },
             {
+              "name": "Melty Blood: Type Lumina",
+              "numEntrants": 2
+            },
+            {
+              "name": "Rivals of Aether II",
+              "numEntrants": 2
+            },
+            {
+              "name": "Super Smash Bros. Melee",
+              "numEntrants": 2
+            },
+            {
+              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+              "numEntrants": 2
+            },
+            {
               "name": "BlazBlue: Central Fiction",
               "numEntrants": 1
             },
@@ -319,11 +327,7 @@
               "numEntrants": 1
             },
             {
-              "name": "Melty Blood: Type Lumina",
-              "numEntrants": 1
-            },
-            {
-              "name": "Rivals of Aether II",
+              "name": "Rivals of Aether",
               "numEntrants": 1
             },
             {
@@ -331,23 +335,11 @@
               "numEntrants": 1
             },
             {
-              "name": "Super Smash Bros. Melee",
-              "numEntrants": 1
-            },
-            {
               "name": "Super Smash Bros. Ultimate",
               "numEntrants": 1
             },
             {
-              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-              "numEntrants": 1
-            },
-            {
               "name": "2XKO",
-              "numEntrants": 0
-            },
-            {
-              "name": "Rivals of Aether",
               "numEntrants": 0
             },
             {
@@ -363,7 +355,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 13,
+          "numAttendees": 14,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -381,7 +373,7 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 13
+              "numEntrants": 14
             }
           ]
         },
