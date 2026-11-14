@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-11-13T04:48:17.590Z",
+  "updatedAt": "2026-11-14T04:41:54.337Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 93",
-          "id": 973973,
-          "numAttendees": 11,
-          "city": "Springfield",
-          "addrState": "MO",
-          "startAt": 1794531600,
-          "slug": "tournament/ursa-minor-93",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/973973/image-862ec2334f1a467e17b3e12a00a79047.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/973973/image-c9cd99a7268b5923aca0542365371bb3.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Melee Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
-            }
-          ]
-        },
-        {
           "name": "RollaIn 7: Plays in the Making",
           "id": 974371,
-          "numAttendees": 11,
+          "numAttendees": 21,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1794616200,
@@ -53,26 +20,26 @@
           "events": [
             {
               "name": "PLAYMAKERS",
-              "numEntrants": 4
+              "numEntrants": 9
             },
             {
               "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 7
+              "numEntrants": 13
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 3
+              "numEntrants": 5
             },
             {
               "name": "Guilty Gear: Strive",
-              "numEntrants": 2
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "Strike! 83",
           "id": 974548,
-          "numAttendees": 8,
+          "numAttendees": 30,
           "city": "Kansas City",
           "addrState": "MO",
           "startAt": 1794616200,
@@ -90,15 +57,15 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
-            },
-            {
-              "name": "Rivals 2 Singles",
-              "numEntrants": 0
+              "numEntrants": 28
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 6
+            },
+            {
+              "name": "Rivals 2 Singles",
+              "numEntrants": 5
             }
           ]
         },
@@ -123,11 +90,11 @@
           "events": [
             {
               "name": "SSBU Singles",
-              "numEntrants": 50
+              "numEntrants": 52
             },
             {
               "name": "Guilty Gear -Strive-",
-              "numEntrants": 11
+              "numEntrants": 12
             },
             {
               "name": "Playmakers",
@@ -135,11 +102,11 @@
             },
             {
               "name": "SSBM Doubles",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "SSBM Singles",
-              "numEntrants": 26
+              "numEntrants": 24
             },
             {
               "name": "Ultimate Redemption",
@@ -150,7 +117,7 @@
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 21,
+          "numAttendees": 25,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -168,11 +135,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 25
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 3
+              "numEntrants": 4
             }
           ]
         },
@@ -326,7 +293,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 14,
+          "numAttendees": 15,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -344,7 +311,7 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 14
+              "numEntrants": 15
             }
           ]
         },
