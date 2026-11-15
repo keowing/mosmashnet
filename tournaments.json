@@ -1,74 +1,8 @@
 {
-  "updatedAt": "2026-11-14T04:41:54.337Z",
+  "updatedAt": "2026-11-15T04:32:22.755Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "RollaIn 7: Plays in the Making",
-          "id": 974371,
-          "numAttendees": 21,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1794616200,
-          "slug": "tournament/rollain-7-plays-in-the-making",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/974371/image-85810deccac4bd3e2bfc333343788df0.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "PLAYMAKERS",
-              "numEntrants": 9
-            },
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 13
-            },
-            {
-              "name": "SSBM Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "Guilty Gear: Strive",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
-          "name": "Strike! 83",
-          "id": 974548,
-          "numAttendees": 30,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1794616200,
-          "slug": "tournament/strike-83",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/974548/image-cc38f90d9f9b0548020672f6acc968ae.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/974548/image-69868332e9c68ea13a9870c016db57d5.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 28
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            },
-            {
-              "name": "Rivals 2 Singles",
-              "numEntrants": 5
-            }
-          ]
-        },
         {
           "name": "RollaOut 7: Make-A-Play Foundation",
           "id": 949816,
@@ -89,6 +23,10 @@
           ],
           "events": [
             {
+              "name": "Ultimate Redemption",
+              "numEntrants": 10
+            },
+            {
               "name": "SSBU Singles",
               "numEntrants": 52
             },
@@ -98,7 +36,7 @@
             },
             {
               "name": "Playmakers",
-              "numEntrants": 23
+              "numEntrants": 22
             },
             {
               "name": "SSBM Doubles",
@@ -107,17 +45,13 @@
             {
               "name": "SSBM Singles",
               "numEntrants": 24
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
             }
           ]
         },
         {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 25,
+          "numAttendees": 34,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -135,11 +69,11 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 25
+              "numEntrants": 33
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
@@ -187,7 +121,7 @@
         {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 8,
+          "numAttendees": 11,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
@@ -205,7 +139,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 11
             }
           ]
         },
@@ -357,6 +291,72 @@
           ]
         },
         {
+          "name": "Smash @ Mizzou 200",
+          "id": 975133,
+          "numAttendees": 4,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1796169600,
+          "slug": "tournament/smash-mizzou-200",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/975133/image-1b8dda1198b21ef8db4e62e2c9931d7c.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/975133/image-9efa4d64e44b37cb8e9b6fc22ed8a678.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Guilty Gear: Strive",
+              "numEntrants": 0
+            },
+            {
+              "name": "Rivals 2",
+              "numEntrants": 0
+            },
+            {
+              "name": "UNI 2",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 4
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "Kachow Kup 38: She Julianed My Johnson Til I Druuled",
+          "id": 975023,
+          "numAttendees": 1,
+          "city": "Ste. Genevieve",
+          "addrState": "MO",
+          "startAt": 1796427000,
+          "slug": "tournament/kachow-kup-38-she-julianed-my-johnson-til-i-druuled",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/975023/image-f311923d6ed1635f5f4a8d36b040abd9.jpg",
+              "type": "banner"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/975023/image-c79471f46d6b5b0a79d376fac42c8e38.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            }
+          ]
+        },
+        {
           "name": "Valhalla II",
           "id": 963880,
           "numAttendees": 8,
@@ -388,7 +388,37 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 209",
+          "id": 975050,
+          "numAttendees": 2,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1794790800,
+          "slug": "tournament/rock-chalk-jab-lock-209",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/975050/image-3fe4215aa198ef42a39a19bfa791e32d.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/975050/image-91eacdaaaac66d0a1274b0c0026a9815.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 2
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 1
+            }
+          ]
+        }
+      ]
     }
   }
 }
