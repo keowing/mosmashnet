@@ -1,57 +1,12 @@
 {
-  "updatedAt": "2026-11-15T04:32:22.755Z",
+  "updatedAt": "2026-11-16T04:28:55.465Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "RollaOut 7: Make-A-Play Foundation",
-          "id": 949816,
-          "numAttendees": 80,
-          "city": "Rolla",
-          "addrState": "MO",
-          "startAt": 1794672000,
-          "slug": "tournament/rollaout-7-make-a-play-foundation",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/949816/image-3eddb2805b5ff9b008e9b4b1625c866e.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/949816/image-077aef850d3b9b569c3a4b021f58812b.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 10
-            },
-            {
-              "name": "SSBU Singles",
-              "numEntrants": 52
-            },
-            {
-              "name": "Guilty Gear -Strive-",
-              "numEntrants": 12
-            },
-            {
-              "name": "Playmakers",
-              "numEntrants": 22
-            },
-            {
-              "name": "SSBM Doubles",
-              "numEntrants": 8
-            },
-            {
-              "name": "SSBM Singles",
-              "numEntrants": 24
-            }
-          ]
-        },
-        {
           "name": "Marcus Monthly #18",
           "id": 959669,
-          "numAttendees": 34,
+          "numAttendees": 42,
           "city": "Des Peres",
           "addrState": "MO",
           "startAt": 1794776400,
@@ -69,18 +24,18 @@
           "events": [
             {
               "name": "Smash Ultimate Singles",
-              "numEntrants": 33
+              "numEntrants": 39
             },
             {
               "name": "HDR Singles",
-              "numEntrants": 5
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Smash at Midwest Retro #3 (FREE ENTRY)",
           "id": 973155,
-          "numAttendees": 0,
+          "numAttendees": 5,
           "city": "Troy",
           "addrState": "MO",
           "startAt": 1794787200,
@@ -89,7 +44,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 5
             }
           ]
         },
@@ -119,9 +74,50 @@
           ]
         },
         {
+          "name": "Smash @ Mizzou 198",
+          "id": 975453,
+          "numAttendees": 1,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1794961800,
+          "slug": "tournament/smash-mizzou-198",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/975453/image-fdfeda109253d09ca8df6b98f7519276.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/975453/image-a9344406a8ab3412ee51f1bc196b1ddc.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Avatar Legends",
+              "numEntrants": 0
+            },
+            {
+              "name": "Rivals 2",
+              "numEntrants": 0
+            },
+            {
+              "name": "VSAV",
+              "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 1
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 11,
+          "numAttendees": 12,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
@@ -139,7 +135,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 12
             }
           ]
         },
@@ -291,13 +287,13 @@
           ]
         },
         {
-          "name": "Smash @ Mizzou 200",
+          "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
-          "numAttendees": 4,
+          "numAttendees": 5,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1796169600,
-          "slug": "tournament/smash-mizzou-200",
+          "slug": "tournament/smash-mizzou-200-100-pot-bonus",
           "images": [
             {
               "url": "https://images.start.gg/images/tournament/975133/image-1b8dda1198b21ef8db4e62e2c9931d7c.png",
@@ -310,11 +306,11 @@
           ],
           "events": [
             {
-              "name": "Guilty Gear: Strive",
-              "numEntrants": 0
+              "name": "Rivals 2",
+              "numEntrants": 1
             },
             {
-              "name": "Rivals 2",
+              "name": "Guilty Gear: Strive",
               "numEntrants": 0
             },
             {
@@ -323,11 +319,11 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 4
+              "numEntrants": 5
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
@@ -359,7 +355,7 @@
         {
           "name": "Valhalla II",
           "id": 963880,
-          "numAttendees": 8,
+          "numAttendees": 9,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1796493600,
@@ -377,11 +373,11 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 9
             },
             {
               "name": "Redemption",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         }
@@ -392,7 +388,7 @@
         {
           "name": "Rock Chalk Jab Lock 209",
           "id": 975050,
-          "numAttendees": 2,
+          "numAttendees": 7,
           "city": "Lawrence",
           "addrState": "KS",
           "startAt": 1794790800,
@@ -409,12 +405,12 @@
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
+              "name": "Redemption Bracket",
               "numEntrants": 2
             },
             {
-              "name": "Redemption Bracket",
-              "numEntrants": 1
+              "name": "Ultimate Singles",
+              "numEntrants": 7
             }
           ]
         }
