@@ -1,57 +1,74 @@
 {
-  "updatedAt": "2026-11-16T04:28:55.465Z",
+  "updatedAt": "2026-11-17T06:14:23.703Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Marcus Monthly #18",
-          "id": 959669,
-          "numAttendees": 42,
-          "city": "Des Peres",
+          "name": "Gold Rush #99",
+          "id": 975604,
+          "numAttendees": 12,
+          "city": "Rolla",
           "addrState": "MO",
-          "startAt": 1794776400,
-          "slug": "tournament/marcus-monthly-18",
+          "startAt": 1794877200,
+          "slug": "tournament/gold-rush-99",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/959669/image-7112c1935596fa3d5f3d9e6b1b6d6309.png",
+              "url": "https://images.start.gg/images/tournament/975604/image-251386af25db27254dd87d597fa48208.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/959669/image-28100d2579ad378c671e734f00711b6b.jpg",
+              "url": "https://images.start.gg/images/tournament/975604/image-3078f371531d16c640e1944b6c2e2e95.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 39
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 7
             },
             {
-              "name": "HDR Singles",
-              "numEntrants": 8
+              "name": "Street Fighter 6",
+              "numEntrants": 3
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 7
             }
           ]
         },
         {
-          "name": "Smash at Midwest Retro #3 (FREE ENTRY)",
-          "id": 973155,
-          "numAttendees": 5,
-          "city": "Troy",
+          "name": "Royale with Cheese #68",
+          "id": 975609,
+          "numAttendees": 10,
+          "city": "Lee's Summit",
           "addrState": "MO",
-          "startAt": 1794787200,
-          "slug": "tournament/smash-at-midwest-retro-3-free-entry",
-          "images": [],
+          "startAt": 1794877200,
+          "slug": "tournament/royale-with-cheese-68",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/975609/image-80b2f42d6ffcd281d01509ec63816f05.png",
+              "type": "profile"
+            }
+          ],
           "events": [
             {
+              "name": "Remix Singles",
+              "numEntrants": 0
+            },
+            {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 10
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "Gogi's Bulgogi-Bash! #8",
           "id": 974074,
-          "numAttendees": 0,
+          "numAttendees": 8,
           "city": "Warrensburg",
           "addrState": "MO",
           "startAt": 1794880800,
@@ -69,14 +86,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 0
+              "numEntrants": 8
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 198",
           "id": 975453,
-          "numAttendees": 1,
+          "numAttendees": 9,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1794961800,
@@ -94,30 +111,30 @@
           "events": [
             {
               "name": "Avatar Legends",
-              "numEntrants": 0
-            },
-            {
-              "name": "Rivals 2",
-              "numEntrants": 0
+              "numEntrants": 4
             },
             {
               "name": "VSAV",
-              "numEntrants": 0
+              "numEntrants": 2
             },
             {
-              "name": "Ultimate Singles",
+              "name": "Rivals 2",
               "numEntrants": 1
             },
             {
+              "name": "Ultimate Singles",
+              "numEntrants": 6
+            },
+            {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 1
             }
           ]
         },
         {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 12,
+          "numAttendees": 13,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
@@ -135,14 +152,47 @@
           "events": [
             {
               "name": "Ultimate Singles",
+              "numEntrants": 13
+            }
+          ]
+        },
+        {
+          "name": "PHAZE ➠ FUSION 91",
+          "id": 975537,
+          "numAttendees": 13,
+          "city": "Florissant",
+          "addrState": "MO",
+          "startAt": 1795048200,
+          "slug": "tournament/phaze-fusion-91",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/975537/image-f86d96acd870bf27563cf3e795bf6f02.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/975537/image-e29112bdd5b1e12078622fc8f2e32dee.jpg",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 12
+            },
+            {
+              "name": "Wii Sports (Bowling)",
+              "numEntrants": 8
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
             }
           ]
         },
         {
           "name": "WFGC November Monthly",
           "id": 972528,
-          "numAttendees": 10,
+          "numAttendees": 13,
           "city": "Webster Groves",
           "addrState": "MO",
           "startAt": 1795276800,
@@ -160,10 +210,30 @@
           "events": [
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 3
+              "numEntrants": 5
             },
             {
               "name": "Guilty Gear Strive",
+              "numEntrants": 4
+            },
+            {
+              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+              "numEntrants": 4
+            },
+            {
+              "name": "Rivals of Aether II",
+              "numEntrants": 3
+            },
+            {
+              "name": "BlazBlue: Central Fiction",
+              "numEntrants": 2
+            },
+            {
+              "name": "Granblue Fantasy Versus: Rising",
+              "numEntrants": 2
+            },
+            {
+              "name": "Marvel Tokon: Fighting Souls",
               "numEntrants": 2
             },
             {
@@ -171,7 +241,7 @@
               "numEntrants": 2
             },
             {
-              "name": "Rivals of Aether II",
+              "name": "Street Fighter 6",
               "numEntrants": 2
             },
             {
@@ -179,27 +249,7 @@
               "numEntrants": 2
             },
             {
-              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-              "numEntrants": 2
-            },
-            {
-              "name": "BlazBlue: Central Fiction",
-              "numEntrants": 1
-            },
-            {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 1
-            },
-            {
-              "name": "Marvel Tokon: Fighting Souls",
-              "numEntrants": 1
-            },
-            {
               "name": "Rivals of Aether",
-              "numEntrants": 1
-            },
-            {
-              "name": "Street Fighter 6",
               "numEntrants": 1
             },
             {
@@ -289,7 +339,7 @@
         {
           "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
-          "numAttendees": 5,
+          "numAttendees": 12,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1796169600,
@@ -307,7 +357,7 @@
           "events": [
             {
               "name": "Rivals 2",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Guilty Gear: Strive",
@@ -319,11 +369,11 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 5
+              "numEntrants": 12
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 1
+              "numEntrants": 4
             }
           ]
         },
@@ -384,37 +434,7 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": [
-        {
-          "name": "Rock Chalk Jab Lock 209",
-          "id": 975050,
-          "numAttendees": 7,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1794790800,
-          "slug": "tournament/rock-chalk-jab-lock-209",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/975050/image-3fe4215aa198ef42a39a19bfa791e32d.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/975050/image-91eacdaaaac66d0a1274b0c0026a9815.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 7
-            }
-          ]
-        }
-      ]
+      "nodes": []
     }
   }
 }
