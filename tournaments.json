@@ -1,99 +1,37 @@
 {
-  "updatedAt": "2026-11-17T06:14:23.703Z",
+  "updatedAt": "2026-11-18T05:41:49.782Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Gold Rush #99",
-          "id": 975604,
-          "numAttendees": 12,
-          "city": "Rolla",
+          "name": "What if the MU team were all Tsundere Baddies?",
+          "id": 975925,
+          "numAttendees": 18,
+          "city": "St. Louis",
           "addrState": "MO",
-          "startAt": 1794877200,
-          "slug": "tournament/gold-rush-99",
+          "startAt": 1794960000,
+          "slug": "tournament/what-if-the-mu-team-were-all-tsundere-baddies",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/975604/image-251386af25db27254dd87d597fa48208.png",
+              "url": "https://images.start.gg/images/tournament/975925/image-f895495f6bad178a0c1a1e86a2b92a31.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/975604/image-3078f371531d16c640e1944b6c2e2e95.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 7
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 3
-            },
-            {
-              "name": "Project+ Singles",
-              "numEntrants": 7
-            }
-          ]
-        },
-        {
-          "name": "Royale with Cheese #68",
-          "id": 975609,
-          "numAttendees": 10,
-          "city": "Lee's Summit",
-          "addrState": "MO",
-          "startAt": 1794877200,
-          "slug": "tournament/royale-with-cheese-68",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/975609/image-80b2f42d6ffcd281d01509ec63816f05.png",
-              "type": "profile"
-            }
-          ],
-          "events": [
-            {
-              "name": "Remix Singles",
-              "numEntrants": 0
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 10
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "Gogi's Bulgogi-Bash! #8",
-          "id": 974074,
-          "numAttendees": 8,
-          "city": "Warrensburg",
-          "addrState": "MO",
-          "startAt": 1794880800,
-          "slug": "tournament/gogi-s-bulgogi-bash-8",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/974074/image-ef3a9b3d6205bfc64c24889e88ff022d.jpg",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/974074/image-57982ba90d911417e23f8006acf7bd5b.jpg",
+              "url": "https://images.start.gg/images/tournament/975925/image-43a6617372cc594a80dd37f033b0f138.png",
               "type": "banner"
             }
           ],
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 8
+              "numEntrants": 17
             }
           ]
         },
         {
           "name": "Smash @ Mizzou 198",
           "id": 975453,
-          "numAttendees": 9,
+          "numAttendees": 32,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1794961800,
@@ -110,31 +48,31 @@
           ],
           "events": [
             {
-              "name": "Avatar Legends",
-              "numEntrants": 4
-            },
-            {
-              "name": "VSAV",
-              "numEntrants": 2
+              "name": "Redemption Bracket",
+              "numEntrants": 7
             },
             {
               "name": "Rivals 2",
-              "numEntrants": 1
+              "numEntrants": 2
+            },
+            {
+              "name": "Avatar Legends",
+              "numEntrants": 12
+            },
+            {
+              "name": "VSAV",
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 6
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 1
+              "numEntrants": 20
             }
           ]
         },
         {
           "name": "Deino's Den 3",
           "id": 971501,
-          "numAttendees": 13,
+          "numAttendees": 18,
           "city": "Bonne Terre",
           "addrState": "MO",
           "startAt": 1794963600,
@@ -152,14 +90,14 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 18
             }
           ]
         },
         {
           "name": "PHAZE ➠ FUSION 91",
           "id": 975537,
-          "numAttendees": 13,
+          "numAttendees": 34,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1795048200,
@@ -177,11 +115,44 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 33
             },
             {
               "name": "Wii Sports (Bowling)",
+              "numEntrants": 14
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 0
+            }
+          ]
+        },
+        {
+          "name": "URSA MINOR 94",
+          "id": 976185,
+          "numAttendees": 8,
+          "city": "Springfield",
+          "addrState": "MO",
+          "startAt": 1795136400,
+          "slug": "tournament/ursa-minor-94",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/976185/image-a02fd01196b4f96a1a33c0b096ef0ae3.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/976185/image-ae7e694dea7b45705d0446e3fdfcac3f.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
               "numEntrants": 8
+            },
+            {
+              "name": "Melee Singles",
+              "numEntrants": 0
             },
             {
               "name": "Ultimate Redemption",
@@ -298,7 +269,7 @@
         {
           "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 11,
+          "numAttendees": 14,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
@@ -328,7 +299,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 13
             },
             {
               "name": "Redemption Bracket",
@@ -339,7 +310,7 @@
         {
           "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
-          "numAttendees": 12,
+          "numAttendees": 16,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1796169600,
@@ -357,19 +328,19 @@
           "events": [
             {
               "name": "Rivals 2",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Guilty Gear: Strive",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "UNI 2",
-              "numEntrants": 0
+              "numEntrants": 1
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 12
+              "numEntrants": 16
             },
             {
               "name": "Redemption Bracket",
@@ -405,7 +376,7 @@
         {
           "name": "Valhalla II",
           "id": 963880,
-          "numAttendees": 9,
+          "numAttendees": 10,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1796493600,
@@ -423,7 +394,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 9
+              "numEntrants": 10
             },
             {
               "name": "Redemption",
