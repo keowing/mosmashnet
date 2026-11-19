@@ -1,103 +1,12 @@
 {
-  "updatedAt": "2026-11-18T05:41:49.782Z",
+  "updatedAt": "2026-11-19T05:40:44.532Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "What if the MU team were all Tsundere Baddies?",
-          "id": 975925,
-          "numAttendees": 18,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1794960000,
-          "slug": "tournament/what-if-the-mu-team-were-all-tsundere-baddies",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/975925/image-f895495f6bad178a0c1a1e86a2b92a31.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/975925/image-43a6617372cc594a80dd37f033b0f138.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 17
-            }
-          ]
-        },
-        {
-          "name": "Smash @ Mizzou 198",
-          "id": 975453,
-          "numAttendees": 32,
-          "city": "Columbia",
-          "addrState": "MO",
-          "startAt": 1794961800,
-          "slug": "tournament/smash-mizzou-198",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/975453/image-fdfeda109253d09ca8df6b98f7519276.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/975453/image-a9344406a8ab3412ee51f1bc196b1ddc.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 7
-            },
-            {
-              "name": "Rivals 2",
-              "numEntrants": 2
-            },
-            {
-              "name": "Avatar Legends",
-              "numEntrants": 12
-            },
-            {
-              "name": "VSAV",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 20
-            }
-          ]
-        },
-        {
-          "name": "Deino's Den 3",
-          "id": 971501,
-          "numAttendees": 18,
-          "city": "Bonne Terre",
-          "addrState": "MO",
-          "startAt": 1794963600,
-          "slug": "tournament/deino-s-den-3",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/971501/image-2fee30ceea86bede93173275eafd0792.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/971501/image-d0e5979d3751c8994742cb7f3cb0fc08.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 18
-            }
-          ]
-        },
-        {
           "name": "PHAZE ➠ FUSION 91",
           "id": 975537,
-          "numAttendees": 34,
+          "numAttendees": 51,
           "city": "Florissant",
           "addrState": "MO",
           "startAt": 1795048200,
@@ -114,16 +23,45 @@
           ],
           "events": [
             {
+              "name": "Ultimate Redemption",
+              "numEntrants": 16
+            },
+            {
               "name": "Ultimate Singles",
-              "numEntrants": 33
+              "numEntrants": 47
             },
             {
               "name": "Wii Sports (Bowling)",
-              "numEntrants": 14
+              "numEntrants": 16
+            }
+          ]
+        },
+        {
+          "name": "Smash Cafe #562",
+          "id": 976377,
+          "numAttendees": 11,
+          "city": "Independence",
+          "addrState": "MO",
+          "startAt": 1795050000,
+          "slug": "tournament/smash-cafe-562",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/976377/image-aca3893c403db6625d9517e72bbbca82.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/976377/image-df8c366d3e083e5a023d8c71fd8a7f20.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 11
             },
             {
               "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "numEntrants": 5
             }
           ]
         },
@@ -163,7 +101,7 @@
         {
           "name": "WFGC November Monthly",
           "id": 972528,
-          "numAttendees": 13,
+          "numAttendees": 14,
           "city": "Webster Groves",
           "addrState": "MO",
           "startAt": 1795276800,
@@ -196,6 +134,10 @@
               "numEntrants": 3
             },
             {
+              "name": "Super Smash Bros. Melee",
+              "numEntrants": 3
+            },
+            {
               "name": "BlazBlue: Central Fiction",
               "numEntrants": 2
             },
@@ -213,10 +155,6 @@
             },
             {
               "name": "Street Fighter 6",
-              "numEntrants": 2
-            },
-            {
-              "name": "Super Smash Bros. Melee",
               "numEntrants": 2
             },
             {
@@ -269,7 +207,7 @@
         {
           "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 14,
+          "numAttendees": 17,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
@@ -287,11 +225,11 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 5
+              "numEntrants": 6
             },
             {
               "name": "Pokemon TCG Expanded Format",
@@ -299,7 +237,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 13
+              "numEntrants": 16
             },
             {
               "name": "Redemption Bracket",
@@ -310,7 +248,7 @@
         {
           "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
-          "numAttendees": 16,
+          "numAttendees": 19,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1796169600,
@@ -340,7 +278,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 19
             },
             {
               "name": "Redemption Bracket",
@@ -376,7 +314,7 @@
         {
           "name": "Valhalla II",
           "id": 963880,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1796493600,
@@ -394,7 +332,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 10
+              "numEntrants": 11
             },
             {
               "name": "Redemption",
