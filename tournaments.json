@@ -1,74 +1,12 @@
 {
-  "updatedAt": "2026-11-19T05:40:44.532Z",
+  "updatedAt": "2026-11-20T05:29:16.219Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "PHAZE ➠ FUSION 91",
-          "id": 975537,
-          "numAttendees": 51,
-          "city": "Florissant",
-          "addrState": "MO",
-          "startAt": 1795048200,
-          "slug": "tournament/phaze-fusion-91",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/975537/image-f86d96acd870bf27563cf3e795bf6f02.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/975537/image-e29112bdd5b1e12078622fc8f2e32dee.jpg",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 16
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 47
-            },
-            {
-              "name": "Wii Sports (Bowling)",
-              "numEntrants": 16
-            }
-          ]
-        },
-        {
-          "name": "Smash Cafe #562",
-          "id": 976377,
-          "numAttendees": 11,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1795050000,
-          "slug": "tournament/smash-cafe-562",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/976377/image-aca3893c403db6625d9517e72bbbca82.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/976377/image-df8c366d3e083e5a023d8c71fd8a7f20.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 11
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "URSA MINOR 94",
           "id": 976185,
-          "numAttendees": 8,
+          "numAttendees": 24,
           "city": "Springfield",
           "addrState": "MO",
           "startAt": 1795136400,
@@ -85,23 +23,23 @@
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 8
-            },
-            {
               "name": "Melee Singles",
-              "numEntrants": 0
+              "numEntrants": 7
             },
             {
               "name": "Ultimate Redemption",
               "numEntrants": 0
+            },
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 19
             }
           ]
         },
         {
           "name": "WFGC November Monthly",
           "id": 972528,
-          "numAttendees": 14,
+          "numAttendees": 18,
           "city": "Webster Groves",
           "addrState": "MO",
           "startAt": 1795276800,
@@ -123,14 +61,26 @@
             },
             {
               "name": "Guilty Gear Strive",
-              "numEntrants": 4
+              "numEntrants": 5
+            },
+            {
+              "name": "Marvel Tokon: Fighting Souls",
+              "numEntrants": 5
             },
             {
               "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-              "numEntrants": 4
+              "numEntrants": 5
+            },
+            {
+              "name": "Melty Blood: Type Lumina",
+              "numEntrants": 3
             },
             {
               "name": "Rivals of Aether II",
+              "numEntrants": 3
+            },
+            {
+              "name": "Street Fighter 6",
               "numEntrants": 3
             },
             {
@@ -146,18 +96,6 @@
               "numEntrants": 2
             },
             {
-              "name": "Marvel Tokon: Fighting Souls",
-              "numEntrants": 2
-            },
-            {
-              "name": "Melty Blood: Type Lumina",
-              "numEntrants": 2
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 2
-            },
-            {
               "name": "Rivals of Aether",
               "numEntrants": 1
             },
@@ -166,11 +104,11 @@
               "numEntrants": 1
             },
             {
-              "name": "2XKO",
-              "numEntrants": 0
+              "name": "Tekken 8",
+              "numEntrants": 1
             },
             {
-              "name": "Tekken 8",
+              "name": "2XKO",
               "numEntrants": 0
             },
             {
@@ -182,7 +120,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 15,
+          "numAttendees": 16,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -200,14 +138,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 15
+              "numEntrants": 16
             }
           ]
         },
         {
           "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 17,
+          "numAttendees": 18,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
@@ -237,7 +175,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 16
+              "numEntrants": 17
             },
             {
               "name": "Redemption Bracket",
