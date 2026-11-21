@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-11-20T05:29:16.219Z",
+  "updatedAt": "2026-11-21T05:22:14.751Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "URSA MINOR 94",
-          "id": 976185,
-          "numAttendees": 24,
-          "city": "Springfield",
+          "name": "Strike! 84",
+          "id": 976979,
+          "numAttendees": 13,
+          "city": "Kansas City",
           "addrState": "MO",
-          "startAt": 1795136400,
-          "slug": "tournament/ursa-minor-94",
+          "startAt": 1795221000,
+          "slug": "tournament/strike-84",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/976185/image-a02fd01196b4f96a1a33c0b096ef0ae3.png",
+              "url": "https://images.start.gg/images/tournament/976979/image-45f98868f1b7cb8f7ad4d778bb46dbcb.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/976185/image-ae7e694dea7b45705d0446e3fdfcac3f.png",
+              "url": "https://images.start.gg/images/tournament/976979/image-97894b86ad598e6a982ce004c19bcf75.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Melee Singles",
-              "numEntrants": 7
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 0
+              "name": "Squads",
+              "numEntrants": 2
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 12
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 5
             }
           ]
         },
         {
           "name": "WFGC November Monthly",
           "id": 972528,
-          "numAttendees": 18,
+          "numAttendees": 30,
           "city": "Webster Groves",
           "addrState": "MO",
           "startAt": 1795276800,
@@ -57,55 +57,55 @@
           "events": [
             {
               "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 5
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 5
+              "numEntrants": 8
             },
             {
               "name": "Marvel Tokon: Fighting Souls",
-              "numEntrants": 5
-            },
-            {
-              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-              "numEntrants": 5
-            },
-            {
-              "name": "Melty Blood: Type Lumina",
-              "numEntrants": 3
+              "numEntrants": 8
             },
             {
               "name": "Rivals of Aether II",
-              "numEntrants": 3
+              "numEntrants": 8
             },
             {
-              "name": "Street Fighter 6",
-              "numEntrants": 3
+              "name": "Guilty Gear Strive",
+              "numEntrants": 6
+            },
+            {
+              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+              "numEntrants": 6
             },
             {
               "name": "Super Smash Bros. Melee",
-              "numEntrants": 3
+              "numEntrants": 5
             },
             {
               "name": "BlazBlue: Central Fiction",
-              "numEntrants": 2
+              "numEntrants": 4
+            },
+            {
+              "name": "Melty Blood: Type Lumina",
+              "numEntrants": 4
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 4
             },
             {
               "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 2
+              "numEntrants": 3
             },
             {
               "name": "Rivals of Aether",
-              "numEntrants": 1
+              "numEntrants": 3
             },
             {
               "name": "Super Smash Bros. Ultimate",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "Tekken 8",
-              "numEntrants": 1
+              "numEntrants": 2
             },
             {
               "name": "2XKO",
@@ -120,7 +120,7 @@
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 16,
+          "numAttendees": 18,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -138,14 +138,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 16
+              "numEntrants": 18
             }
           ]
         },
         {
           "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 18,
+          "numAttendees": 24,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
@@ -163,11 +163,11 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 3
+              "numEntrants": 4
             },
             {
               "name": "Squad Strike",
-              "numEntrants": 6
+              "numEntrants": 10
             },
             {
               "name": "Pokemon TCG Expanded Format",
@@ -175,7 +175,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 17
+              "numEntrants": 23
             },
             {
               "name": "Redemption Bracket",
