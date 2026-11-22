@@ -1,45 +1,12 @@
 {
-  "updatedAt": "2026-11-21T05:22:14.751Z",
+  "updatedAt": "2026-11-22T04:47:41.757Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Strike! 84",
-          "id": 976979,
-          "numAttendees": 13,
-          "city": "Kansas City",
-          "addrState": "MO",
-          "startAt": 1795221000,
-          "slug": "tournament/strike-84",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/976979/image-45f98868f1b7cb8f7ad4d778bb46dbcb.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/976979/image-97894b86ad598e6a982ce004c19bcf75.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Squads",
-              "numEntrants": 2
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 12
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 5
-            }
-          ]
-        },
-        {
           "name": "WFGC November Monthly",
           "id": 972528,
-          "numAttendees": 30,
+          "numAttendees": 40,
           "city": "Webster Groves",
           "addrState": "MO",
           "startAt": 1795276800,
@@ -56,50 +23,6 @@
           ],
           "events": [
             {
-              "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 8
-            },
-            {
-              "name": "Marvel Tokon: Fighting Souls",
-              "numEntrants": 8
-            },
-            {
-              "name": "Rivals of Aether II",
-              "numEntrants": 8
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 6
-            },
-            {
-              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-              "numEntrants": 6
-            },
-            {
-              "name": "Super Smash Bros. Melee",
-              "numEntrants": 5
-            },
-            {
-              "name": "BlazBlue: Central Fiction",
-              "numEntrants": 4
-            },
-            {
-              "name": "Melty Blood: Type Lumina",
-              "numEntrants": 4
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 4
-            },
-            {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 3
-            },
-            {
-              "name": "Rivals of Aether",
-              "numEntrants": 3
-            },
-            {
               "name": "Super Smash Bros. Ultimate",
               "numEntrants": 2
             },
@@ -114,13 +37,57 @@
             {
               "name": "Virtua Fighter REVO",
               "numEntrants": 0
+            },
+            {
+              "name": "Avatar Legends: The Fighting Game",
+              "numEntrants": 11
+            },
+            {
+              "name": "Rivals of Aether II",
+              "numEntrants": 9
+            },
+            {
+              "name": "Super Smash Bros. Melee",
+              "numEntrants": 9
+            },
+            {
+              "name": "Guilty Gear Strive",
+              "numEntrants": 8
+            },
+            {
+              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+              "numEntrants": 7
+            },
+            {
+              "name": "Marvel Tokon: Fighting Souls",
+              "numEntrants": 5
+            },
+            {
+              "name": "Rivals of Aether",
+              "numEntrants": 5
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 5
+            },
+            {
+              "name": "BlazBlue: Central Fiction",
+              "numEntrants": 4
+            },
+            {
+              "name": "Granblue Fantasy Versus: Rising",
+              "numEntrants": 4
+            },
+            {
+              "name": "Melty Blood: Type Lumina",
+              "numEntrants": 4
             }
           ]
         },
         {
           "name": "King of the Hill 6",
           "id": 963886,
-          "numAttendees": 18,
+          "numAttendees": 17,
           "city": "Liberty",
           "addrState": "MO",
           "startAt": 1795287600,
@@ -138,14 +105,14 @@
           "events": [
             {
               "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 18
+              "numEntrants": 17
             }
           ]
         },
         {
           "name": "MAD Monthly November 2026",
           "id": 969410,
-          "numAttendees": 24,
+          "numAttendees": 47,
           "city": "St. Louis",
           "addrState": "MO",
           "startAt": 1795294800,
@@ -163,23 +130,23 @@
           "events": [
             {
               "name": "HDR @ MAD",
-              "numEntrants": 4
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 10
+              "numEntrants": 0
             },
             {
               "name": "Pokemon TCG Expanded Format",
               "numEntrants": 1
             },
             {
+              "name": "Squad Strike",
+              "numEntrants": 26
+            },
+            {
               "name": "Ultimate Singles",
-              "numEntrants": 23
+              "numEntrants": 44
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 0
+              "numEntrants": 15
             }
           ]
         },
@@ -227,7 +194,7 @@
         {
           "name": "Kachow Kup 38: She Julianed My Johnson Til I Druuled",
           "id": 975023,
-          "numAttendees": 1,
+          "numAttendees": 2,
           "city": "Ste. Genevieve",
           "addrState": "MO",
           "startAt": 1796427000,
@@ -245,7 +212,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 1
+              "numEntrants": 2
             }
           ]
         },
