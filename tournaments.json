@@ -1,155 +1,8 @@
 {
-  "updatedAt": "2026-11-22T04:47:41.757Z",
+  "updatedAt": "2026-11-23T05:26:57.800Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "WFGC November Monthly",
-          "id": 972528,
-          "numAttendees": 40,
-          "city": "Webster Groves",
-          "addrState": "MO",
-          "startAt": 1795276800,
-          "slug": "tournament/wfgc-november-monthly-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/972528/image-c02af45db012774e04610805843d32d7.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/972528/image-c2d74f81e3e82ec8a26f4507ddee2350.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Super Smash Bros. Ultimate",
-              "numEntrants": 2
-            },
-            {
-              "name": "Tekken 8",
-              "numEntrants": 2
-            },
-            {
-              "name": "2XKO",
-              "numEntrants": 0
-            },
-            {
-              "name": "Virtua Fighter REVO",
-              "numEntrants": 0
-            },
-            {
-              "name": "Avatar Legends: The Fighting Game",
-              "numEntrants": 11
-            },
-            {
-              "name": "Rivals of Aether II",
-              "numEntrants": 9
-            },
-            {
-              "name": "Super Smash Bros. Melee",
-              "numEntrants": 9
-            },
-            {
-              "name": "Guilty Gear Strive",
-              "numEntrants": 8
-            },
-            {
-              "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
-              "numEntrants": 7
-            },
-            {
-              "name": "Marvel Tokon: Fighting Souls",
-              "numEntrants": 5
-            },
-            {
-              "name": "Rivals of Aether",
-              "numEntrants": 5
-            },
-            {
-              "name": "Street Fighter 6",
-              "numEntrants": 5
-            },
-            {
-              "name": "BlazBlue: Central Fiction",
-              "numEntrants": 4
-            },
-            {
-              "name": "Granblue Fantasy Versus: Rising",
-              "numEntrants": 4
-            },
-            {
-              "name": "Melty Blood: Type Lumina",
-              "numEntrants": 4
-            }
-          ]
-        },
-        {
-          "name": "King of the Hill 6",
-          "id": 963886,
-          "numAttendees": 17,
-          "city": "Liberty",
-          "addrState": "MO",
-          "startAt": 1795287600,
-          "slug": "tournament/king-of-the-hill-6-1",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/963886/image-deebe951bf6216cb90d48456063a20a0.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/963886/image-c70b1da6f79a8d25a540134db26cdac0.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate College/Highschool Singles",
-              "numEntrants": 17
-            }
-          ]
-        },
-        {
-          "name": "MAD Monthly November 2026",
-          "id": 969410,
-          "numAttendees": 47,
-          "city": "St. Louis",
-          "addrState": "MO",
-          "startAt": 1795294800,
-          "slug": "tournament/mad-monthly-november-2026",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/969410/image-e38008390d75eae67c707073bde12301.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/969410/image-0e9671277a0d8f30eefb21ef1bc314a1.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "HDR @ MAD",
-              "numEntrants": 0
-            },
-            {
-              "name": "Pokemon TCG Expanded Format",
-              "numEntrants": 1
-            },
-            {
-              "name": "Squad Strike",
-              "numEntrants": 26
-            },
-            {
-              "name": "Ultimate Singles",
-              "numEntrants": 44
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 15
-            }
-          ]
-        },
         {
           "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
@@ -248,7 +101,37 @@
       ]
     },
     "KansasCityKS": {
-      "nodes": []
+      "nodes": [
+        {
+          "name": "Rock Chalk Jab Lock 210",
+          "id": 977443,
+          "numAttendees": 5,
+          "city": "Lawrence",
+          "addrState": "KS",
+          "startAt": 1795395600,
+          "slug": "tournament/rock-chalk-jab-lock-210",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/977443/image-4e959372a47101b2ecad6c7f3d21feb2.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/977443/image-ed7264dfcfd41823e3f1d8a15faac2a2.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 5
+            },
+            {
+              "name": "Redemption Bracket",
+              "numEntrants": 0
+            }
+          ]
+        }
+      ]
     }
   }
 }
