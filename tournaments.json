@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-11-23T05:26:57.800Z",
+  "updatedAt": "2026-11-24T08:05:12.044Z",
   "data": {
     "Missouri": {
       "nodes": [
+        {
+          "name": "Gold Rush #100",
+          "id": 975940,
+          "numAttendees": 10,
+          "city": "Rolla",
+          "addrState": "MO",
+          "startAt": 1796086800,
+          "slug": "tournament/gold-rush-100",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/975940/image-a1a5fb6b7513b58815a285c23c058982.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/975940/image-dbf34888496c7d711a880b59e4a7bd05.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles (Midwest United)",
+              "numEntrants": 7
+            },
+            {
+              "name": "Street Fighter 6",
+              "numEntrants": 2
+            },
+            {
+              "name": "Project+ Singles",
+              "numEntrants": 5
+            }
+          ]
+        },
         {
           "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
@@ -97,41 +130,32 @@
               "numEntrants": 2
             }
           ]
-        }
-      ]
-    },
-    "KansasCityKS": {
-      "nodes": [
+        },
         {
-          "name": "Rock Chalk Jab Lock 210",
-          "id": 977443,
-          "numAttendees": 5,
-          "city": "Lawrence",
-          "addrState": "KS",
-          "startAt": 1795395600,
-          "slug": "tournament/rock-chalk-jab-lock-210",
+          "name": "Smash Bro Showdown",
+          "id": 977298,
+          "numAttendees": null,
+          "city": "Saint Charles",
+          "addrState": "MO",
+          "startAt": 1797636600,
+          "slug": "tournament/smash-bro-showdown",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/977443/image-4e959372a47101b2ecad6c7f3d21feb2.png",
+              "url": "https://images.start.gg/images/tournament/977298/image-201c296027530eb07b50d434e7081713.jpg",
               "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/977443/image-ed7264dfcfd41823e3f1d8a15faac2a2.png",
-              "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles",
-              "numEntrants": 5
-            },
-            {
-              "name": "Redemption Bracket",
-              "numEntrants": 0
+              "name": "Round Robin Play - Double Elim Bracket after seeding",
+              "numEntrants": null
             }
           ]
         }
       ]
+    },
+    "KansasCityKS": {
+      "nodes": []
     }
   }
 }
