@@ -1,8 +1,33 @@
 {
-  "updatedAt": "2026-11-24T08:05:12.044Z",
+  "updatedAt": "2026-11-25T06:43:16.620Z",
   "data": {
     "Missouri": {
       "nodes": [
+        {
+          "name": "Smash @ Mizzou 199 | ONLINE EDITION",
+          "id": 978131,
+          "numAttendees": 15,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1795566600,
+          "slug": "tournament/smash-mizzou-199-online-edition",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/978131/image-7ae90216312cb50bfbdf5161f308ac1a.png",
+              "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/978131/image-acc0742d15779eac8c967e2e9047c497.png",
+              "type": "banner"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles ONLINE EDITION",
+              "numEntrants": 15
+            }
+          ]
+        },
         {
           "name": "Gold Rush #100",
           "id": 975940,
@@ -39,7 +64,7 @@
         {
           "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
-          "numAttendees": 19,
+          "numAttendees": 21,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1796169600,
@@ -69,7 +94,7 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 19
+              "numEntrants": 21
             },
             {
               "name": "Redemption Bracket",
@@ -105,7 +130,7 @@
         {
           "name": "Valhalla II",
           "id": 963880,
-          "numAttendees": 11,
+          "numAttendees": 13,
           "city": "Marshall",
           "addrState": "MO",
           "startAt": 1796493600,
@@ -123,7 +148,7 @@
           "events": [
             {
               "name": "Ultimate Singles",
-              "numEntrants": 11
+              "numEntrants": 13
             },
             {
               "name": "Redemption",
@@ -134,7 +159,7 @@
         {
           "name": "Smash Bro Showdown",
           "id": 977298,
-          "numAttendees": null,
+          "numAttendees": 6,
           "city": "Saint Charles",
           "addrState": "MO",
           "startAt": 1797636600,
@@ -148,7 +173,7 @@
           "events": [
             {
               "name": "Round Robin Play - Double Elim Bracket after seeding",
-              "numEntrants": null
+              "numEntrants": 6
             }
           ]
         }
