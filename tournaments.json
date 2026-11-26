@@ -1,37 +1,41 @@
 {
-  "updatedAt": "2026-11-25T06:43:16.620Z",
+  "updatedAt": "2026-11-26T06:34:46.684Z",
   "data": {
     "Missouri": {
       "nodes": [
         {
-          "name": "Smash @ Mizzou 199 | ONLINE EDITION",
-          "id": 978131,
-          "numAttendees": 15,
-          "city": "Columbia",
+          "name": "Smash Cafe #563",
+          "id": 978361,
+          "numAttendees": 12,
+          "city": "Independence",
           "addrState": "MO",
-          "startAt": 1795566600,
-          "slug": "tournament/smash-mizzou-199-online-edition",
+          "startAt": 1795654800,
+          "slug": "tournament/smash-cafe-563",
           "images": [
             {
-              "url": "https://images.start.gg/images/tournament/978131/image-7ae90216312cb50bfbdf5161f308ac1a.png",
+              "url": "https://images.start.gg/images/tournament/978361/image-8e208f49c78441aab09256bf7a27d142.png",
               "type": "profile"
             },
             {
-              "url": "https://images.start.gg/images/tournament/978131/image-acc0742d15779eac8c967e2e9047c497.png",
+              "url": "https://images.start.gg/images/tournament/978361/image-88acadfc364161dcaf5c593fa34a7deb.png",
               "type": "banner"
             }
           ],
           "events": [
             {
-              "name": "Ultimate Singles ONLINE EDITION",
-              "numEntrants": 15
+              "name": "Smash Ultimate Singles",
+              "numEntrants": 12
+            },
+            {
+              "name": "Ultimate Redemption",
+              "numEntrants": 6
             }
           ]
         },
         {
           "name": "Gold Rush #100",
           "id": 975940,
-          "numAttendees": 10,
+          "numAttendees": 11,
           "city": "Rolla",
           "addrState": "MO",
           "startAt": 1796086800,
@@ -49,7 +53,7 @@
           "events": [
             {
               "name": "Ultimate Singles (Midwest United)",
-              "numEntrants": 7
+              "numEntrants": 8
             },
             {
               "name": "Street Fighter 6",
@@ -99,6 +103,27 @@
             {
               "name": "Redemption Bracket",
               "numEntrants": 4
+            }
+          ]
+        },
+        {
+          "name": "Don't Miss the Tech! #1 @ Crowder Joplin",
+          "id": 977629,
+          "numAttendees": 7,
+          "city": "Joplin",
+          "addrState": "MO",
+          "startAt": 1796170500,
+          "slug": "tournament/don-t-miss-the-tech-1-crowder-joplin",
+          "images": [
+            {
+              "url": "https://images.start.gg/images/tournament/977629/image-36a6a29841f7d04d28b448439c7c063e.jpg",
+              "type": "profile"
+            }
+          ],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 7
             }
           ]
         },
