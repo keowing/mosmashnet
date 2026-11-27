@@ -1,37 +1,8 @@
 {
-  "updatedAt": "2026-11-26T06:34:46.684Z",
+  "updatedAt": "2026-11-27T06:25:23.926Z",
   "data": {
     "Missouri": {
       "nodes": [
-        {
-          "name": "Smash Cafe #563",
-          "id": 978361,
-          "numAttendees": 12,
-          "city": "Independence",
-          "addrState": "MO",
-          "startAt": 1795654800,
-          "slug": "tournament/smash-cafe-563",
-          "images": [
-            {
-              "url": "https://images.start.gg/images/tournament/978361/image-8e208f49c78441aab09256bf7a27d142.png",
-              "type": "profile"
-            },
-            {
-              "url": "https://images.start.gg/images/tournament/978361/image-88acadfc364161dcaf5c593fa34a7deb.png",
-              "type": "banner"
-            }
-          ],
-          "events": [
-            {
-              "name": "Smash Ultimate Singles",
-              "numEntrants": 12
-            },
-            {
-              "name": "Ultimate Redemption",
-              "numEntrants": 6
-            }
-          ]
-        },
         {
           "name": "Gold Rush #100",
           "id": 975940,
@@ -118,6 +89,10 @@
             {
               "url": "https://images.start.gg/images/tournament/977629/image-36a6a29841f7d04d28b448439c7c063e.jpg",
               "type": "profile"
+            },
+            {
+              "url": "https://images.start.gg/images/tournament/977629/image-a69a70a0e1f85bcae03d5798307aa774.jpg",
+              "type": "banner"
             }
           ],
           "events": [
@@ -178,6 +153,22 @@
             {
               "name": "Redemption",
               "numEntrants": 2
+            }
+          ]
+        },
+        {
+          "name": "Smash at Midwest Retro #4 (FREE ENTRY)",
+          "id": 978682,
+          "numAttendees": 0,
+          "city": "Troy",
+          "addrState": "MO",
+          "startAt": 1796601600,
+          "slug": "tournament/smash-at-midwest-retro-4-free-entry",
+          "images": [],
+          "events": [
+            {
+              "name": "Ultimate Singles",
+              "numEntrants": 0
             }
           ]
         },
