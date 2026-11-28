@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-11-27T06:25:23.926Z",
+  "updatedAt": "2026-11-28T06:00:44.537Z",
   "data": {
     "Missouri": {
       "nodes": [
+        {
+          "name": "Mizzou Scrummit 2026",
+          "id": 978955,
+          "numAttendees": 0,
+          "city": "Columbia",
+          "addrState": "MO",
+          "startAt": 1795971600,
+          "slug": "tournament/mizzou-scrummit-2026",
+          "images": [],
+          "events": [
+            {
+              "name": "Ultimate Scrummit",
+              "numEntrants": 0
+            }
+          ]
+        },
         {
           "name": "Gold Rush #100",
           "id": 975940,
@@ -39,7 +55,7 @@
         {
           "name": "Smash @ Mizzou 200 $100 POT BONUS!",
           "id": 975133,
-          "numAttendees": 21,
+          "numAttendees": 23,
           "city": "Columbia",
           "addrState": "MO",
           "startAt": 1796169600,
@@ -69,11 +85,11 @@
             },
             {
               "name": "Ultimate Singles",
-              "numEntrants": 21
+              "numEntrants": 23
             },
             {
               "name": "Redemption Bracket",
-              "numEntrants": 4
+              "numEntrants": 5
             }
           ]
         },
